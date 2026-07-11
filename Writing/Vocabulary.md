@@ -487,3 +487,85 @@ Common structures:
 ### Notes
 
 `Rote` is not usually used alone in everyday speech. The most useful IELTS phrase is `rote learning`. It has a slightly negative meaning when it suggests memorising without understanding, but it can be neutral when memorisation is necessary, such as learning basic vocabulary or formulas.
+
+---
+
+## 13. Spill /spɪl/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** sự đổ, sự tràn; làm đổ, tràn ra
+
+### Usage
+
+As a verb, `spill` means that liquid, food, or small objects accidentally fall out of a container or spread over a surface. As a noun, `spill` refers to an accident in which something, especially liquid or oil, is spilled. It is useful in daily English and in environmental topics such as oil pollution.
+
+Common structures:
+
+* `spill + liquid/food`
+* `spill something on/over + surface/person`
+* `an oil spill`
+
+### Examples
+
+1. **I accidentally spilled coffee on my shirt in the hotel lobby.**
+   → Tôi vô tình làm đổ cà phê lên áo trong sảnh khách sạn.
+
+2. **An oil spill can cause serious damage to marine ecosystems.**
+   → Một vụ tràn dầu có thể gây thiệt hại nghiêm trọng cho hệ sinh thái biển.
+
+### Common collocations
+
+* **spill coffee**: làm đổ cà phê
+* **oil spill**: vụ tràn dầu
+* **spill over onto something**: tràn sang, lan sang cái gì
+
+### Word family
+
+* **spill** *(noun/verb)*: sự đổ, sự tràn; làm đổ, tràn ra
+* **spilled** *(verb form/adjective)*: đã bị đổ, đã tràn
+* **spillage** *(countable/uncountable noun)*: sự đổ tràn, lượng chất bị đổ tràn
+
+### Notes
+
+The past tense can be `spilled` or `spilt`. `Spilled` is more common in American English, while `spilt` is more common in British English. For IELTS environmental writing, `oil spill` is a very useful phrase.
+
+---
+
+## 14. Lobby /ˈlɒb.i/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** sảnh, hành lang lớn; vận động hành lang, gây sức ép để thay đổi chính sách
+
+### Usage
+
+As a noun, `lobby` can mean the entrance area of a hotel, office building, cinema, or public building. As a verb, `lobby` means to try to persuade politicians, officials, or organisations to support a law, policy, or decision. The verb meaning is useful in IELTS Writing about government, business, environment, and public policy.
+
+Common structures:
+
+* `hotel lobby`
+* `lobby for + policy/change/support`
+* `lobby against + law/plan/proposal`
+
+### Examples
+
+1. **We waited in the hotel lobby until our room was ready.**
+   → Chúng tôi đợi ở sảnh khách sạn cho đến khi phòng sẵn sàng.
+
+2. **Environmental groups often lobby for stricter regulations on industrial pollution.**
+   → Các nhóm môi trường thường vận động để có quy định nghiêm ngặt hơn đối với ô nhiễm công nghiệp.
+
+### Common collocations
+
+* **hotel lobby**: sảnh khách sạn
+* **lobby for change**: vận động để tạo ra thay đổi
+* **lobby the government**: vận động, gây sức ép với chính phủ
+
+### Word family
+
+* **lobby** *(noun/verb)*: sảnh; vận động hành lang
+* **lobbyist** *(countable noun)*: người vận động hành lang
+* **lobbying** *(uncountable noun/verb form)*: hoạt động vận động hành lang; đang vận động
+
+### Notes
+
+`Lobby` has two very different common meanings. In travel or hotel contexts, it means `sảnh`. In politics and IELTS Writing, it means trying to influence decision-makers. Do not confuse `lobby` with `corridor`; a `corridor` is a long passage inside a building, while a `lobby` is usually a larger entrance or waiting area.
