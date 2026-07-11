@@ -241,3 +241,249 @@ Common structures:
 ### Notes
 
 `Single-use` is the clearest translation of “dùng một lần” in environmental IELTS topics. `Disposable` also means “dùng rồi bỏ”, but it focuses more on the idea that something can be thrown away easily. For example, `single-use plastic bags` is usually better than `disposable plastic packages` when translating “túi nhựa dùng một lần”.
+
+---
+
+## 7. Vocational /vəʊˈkeɪ.ʃən.əl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc về nghề nghiệp, hướng nghiệp, dạy nghề
+
+### Usage
+
+`Vocational` describes education, training, courses, or skills that prepare people for a specific job or practical career. It is common in IELTS Writing when discussing education, employment, skills shortages, and alternatives to university.
+
+Common structures:
+
+* `vocational + noun`
+* `vocational training`
+* `vocational education`
+
+### Examples
+
+1. **Governments should invest more in vocational training to reduce youth unemployment.**
+   → Chính phủ nên đầu tư nhiều hơn vào đào tạo nghề để giảm thất nghiệp ở thanh niên.
+
+2. **Some students prefer vocational courses because they lead directly to practical jobs.**
+   → Một số học sinh thích các khóa học nghề vì chúng dẫn trực tiếp đến các công việc thực tế.
+
+### Common collocations
+
+* **vocational training**: đào tạo nghề
+* **vocational education**: giáo dục nghề nghiệp
+* **vocational skills**: kỹ năng nghề nghiệp
+
+### Word family
+
+* **vocational** *(adjective)*: thuộc về nghề nghiệp, dạy nghề
+* **vocation** *(countable noun)*: nghề nghiệp, thiên hướng nghề nghiệp
+* **vocationally** *(adverb)*: theo hướng nghề nghiệp
+
+### Notes
+
+`Vocational` is different from `academic`. `Academic education` focuses more on theory and general knowledge, while `vocational education` focuses on practical job-related skills. Do not say `vocational job`; say `vocational training`, `vocational course`, or `vocational skills`.
+
+---
+
+## 8. Tuition /tjuːˈɪʃ.ən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** học phí; sự giảng dạy, sự dạy kèm
+
+### Usage
+
+`Tuition` has two common meanings. In education and IELTS contexts, it often means the money paid for instruction, especially at a school, college, or university. It can also mean teaching or private instruction, especially in British English.
+
+Common structures:
+
+* `tuition fees`
+* `pay tuition`
+* `private tuition`
+
+### Examples
+
+1. **High tuition fees can prevent low-income students from attending university.**
+   → Học phí cao có thể ngăn học sinh thu nhập thấp học đại học.
+
+2. **She receives private tuition in English twice a week.**
+   → Cô ấy học kèm tiếng Anh hai lần một tuần.
+
+### Common collocations
+
+* **tuition fees**: học phí
+* **private tuition**: việc học kèm, dạy kèm riêng
+* **free tuition**: miễn học phí
+
+### Word family
+
+* **tuition** *(uncountable noun)*: học phí; sự giảng dạy, dạy kèm
+* **tutor** *(countable noun/verb)*: gia sư; dạy kèm
+* **tutorial** *(countable noun/adjective)*: buổi hướng dẫn; thuộc về hướng dẫn học tập
+
+### Notes
+
+`Tuition` is usually uncountable, so do not say `a tuition` when you mean học phí. Say `tuition fees`, `the cost of tuition`, or `private tuition`. In American English, `tuition` very often means university or school fees; in British English, `tuition` can also commonly mean teaching or tutoring.
+
+---
+
+## 9. Livelihood /ˈlaɪv.li.hʊd/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sinh kế, kế sinh nhai, phương tiện kiếm sống
+
+### Usage
+
+`Livelihood` refers to the way people earn the money, food, or resources they need to live. It is common in IELTS Writing when discussing poverty, rural communities, climate change, migration, employment, agriculture, and development.
+
+Common structures:
+
+* `earn a livelihood`
+* `protect people’s livelihoods`
+* `depend on + noun + for a livelihood`
+
+### Examples
+
+1. **Climate change threatens the livelihoods of many farming communities.**
+   → Biến đổi khí hậu đe dọa sinh kế của nhiều cộng đồng nông nghiệp.
+
+2. **Many families depend on fishing for their livelihood.**
+   → Nhiều gia đình phụ thuộc vào nghề đánh bắt cá để kiếm sống.
+
+### Common collocations
+
+* **earn a livelihood**: kiếm sống
+* **protect livelihoods**: bảo vệ sinh kế
+* **threaten livelihoods**: đe dọa sinh kế
+
+### Word family
+
+* **livelihood** *(countable/uncountable noun)*: sinh kế, kế sinh nhai
+* **living** *(countable noun)*: kế sinh nhai, cách kiếm sống
+* **live** *(verb)*: sống
+
+### Notes
+
+`Livelihood` is not the same as `life`. `Life` means cuộc sống or mạng sống, while `livelihood` means the way someone earns enough to live. In IELTS, `protect rural livelihoods` and `threaten people’s livelihoods` are natural collocations.
+
+---
+
+## 10. Irrigate /ˈɪr.ɪ.ɡeɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** tưới tiêu, dẫn nước vào đất/cây trồng
+
+### Usage
+
+`Irrigate` means to supply land, crops, or plants with water, especially through channels, pipes, or irrigation systems. It is common in IELTS topics about agriculture, water scarcity, climate change, food security, and rural development.
+
+Common structures:
+
+* `irrigate + land/crops/fields`
+* `irrigate with + water source`
+* `use treated wastewater to irrigate + place/crops`
+
+### Examples
+
+1. **Farmers need reliable water supplies to irrigate their crops during the dry season.**
+   → Nông dân cần nguồn nước đáng tin cậy để tưới tiêu cây trồng trong mùa khô.
+
+2. **Some cities use treated wastewater to irrigate parks and public gardens.**
+   → Một số thành phố sử dụng nước thải đã xử lý để tưới công viên và vườn công cộng.
+
+### Common collocations
+
+* **irrigate crops**: tưới tiêu cây trồng
+* **irrigate fields**: tưới tiêu đồng ruộng
+* **irrigate with treated wastewater**: tưới bằng nước thải đã xử lý
+
+### Word family
+
+* **irrigate** *(verb)*: tưới tiêu
+* **irrigation** *(uncountable noun)*: sự tưới tiêu, hệ thống tưới tiêu
+* **irrigated** *(adjective/verb form)*: được tưới tiêu
+
+### Notes
+
+`Irrigate` is more technical than `water`. You can `water plants` in a garden, but farmers usually `irrigate crops` or `irrigate fields`. Do not say `irrigate water`; water is the thing used for irrigation.
+
+---
+
+## 11. Overexploitation /ˌəʊ.vərˌek.splɔɪˈteɪ.ʃən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự khai thác quá mức, sự lạm dụng tài nguyên
+
+### Usage
+
+`Overexploitation` means using natural resources, land, animals, labour, or other valuable things too much, often causing long-term damage. It is common in IELTS Writing about the environment, biodiversity, agriculture, forests, oceans, and sustainable development.
+
+Common structures:
+
+* `overexploitation of + resource`
+* `prevent/reduce overexploitation`
+* `overexploitation leads to + negative result`
+
+### Examples
+
+1. **The overexploitation of forests can lead to biodiversity loss and soil degradation.**
+   → Việc khai thác rừng quá mức có thể dẫn đến mất đa dạng sinh học và suy thoái đất.
+
+2. **Stronger regulations are needed to prevent the overexploitation of marine resources.**
+   → Cần có các quy định nghiêm ngặt hơn để ngăn chặn việc khai thác quá mức tài nguyên biển.
+
+### Common collocations
+
+* **overexploitation of natural resources**: sự khai thác quá mức tài nguyên thiên nhiên
+* **prevent overexploitation**: ngăn chặn khai thác quá mức
+* **resource overexploitation**: sự khai thác tài nguyên quá mức
+
+### Word family
+
+* **overexploitation** *(uncountable noun)*: sự khai thác quá mức
+* **overexploit** *(transitive verb)*: khai thác quá mức
+* **exploitation** *(uncountable noun)*: sự khai thác; sự bóc lột
+
+### Notes
+
+The correct spelling is `overexploitation`, not `overexpploitation`. The word is usually negative. In environmental writing, it often means using resources faster than they can recover.
+
+---
+
+## 12. Rote /rəʊt/
+
+* **Part of speech:** adjective; uncountable noun
+* **Vietnamese meaning:** học vẹt, ghi nhớ máy móc; thuộc kiểu học thuộc lòng mà không hiểu sâu
+
+### Usage
+
+`Rote` refers to learning or memorising something by repetition, often without deep understanding. It is most common in the phrase `rote learning`. In education topics, it is often contrasted with critical thinking, creativity, problem-solving, and conceptual understanding.
+
+Common structures:
+
+* `rote learning`
+* `learn by rote`
+* `rely on rote memorisation`
+
+### Examples
+
+1. **Schools should encourage critical thinking rather than relying only on rote learning.**
+   → Trường học nên khuyến khích tư duy phản biện thay vì chỉ dựa vào học vẹt.
+
+2. **Some students learn formulas by rote without understanding how to apply them.**
+   → Một số học sinh học thuộc công thức một cách máy móc mà không hiểu cách áp dụng chúng.
+
+### Common collocations
+
+* **rote learning**: học vẹt
+* **rote memorisation**: sự ghi nhớ máy móc
+* **learn by rote**: học thuộc lòng một cách máy móc
+
+### Word family
+
+* **rote** *(adjective/noun)*: học vẹt; kiểu học thuộc máy móc
+* **memorise** *(transitive verb)*: ghi nhớ, học thuộc
+* **memorisation** *(uncountable noun)*: sự ghi nhớ, sự học thuộc
+
+### Notes
+
+`Rote` is not usually used alone in everyday speech. The most useful IELTS phrase is `rote learning`. It has a slightly negative meaning when it suggests memorising without understanding, but it can be neutral when memorisation is necessary, such as learning basic vocabulary or formulas.
