@@ -1,7 +1,7 @@
 ## 1. Transit /ˈtræn.zɪt/
 
 * **Part of speech:** uncountable noun; transitive and intransitive verb
-* **Vietnamese meaning:** sự vận chuyển, sự quá cảnh; vận chuyển, đi qua, quá cảnh
+* **Vietnamese meaning:** vận chuyển/giao thông công cộng/quá cảnh *(noun, 70%)*; đi qua/quá cảnh/vận chuyển qua một nơi *(verb, 30%)*
 
 ### Usage
 
@@ -9,9 +9,9 @@ As a noun, `transit` usually refers to the movement of people or goods from one 
 
 Common structures:
 
-* `in transit`
-* `public transit`
-* `transit through + place`
+* `in transit`: đang trong quá trình vận chuyển hoặc quá cảnh
+* `public transit`: giao thông công cộng
+* `transit through + place`: quá cảnh/đi qua một nơi
 
 ### Examples
 
@@ -42,7 +42,7 @@ Common structures:
 ## 2. Transition /trænˈzɪʃ.ən/
 
 * **Part of speech:** countable noun; intransitive verb
-* **Vietnamese meaning:** sự chuyển đổi, giai đoạn chuyển tiếp; chuyển đổi
+* **Vietnamese meaning:** sự chuyển đổi từ trạng thái/hệ thống này sang trạng thái/hệ thống khác *(noun, 75%)*; giai đoạn chuyển tiếp *(noun, 15%)*; chuyển đổi *(verb, 10%)*
 
 ### Usage
 
@@ -50,9 +50,9 @@ As a noun, `transition` refers to the process of changing from one state, system
 
 Common structures:
 
-* `the transition from A to B`
-* `a transition to + noun`
-* `transition from A to B`
+* `the transition from A to B`: sự chuyển đổi từ A sang B
+* `a transition to + noun`: sự chuyển đổi sang một điều/hệ thống mới
+* `transition from A to B`: chuyển đổi từ A sang B
 
 ### Examples
 
@@ -83,7 +83,7 @@ Common structures:
 ## 3. Alleviate /əˈliː.vi.eɪt/
 
 * **Part of speech:** transitive verb
-* **Vietnamese meaning:** làm giảm bớt, xoa dịu, làm nhẹ đi
+* **Vietnamese meaning:** làm giảm bớt mức độ nghiêm trọng của vấn đề/áp lực/nỗi đau *(85%)*; xoa dịu cảm xúc hoặc sự khó chịu *(15%)*
 
 ### Usage
 
@@ -91,9 +91,9 @@ Common structures:
 
 Common structures:
 
-* `alleviate + problem`
-* `alleviate pressure on + someone/something`
-* `help alleviate + noun`
+* `alleviate + problem`: làm giảm bớt một vấn đề
+* `alleviate pressure on + someone/something`: giảm áp lực lên ai/cái gì
+* `help alleviate + noun`: giúp làm giảm bớt điều gì
 
 ### Examples
 
@@ -124,7 +124,7 @@ Common structures:
 ## 4. Ease /iːz/
 
 * **Part of speech:** uncountable noun; transitive and intransitive verb
-* **Vietnamese meaning:** sự dễ dàng, sự thoải mái; làm dịu, làm giảm, trở nên bớt nghiêm trọng
+* **Vietnamese meaning:** làm giảm/làm dịu áp lực, đau đớn, căng thẳng hoặc hạn chế *(verb, 60%)*; sự dễ dàng/không khó khăn *(noun, 25%)*; sự thoải mái/không lo lắng *(noun, 15%)*
 
 ### Usage
 
@@ -132,9 +132,9 @@ As a verb, `ease` means to make something less painful, difficult, strict, or se
 
 Common structures:
 
-* `ease + pain/pressure/tension`
-* `restrictions ease`
-* `with ease`
+* `ease + pain/pressure/tension`: làm giảm đau đớn/áp lực/căng thẳng
+* `restrictions ease`: các hạn chế được nới lỏng
+* `with ease`: một cách dễ dàng
 
 ### Examples
 
@@ -165,7 +165,7 @@ Common structures:
 ## 5. Mitigate /ˈmɪt.ɪ.ɡeɪt/
 
 * **Part of speech:** transitive verb
-* **Vietnamese meaning:** giảm nhẹ, làm giảm tác động tiêu cực, làm bớt nghiêm trọng
+* **Vietnamese meaning:** giảm nhẹ tác động tiêu cực/rủi ro/thiệt hại *(85%)*; làm bớt nghiêm trọng một tình huống hoặc vấn đề *(15%)*
 
 ### Usage
 
@@ -173,9 +173,9 @@ Common structures:
 
 Common structures:
 
-* `mitigate + risk/damage/effects/impact`
-* `measures to mitigate + noun`
-* `mitigate the impact of + noun`
+* `mitigate + risk/damage/effects/impact`: giảm rủi ro/thiệt hại/tác động
+* `measures to mitigate + noun`: các biện pháp để giảm nhẹ điều gì
+* `mitigate the impact of + noun`: giảm nhẹ tác động của điều gì
 
 ### Examples
 
@@ -206,7 +206,7 @@ Common structures:
 ## 6. Single-use /ˌsɪŋ.ɡəl ˈjuːs/
 
 * **Part of speech:** adjective phrase
-* **Vietnamese meaning:** dùng một lần, chỉ dùng một lần rồi bỏ
+* **Vietnamese meaning:** dùng một lần rồi bỏ, đặc biệt với sản phẩm/bao bì nhựa *(100%)*
 
 ### Usage
 
@@ -214,9 +214,9 @@ Common structures:
 
 Common structures:
 
-* `single-use + noun`
-* `ban/reduce/tax single-use products`
-* `single-use plastic bags`
+* `single-use + noun`: danh từ dùng một lần
+* `ban/reduce/tax single-use products`: cấm/giảm/đánh thuế sản phẩm dùng một lần
+* `single-use plastic bags`: túi nhựa dùng một lần
 
 ### Examples
 
@@ -247,7 +247,7 @@ Common structures:
 ## 7. Vocational /vəʊˈkeɪ.ʃən.əl/
 
 * **Part of speech:** adjective
-* **Vietnamese meaning:** thuộc về nghề nghiệp, hướng nghiệp, dạy nghề
+* **Vietnamese meaning:** thuộc về đào tạo nghề/giáo dục nghề nghiệp *(70%)*; liên quan đến kỹ năng hoặc công việc thực tế *(25%)*; liên quan đến thiên hướng nghề nghiệp *(5%)*
 
 ### Usage
 
@@ -255,9 +255,9 @@ Common structures:
 
 Common structures:
 
-* `vocational + noun`
-* `vocational training`
-* `vocational education`
+* `vocational + noun`: danh từ liên quan đến nghề nghiệp/dạy nghề
+* `vocational training`: đào tạo nghề
+* `vocational education`: giáo dục nghề nghiệp
 
 ### Examples
 
@@ -288,7 +288,7 @@ Common structures:
 ## 8. Tuition /tjuːˈɪʃ.ən/
 
 * **Part of speech:** uncountable noun
-* **Vietnamese meaning:** học phí; sự giảng dạy, sự dạy kèm
+* **Vietnamese meaning:** học phí, đặc biệt ở trường/đại học *(70%)*; sự giảng dạy hoặc dạy kèm *(30%)*
 
 ### Usage
 
@@ -296,9 +296,9 @@ Common structures:
 
 Common structures:
 
-* `tuition fees`
-* `pay tuition`
-* `private tuition`
+* `tuition fees`: học phí
+* `pay tuition`: trả học phí
+* `private tuition`: việc học kèm/dạy kèm riêng
 
 ### Examples
 
@@ -329,7 +329,7 @@ Common structures:
 ## 9. Livelihood /ˈlaɪv.li.hʊd/
 
 * **Part of speech:** countable noun; uncountable noun
-* **Vietnamese meaning:** sinh kế, kế sinh nhai, phương tiện kiếm sống
+* **Vietnamese meaning:** sinh kế/kế sinh nhai của một người hoặc cộng đồng *(85%)*; phương tiện kiếm sống nói chung *(15%)*
 
 ### Usage
 
@@ -337,9 +337,9 @@ Common structures:
 
 Common structures:
 
-* `earn a livelihood`
-* `protect people’s livelihoods`
-* `depend on + noun + for a livelihood`
+* `earn a livelihood`: kiếm sống
+* `protect people’s livelihoods`: bảo vệ sinh kế của người dân
+* `depend on + noun + for a livelihood`: phụ thuộc vào điều gì để kiếm sống
 
 ### Examples
 
@@ -370,7 +370,7 @@ Common structures:
 ## 10. Irrigate /ˈɪr.ɪ.ɡeɪt/
 
 * **Part of speech:** transitive verb
-* **Vietnamese meaning:** tưới tiêu, dẫn nước vào đất/cây trồng
+* **Vietnamese meaning:** tưới tiêu cây trồng/đồng ruộng bằng hệ thống nước *(90%)*; dẫn nước vào một khu vực để canh tác *(10%)*
 
 ### Usage
 
@@ -378,9 +378,9 @@ Common structures:
 
 Common structures:
 
-* `irrigate + land/crops/fields`
-* `irrigate with + water source`
-* `use treated wastewater to irrigate + place/crops`
+* `irrigate + land/crops/fields`: tưới tiêu đất/cây trồng/đồng ruộng
+* `irrigate with + water source`: tưới bằng một nguồn nước
+* `use treated wastewater to irrigate + place/crops`: dùng nước thải đã xử lý để tưới nơi nào/cây trồng nào
 
 ### Examples
 
@@ -411,7 +411,7 @@ Common structures:
 ## 11. Overexploitation /ˌəʊ.vərˌek.splɔɪˈteɪ.ʃən/
 
 * **Part of speech:** uncountable noun
-* **Vietnamese meaning:** sự khai thác quá mức, sự lạm dụng tài nguyên
+* **Vietnamese meaning:** sự khai thác quá mức tài nguyên thiên nhiên/đất/biển/rừng *(90%)*; sự lạm dụng hoặc khai thác quá mức nói chung *(10%)*
 
 ### Usage
 
@@ -419,9 +419,9 @@ Common structures:
 
 Common structures:
 
-* `overexploitation of + resource`
-* `prevent/reduce overexploitation`
-* `overexploitation leads to + negative result`
+* `overexploitation of + resource`: sự khai thác quá mức một loại tài nguyên
+* `prevent/reduce overexploitation`: ngăn chặn/giảm khai thác quá mức
+* `overexploitation leads to + negative result`: khai thác quá mức dẫn đến hậu quả tiêu cực
 
 ### Examples
 
@@ -452,7 +452,7 @@ The correct spelling is `overexploitation`, not `overexpploitation`. The word is
 ## 12. Rote /rəʊt/
 
 * **Part of speech:** adjective; uncountable noun
-* **Vietnamese meaning:** học vẹt, ghi nhớ máy móc; thuộc kiểu học thuộc lòng mà không hiểu sâu
+* **Vietnamese meaning:** học vẹt/ghi nhớ máy móc mà không hiểu sâu *(80%)*; học thuộc lòng bằng lặp lại, có thể trung tính trong vài ngữ cảnh *(20%)*
 
 ### Usage
 
@@ -460,9 +460,9 @@ The correct spelling is `overexploitation`, not `overexpploitation`. The word is
 
 Common structures:
 
-* `rote learning`
-* `learn by rote`
-* `rely on rote memorisation`
+* `rote learning`: học vẹt
+* `learn by rote`: học thuộc lòng bằng cách lặp lại
+* `rely on rote memorisation`: dựa vào việc ghi nhớ máy móc
 
 ### Examples
 
@@ -493,7 +493,7 @@ Common structures:
 ## 13. Spill /spɪl/
 
 * **Part of speech:** countable noun; transitive and intransitive verb
-* **Vietnamese meaning:** sự đổ, sự tràn; làm đổ, tràn ra
+* **Vietnamese meaning:** làm đổ/làm tràn chất lỏng hoặc đồ vật nhỏ *(verb, 55%)*; sự đổ/sự tràn, đặc biệt như `oil spill` *(noun, 35%)*; lan sang/tràn sang lĩnh vực khác *(verb phrase, 10%)*
 
 ### Usage
 
@@ -501,9 +501,9 @@ As a verb, `spill` means that liquid, food, or small objects accidentally fall o
 
 Common structures:
 
-* `spill + liquid/food`
-* `spill something on/over + surface/person`
-* `an oil spill`
+* `spill + liquid/food`: làm đổ chất lỏng/đồ ăn
+* `spill something on/over + surface/person`: làm đổ thứ gì lên bề mặt/người nào
+* `an oil spill`: một vụ tràn dầu
 
 ### Examples
 
@@ -534,7 +534,7 @@ The past tense can be `spilled` or `spilt`. `Spilled` is more common in American
 ## 14. Lobby /ˈlɒb.i/
 
 * **Part of speech:** countable noun; transitive and intransitive verb
-* **Vietnamese meaning:** sảnh, hành lang lớn; vận động hành lang, gây sức ép để thay đổi chính sách
+* **Vietnamese meaning:** sảnh/lối vào lớn của khách sạn, tòa nhà, rạp chiếu phim *(noun, 45%)*; vận động hành lang/gây ảnh hưởng đến chính sách *(verb, 40%)*; nhóm vận động hành lang/lợi ích *(noun, 15%)*
 
 ### Usage
 
@@ -542,9 +542,9 @@ As a noun, `lobby` can mean the entrance area of a hotel, office building, cinem
 
 Common structures:
 
-* `hotel lobby`
-* `lobby for + policy/change/support`
-* `lobby against + law/plan/proposal`
+* `hotel lobby`: sảnh khách sạn
+* `lobby for + policy/change/support`: vận động ủng hộ một chính sách/thay đổi/sự hỗ trợ
+* `lobby against + law/plan/proposal`: vận động phản đối một luật/kế hoạch/đề xuất
 
 ### Examples
 
@@ -575,7 +575,7 @@ Common structures:
 ## 15. Coursework /ˈkɔːs.wɜːk/
 
 * **Part of speech:** uncountable noun
-* **Vietnamese meaning:** bài tập/khối lượng công việc trong khóa học; bài đánh giá làm trong quá trình học
+* **Vietnamese meaning:** bài tập/bài làm được giao trong khóa học *(55%)*; phần đánh giá trong quá trình học, khác với thi cuối kỳ *(35%)*; khối lượng công việc học tập của một khóa *(10%)*
 
 ### Usage
 
@@ -583,9 +583,9 @@ Common structures:
 
 Common structures:
 
-* `complete/submit coursework`
-* `coursework assessment`
-* `coursework and exams`
+* `complete/submit coursework`: hoàn thành/nộp bài tập khóa học
+* `coursework assessment`: đánh giá bằng bài tập trong quá trình học
+* `coursework and exams`: bài tập trong khóa học và các kỳ thi
 
 ### Examples
 
@@ -616,7 +616,7 @@ Common structures:
 ## 16. Merit /ˈmer.ɪt/
 
 * **Part of speech:** countable noun; uncountable noun; transitive verb
-* **Vietnamese meaning:** giá trị, điểm tốt, ưu điểm; sự xứng đáng; xứng đáng nhận được
+* **Vietnamese meaning:** ưu điểm/giá trị tốt của một ý tưởng, kế hoạch hoặc lập luận *(noun, 40%)*; năng lực/thành tích xứng đáng được công nhận *(noun, 35%)*; xứng đáng nhận được sự chú ý/khen thưởng/cân nhắc *(verb, 25%)*
 
 ### Usage
 
@@ -624,9 +624,9 @@ As a noun, `merit` refers to the good quality or value of something. It can also
 
 Common structures:
 
-* `the merits of + noun`
-* `on merit`
-* `merit attention/consideration`
+* `the merits of + noun`: các ưu điểm/giá trị của điều gì
+* `on merit`: dựa trên năng lực hoặc giá trị thực
+* `merit attention/consideration`: xứng đáng được chú ý/cân nhắc
 
 ### Examples
 
@@ -657,7 +657,7 @@ Common structures:
 ## 17. Faculty /ˈfæk.əl.ti/
 
 * **Part of speech:** countable noun; uncountable noun
-* **Vietnamese meaning:** khoa trong trường đại học; đội ngũ giảng viên; năng lực/tài năng
+* **Vietnamese meaning:** đội ngũ giảng viên trong trường/đại học *(40%)*; khoa trong trường đại học như Faculty of Medicine *(35%)*; năng lực/tài năng tự nhiên của con người *(25%)*
 
 ### Usage
 
@@ -665,9 +665,9 @@ Common structures:
 
 Common structures:
 
-* `the Faculty of + subject`
-* `faculty members`
-* `teaching faculty`
+* `the Faculty of + subject`: Khoa + ngành học/lĩnh vực
+* `faculty members`: các giảng viên/thành viên đội ngũ giảng dạy
+* `teaching faculty`: đội ngũ giảng viên
 
 ### Examples
 
@@ -698,7 +698,7 @@ In British-style university English, `faculty` often means a university division
 ## 18. Remission /rɪˈmɪʃ.ən/
 
 * **Part of speech:** countable noun; uncountable noun
-* **Vietnamese meaning:** sự miễn/giảm khoản phải trả hoặc hình phạt; sự thuyên giảm bệnh; sự tha thứ
+* **Vietnamese meaning:** sự miễn/giảm học phí, phí, nợ hoặc hình phạt *(45%)*; sự thuyên giảm bệnh hoặc triệu chứng *(40%)*; sự tha thứ/tội lỗi được xóa bỏ trong ngữ cảnh tôn giáo/pháp lý *(15%)*
 
 ### Usage
 
@@ -706,9 +706,9 @@ In British-style university English, `faculty` often means a university division
 
 Common structures:
 
-* `tuition remission`
-* `remission of + debt/fees/sentence`
-* `in remission`
+* `tuition remission`: miễn hoặc giảm học phí
+* `remission of + debt/fees/sentence`: sự miễn/giảm nợ, phí hoặc án phạt
+* `in remission`: đang trong giai đoạn bệnh thuyên giảm
 
 ### Examples
 
@@ -739,7 +739,7 @@ Common structures:
 ## 19. Stipend /ˈstaɪ.pend/
 
 * **Part of speech:** countable noun
-* **Vietnamese meaning:** khoản trợ cấp, sinh hoạt phí, khoản tiền hỗ trợ định kỳ
+* **Vietnamese meaning:** sinh hoạt phí/trợ cấp định kỳ cho sinh viên, thực tập sinh, nghiên cứu viên *(75%)*; khoản tiền hỗ trợ nhỏ, không phải lương đầy đủ *(25%)*
 
 ### Usage
 
@@ -747,9 +747,9 @@ Common structures:
 
 Common structures:
 
-* `receive a stipend`
-* `monthly stipend`
-* `a stipend for + noun`
+* `receive a stipend`: nhận trợ cấp/sinh hoạt phí
+* `monthly stipend`: khoản trợ cấp hằng tháng
+* `a stipend for + noun`: khoản trợ cấp cho một mục đích nào đó
 
 ### Examples
 
@@ -780,7 +780,7 @@ Common structures:
 ## 20. Underdog /ˈʌn.də.dɒɡ/
 
 * **Part of speech:** countable noun
-* **Vietnamese meaning:** người/đội ở thế yếu, bên bị đánh giá thấp hơn nhưng được cảm thông hoặc ủng hộ
+* **Vietnamese meaning:** người/đội bị đánh giá thấp hơn và ít có khả năng thắng *(55%)*; bên yếu thế được khán giả/công chúng cảm thông hoặc ủng hộ *(35%)*; người/nhóm yếu thế trong xã hội, kinh doanh hoặc chính trị *(10%)*
 
 ### Usage
 
@@ -788,9 +788,9 @@ Common structures:
 
 Common structures:
 
-* `be the underdog`
-* `support/root for the underdog`
-* `an underdog story`
+* `be the underdog`: là bên yếu thế/không được đánh giá cao
+* `support/root for the underdog`: ủng hộ bên yếu thế
+* `an underdog story`: câu chuyện về bên yếu thế vượt khó
 
 ### Examples
 
