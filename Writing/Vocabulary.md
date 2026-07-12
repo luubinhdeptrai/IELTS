@@ -29,9 +29,9 @@ Common structures:
 
 ### Word family
 
-* **transit** *(noun/verb)*: sự vận chuyển, quá cảnh; vận chuyển, đi qua
-* **transitional** *(adjective)*: mang tính chuyển tiếp
-* **transitory** *(adjective)*: tạm thời, chóng qua
+* **transit** /ˈtræn.zɪt/ *(noun/verb)*: sự vận chuyển, quá cảnh; vận chuyển, đi qua
+* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp
+* **transitory** /ˈtræn.zɪ.tər.i/ *(adjective)*: tạm thời, chóng qua
 
 ### Notes
 
@@ -70,9 +70,9 @@ Common structures:
 
 ### Word family
 
-* **transition** *(noun/verb)*: sự chuyển đổi; chuyển đổi
-* **transitional** *(adjective)*: mang tính chuyển tiếp
-* **transitioning** *(verb form)*: đang chuyển đổi
+* **transition** /trænˈzɪʃ.ən/ *(noun/verb)*: sự chuyển đổi; chuyển đổi
+* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp
+* **transitioning** /trænˈzɪʃ.ən.ɪŋ/ *(verb form)*: đang chuyển đổi
 
 ### Notes
 
@@ -111,9 +111,9 @@ Common structures:
 
 ### Word family
 
-* **alleviate** *(verb)*: làm giảm bớt, xoa dịu
-* **alleviation** *(uncountable noun)*: sự giảm bớt, sự xoa dịu
-* **alleviated** *(adjective/verb form)*: được làm giảm bớt
+* **alleviate** /əˈliː.vi.eɪt/ *(verb)*: làm giảm bớt, xoa dịu
+* **alleviation** /əˌliː.viˈeɪ.ʃən/ *(uncountable noun)*: sự giảm bớt, sự xoa dịu
+* **alleviated** /əˈliː.vi.eɪ.tɪd/ *(adjective/verb form)*: được làm giảm bớt
 
 ### Notes
 
@@ -152,9 +152,9 @@ Common structures:
 
 ### Word family
 
-* **ease** *(noun/verb)*: sự dễ dàng; làm giảm, nới lỏng
-* **easy** *(adjective)*: dễ dàng
-* **easily** *(adverb)*: một cách dễ dàng
+* **ease** /iːz/ *(noun/verb)*: sự dễ dàng; làm giảm, nới lỏng
+* **easy** /ˈiː.zi/ *(adjective)*: dễ dàng
+* **easily** /ˈiː.zəl.i/ *(adverb)*: một cách dễ dàng
 
 ### Notes
 
@@ -193,9 +193,9 @@ Common structures:
 
 ### Word family
 
-* **mitigate** *(verb)*: giảm nhẹ, làm giảm tác động tiêu cực
-* **mitigation** *(uncountable noun)*: sự giảm nhẹ, biện pháp giảm thiểu
-* **mitigating** *(adjective/verb form)*: có tác dụng giảm nhẹ; đang giảm nhẹ
+* **mitigate** /ˈmɪt.ɪ.ɡeɪt/ *(verb)*: giảm nhẹ, làm giảm tác động tiêu cực
+* **mitigation** /ˌmɪt.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự giảm nhẹ, biện pháp giảm thiểu
+* **mitigating** /ˈmɪt.ɪ.ɡeɪ.tɪŋ/ *(adjective/verb form)*: có tác dụng giảm nhẹ; đang giảm nhẹ
 
 ### Notes
 
@@ -234,9 +234,9 @@ Common structures:
 
 ### Word family
 
-* **single-use** *(adjective phrase)*: dùng một lần
-* **disposable** *(adjective)*: dùng một lần rồi bỏ, có thể vứt bỏ
-* **reuse** *(verb/noun)*: tái sử dụng; sự tái sử dụng
+* **single-use** /ˌsɪŋ.ɡəl ˈjuːs/ *(adjective phrase)*: dùng một lần
+* **disposable** /dɪˈspəʊ.zə.bəl/ *(adjective)*: dùng một lần rồi bỏ, có thể vứt bỏ
+* **reuse** /ˌriːˈjuːz/ *(verb/noun)*: tái sử dụng; sự tái sử dụng
 
 ### Notes
 
@@ -275,9 +275,9 @@ Common structures:
 
 ### Word family
 
-* **vocational** *(adjective)*: thuộc về nghề nghiệp, dạy nghề
-* **vocation** *(countable noun)*: nghề nghiệp, thiên hướng nghề nghiệp
-* **vocationally** *(adverb)*: theo hướng nghề nghiệp
+* **vocational** /vəʊˈkeɪ.ʃən.əl/ *(adjective)*: thuộc về nghề nghiệp, dạy nghề
+* **vocation** /vəʊˈkeɪ.ʃən/ *(countable noun)*: nghề nghiệp, thiên hướng nghề nghiệp
+* **vocationally** /vəʊˈkeɪ.ʃən.əl.i/ *(adverb)*: theo hướng nghề nghiệp
 
 ### Notes
 
@@ -316,9 +316,9 @@ Common structures:
 
 ### Word family
 
-* **tuition** *(uncountable noun)*: học phí; sự giảng dạy, dạy kèm
-* **tutor** *(countable noun/verb)*: gia sư; dạy kèm
-* **tutorial** *(countable noun/adjective)*: buổi hướng dẫn; thuộc về hướng dẫn học tập
+* **tuition** /tjuːˈɪʃ.ən/ *(uncountable noun)*: học phí; sự giảng dạy, dạy kèm
+* **tutor** /ˈtjuː.tər/ *(countable noun/verb)*: gia sư; dạy kèm
+* **tutorial** /tjuːˈtɔː.ri.əl/ *(countable noun/adjective)*: buổi hướng dẫn; thuộc về hướng dẫn học tập
 
 ### Notes
 
@@ -357,9 +357,9 @@ Common structures:
 
 ### Word family
 
-* **livelihood** *(countable/uncountable noun)*: sinh kế, kế sinh nhai
-* **living** *(countable noun)*: kế sinh nhai, cách kiếm sống
-* **live** *(verb)*: sống
+* **livelihood** /ˈlaɪv.li.hʊd/ *(countable/uncountable noun)*: sinh kế, kế sinh nhai
+* **living** /ˈlɪv.ɪŋ/ *(countable noun)*: kế sinh nhai, cách kiếm sống
+* **live** /lɪv/ *(verb)*: sống
 
 ### Notes
 
@@ -398,9 +398,9 @@ Common structures:
 
 ### Word family
 
-* **irrigate** *(verb)*: tưới tiêu
-* **irrigation** *(uncountable noun)*: sự tưới tiêu, hệ thống tưới tiêu
-* **irrigated** *(adjective/verb form)*: được tưới tiêu
+* **irrigate** /ˈɪr.ɪ.ɡeɪt/ *(verb)*: tưới tiêu
+* **irrigation** /ˌɪr.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự tưới tiêu, hệ thống tưới tiêu
+* **irrigated** /ˈɪr.ɪ.ɡeɪ.tɪd/ *(adjective/verb form)*: được tưới tiêu
 
 ### Notes
 
@@ -439,9 +439,9 @@ Common structures:
 
 ### Word family
 
-* **overexploitation** *(uncountable noun)*: sự khai thác quá mức
-* **overexploit** *(transitive verb)*: khai thác quá mức
-* **exploitation** *(uncountable noun)*: sự khai thác; sự bóc lột
+* **overexploitation** /ˌəʊ.vərˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác quá mức
+* **overexploit** /ˌəʊ.vər.ɪkˈsplɔɪt/ *(transitive verb)*: khai thác quá mức
+* **exploitation** /ˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác; sự bóc lột
 
 ### Notes
 
@@ -480,9 +480,9 @@ Common structures:
 
 ### Word family
 
-* **rote** *(adjective/noun)*: học vẹt; kiểu học thuộc máy móc
-* **memorise** *(transitive verb)*: ghi nhớ, học thuộc
-* **memorisation** *(uncountable noun)*: sự ghi nhớ, sự học thuộc
+* **rote** /rəʊt/ *(adjective/noun)*: học vẹt; kiểu học thuộc máy móc
+* **memorise** /ˈmem.ə.raɪz/ *(transitive verb)*: ghi nhớ, học thuộc
+* **memorisation** /ˌmem.ə.raɪˈzeɪ.ʃən/ *(uncountable noun)*: sự ghi nhớ, sự học thuộc
 
 ### Notes
 
@@ -521,9 +521,9 @@ Common structures:
 
 ### Word family
 
-* **spill** *(noun/verb)*: sự đổ, sự tràn; làm đổ, tràn ra
-* **spilled** *(verb form/adjective)*: đã bị đổ, đã tràn
-* **spillage** *(countable/uncountable noun)*: sự đổ tràn, lượng chất bị đổ tràn
+* **spill** /spɪl/ *(noun/verb)*: sự đổ, sự tràn; làm đổ, tràn ra
+* **spilled** /spɪld/ *(verb form/adjective)*: đã bị đổ, đã tràn
+* **spillage** /ˈspɪl.ɪdʒ/ *(countable/uncountable noun)*: sự đổ tràn, lượng chất bị đổ tràn
 
 ### Notes
 
@@ -562,10 +562,256 @@ Common structures:
 
 ### Word family
 
-* **lobby** *(noun/verb)*: sảnh; vận động hành lang
-* **lobbyist** *(countable noun)*: người vận động hành lang
-* **lobbying** *(uncountable noun/verb form)*: hoạt động vận động hành lang; đang vận động
+* **lobby** /ˈlɒb.i/ *(noun/verb)*: sảnh; vận động hành lang
+* **lobbyist** /ˈlɒb.i.ɪst/ *(countable noun)*: người vận động hành lang
+* **lobbying** /ˈlɒb.i.ɪŋ/ *(uncountable noun/verb form)*: hoạt động vận động hành lang; đang vận động
 
 ### Notes
 
 `Lobby` has two very different common meanings. In travel or hotel contexts, it means `sảnh`. In politics and IELTS Writing, it means trying to influence decision-makers. Do not confuse `lobby` with `corridor`; a `corridor` is a long passage inside a building, while a `lobby` is usually a larger entrance or waiting area.
+
+---
+
+## 15. Coursework /ˈkɔːs.wɜːk/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** bài tập/khối lượng công việc trong khóa học; bài đánh giá làm trong quá trình học
+
+### Usage
+
+`Coursework` refers to the written or practical work that students do as part of a course, often counted toward the final grade. It is common in education topics, especially when comparing continuous assessment with final exams.
+
+Common structures:
+
+* `complete/submit coursework`
+* `coursework assessment`
+* `coursework and exams`
+
+### Examples
+
+1. **Some students perform better when their grades include both coursework and final exams.**
+   → Một số sinh viên thể hiện tốt hơn khi điểm số bao gồm cả bài tập trong khóa học và kỳ thi cuối kỳ.
+
+2. **I need to submit my coursework by Friday.**
+   → Tôi cần nộp bài tập khóa học trước thứ Sáu.
+
+### Common collocations
+
+* **submit coursework**: nộp bài tập khóa học
+* **coursework assessment**: đánh giá bằng bài tập trong quá trình học
+* **coursework deadline**: hạn nộp bài tập khóa học
+
+### Word family
+
+* **coursework** /ˈkɔːs.wɜːk/ *(uncountable noun)*: bài tập/khối lượng công việc trong khóa học
+* **course** /kɔːs/ *(countable noun)*: khóa học
+* **work** /wɜːk/ *(uncountable noun/verb)*: công việc; làm việc
+
+### Notes
+
+`Coursework` is uncountable, so do not say `courseworks`. Say `a piece of coursework`, `coursework assignments`, or simply `coursework`.
+
+---
+
+## 16. Merit /ˈmer.ɪt/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb
+* **Vietnamese meaning:** giá trị, điểm tốt, ưu điểm; sự xứng đáng; xứng đáng nhận được
+
+### Usage
+
+As a noun, `merit` refers to the good quality or value of something. It can also mean achievement or ability that deserves reward. As a verb, `merit` means to deserve attention, praise, punishment, or consideration.
+
+Common structures:
+
+* `the merits of + noun`
+* `on merit`
+* `merit attention/consideration`
+
+### Examples
+
+1. **University places should be awarded on merit, not family background.**
+   → Suất học đại học nên được trao dựa trên năng lực, không phải hoàn cảnh gia đình.
+
+2. **This proposal merits serious consideration.**
+   → Đề xuất này xứng đáng được cân nhắc nghiêm túc.
+
+### Common collocations
+
+* **on merit**: dựa trên năng lực/giá trị thực
+* **academic merit**: thành tích học thuật
+* **merit serious consideration**: xứng đáng được cân nhắc nghiêm túc
+
+### Word family
+
+* **merit** /ˈmer.ɪt/ *(noun/verb)*: giá trị, ưu điểm; xứng đáng
+* **meritorious** /ˌmer.ɪˈtɔː.ri.əs/ *(adjective)*: đáng khen, có công trạng
+* **merit-based** /ˈmer.ɪt beɪst/ *(adjective)*: dựa trên năng lực/thành tích
+
+### Notes
+
+`Merit` is useful in education and work topics. `On merit` means based on ability or quality rather than money, connections, or background. Do not confuse `merit` with `benefit`; `benefit` means advantage, while `merit` means value or deserving quality.
+
+---
+
+## 17. Faculty /ˈfæk.əl.ti/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** khoa trong trường đại học; đội ngũ giảng viên; năng lực/tài năng
+
+### Usage
+
+`Faculty` has several meanings. In universities, it can mean a department or group of related departments, such as the Faculty of Engineering. In American English, it often means the teaching staff of a school or university. It can also mean a natural ability, but this meaning is less common in IELTS than the education meanings.
+
+Common structures:
+
+* `the Faculty of + subject`
+* `faculty members`
+* `teaching faculty`
+
+### Examples
+
+1. **The Faculty of Medicine has introduced more practical training for students.**
+   → Khoa Y đã đưa thêm nhiều chương trình đào tạo thực hành cho sinh viên.
+
+2. **The university should hire more faculty members to reduce class sizes.**
+   → Trường đại học nên tuyển thêm giảng viên để giảm sĩ số lớp.
+
+### Common collocations
+
+* **faculty members**: các giảng viên
+* **the Faculty of Engineering**: Khoa Kỹ thuật
+* **teaching faculty**: đội ngũ giảng viên
+
+### Word family
+
+* **faculty** /ˈfæk.əl.ti/ *(noun)*: khoa; đội ngũ giảng viên; năng lực
+* **faculties** /ˈfæk.əl.tiz/ *(plural noun)*: các khoa; các năng lực
+* **faculty member** /ˈfæk.əl.ti ˌmem.bər/ *(countable noun)*: giảng viên, thành viên đội ngũ giảng dạy
+
+### Notes
+
+In British-style university English, `faculty` often means a university division, such as `the Faculty of Law`. In American English, `faculty` often means teachers or academic staff. Context decides the meaning.
+
+---
+
+## 18. Remission /rɪˈmɪʃ.ən/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sự miễn/giảm khoản phải trả hoặc hình phạt; sự thuyên giảm bệnh; sự tha thứ
+
+### Usage
+
+`Remission` means the reduction or cancellation of a payment, debt, punishment, or medical symptoms. In education, `tuition remission` means a reduction or cancellation of tuition fees. In medicine, `in remission` means a disease is controlled or has become less active.
+
+Common structures:
+
+* `tuition remission`
+* `remission of + debt/fees/sentence`
+* `in remission`
+
+### Examples
+
+1. **Some universities offer tuition remission to students who work as teaching assistants.**
+   → Một số trường đại học miễn hoặc giảm học phí cho sinh viên làm trợ giảng.
+
+2. **After treatment, the patient has been in remission for two years.**
+   → Sau điều trị, bệnh nhân đã ở giai đoạn thuyên giảm trong hai năm.
+
+### Common collocations
+
+* **tuition remission**: miễn/giảm học phí
+* **remission of fees**: sự miễn/giảm phí
+* **in remission**: trong giai đoạn thuyên giảm
+
+### Word family
+
+* **remission** /rɪˈmɪʃ.ən/ *(noun)*: sự miễn/giảm; sự thuyên giảm
+* **remit** /rɪˈmɪt/ *(transitive verb)*: miễn/giảm khoản phải trả; gửi tiền
+* **remitted** /rɪˈmɪt.ɪd/ *(adjective/verb form)*: được miễn/giảm; đã gửi tiền
+
+### Notes
+
+`Remission` is more formal than `reduction` or `discount`. In education, `tuition remission` is a fixed phrase. Do not confuse it with `scholarship`: a scholarship is an award of money or support, while tuition remission specifically reduces or removes tuition fees.
+
+---
+
+## 19. Stipend /ˈstaɪ.pend/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** khoản trợ cấp, sinh hoạt phí, khoản tiền hỗ trợ định kỳ
+
+### Usage
+
+`Stipend` is a fixed or regular amount of money paid to support someone, often a student, intern, trainee, researcher, or volunteer. It is usually not the same as a full salary.
+
+Common structures:
+
+* `receive a stipend`
+* `monthly stipend`
+* `a stipend for + noun`
+
+### Examples
+
+1. **Graduate students often receive a monthly stipend to cover living expenses.**
+   → Nghiên cứu sinh thường nhận một khoản sinh hoạt phí hằng tháng để trang trải chi phí sống.
+
+2. **The internship is unpaid, but students receive a small stipend for transportation.**
+   → Kỳ thực tập không có lương, nhưng sinh viên nhận một khoản trợ cấp nhỏ cho chi phí đi lại.
+
+### Common collocations
+
+* **monthly stipend**: khoản trợ cấp hằng tháng
+* **living stipend**: khoản sinh hoạt phí
+* **receive a stipend**: nhận trợ cấp/sinh hoạt phí
+
+### Word family
+
+* **stipend** /ˈstaɪ.pend/ *(countable noun)*: khoản trợ cấp, sinh hoạt phí
+* **stipendiary** /staɪˈpen.di.ə.ri/ *(adjective/noun)*: được trả lương/trợ cấp; người nhận lương/trợ cấp
+* **stipend-funded** /ˈstaɪ.pend ˌfʌn.dɪd/ *(adjective)*: được tài trợ bằng trợ cấp/sinh hoạt phí
+
+### Notes
+
+`Stipend` is usually smaller and more fixed than a salary. A `salary` is regular pay for employment, while a `stipend` is often support money for study, training, research, or an internship.
+
+---
+
+## 20. Underdog /ˈʌn.də.dɒɡ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người/đội ở thế yếu, bên bị đánh giá thấp hơn nhưng được cảm thông hoặc ủng hộ
+
+### Usage
+
+`Underdog` refers to a person, team, group, or side that is expected to lose or is at a disadvantage. It is common in sports, competitions, politics, business, and storytelling. People often support the underdog because they like seeing a weaker side overcome difficulties.
+
+Common structures:
+
+* `be the underdog`
+* `support/root for the underdog`
+* `an underdog story`
+
+### Examples
+
+1. **Many people supported the underdog because the team played with great determination.**
+   → Nhiều người ủng hộ đội yếu thế hơn vì đội đó thi đấu với quyết tâm rất lớn.
+
+2. **In business, small start-ups are often underdogs when they compete with large corporations.**
+   → Trong kinh doanh, các công ty khởi nghiệp nhỏ thường ở thế yếu khi cạnh tranh với các tập đoàn lớn.
+
+### Common collocations
+
+* **support the underdog**: ủng hộ bên yếu thế hơn
+* **underdog story**: câu chuyện về người/đội yếu thế vượt khó
+* **be seen as the underdog**: được xem là bên yếu thế hơn
+
+### Word family
+
+* **underdog** /ˈʌn.də.dɒɡ/ *(countable noun)*: người/đội ở thế yếu
+* **underdogs** /ˈʌn.də.dɒɡz/ *(plural noun)*: những người/đội ở thế yếu
+* **underdog story** /ˈʌn.də.dɒɡ ˌstɔː.ri/ *(countable noun)*: câu chuyện về bên yếu thế vượt khó
+
+### Notes
+
+`Underdog` is not an insult in most contexts. It often has a positive emotional feeling because it suggests courage, struggle, and sympathy. The opposite idea is usually `favourite`, meaning the person or team expected to win.
