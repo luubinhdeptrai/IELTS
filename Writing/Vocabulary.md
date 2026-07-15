@@ -815,3 +815,290 @@ Common structures:
 ### Notes
 
 `Underdog` is not an insult in most contexts. It often has a positive emotional feeling because it suggests courage, struggle, and sympathy. The opposite idea is usually `favourite`, meaning the person or team expected to win.
+
+---
+
+## 21. Accountability /əˌkaʊn.təˈbɪl.ə.ti/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** trách nhiệm giải trình/trách nhiệm phải chịu trách nhiệm trước người khác *(75%)*; cơ chế buộc cá nhân/tổ chức chịu trách nhiệm về hành động của mình *(20%)*; tính minh bạch và đáng tin cậy trong quản lý *(5%)*
+
+### Usage
+
+`Accountability` means that a person, organisation, or government must explain its actions and accept responsibility for the results. It is common in IELTS topics about government, crime, education, business, public spending, and leadership.
+
+Common structures:
+
+* `accountability for + noun`: trách nhiệm giải trình đối với điều gì
+* `hold someone accountable`: buộc ai chịu trách nhiệm
+* `improve/strengthen accountability`: cải thiện/tăng cường trách nhiệm giải trình
+
+### Examples
+
+1. **Body cameras can improve police accountability and protect citizens' rights.**
+   → Camera gắn trên người có thể cải thiện trách nhiệm giải trình của cảnh sát và bảo vệ quyền của công dân.
+
+2. **Governments need greater accountability when they spend public money.**
+   → Chính phủ cần trách nhiệm giải trình cao hơn khi chi tiêu tiền công.
+
+### Common collocations
+
+* **political accountability**: trách nhiệm giải trình chính trị
+* **public accountability**: trách nhiệm giải trình trước công chúng
+* **hold someone accountable**: buộc ai chịu trách nhiệm
+
+### Word family
+
+* **accountability** /əˌkaʊn.təˈbɪl.ə.ti/ *(uncountable noun)*: trách nhiệm giải trình
+* **accountable** /əˈkaʊn.tə.bəl/ *(adjective)*: có trách nhiệm, phải chịu trách nhiệm
+* **account** /əˈkaʊnt/ *(countable noun/verb)*: tài khoản, bản tường thuật; giải thích
+
+### Notes
+
+`Accountability` is not exactly the same as `responsibility`. `Responsibility` can mean a duty, while `accountability` emphasises being answerable for what you did and facing consequences if something goes wrong.
+
+---
+
+## 22. Surveillance /səˈveɪ.ləns/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự giám sát/theo dõi bởi camera, cảnh sát, chính phủ hoặc hệ thống an ninh *(80%)*; việc quan sát liên tục để thu thập thông tin hoặc kiểm soát rủi ro *(15%)*; giám sát y tế/dịch bệnh *(5%)*
+
+### Usage
+
+`Surveillance` means careful watching or monitoring of people, places, data, or activities, often to prevent crime, protect security, or collect information. It is common in IELTS topics about crime prevention, privacy, technology, public safety, and government power.
+
+Common structures:
+
+* `surveillance cameras`: camera giám sát
+* `under surveillance`: đang bị theo dõi/giám sát
+* `increase/use surveillance`: tăng cường/sử dụng giám sát
+
+### Examples
+
+1. **Surveillance cameras may deter crime, but they can also raise privacy concerns.**
+   → Camera giám sát có thể ngăn chặn tội phạm, nhưng chúng cũng có thể gây lo ngại về quyền riêng tư.
+
+2. **The suspect was under surveillance for several weeks.**
+   → Nghi phạm đã bị theo dõi trong vài tuần.
+
+### Common collocations
+
+* **surveillance cameras**: camera giám sát
+* **mass surveillance**: giám sát đại trà
+* **under surveillance**: đang bị theo dõi
+
+### Word family
+
+* **surveillance** /səˈveɪ.ləns/ *(uncountable noun)*: sự giám sát, sự theo dõi
+* **survey** /ˈsɜː.veɪ/ *(countable noun/verb)*: khảo sát; khảo sát
+* **surveil** /səˈveɪl/ *(transitive verb)*: giám sát, theo dõi
+
+### Notes
+
+`Surveillance` is more formal and systematic than `watching`. It often suggests official or organised monitoring. In IELTS, always balance crime-prevention benefits with privacy concerns.
+
+---
+
+## 23. Deter /dɪˈtɜːr/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** ngăn cản/ngăn chặn ai làm điều gì bằng cách khiến họ sợ hậu quả hoặc thấy không đáng làm *(85%)*; làm ai nản lòng hoặc chùn bước *(15%)*
+
+### Usage
+
+`Deter` means to discourage someone from doing something, especially by creating fear of punishment, cost, or difficulty. It is very useful in IELTS Crime & Punishment essays.
+
+Common structures:
+
+* `deter crime`: ngăn chặn tội phạm
+* `deter someone from doing something`: ngăn ai làm điều gì
+* `act as a deterrent`: đóng vai trò như một yếu tố răn đe
+
+### Examples
+
+1. **Strict penalties may deter some people from committing serious offences.**
+   → Các hình phạt nghiêm khắc có thể ngăn một số người phạm tội nghiêm trọng.
+
+2. **High security costs can deter small businesses from adopting new technology.**
+   → Chi phí bảo mật cao có thể khiến các doanh nghiệp nhỏ chùn bước trong việc áp dụng công nghệ mới.
+
+### Common collocations
+
+* **deter crime**: ngăn chặn/răn đe tội phạm
+* **deter offenders**: răn đe người phạm tội
+* **deter someone from doing something**: ngăn ai làm điều gì
+
+### Word family
+
+* **deter** /dɪˈtɜːr/ *(transitive verb)*: ngăn chặn, răn đe
+* **deterrent** /dɪˈter.ənt/ *(countable noun/adjective)*: yếu tố răn đe; có tính răn đe
+* **deterrence** /dɪˈter.əns/ *(uncountable noun)*: sự răn đe
+
+### Notes
+
+`Deter` does not mean physically stop someone. It means discourage them before they act. The common pattern is `deter someone from doing something`, not `deter someone to do something`.
+
+---
+
+## 24. Reoffending /ˌriː.əˈfen.dɪŋ/
+
+* **Part of speech:** uncountable noun; verb form
+* **Vietnamese meaning:** việc tái phạm tội sau khi đã bị kết án hoặc thụ án *(90%)*; hành vi phạm lỗi lặp lại nói chung trong ngữ cảnh pháp lý/xã hội *(10%)*
+
+### Usage
+
+`Reoffending` means committing another crime after already being punished or convicted. It is common in IELTS Crime & Punishment when discussing rehabilitation, prisons, community service, and education for offenders.
+
+Common structures:
+
+* `reduce reoffending`: giảm tái phạm
+* `rates of reoffending`: tỷ lệ tái phạm
+* `prevent offenders from reoffending`: ngăn người phạm tội tái phạm
+
+### Examples
+
+1. **Education programmes in prison can reduce reoffending after release.**
+   → Các chương trình giáo dục trong tù có thể giảm tái phạm sau khi người phạm tội được thả.
+
+2. **High rates of reoffending suggest that punishment alone is not enough.**
+   → Tỷ lệ tái phạm cao cho thấy chỉ trừng phạt thôi là chưa đủ.
+
+### Common collocations
+
+* **reduce reoffending**: giảm tái phạm
+* **reoffending rates**: tỷ lệ tái phạm
+* **prevent reoffending**: ngăn tái phạm
+
+### Word family
+
+* **reoffending** /ˌriː.əˈfen.dɪŋ/ *(uncountable noun/verb form)*: việc tái phạm
+* **reoffend** /ˌriː.əˈfend/ *(intransitive verb)*: tái phạm
+* **reoffender** /ˌriː.əˈfen.dər/ *(countable noun)*: người tái phạm
+
+### Notes
+
+`Reoffending` focuses on crime after punishment or conviction. It is close to `recidivism`, but `reoffending` is easier and more common for IELTS learners.
+
+---
+
+## 25. Incarceration /ɪnˌkɑː.sərˈeɪ.ʃən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự giam giữ trong tù/nhà giam *(85%)*; hình phạt tù như một chính sách hoặc biện pháp tư pháp *(15%)*
+
+### Usage
+
+`Incarceration` means keeping someone in prison or a similar institution as punishment or while awaiting trial. It is formal and common in academic discussions of crime, sentencing, justice, rehabilitation, and prison systems.
+
+Common structures:
+
+* `mass incarceration`: việc giam giữ hàng loạt
+* `alternatives to incarceration`: các biện pháp thay thế tù giam
+* `a period of incarceration`: một thời gian bị giam giữ
+
+### Examples
+
+1. **Community service can be an effective alternative to incarceration for minor offences.**
+   → Lao động công ích có thể là một biện pháp thay thế hiệu quả cho tù giam đối với các tội nhẹ.
+
+2. **Long periods of incarceration may make reintegration into society more difficult.**
+   → Thời gian giam giữ dài có thể khiến việc tái hòa nhập xã hội khó khăn hơn.
+
+### Common collocations
+
+* **mass incarceration**: giam giữ hàng loạt
+* **alternatives to incarceration**: các biện pháp thay thế tù giam
+* **period of incarceration**: thời gian bị giam giữ
+
+### Word family
+
+* **incarceration** /ɪnˌkɑː.sərˈeɪ.ʃən/ *(uncountable noun)*: sự giam giữ, tù giam
+* **incarcerate** /ɪnˈkɑː.sər.eɪt/ *(transitive verb)*: giam giữ, bỏ tù
+* **incarcerated** /ɪnˈkɑː.sər.eɪ.tɪd/ *(adjective/verb form)*: bị giam giữ, bị bỏ tù
+
+### Notes
+
+`Incarceration` is more formal than `imprisonment`, and both are more formal than `being put in prison`. In IELTS, use it when discussing policy, not casual situations.
+
+---
+
+## 26. Proportionate sentence /prəˈpɔː.ʃən.ət ˈsen.təns/
+
+* **Part of speech:** noun phrase
+* **Vietnamese meaning:** bản án/hình phạt tương xứng với mức độ nghiêm trọng của tội phạm *(90%)*; mức án cân bằng giữa trừng phạt, răn đe và công bằng *(10%)*
+
+### Usage
+
+`Proportionate sentence` means a punishment that is fair because it matches the seriousness of the offence and the offender's circumstances. It is useful in IELTS Crime & Punishment essays about justice, sentencing, deterrence, and rehabilitation.
+
+Common structures:
+
+* `a proportionate sentence`: một bản án tương xứng
+* `be proportionate to the offence`: tương xứng với hành vi phạm tội
+* `ensure proportionate sentencing`: bảo đảm việc tuyên án tương xứng
+
+### Examples
+
+1. **A proportionate sentence should reflect both the seriousness of the offence and the offender's background.**
+   → Một bản án tương xứng nên phản ánh cả mức độ nghiêm trọng của tội phạm và hoàn cảnh của người phạm tội.
+
+2. **Minor offences should not lead to sentences that are clearly disproportionate.**
+   → Các tội nhẹ không nên dẫn đến những bản án rõ ràng là không tương xứng.
+
+### Common collocations
+
+* **proportionate sentence**: bản án tương xứng
+* **proportionate punishment**: hình phạt tương xứng
+* **proportionate to the offence**: tương xứng với hành vi phạm tội
+
+### Word family
+
+* **proportionate** /prəˈpɔː.ʃən.ət/ *(adjective)*: tương xứng, cân xứng
+* **sentence** /ˈsen.təns/ *(countable noun/verb)*: bản án; tuyên án
+* **sentencing** /ˈsen.tən.sɪŋ/ *(uncountable noun/verb form)*: việc tuyên án
+
+### Notes
+
+`Proportionate sentence` is a legal and academic phrase. The opposite is `disproportionate sentence`, meaning a sentence that is too harsh or too lenient compared with the offence.
+
+---
+
+## 27. Offence /əˈfens/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** hành vi phạm tội/vi phạm pháp luật *(countable noun, 70%)*; sự xúc phạm hoặc cảm giác bị xúc phạm *(uncountable/countable noun, 25%)*; lỗi trong thể thao hoặc quy tắc cụ thể *(countable noun, 5%)*
+
+### Usage
+
+`Offence` usually means an illegal act or a violation of a rule. It is very common in British English legal contexts and IELTS Crime & Punishment. It can also mean insult or hurt feelings, as in `cause offence`, but this is a different meaning.
+
+Common structures:
+
+* `commit an offence`: phạm tội/vi phạm pháp luật
+* `a serious/minor offence`: một tội nghiêm trọng/nhẹ
+* `cause offence`: gây xúc phạm
+
+### Examples
+
+1. **Driving under the influence is a serious offence in many countries.**
+   → Lái xe khi say rượu là một hành vi phạm tội nghiêm trọng ở nhiều quốc gia.
+
+2. **The speaker apologised because his comments had caused offence.**
+   → Diễn giả đã xin lỗi vì những bình luận của ông ấy đã gây xúc phạm.
+
+### Common collocations
+
+* **commit an offence**: phạm tội, vi phạm pháp luật
+* **criminal offence**: tội hình sự
+* **minor offence**: tội nhẹ, vi phạm nhẹ
+
+### Word family
+
+* **offence** /əˈfens/ *(countable/uncountable noun)*: hành vi phạm tội; sự xúc phạm
+* **offender** /əˈfen.dər/ *(countable noun)*: người phạm tội
+* **offend** /əˈfend/ *(transitive/intransitive verb)*: xúc phạm; phạm lỗi
+
+### Notes
+
+`Offence` is British spelling. American English usually uses `offense`. For IELTS, British spelling is fine, but be consistent. In crime essays, `offence` usually means a crime or illegal act, not hurt feelings.
