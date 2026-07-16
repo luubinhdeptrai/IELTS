@@ -3095,3 +3095,150 @@ Common structures:
 ### Notes
 
 `Fierce` is stronger than `strong` or `intense` in many contexts. In IELTS Writing, it is very natural in phrases like `fierce competition`, but avoid overusing it for simple problems.
+
+---
+
+## 63. Tension /ˈten.ʃən/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sự căng thẳng trong quan hệ, gia đình, xã hội hoặc chính trị *(55%)*; cảm giác lo lắng/áp lực tinh thần *(25%)*; độ căng vật lý của dây, cơ, bề mặt *(20%)*
+
+### Usage
+
+`Tension` refers to stress, pressure, or conflict between people, groups, ideas, or forces. It is very useful in IELTS topics about family relationships, social conflict, politics, workplaces, and mental health.
+
+Common structures:
+
+* `tension between A and B`: sự căng thẳng giữa A và B
+* `family/social/political tension`: căng thẳng gia đình/xã hội/chính trị
+* `reduce/ease tension`: giảm căng thẳng
+
+### Examples
+
+1. **Financial pressure can create tension between parents and children.**
+   → Áp lực tài chính có thể tạo ra căng thẳng giữa cha mẹ và con cái.
+
+2. **Open communication can help reduce tension in the workplace.**
+   → Giao tiếp cởi mở có thể giúp giảm căng thẳng ở nơi làm việc.
+
+### Common collocations
+
+* **family tension**: căng thẳng gia đình
+* **political tension**: căng thẳng chính trị
+* **ease tension**: làm dịu căng thẳng
+
+### Word family
+
+* **tension** /ˈten.ʃən/ *(noun)*: sự căng thẳng; độ căng  
+  *Example:* Tension between siblings can increase when parents compare them too often.  
+  → Căng thẳng giữa anh chị em có thể tăng lên khi cha mẹ so sánh họ quá thường xuyên.
+
+* **tense** /tens/ *(adjective)*: căng thẳng, căng thẳng về cảm xúc  
+  *Example:* The meeting became tense after the manager criticised the team.  
+  → Cuộc họp trở nên căng thẳng sau khi quản lý chỉ trích đội nhóm.
+
+* **tensely** /ˈtens.li/ *(adverb)*: một cách căng thẳng  
+  *Example:* The two sides waited tensely for the final decision.  
+  → Hai bên chờ đợi quyết định cuối cùng một cách căng thẳng.
+
+### Notes
+
+`Tension` can be emotional, social, political, or physical. For relationships, use `tension between A and B`; for reducing conflict, use `ease tension` or `reduce tension`.
+
+---
+
+## 64. Oppose /əˈpəʊz/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** phản đối một ý tưởng, chính sách, kế hoạch hoặc hành động *(80%)*; chống lại ai/cái gì trong tranh luận, chính trị hoặc xung đột *(20%)*
+
+### Usage
+
+`Oppose` means to disagree with something and try to prevent it, criticise it, or stand against it. It is common in IELTS Writing about government policy, social issues, development, education, and family decisions.
+
+Common structures:
+
+* `oppose + noun`: phản đối điều gì
+* `strongly oppose + noun`: phản đối mạnh mẽ điều gì
+* `be opposed to + noun/V-ing`: phản đối điều gì/việc làm gì
+
+### Examples
+
+1. **Many residents oppose the construction of a new airport near their homes.**
+   → Nhiều cư dân phản đối việc xây dựng một sân bay mới gần nhà họ.
+
+2. **Some parents are opposed to excessive screen time for young children.**
+   → Một số phụ huynh phản đối việc trẻ nhỏ dùng màn hình quá nhiều.
+
+### Common collocations
+
+* **oppose a policy**: phản đối một chính sách
+* **strongly oppose**: phản đối mạnh mẽ
+* **be opposed to change**: phản đối sự thay đổi
+
+### Word family
+
+* **oppose** /əˈpəʊz/ *(transitive verb)*: phản đối, chống lại  
+  *Example:* Some citizens oppose higher taxes because they distrust the government.  
+  → Một số công dân phản đối thuế cao hơn vì họ không tin tưởng chính phủ.
+
+* **opposition** /ˌɒp.əˈzɪʃ.ən/ *(uncountable/countable noun)*: sự phản đối; phe đối lập  
+  *Example:* The proposal faced strong opposition from local residents.  
+  → Đề xuất đó vấp phải sự phản đối mạnh mẽ từ cư dân địa phương.
+
+* **opposed** /əˈpəʊzd/ *(adjective/verb form)*: phản đối, chống lại  
+  *Example:* Many teachers are opposed to testing young children too often.  
+  → Nhiều giáo viên phản đối việc kiểm tra trẻ nhỏ quá thường xuyên.
+
+### Notes
+
+`Oppose` is stronger and more active than simply `disagree with`. Pattern: `oppose something`, not `oppose to something`. But the adjective pattern is `be opposed to something`.
+
+---
+
+## 65. Instinct /ˈɪn.stɪŋkt/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** bản năng tự nhiên khiến người hoặc động vật phản ứng không cần suy nghĩ *(70%)*; trực giác/cảm giác bên trong về điều gì đúng hoặc nên làm *(25%)*; khuynh hướng tự nhiên trong hành vi *(5%)*
+
+### Usage
+
+`Instinct` refers to a natural reaction or feeling that is not based on conscious reasoning. It is useful in topics about parenting, survival, behaviour, psychology, and decision-making.
+
+Common structures:
+
+* `maternal/parental instinct`: bản năng làm mẹ/làm cha mẹ
+* `survival instinct`: bản năng sinh tồn
+* `trust/follow your instinct`: tin/làm theo trực giác của bạn
+
+### Examples
+
+1. **Parental instinct often makes adults protect children from danger.**
+   → Bản năng làm cha mẹ thường khiến người lớn bảo vệ trẻ em khỏi nguy hiểm.
+
+2. **In an emergency, people may act on instinct rather than logic.**
+   → Trong tình huống khẩn cấp, con người có thể hành động theo bản năng thay vì lý trí.
+
+### Common collocations
+
+* **maternal instinct**: bản năng làm mẹ
+* **survival instinct**: bản năng sinh tồn
+* **trust your instinct**: tin vào trực giác của bạn
+
+### Word family
+
+* **instinct** /ˈɪn.stɪŋkt/ *(noun)*: bản năng, trực giác  
+  *Example:* Her first instinct was to protect her younger brother.  
+  → Bản năng đầu tiên của cô ấy là bảo vệ em trai mình.
+
+* **instinctive** /ɪnˈstɪŋk.tɪv/ *(adjective)*: thuộc về bản năng, tự nhiên  
+  *Example:* Children often have an instinctive need for security and affection.  
+  → Trẻ em thường có nhu cầu bản năng về sự an toàn và tình cảm.
+
+* **instinctively** /ɪnˈstɪŋk.tɪv.li/ *(adverb)*: theo bản năng, một cách tự nhiên  
+  *Example:* Parents may instinctively comfort a crying baby.  
+  → Cha mẹ có thể dỗ dành em bé đang khóc theo bản năng.
+
+### Notes
+
+`Instinct` is not the same as `habit`. A habit is learned by repetition, while an instinct feels natural or automatic. `Intuition` is close to the “trực giác” meaning, but `instinct` often sounds more basic and natural.
