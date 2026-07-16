@@ -2455,3 +2455,85 @@ Common structures:
 ### Notes
 
 `Upbringing` focuses on how someone was raised as a child. `Education` focuses more on schooling and learning, while `upbringing` includes family values, discipline, habits, and emotional environment.
+
+---
+
+## 61. Hostile /ˈhɒs.taɪl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thù địch/chống đối rõ ràng với ai hoặc điều gì *(55%)*; không thân thiện, lạnh lùng hoặc có thái độ tiêu cực *(30%)*; khó khăn/khắc nghiệt, đặc biệt với môi trường hoặc điều kiện sống *(15%)*
+
+### Usage
+
+`Hostile` describes people, attitudes, actions, environments, or relationships that are unfriendly, aggressive, or opposed to someone or something. It is useful in IELTS topics about conflict, workplaces, family tension, politics, media, and social attitudes.
+
+Common structures:
+
+* `be hostile to/towards + someone/something`: thù địch/chống đối ai hoặc điều gì
+* `a hostile attitude/environment`: thái độ/môi trường thù địch hoặc không thân thiện
+* `hostile criticism/reaction`: sự chỉ trích/phản ứng gay gắt, thù địch
+
+### Examples
+
+1. **A hostile home environment can affect a child's emotional development.**
+   → Một môi trường gia đình không thân thiện có thể ảnh hưởng đến sự phát triển cảm xúc của trẻ.
+
+2. **Some residents were hostile to the idea of building a new airport nearby.**
+   → Một số cư dân phản đối gay gắt ý tưởng xây sân bay mới gần đó.
+
+### Common collocations
+
+* **hostile environment**: môi trường thù địch/khắc nghiệt
+* **hostile attitude**: thái độ thù địch
+* **hostile reaction**: phản ứng gay gắt/thù địch
+
+### Word family
+
+* **hostile** /ˈhɒs.taɪl/ *(adjective)*: thù địch, không thân thiện
+* **hostility** /hɒsˈtɪl.ə.ti/ *(countable/uncountable noun)*: sự thù địch, thái độ chống đối
+* **hostilely** /ˈhɒs.taɪl.li/ *(adverb)*: một cách thù địch
+
+### Notes
+
+`Hostile` is stronger than `unfriendly`. It often suggests active opposition, anger, or aggression. For IELTS, `hostile environment` and `hostile attitude` are useful collocations.
+
+---
+
+## 62. Fierce /fɪəs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** dữ dội/gay gắt/mạnh mẽ, đặc biệt với cạnh tranh, tranh luận hoặc cảm xúc *(55%)*; hung dữ/nguy hiểm, thường dùng với người hoặc động vật *(25%)*; rất mạnh hoặc khắc nghiệt, như thời tiết, gió, nắng nóng *(20%)*
+
+### Usage
+
+`Fierce` describes something very strong, intense, aggressive, or competitive. It is common with competition, rivalry, debate, criticism, loyalty, storms, heat, and animals.
+
+Common structures:
+
+* `fierce competition/rivalry`: sự cạnh tranh/ganh đua gay gắt
+* `fierce debate/criticism`: cuộc tranh luận/sự chỉ trích gay gắt
+* `fierce loyalty/determination`: lòng trung thành/quyết tâm mãnh liệt
+
+### Examples
+
+1. **Sibling rivalry can become fierce when children compete for parental attention.**
+   → Sự ganh đua giữa anh chị em có thể trở nên gay gắt khi trẻ cạnh tranh để được cha mẹ chú ý.
+
+2. **There is fierce competition for places at top universities.**
+   → Có sự cạnh tranh gay gắt để giành suất vào các trường đại học hàng đầu.
+
+### Common collocations
+
+* **fierce competition**: sự cạnh tranh gay gắt
+* **fierce rivalry**: sự ganh đua/kình địch gay gắt
+* **fierce criticism**: sự chỉ trích gay gắt
+
+### Word family
+
+* **fierce** /fɪəs/ *(adjective)*: dữ dội, gay gắt, hung dữ
+* **fiercely** /ˈfɪəs.li/ *(adverb)*: một cách dữ dội/gay gắt/mãnh liệt
+* **fierceness** /ˈfɪəs.nəs/ *(uncountable noun)*: sự dữ dội, sự gay gắt
+
+### Notes
+
+`Fierce` is stronger than `strong` or `intense` in many contexts. In IELTS Writing, it is very natural in phrases like `fierce competition`, but avoid overusing it for simple problems.
