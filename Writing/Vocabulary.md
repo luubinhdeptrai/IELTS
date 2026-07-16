@@ -1102,3 +1102,454 @@ Common structures:
 ### Notes
 
 `Offence` is British spelling. American English usually uses `offense`. For IELTS, British spelling is fine, but be consistent. In crime essays, `offence` usually means a crime or illegal act, not hurt feelings.
+
+---
+
+## 28. Detergent /dɪˈtɜː.dʒənt/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** chất tẩy rửa/bột giặt/nước giặt/nước rửa chén *(85%)*; chất làm sạch trong ngữ cảnh kỹ thuật/hóa học *(15%)*
+
+### Usage
+
+`Detergent` is a substance used for washing clothes, dishes, or surfaces. It is common in daily English and can also appear in environmental topics when discussing water pollution and household chemicals.
+
+Common structures:
+
+* `laundry detergent`: bột giặt/nước giặt
+* `dishwashing detergent`: nước rửa chén
+* `detergent pollution`: ô nhiễm do chất tẩy rửa
+
+### Examples
+
+1. **Some detergents contain chemicals that can pollute rivers.**
+   → Một số chất tẩy rửa chứa hóa chất có thể gây ô nhiễm sông ngòi.
+
+2. **I need to buy laundry detergent before washing my clothes.**
+   → Tôi cần mua nước giặt/bột giặt trước khi giặt quần áo.
+
+### Common collocations
+
+* **laundry detergent**: bột giặt/nước giặt
+* **mild detergent**: chất tẩy rửa nhẹ
+* **biodegradable detergent**: chất tẩy rửa có thể phân hủy sinh học
+
+### Word family
+
+* **detergent** /dɪˈtɜː.dʒənt/ *(countable/uncountable noun)*: chất tẩy rửa
+* **detergents** /dɪˈtɜː.dʒənts/ *(plural noun)*: các chất tẩy rửa
+* **detergency** /dɪˈtɜː.dʒən.si/ *(uncountable noun)*: khả năng tẩy rửa
+
+### Notes
+
+`Detergent` is more specific than `cleaner`. A `cleaner` can be any cleaning product or even a person who cleans, while `detergent` is usually a chemical product used for washing.
+
+---
+
+## 29. Condemn /kənˈdem/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** lên án/chỉ trích mạnh mẽ một hành động hoặc người nào đó *(70%)*; kết án/tuyên án trong ngữ cảnh pháp lý hoặc chính thức *(20%)*; khiến ai rơi vào tình trạng xấu *(10%)*
+
+### Usage
+
+`Condemn` means to say strongly that something is wrong or unacceptable. It is common in news, politics, ethics, crime, and social issues. It can also mean to sentence someone to a punishment, but that meaning is more formal.
+
+Common structures:
+
+* `condemn + action/behaviour`: lên án hành động/hành vi
+* `condemn someone for + noun/V-ing`: lên án ai vì điều gì
+* `be condemned to + noun`: bị kết án/bị đẩy vào tình trạng nào
+
+### Examples
+
+1. **The government condemned the attack and promised a full investigation.**
+   → Chính phủ lên án vụ tấn công và hứa sẽ điều tra đầy đủ.
+
+2. **Many people condemn corruption because it weakens public trust.**
+   → Nhiều người lên án tham nhũng vì nó làm suy yếu niềm tin của công chúng.
+
+### Common collocations
+
+* **strongly condemn**: lên án mạnh mẽ
+* **condemn violence**: lên án bạo lực
+* **condemn someone to prison**: kết án ai vào tù
+
+### Word family
+
+* **condemn** /kənˈdem/ *(transitive verb)*: lên án, kết án
+* **condemnation** /ˌkɒn.demˈneɪ.ʃən/ *(uncountable/countable noun)*: sự lên án, lời lên án
+* **condemned** /kənˈdemd/ *(adjective/verb form)*: bị lên án; bị kết án
+
+### Notes
+
+`Condemn` is stronger than `criticise`. Use it for serious moral, legal, or social disapproval, not for small everyday complaints.
+
+---
+
+## 30. Pristine /ˈprɪs.tiːn/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** nguyên sơ/chưa bị hư hại hoặc ô nhiễm, đặc biệt với thiên nhiên *(60%)*; sạch tinh tươm/ở tình trạng hoàn hảo *(30%)*; ban đầu/nguyên thủy trong văn phong trang trọng *(10%)*
+
+### Usage
+
+`Pristine` describes something that is extremely clean, pure, new-looking, or untouched. It is useful in environmental writing when describing natural areas that have not been damaged by humans.
+
+Common structures:
+
+* `pristine environment`: môi trường nguyên sơ
+* `pristine condition`: tình trạng hoàn hảo/như mới
+* `remain pristine`: vẫn còn nguyên sơ/sạch tinh tươm
+
+### Examples
+
+1. **Tourism can damage pristine natural areas if it is not carefully managed.**
+   → Du lịch có thể làm tổn hại các khu vực thiên nhiên nguyên sơ nếu không được quản lý cẩn thận.
+
+2. **The hotel room was in pristine condition when we arrived.**
+   → Phòng khách sạn ở trong tình trạng sạch đẹp hoàn hảo khi chúng tôi đến.
+
+### Common collocations
+
+* **pristine beaches**: những bãi biển nguyên sơ
+* **pristine condition**: tình trạng hoàn hảo/như mới
+* **pristine wilderness**: vùng hoang dã nguyên sơ
+
+### Word family
+
+* **pristine** /ˈprɪs.tiːn/ *(adjective)*: nguyên sơ, sạch tinh tươm
+* **pristinely** /ˈprɪs.tiːn.li/ *(adverb)*: một cách nguyên sơ/sạch hoàn hảo
+* **pristineness** /ˈprɪs.tiːn.nəs/ *(uncountable noun)*: trạng thái nguyên sơ/sạch hoàn hảo
+
+### Notes
+
+`Pristine` is stronger and more elegant than `clean`. It often suggests that something has not been spoiled, polluted, or damaged.
+
+---
+
+## 31. Attain /əˈteɪn/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** đạt được mục tiêu, trình độ, kết quả hoặc trạng thái sau nỗ lực *(90%)*; chạm tới/đạt tới một mức cụ thể trong văn phong trang trọng *(10%)*
+
+### Usage
+
+`Attain` means to achieve something after effort, especially a goal, level, status, or standard. It is more formal than `get` and slightly more academic than `achieve`.
+
+Common structures:
+
+* `attain + goal/level/standard`: đạt được mục tiêu/mức độ/tiêu chuẩn
+* `attain success`: đạt được thành công
+* `attain a high level of + noun`: đạt trình độ cao về điều gì
+
+### Examples
+
+1. **Students need consistent practice to attain fluency in English.**
+   → Học sinh cần luyện tập đều đặn để đạt được sự lưu loát trong tiếng Anh.
+
+2. **Many countries struggle to attain sustainable economic growth.**
+   → Nhiều quốc gia gặp khó khăn trong việc đạt được tăng trưởng kinh tế bền vững.
+
+### Common collocations
+
+* **attain a goal**: đạt được mục tiêu
+* **attain fluency**: đạt được sự lưu loát
+* **attain a standard**: đạt một tiêu chuẩn
+
+### Word family
+
+* **attain** /əˈteɪn/ *(transitive verb)*: đạt được
+* **attainment** /əˈteɪn.mənt/ *(countable/uncountable noun)*: thành tựu, sự đạt được
+* **attainable** /əˈteɪ.nə.bəl/ *(adjective)*: có thể đạt được
+
+### Notes
+
+`Attain` is formal and is usually used with important goals or levels. Do not overuse it for small daily actions. Say `get a coffee`, not `attain a coffee`.
+
+---
+
+## 32. Refuse /rɪˈfjuːz/; /ˈref.juːs/
+
+* **Part of speech:** transitive and intransitive verb; uncountable noun
+* **Vietnamese meaning:** từ chối làm gì hoặc không chấp nhận điều gì *(verb /rɪˈfjuːz/, 75%)*; rác thải/chất thải trong văn phong trang trọng hoặc kỹ thuật *(noun /ˈref.juːs/, 25%)*
+
+### Usage
+
+As a verb, `refuse` means to say no to something or to be unwilling to do something. As a noun, `refuse` means waste or rubbish, especially in formal or technical contexts. The pronunciation changes with the meaning.
+
+Common structures:
+
+* `refuse to + verb`: từ chối làm gì
+* `refuse + noun`: từ chối điều gì
+* `household refuse`: rác thải sinh hoạt
+
+### Examples
+
+1. **Some companies refuse to take responsibility for the pollution they cause.**
+   → Một số công ty từ chối chịu trách nhiệm về ô nhiễm mà họ gây ra.
+
+2. **Cities need efficient systems for collecting household refuse.**
+   → Các thành phố cần hệ thống hiệu quả để thu gom rác thải sinh hoạt.
+
+### Common collocations
+
+* **refuse to cooperate**: từ chối hợp tác
+* **refuse permission**: từ chối cho phép
+* **household refuse**: rác thải sinh hoạt
+
+### Word family
+
+* **refuse** /rɪˈfjuːz/ *(verb)*: từ chối
+* **refusal** /rɪˈfjuː.zəl/ *(countable/uncountable noun)*: sự từ chối, lời từ chối
+* **refuse** /ˈref.juːs/ *(uncountable noun)*: rác thải
+
+### Notes
+
+The verb and noun have different stress. `Refuse` as a verb is pronounced /rɪˈfjuːz/. `Refuse` as a noun meaning waste is pronounced /ˈref.juːs/. For everyday “rác”, `rubbish`, `trash`, or `waste` are more common.
+
+---
+
+## 33. Omnipresent /ˌɒm.nɪˈprez.ənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** có mặt ở khắp nơi, dường như xuất hiện mọi lúc mọi nơi *(90%)*; hiện diện ở mọi nơi theo nghĩa tôn giáo/triết học *(10%)*
+
+### Usage
+
+`Omnipresent` describes something that seems to be everywhere. It is formal and often used for technology, advertising, cameras, social media, brands, or powerful institutions.
+
+Common structures:
+
+* `be omnipresent`: có mặt ở khắp nơi
+* `omnipresent technology`: công nghệ hiện diện khắp nơi
+* `an omnipresent feature of + noun`: một đặc điểm xuất hiện khắp nơi của điều gì
+
+### Examples
+
+1. **Smartphones have become almost omnipresent in modern society.**
+   → Điện thoại thông minh đã trở nên gần như có mặt khắp nơi trong xã hội hiện đại.
+
+2. **Advertising is omnipresent in large cities.**
+   → Quảng cáo xuất hiện ở khắp nơi trong các thành phố lớn.
+
+### Common collocations
+
+* **omnipresent technology**: công nghệ hiện diện khắp nơi
+* **omnipresent advertising**: quảng cáo xuất hiện khắp nơi
+* **almost omnipresent**: gần như có mặt ở khắp nơi
+
+### Word family
+
+* **omnipresent** /ˌɒm.nɪˈprez.ənt/ *(adjective)*: có mặt khắp nơi
+* **omnipresence** /ˌɒm.nɪˈprez.əns/ *(uncountable noun)*: sự hiện diện khắp nơi
+* **present** /ˈprez.ənt/ *(adjective)*: có mặt, hiện diện
+
+### Notes
+
+`Omnipresent` is stronger and more formal than `common`. Use it when something feels unavoidable or everywhere, not just frequent.
+
+---
+
+## 34. Eminent /ˈem.ɪ.nənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** nổi tiếng và được kính trọng trong một lĩnh vực chuyên môn *(85%)*; xuất sắc/nổi bật về địa vị hoặc thành tựu *(15%)*
+
+### Usage
+
+`Eminent` describes a person who is famous, respected, and important in a field such as science, law, medicine, education, or politics. It is formal and positive.
+
+Common structures:
+
+* `an eminent + profession`: một người nổi tiếng/kính trọng trong nghề nào
+* `eminent scholar/scientist/expert`: học giả/nhà khoa học/chuyên gia nổi tiếng
+* `be eminent in + field`: nổi bật trong lĩnh vực nào
+
+### Examples
+
+1. **The report was written by an eminent scientist in the field of climate research.**
+   → Báo cáo được viết bởi một nhà khoa học nổi tiếng trong lĩnh vực nghiên cứu khí hậu.
+
+2. **Universities often invite eminent scholars to give public lectures.**
+   → Các trường đại học thường mời những học giả nổi tiếng đến thuyết giảng công khai.
+
+### Common collocations
+
+* **eminent scholar**: học giả nổi tiếng
+* **eminent scientist**: nhà khoa học nổi tiếng
+* **eminent expert**: chuyên gia nổi tiếng
+
+### Word family
+
+* **eminent** /ˈem.ɪ.nənt/ *(adjective)*: nổi tiếng, được kính trọng
+* **eminence** /ˈem.ɪ.nəns/ *(uncountable noun)*: sự nổi tiếng, địa vị nổi bật
+* **eminently** /ˈem.ɪ.nənt.li/ *(adverb)*: cực kỳ, rất; một cách nổi bật
+
+### Notes
+
+Do not confuse `eminent` with `imminent`. `Eminent` means famous and respected. `Imminent` means about to happen soon.
+
+---
+
+## 35. Pervasive /pəˈveɪ.sɪv/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** lan rộng/thấm sâu trong nhiều nơi hoặc nhiều phần của xã hội *(80%)*; phổ biến đến mức khó tránh hoặc khó kiểm soát *(20%)*
+
+### Usage
+
+`Pervasive` describes something that spreads widely through a place, system, or society. It is often used for problems, attitudes, technology, influence, discrimination, pollution, or corruption.
+
+Common structures:
+
+* `pervasive problem`: vấn đề lan rộng
+* `pervasive influence`: ảnh hưởng lan rộng/thấm sâu
+* `be pervasive in + place/society`: lan rộng trong nơi nào/xã hội nào
+
+### Examples
+
+1. **Plastic pollution has become a pervasive problem in many coastal areas.**
+   → Ô nhiễm nhựa đã trở thành một vấn đề lan rộng ở nhiều khu vực ven biển.
+
+2. **Social media has a pervasive influence on young people's daily lives.**
+   → Mạng xã hội có ảnh hưởng sâu rộng đến đời sống hằng ngày của người trẻ.
+
+### Common collocations
+
+* **pervasive problem**: vấn đề lan rộng
+* **pervasive influence**: ảnh hưởng sâu rộng
+* **pervasive corruption**: tham nhũng lan rộng
+
+### Word family
+
+* **pervasive** /pəˈveɪ.sɪv/ *(adjective)*: lan rộng, thấm sâu
+* **pervasiveness** /pəˈveɪ.sɪv.nəs/ *(uncountable noun)*: tính lan rộng, sự thấm sâu
+* **pervade** /pəˈveɪd/ *(transitive verb)*: lan khắp, thấm vào
+
+### Notes
+
+`Pervasive` is stronger than `common`. It suggests that something spreads through many parts of a system and is hard to avoid.
+
+---
+
+## 36. Pointless /ˈpɔɪnt.ləs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** vô nghĩa/không có mục đích hoặc không đem lại kết quả *(80%)*; không đáng làm vì không hữu ích *(20%)*
+
+### Usage
+
+`Pointless` describes an action, activity, argument, or effort that has no useful purpose or result. It is common in daily English and can be used in IELTS Speaking, but in formal writing, `ineffective` or `unproductive` may sometimes sound more academic.
+
+Common structures:
+
+* `be pointless`: vô nghĩa/không có ích
+* `pointless to + verb`: vô ích khi làm gì
+* `a pointless exercise`: một việc làm vô ích
+
+### Examples
+
+1. **It is pointless to build new roads if public transport remains unreliable.**
+   → Việc xây đường mới là vô ích nếu giao thông công cộng vẫn không đáng tin cậy.
+
+2. **Arguing about the mistake is pointless unless we also find a solution.**
+   → Tranh cãi về lỗi sai là vô ích nếu chúng ta không tìm ra giải pháp.
+
+### Common collocations
+
+* **pointless argument**: cuộc tranh cãi vô nghĩa
+* **pointless exercise**: việc làm vô ích
+* **seem pointless**: có vẻ vô nghĩa
+
+### Word family
+
+* **pointless** /ˈpɔɪnt.ləs/ *(adjective)*: vô nghĩa, vô ích
+* **pointlessly** /ˈpɔɪnt.ləs.li/ *(adverb)*: một cách vô ích
+* **pointlessness** /ˈpɔɪnt.ləs.nəs/ *(uncountable noun)*: sự vô nghĩa, sự vô ích
+
+### Notes
+
+`Pointless` is natural but a little direct. In IELTS Writing Task 2, `ineffective`, `unproductive`, or `of little value` may sound more formal depending on the sentence.
+
+---
+
+## 37. Revegetate /ˌriːˈvedʒ.ɪ.teɪt/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** trồng lại thảm thực vật/cây cỏ trên vùng đất bị hư hại *(90%)*; phục hồi lớp phủ thực vật một cách tự nhiên hoặc nhân tạo *(10%)*
+
+### Usage
+
+`Revegetate` means to plant vegetation again or allow vegetation to grow back, especially on damaged land, mined land, riverbanks, or deforested areas. It is technical and useful in environmental writing.
+
+Common structures:
+
+* `revegetate + land/area/site`: trồng lại thảm thực vật trên đất/khu vực/địa điểm
+* `revegetate with native species`: phục hồi thảm thực vật bằng loài bản địa
+* `revegetate after + damage/activity`: phục hồi thảm thực vật sau thiệt hại/hoạt động nào
+
+### Examples
+
+1. **The government plans to revegetate degraded hillsides with native plants.**
+   → Chính phủ có kế hoạch phục hồi thảm thực vật trên các sườn đồi bị suy thoái bằng cây bản địa.
+
+2. **Mining companies should be required to revegetate land after extraction ends.**
+   → Các công ty khai khoáng nên bị yêu cầu phục hồi thảm thực vật trên đất sau khi việc khai thác kết thúc.
+
+### Common collocations
+
+* **revegetate degraded land**: phục hồi thảm thực vật trên đất suy thoái
+* **revegetate with native species**: trồng lại bằng các loài bản địa
+* **revegetate mined areas**: phục hồi thảm thực vật ở khu vực đã khai thác mỏ
+
+### Word family
+
+* **revegetate** /ˌriːˈvedʒ.ɪ.teɪt/ *(verb)*: phục hồi/trồng lại thảm thực vật
+* **revegetation** /ˌriːˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: sự phục hồi thảm thực vật
+* **vegetation** /ˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: thảm thực vật
+
+### Notes
+
+`Revegetate` is more specific than `replant`. `Replant` can mean plant trees or crops again, while `revegetate` focuses on restoring plant cover across an area.
+
+---
+
+## 38. Liable /ˈlaɪ.ə.bəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** chịu trách nhiệm pháp lý về điều gì *(45%)*; có khả năng dễ bị/xảy ra điều gì tiêu cực *(40%)*; phải chịu hoặc có nghĩa vụ làm gì trong văn phong trang trọng *(15%)*
+
+### Usage
+
+`Liable` has two important meanings. In law and business, it means legally responsible for something. In general English, it can mean likely to experience something unpleasant or likely to do something.
+
+Common structures:
+
+* `be liable for + noun`: chịu trách nhiệm pháp lý về điều gì
+* `be liable to + verb`: có khả năng/dễ làm hoặc gặp điều gì
+* `be held liable`: bị quy trách nhiệm pháp lý
+
+### Examples
+
+1. **Companies should be held liable for environmental damage caused by their factories.**
+   → Các công ty nên bị quy trách nhiệm pháp lý về thiệt hại môi trường do nhà máy của họ gây ra.
+
+2. **Old buildings are liable to collapse during severe storms.**
+   → Các tòa nhà cũ có khả năng sụp đổ trong những cơn bão mạnh.
+
+### Common collocations
+
+* **legally liable**: chịu trách nhiệm pháp lý
+* **held liable**: bị quy trách nhiệm
+* **liable to collapse/fail/change**: có khả năng sụp đổ/thất bại/thay đổi
+
+### Word family
+
+* **liable** /ˈlaɪ.ə.bəl/ *(adjective)*: chịu trách nhiệm pháp lý; có khả năng bị
+* **liability** /ˌlaɪ.əˈbɪl.ə.ti/ *(countable/uncountable noun)*: trách nhiệm pháp lý; khoản nợ; điểm bất lợi
+* **liabilities** /ˌlaɪ.əˈbɪl.ə.tiz/ *(plural noun)*: các khoản nợ/trách nhiệm pháp lý
+
+### Notes
+
+`Liable for` usually means legally responsible. `Liable to` usually means likely to experience something, often negative. Do not confuse `liable` with `reliable`; `reliable` means dependable or trustworthy.
