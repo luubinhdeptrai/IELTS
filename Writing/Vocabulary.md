@@ -1758,3 +1758,700 @@ Common structures:
 ### Notes
 
 `Be accused of` means “bị buộc tội/bị cáo buộc là đã làm gì”. Use `of + noun/V-ing`, not `to + verb`. Correct: `He was accused of stealing money.` Incorrect: `He was accused to steal money.`
+
+---
+
+## 44. Acute /əˈkjuːt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** nghiêm trọng/cấp bách, đặc biệt với vấn đề hoặc tình trạng khó khăn *(45%)*; sắc bén/nhạy bén, đặc biệt với giác quan hoặc trí tuệ *(25%)*; cấp tính, xuất hiện nhanh trong y học *(20%)*; góc nhọn trong toán học *(10%)*
+
+### Usage
+
+`Acute` describes something severe, intense, or urgent. In academic and IELTS writing, it is useful for problems such as shortages, poverty, stress, or pressure. In medicine, it describes a condition that develops suddenly and needs attention.
+
+Common structures:
+
+* `acute + problem/shortage/crisis`: vấn đề/sự thiếu hụt/khủng hoảng nghiêm trọng
+* `acute pain/stress`: cơn đau/căng thẳng dữ dội hoặc cấp tính
+* `an acute awareness of + noun`: nhận thức sâu sắc về điều gì
+
+### Examples
+
+1. **Many cities face an acute shortage of affordable housing.**
+   → Nhiều thành phố đối mặt với tình trạng thiếu nhà ở giá phải chăng nghiêm trọng.
+
+2. **Children can develop an acute awareness of family tension.**
+   → Trẻ em có thể phát triển nhận thức rất nhạy về căng thẳng trong gia đình.
+
+### Common collocations
+
+* **acute shortage**: sự thiếu hụt nghiêm trọng
+* **acute problem**: vấn đề nghiêm trọng/cấp bách
+* **acute pain**: cơn đau cấp tính/dữ dội
+
+### Word family
+
+* **acute** /əˈkjuːt/ *(adjective)*: nghiêm trọng, cấp tính, nhạy bén
+* **acutely** /əˈkjuːt.li/ *(adverb)*: một cách sâu sắc/dữ dội
+* **acuteness** /əˈkjuːt.nəs/ *(uncountable noun)*: mức độ nghiêm trọng; sự nhạy bén
+
+### Notes
+
+`Acute` is stronger than `serious` in many contexts. It often suggests urgency or intensity. Do not confuse `acute` with `chronic`: `acute` is sudden or severe; `chronic` lasts for a long time.
+
+---
+
+## 45. Adolescence /ˌæd.əˈles.əns/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** tuổi vị thành niên/giai đoạn từ trẻ em sang người lớn *(85%)*; quá trình phát triển tâm sinh lý trong tuổi thiếu niên *(15%)*
+
+### Usage
+
+`Adolescence` refers to the period of life between childhood and adulthood. It is useful in IELTS topics about education, parenting, mental health, peer pressure, identity, and social development.
+
+Common structures:
+
+* `during adolescence`: trong tuổi vị thành niên
+* `early/late adolescence`: đầu/cuối tuổi vị thành niên
+* `the transition from adolescence to adulthood`: sự chuyển tiếp từ tuổi vị thành niên sang tuổi trưởng thành
+
+### Examples
+
+1. **Adolescence is a period when young people develop their identity.**
+   → Tuổi vị thành niên là giai đoạn người trẻ phát triển bản sắc cá nhân.
+
+2. **Supportive parents can help teenagers cope with stress during adolescence.**
+   → Cha mẹ biết hỗ trợ có thể giúp thanh thiếu niên đối phó với căng thẳng trong tuổi vị thành niên.
+
+### Common collocations
+
+* **during adolescence**: trong tuổi vị thành niên
+* **early adolescence**: đầu tuổi vị thành niên
+* **adolescence and adulthood**: tuổi vị thành niên và tuổi trưởng thành
+
+### Word family
+
+* **adolescence** /ˌæd.əˈles.əns/ *(uncountable noun)*: tuổi vị thành niên
+* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên
+* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành
+
+### Notes
+
+`Adolescence` is the life stage; `adolescent` is the person or adjective. In everyday English, people often say `teenage years`, but `adolescence` is more academic.
+
+---
+
+## 46. Adopt UK: /əˈdɒpt/ US: /əˈdɑːpt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** nhận nuôi một đứa trẻ hoặc động vật *(35%)*; áp dụng/chấp nhận một phương pháp, chính sách, thái độ hoặc cách tiếp cận *(55%)*; chính thức thông qua một luật hoặc đề xuất *(10%)*
+
+### Usage
+
+`Adopt` means to take something as your own. It can refer to legally becoming the parent of a child, taking in an animal, or choosing to use a method, policy, habit, or attitude.
+
+Common structures:
+
+* `adopt a child`: nhận nuôi một đứa trẻ
+* `adopt a policy/approach/method`: áp dụng một chính sách/cách tiếp cận/phương pháp
+* `be adopted by + person/organisation`: được nhận nuôi hoặc được áp dụng bởi ai/tổ chức nào
+
+### Examples
+
+1. **The couple decided to adopt a child after years of trying to have a baby.**
+   → Cặp đôi quyết định nhận nuôi một đứa trẻ sau nhiều năm cố gắng có con.
+
+2. **Schools should adopt more practical teaching methods.**
+   → Trường học nên áp dụng các phương pháp giảng dạy thực tế hơn.
+
+### Common collocations
+
+* **adopt a child**: nhận nuôi một đứa trẻ
+* **adopt a policy**: áp dụng/thông qua một chính sách
+* **adopt an approach**: áp dụng một cách tiếp cận
+
+### Word family
+
+* **adopt** /əˈdɒpt/ *(transitive verb)*: nhận nuôi; áp dụng
+* **adoption** /əˈdɒp.ʃən/ *(uncountable/countable noun)*: sự nhận nuôi; sự áp dụng
+* **adoptive** /əˈdɒp.tɪv/ *(adjective)*: nuôi, nhận nuôi
+
+### Notes
+
+`Adopt` is not only about children. In IELTS Writing, `adopt a policy`, `adopt a strategy`, and `adopt an approach` are very common and useful.
+
+---
+
+## 47. Adulthood /ˈæd.ʌlt.hʊd/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** tuổi trưởng thành/giai đoạn làm người lớn *(85%)*; trạng thái có trách nhiệm, độc lập và vai trò xã hội của người lớn *(15%)*
+
+### Usage
+
+`Adulthood` refers to the stage of life when someone is an adult. It is useful in topics about family, education, independence, employment, responsibility, and social development.
+
+Common structures:
+
+* `enter/reach adulthood`: bước vào/đạt đến tuổi trưởng thành
+* `in adulthood`: trong giai đoạn trưởng thành
+* `the transition to adulthood`: sự chuyển tiếp sang tuổi trưởng thành
+
+### Examples
+
+1. **The transition to adulthood can be stressful for young people.**
+   → Sự chuyển tiếp sang tuổi trưởng thành có thể gây căng thẳng cho người trẻ.
+
+2. **Good upbringing can influence a person's behaviour in adulthood.**
+   → Sự nuôi dạy tốt có thể ảnh hưởng đến hành vi của một người khi trưởng thành.
+
+### Common collocations
+
+* **early adulthood**: giai đoạn đầu tuổi trưởng thành
+* **reach adulthood**: đến tuổi trưởng thành
+* **transition to adulthood**: chuyển tiếp sang tuổi trưởng thành
+
+### Word family
+
+* **adulthood** /ˈæd.ʌlt.hʊd/ *(uncountable noun)*: tuổi trưởng thành
+* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành
+* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên
+
+### Notes
+
+`Adulthood` is the stage of life, while `adult` is the person or adjective. Do not say `an adulthood`; it is normally uncountable.
+
+---
+
+## 48. Bond /bɒnd/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** mối gắn kết/tình cảm giữa người với người *(noun, 45%)*; sự liên kết hoặc mối quan hệ giữa vật/ý tưởng/tổ chức *(noun, 25%)*; gắn kết/tạo mối quan hệ *(verb, 20%)*; trái phiếu hoặc cam kết pháp lý *(noun, 10%)*
+
+### Usage
+
+`Bond` often refers to an emotional connection between people, especially family members, friends, or communities. As a verb, it means to develop a close relationship.
+
+Common structures:
+
+* `a strong bond between A and B`: mối gắn kết mạnh mẽ giữa A và B
+* `bond with + person`: gắn kết với ai
+* `family bonds`: mối gắn kết gia đình
+
+### Examples
+
+1. **Shared experiences can create a strong bond between parents and children.**
+   → Những trải nghiệm chung có thể tạo ra mối gắn kết mạnh mẽ giữa cha mẹ và con cái.
+
+2. **Children often bond with caregivers who respond to them with warmth.**
+   → Trẻ em thường gắn bó với người chăm sóc phản hồi với chúng bằng sự ấm áp.
+
+### Common collocations
+
+* **strong bond**: mối gắn kết mạnh mẽ
+* **family bond**: mối gắn kết gia đình
+* **emotional bond**: mối gắn kết cảm xúc
+
+### Word family
+
+* **bond** /bɒnd/ *(noun/verb)*: mối gắn kết; gắn kết
+* **bonding** /ˈbɒn.dɪŋ/ *(uncountable noun/verb form)*: sự gắn kết; đang gắn kết
+* **bonded** /ˈbɒn.dɪd/ *(adjective/verb form)*: được gắn kết, có liên kết
+
+### Notes
+
+`Bond` is often deeper and warmer than `relationship`. A relationship can be neutral, but a `bond` usually suggests closeness, trust, or emotional attachment.
+
+---
+
+## 49. Forge /fɔːdʒ/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** tạo dựng/xây dựng một mối quan hệ, sự nghiệp hoặc thỏa thuận bằng nỗ lực *(verb, 55%)*; rèn kim loại bằng nhiệt *(verb/noun, 25%)*; làm giả tài liệu/chữ ký *(verb, 20%)*
+
+### Usage
+
+`Forge` means to create something strong through effort, especially a relationship, alliance, identity, or path. It can also mean to shape metal or to make a fake document or signature.
+
+Common structures:
+
+* `forge a relationship/bond`: xây dựng một mối quan hệ/mối gắn kết
+* `forge an alliance/partnership`: tạo dựng liên minh/quan hệ hợp tác
+* `forge a signature/document`: làm giả chữ ký/tài liệu
+
+### Examples
+
+1. **Schools can help children forge strong friendships across social backgrounds.**
+   → Trường học có thể giúp trẻ em xây dựng tình bạn bền chặt giữa các tầng lớp xã hội khác nhau.
+
+2. **The two organisations forged a partnership to support disadvantaged families.**
+   → Hai tổ chức đã xây dựng quan hệ hợp tác để hỗ trợ các gia đình thiệt thòi.
+
+### Common collocations
+
+* **forge a bond**: tạo dựng mối gắn kết
+* **forge a relationship**: xây dựng mối quan hệ
+* **forge a partnership**: thiết lập quan hệ hợp tác
+
+### Word family
+
+* **forge** /fɔːdʒ/ *(verb/noun)*: tạo dựng; rèn; lò rèn
+* **forgery** /ˈfɔː.dʒər.i/ *(countable/uncountable noun)*: sự làm giả; tài liệu giả
+* **forged** /fɔːdʒd/ *(adjective/verb form)*: được tạo dựng; bị làm giả
+
+### Notes
+
+`Forge a bond/relationship` is positive and means build something strong. `Forge a signature/document` is negative and means make a fake one. Context matters a lot.
+
+---
+
+## 50. Close-knit /ˌkləʊs ˈnɪt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** gắn bó khăng khít, đặc biệt với gia đình hoặc cộng đồng *(85%)*; có quan hệ nội bộ chặt chẽ và hỗ trợ lẫn nhau *(15%)*
+
+### Usage
+
+`Close-knit` describes a family, group, or community whose members know and support each other well. It is useful in IELTS Speaking and Writing about family, neighbourhoods, and social support.
+
+Common structures:
+
+* `a close-knit family`: một gia đình gắn bó khăng khít
+* `a close-knit community`: một cộng đồng gắn bó
+* `remain close-knit`: vẫn giữ sự gắn bó chặt chẽ
+
+### Examples
+
+1. **I grew up in a close-knit family where everyone supported each other.**
+   → Tôi lớn lên trong một gia đình gắn bó, nơi mọi người hỗ trợ lẫn nhau.
+
+2. **Close-knit communities can provide emotional support during difficult times.**
+   → Những cộng đồng gắn bó có thể cung cấp sự hỗ trợ tinh thần trong thời điểm khó khăn.
+
+### Common collocations
+
+* **close-knit family**: gia đình gắn bó khăng khít
+* **close-knit community**: cộng đồng gắn bó
+* **close-knit group**: nhóm gắn bó chặt chẽ
+
+### Word family
+
+* **close-knit** /ˌkləʊs ˈnɪt/ *(adjective)*: gắn bó khăng khít
+* **close** /kləʊs/ *(adjective)*: thân thiết, gần gũi
+* **knit** /nɪt/ *(verb)*: đan; gắn kết
+
+### Notes
+
+`Close-knit` is usually positive. It describes emotional closeness and mutual support, not physical distance.
+
+---
+
+## 51. Endure /ɪnˈdjʊər/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** chịu đựng khó khăn, đau đớn hoặc áp lực trong thời gian dài *(65%)*; tồn tại/kéo dài qua thời gian dù gặp khó khăn *(25%)*; kiên trì vượt qua điều gì *(10%)*
+
+### Usage
+
+`Endure` means to suffer something difficult without giving up, or to continue existing for a long time. It is more formal and stronger than `experience`.
+
+Common structures:
+
+* `endure hardship/pain/stress`: chịu đựng khó khăn/đau đớn/căng thẳng
+* `endure for + time period`: kéo dài/tồn tại trong bao lâu
+* `be forced to endure + noun`: bị buộc phải chịu đựng điều gì
+
+### Examples
+
+1. **Many children endure emotional stress when their parents separate.**
+   → Nhiều trẻ em chịu đựng căng thẳng cảm xúc khi cha mẹ ly thân.
+
+2. **Strong family bonds can endure despite distance and disagreement.**
+   → Mối gắn kết gia đình mạnh mẽ có thể tồn tại dù có khoảng cách và bất đồng.
+
+### Common collocations
+
+* **endure hardship**: chịu đựng khó khăn
+* **endure pain**: chịu đau
+* **endure pressure**: chịu áp lực
+
+### Word family
+
+* **endure** /ɪnˈdjʊər/ *(verb)*: chịu đựng; tồn tại
+* **endurance** /ɪnˈdjʊə.rəns/ *(uncountable noun)*: sức chịu đựng, sự bền bỉ
+* **enduring** /ɪnˈdjʊə.rɪŋ/ *(adjective)*: bền lâu, kéo dài
+
+### Notes
+
+`Endure` often sounds serious. Use it for real hardship, pain, pressure, or long-lasting situations, not small inconveniences.
+
+---
+
+## 52. Fatherhood /ˈfɑː.ðə.hʊd/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** vai trò/làm cha và trách nhiệm của người cha *(80%)*; trải nghiệm, bản sắc hoặc giai đoạn cuộc đời của người cha *(20%)*
+
+### Usage
+
+`Fatherhood` refers to the state, role, or experience of being a father. It is useful in topics about parenting, family responsibilities, gender roles, and work-life balance.
+
+Common structures:
+
+* `the responsibilities of fatherhood`: trách nhiệm của việc làm cha
+* `prepare for fatherhood`: chuẩn bị làm cha
+* `experience fatherhood`: trải nghiệm việc làm cha
+
+### Examples
+
+1. **Fatherhood can change a man's priorities and sense of responsibility.**
+   → Việc làm cha có thể thay đổi ưu tiên và ý thức trách nhiệm của một người đàn ông.
+
+2. **Modern fatherhood often involves more active childcare than in the past.**
+   → Vai trò làm cha hiện đại thường bao gồm việc chăm sóc con cái tích cực hơn so với trước đây.
+
+### Common collocations
+
+* **modern fatherhood**: vai trò làm cha hiện đại
+* **responsibilities of fatherhood**: trách nhiệm của việc làm cha
+* **experience fatherhood**: trải nghiệm việc làm cha
+
+### Word family
+
+* **fatherhood** /ˈfɑː.ðə.hʊd/ *(uncountable noun)*: việc làm cha, vai trò làm cha
+* **father** /ˈfɑː.ðər/ *(countable noun/verb)*: cha; làm cha
+* **fatherly** /ˈfɑː.ðə.li/ *(adjective)*: như cha, ân cần như người cha
+
+### Notes
+
+`Fatherhood` focuses on the role or experience of being a father, not simply the biological fact. It is parallel to `motherhood`.
+
+---
+
+## 53. Joy /dʒɔɪ/
+
+* **Part of speech:** uncountable noun; countable noun
+* **Vietnamese meaning:** niềm vui lớn/cảm giác hạnh phúc sâu sắc *(uncountable noun, 70%)*; điều hoặc người mang lại niềm vui *(countable noun, 20%)*; sự vui mừng trong cách nói trang trọng/cảm xúc mạnh *(10%)*
+
+### Usage
+
+`Joy` means a strong feeling of happiness. It is warmer and deeper than `fun`. It is useful in speaking and writing about family, children, relationships, celebrations, and personal experiences.
+
+Common structures:
+
+* `bring joy to + someone`: mang lại niềm vui cho ai
+* `a source of joy`: nguồn vui
+* `find joy in + noun/V-ing`: tìm thấy niềm vui trong điều gì
+
+### Examples
+
+1. **Children can bring great joy to their parents' lives.**
+   → Con cái có thể mang lại niềm vui lớn cho cuộc sống của cha mẹ.
+
+2. **Many people find joy in spending time with their family.**
+   → Nhiều người tìm thấy niềm vui trong việc dành thời gian bên gia đình.
+
+### Common collocations
+
+* **bring joy**: mang lại niềm vui
+* **great joy**: niềm vui lớn
+* **source of joy**: nguồn vui
+
+### Word family
+
+* **joy** /dʒɔɪ/ *(noun)*: niềm vui
+* **joyful** /ˈdʒɔɪ.fəl/ *(adjective)*: vui mừng, tràn đầy niềm vui
+* **joyfully** /ˈdʒɔɪ.fəl.i/ *(adverb)*: một cách vui mừng
+
+### Notes
+
+`Joy` is stronger and more emotional than `happiness` in many contexts. `Fun` usually refers to enjoyment from an activity, while `joy` is deeper.
+
+---
+
+## 54. Maternal /məˈtɜː.nəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc về người mẹ hoặc vai trò làm mẹ *(55%)*; có tính chăm sóc, dịu dàng như mẹ *(25%)*; thuộc bên mẹ trong quan hệ gia đình *(20%)*
+
+### Usage
+
+`Maternal` describes things related to mothers, motherhood, or mother-like care. It is common in academic and medical contexts, especially in phrases such as `maternal health` and `maternal instinct`.
+
+Common structures:
+
+* `maternal health`: sức khỏe bà mẹ
+* `maternal instinct`: bản năng làm mẹ
+* `maternal side/family`: bên ngoại/bên mẹ
+
+### Examples
+
+1. **Maternal health services are essential for both mothers and babies.**
+   → Dịch vụ sức khỏe bà mẹ rất cần thiết cho cả mẹ và em bé.
+
+2. **She inherited her musical talent from her maternal grandmother.**
+   → Cô ấy thừa hưởng tài năng âm nhạc từ bà ngoại.
+
+### Common collocations
+
+* **maternal health**: sức khỏe bà mẹ
+* **maternal instinct**: bản năng làm mẹ
+* **maternal grandmother**: bà ngoại
+
+### Word family
+
+* **maternal** /məˈtɜː.nəl/ *(adjective)*: thuộc về mẹ, bên mẹ
+* **maternity** /məˈtɜː.nə.ti/ *(uncountable noun/adjective)*: thai sản, việc làm mẹ
+* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ
+
+### Notes
+
+`Maternal` is more formal than `motherly`. `Maternal` often appears in medical, family, or academic contexts; `motherly` describes warm caring behaviour.
+
+---
+
+## 55. Motherhood /ˈmʌð.ə.hʊd/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** vai trò/làm mẹ và trách nhiệm của người mẹ *(80%)*; trải nghiệm, bản sắc hoặc giai đoạn cuộc đời của người mẹ *(20%)*
+
+### Usage
+
+`Motherhood` refers to the state, role, or experience of being a mother. It is useful in topics about parenting, family life, gender roles, maternity leave, and work-life balance.
+
+Common structures:
+
+* `the responsibilities of motherhood`: trách nhiệm của việc làm mẹ
+* `combine motherhood with work`: kết hợp việc làm mẹ với công việc
+* `experience motherhood`: trải nghiệm việc làm mẹ
+
+### Examples
+
+1. **Motherhood can bring both joy and pressure.**
+   → Việc làm mẹ có thể mang lại cả niềm vui lẫn áp lực.
+
+2. **Many women find it difficult to combine motherhood with a demanding career.**
+   → Nhiều phụ nữ thấy khó kết hợp việc làm mẹ với một sự nghiệp đòi hỏi cao.
+
+### Common collocations
+
+* **modern motherhood**: vai trò làm mẹ hiện đại
+* **responsibilities of motherhood**: trách nhiệm của việc làm mẹ
+* **motherhood and work**: việc làm mẹ và công việc
+
+### Word family
+
+* **motherhood** /ˈmʌð.ə.hʊd/ *(uncountable noun)*: việc làm mẹ, vai trò làm mẹ
+* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ
+* **motherly** /ˈmʌð.ə.li/ *(adjective)*: dịu dàng, chăm sóc như mẹ
+
+### Notes
+
+`Motherhood` is the role or experience of being a mother. `Maternity` is often used for pregnancy, childbirth, or leave from work, as in `maternity leave`.
+
+---
+
+## 56. Relation /rɪˈleɪ.ʃən/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** mối liên hệ/mối quan hệ giữa sự việc, ý tưởng hoặc người *(45%)*; người họ hàng/người thân *(countable noun, 30%)*; quan hệ giữa các nhóm/quốc gia/tổ chức *(plural noun `relations`, 25%)*
+
+### Usage
+
+`Relation` can mean a connection between things or people, or a family member. In many everyday family contexts, `relative` is more common for "người thân", and `relationship` is more common for a personal relationship.
+
+Common structures:
+
+* `in relation to + noun`: liên quan đến điều gì
+* `a relation between A and B`: mối liên hệ giữa A và B
+* `family relations`: quan hệ gia đình hoặc người thân
+
+### Examples
+
+1. **There is a clear relation between upbringing and children's behaviour.**
+   → Có một mối liên hệ rõ ràng giữa sự nuôi dạy và hành vi của trẻ em.
+
+2. **Many people visit their relations during traditional holidays.**
+   → Nhiều người thăm họ hàng trong các dịp lễ truyền thống.
+
+### Common collocations
+
+* **in relation to**: liên quan đến
+* **family relations**: quan hệ gia đình; họ hàng
+* **international relations**: quan hệ quốc tế
+
+### Word family
+
+* **relation** /rɪˈleɪ.ʃən/ *(noun)*: mối liên hệ; người họ hàng
+* **relationship** /rɪˈleɪ.ʃən.ʃɪp/ *(countable noun)*: mối quan hệ
+* **relative** /ˈrel.ə.tɪv/ *(countable noun/adjective)*: người thân; tương đối
+
+### Notes
+
+For people, `relationship` usually means the connection between people, while `relative` means a family member. `Relation` is useful but can sound more formal or less personal.
+
+---
+
+## 57. Resemblance /rɪˈzem.bləns/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sự giống nhau về ngoại hình, tính cách hoặc đặc điểm *(80%)*; điểm tương đồng giữa hai sự vật/ý tưởng *(20%)*
+
+### Usage
+
+`Resemblance` means similarity between two people or things. It is especially common when talking about family appearance or characteristics.
+
+Common structures:
+
+* `a resemblance between A and B`: sự giống nhau giữa A và B
+* `bear a resemblance to + someone/something`: có nét giống với ai/cái gì
+* `a strong/close resemblance`: sự giống nhau rõ rệt
+
+### Examples
+
+1. **There is a strong resemblance between the child and her mother.**
+   → Có sự giống nhau rõ rệt giữa đứa trẻ và mẹ của cô bé.
+
+2. **The two education systems bear some resemblance to each other.**
+   → Hai hệ thống giáo dục có một số điểm tương đồng với nhau.
+
+### Common collocations
+
+* **strong resemblance**: sự giống nhau rõ rệt
+* **family resemblance**: nét giống nhau trong gia đình
+* **bear a resemblance to**: có nét giống với
+
+### Word family
+
+* **resemblance** /rɪˈzem.bləns/ *(noun)*: sự giống nhau, nét tương đồng
+* **resemble** /rɪˈzem.bəl/ *(transitive verb)*: giống, giống với
+* **resembling** /rɪˈzem.blɪŋ/ *(verb form/adjective)*: đang giống; giống như
+
+### Notes
+
+`Resemble` is a transitive verb, so do not use `with`. Correct: `She resembles her mother.` Incorrect: `She resembles with her mother.`
+
+---
+
+## 58. Rivalry /ˈraɪ.vəl.ri/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sự cạnh tranh/ganh đua giữa cá nhân, nhóm hoặc tổ chức *(75%)*; mối kình địch kéo dài, thường có cảm xúc mạnh *(25%)*
+
+### Usage
+
+`Rivalry` refers to competition between people, groups, teams, siblings, companies, or countries. It can be friendly or hostile depending on context.
+
+Common structures:
+
+* `rivalry between A and B`: sự cạnh tranh giữa A và B
+* `sibling rivalry`: sự ganh đua giữa anh chị em
+* `intense/fierce rivalry`: sự cạnh tranh gay gắt
+
+### Examples
+
+1. **Sibling rivalry is common when children feel they must compete for parental attention.**
+   → Sự ganh đua giữa anh chị em là phổ biến khi trẻ cảm thấy phải cạnh tranh để được cha mẹ chú ý.
+
+2. **Healthy rivalry between students can motivate them to work harder.**
+   → Sự cạnh tranh lành mạnh giữa học sinh có thể thúc đẩy các em học chăm hơn.
+
+### Common collocations
+
+* **sibling rivalry**: sự ganh đua giữa anh chị em
+* **fierce rivalry**: sự cạnh tranh gay gắt
+* **friendly rivalry**: sự cạnh tranh thân thiện
+
+### Word family
+
+* **rivalry** /ˈraɪ.vəl.ri/ *(noun)*: sự cạnh tranh, sự kình địch
+* **rival** /ˈraɪ.vəl/ *(countable noun/verb/adjective)*: đối thủ; cạnh tranh; đối địch
+* **rivalrous** /ˈraɪ.vəl.rəs/ *(adjective)*: có tính cạnh tranh/kình địch
+
+### Notes
+
+`Rivalry` is the state or relationship of competition. `Competitor` is a person or organisation in a competition; `rival` often suggests a stronger or longer-term opponent.
+
+---
+
+## 59. Temperament /ˈtem.prə.mənt/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** tính khí/bản tính tự nhiên của một người hoặc trẻ em *(75%)*; khuynh hướng cảm xúc ổn định như dễ nóng, bình tĩnh, nhạy cảm *(20%)*; khí chất trong nghệ thuật hoặc tâm lý học *(5%)*
+
+### Usage
+
+`Temperament` refers to someone's natural emotional style or personality, especially how they usually react to people and situations. It is useful in psychology, parenting, education, and family topics.
+
+Common structures:
+
+* `a calm/difficult temperament`: tính khí điềm tĩnh/khó chiều
+* `a child’s temperament`: tính khí của một đứa trẻ
+* `differences in temperament`: sự khác biệt về tính khí
+
+### Examples
+
+1. **A child's temperament can affect how they respond to discipline.**
+   → Tính khí của một đứa trẻ có thể ảnh hưởng đến cách trẻ phản ứng với kỷ luật.
+
+2. **Parents should adapt their approach to each child's temperament.**
+   → Cha mẹ nên điều chỉnh cách tiếp cận theo tính khí của từng đứa trẻ.
+
+### Common collocations
+
+* **calm temperament**: tính khí điềm tĩnh
+* **difficult temperament**: tính khí khó chiều
+* **child's temperament**: tính khí của trẻ
+
+### Word family
+
+* **temperament** /ˈtem.prə.mənt/ *(noun)*: tính khí, khí chất
+* **temperamental** /ˌtem.prəˈmen.təl/ *(adjective)*: thất thường, dễ thay đổi cảm xúc
+* **temper** /ˈtem.pər/ *(countable noun/verb)*: tính nóng; làm dịu/điều chỉnh
+
+### Notes
+
+`Temperament` is more natural and psychological than `character` when talking about a child's emotional style. Do not confuse it with `temper`, which often means anger.
+
+---
+
+## 60. Upbringing /ˈʌpˌbrɪŋ.ɪŋ/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sự nuôi dạy và giáo dục một đứa trẻ trong gia đình *(80%)*; nền tảng gia đình, giá trị và môi trường lớn lên của một người *(20%)*
+
+### Usage
+
+`Upbringing` refers to the way a child is raised, including parenting style, discipline, values, education, and family environment. It is very useful in IELTS topics about family, education, crime, behaviour, and social development.
+
+Common structures:
+
+* `have a strict/supportive upbringing`: có sự nuôi dạy nghiêm khắc/biết hỗ trợ
+* `a person's upbringing`: sự nuôi dạy/nền tảng lớn lên của một người
+* `influence someone's upbringing`: ảnh hưởng đến sự nuôi dạy của ai
+
+### Examples
+
+1. **A supportive upbringing can help children develop confidence.**
+   → Sự nuôi dạy biết hỗ trợ có thể giúp trẻ em phát triển sự tự tin.
+
+2. **A person's upbringing often shapes their values in adulthood.**
+   → Cách một người được nuôi dạy thường định hình giá trị của họ khi trưởng thành.
+
+### Common collocations
+
+* **strict upbringing**: sự nuôi dạy nghiêm khắc
+* **supportive upbringing**: sự nuôi dạy biết hỗ trợ
+* **stable upbringing**: sự nuôi dạy ổn định
+
+### Word family
+
+* **upbringing** /ˈʌpˌbrɪŋ.ɪŋ/ *(noun)*: sự nuôi dạy, nền tảng lớn lên
+* **bring up** /brɪŋ ˈʌp/ *(phrasal verb)*: nuôi dạy
+* **raised** /reɪzd/ *(adjective/verb form)*: được nuôi dạy, được lớn lên
+
+### Notes
+
+`Upbringing` focuses on how someone was raised as a child. `Education` focuses more on schooling and learning, while `upbringing` includes family values, discipline, habits, and emotional environment.
