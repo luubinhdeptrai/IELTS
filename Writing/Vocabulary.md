@@ -1553,3 +1553,85 @@ Common structures:
 ### Notes
 
 `Liable for` usually means legally responsible. `Liable to` usually means likely to experience something, often negative. Do not confuse `liable` with `reliable`; `reliable` means dependable or trustworthy.
+
+---
+
+## 39. Most /məʊst/
+
+* **Part of speech:** determiner; pronoun; adverb
+* **Vietnamese meaning:** hầu hết/phần lớn + danh từ *(determiner/pronoun, 65%)*; nhiều nhất/cao nhất trong so sánh nhất *(determiner/pronoun/adverb, 25%)*; rất/cực kỳ trong văn phong trang trọng hoặc nhấn mạnh *(adverb, 10%)*
+
+### Usage
+
+`Most` usually means "the majority of" or "the greatest amount/degree". Use it before a plural noun or an uncountable noun when you mean "hầu hết". It can also form superlatives, such as `the most important issue`.
+
+Common structures:
+
+* `most + plural noun`: hầu hết các danh từ số nhiều
+* `most + uncountable noun`: hầu hết/phần lớn danh từ không đếm được
+* `the most + adjective`: nhất, ở mức cao nhất
+
+### Examples
+
+1. **Most students need regular practice to improve their speaking.**
+   → Hầu hết học sinh cần luyện tập thường xuyên để cải thiện kỹ năng nói.
+
+2. **Air pollution is one of the most serious problems in many cities.**
+   → Ô nhiễm không khí là một trong những vấn đề nghiêm trọng nhất ở nhiều thành phố.
+
+### Common collocations
+
+* **most people**: hầu hết mọi người
+* **most of the time**: hầu hết thời gian
+* **the most important factor**: yếu tố quan trọng nhất
+
+### Word family
+
+* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất
+* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là
+* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt
+
+### Notes
+
+`Most` answers "how many/how much?" and usually means "hầu hết/phần lớn". Do not confuse it with `almost`, which means "nearly but not completely". Say `most people`, not `almost people`. Say `almost all people` if you mean "gần như tất cả mọi người".
+
+---
+
+## 40. Almost /ˈɔːl.məʊst/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** gần như/gần đạt đến mức nào đó nhưng chưa hoàn toàn *(80%)*; suýt nữa, gần xảy ra nhưng không xảy ra hoặc chưa xảy ra *(20%)*
+
+### Usage
+
+`Almost` means "nearly" or "not completely, but very close". It modifies adjectives, verbs, adverbs, numbers, or expressions such as `all`, `every`, and `no`. It does not directly modify normal plural nouns like `people` or `students`.
+
+Common structures:
+
+* `almost + adjective`: gần như ở trạng thái nào đó
+* `almost + verb`: gần như/suýt làm gì
+* `almost all/every/no + noun`: gần như tất cả/mọi/không có danh từ nào
+
+### Examples
+
+1. **The hotel was almost full when we arrived.**
+   → Khách sạn gần như đã kín phòng khi chúng tôi đến.
+
+2. **Almost all students find articles difficult at first.**
+   → Gần như tất cả học sinh ban đầu đều thấy mạo từ khó.
+
+### Common collocations
+
+* **almost all**: gần như tất cả
+* **almost every day**: gần như mỗi ngày
+* **almost impossible**: gần như không thể
+
+### Word family
+
+* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt
+* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất
+* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là
+
+### Notes
+
+The key difference is: `most` = "hầu hết/phần lớn"; `almost` = "gần như/suýt". Correct: `Most people use smartphones.` Correct: `Almost all people use smartphones.` Incorrect: `Almost people use smartphones.`
