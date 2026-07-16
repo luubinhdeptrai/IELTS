@@ -29,9 +29,18 @@ Common structures:
 
 ### Word family
 
-* **transit** /ˈtræn.zɪt/ *(noun/verb)*: sự vận chuyển, quá cảnh; vận chuyển, đi qua
-* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp
-* **transitory** /ˈtræn.zɪ.tər.i/ *(adjective)*: tạm thời, chóng qua
+* **transit** /ˈtræn.zɪt/ *(noun/verb)*: sự vận chuyển, quá cảnh; vận chuyển, đi qua  
+  *Example:* The goods were damaged while in transit.  
+  → Hàng hóa bị hư hỏng trong quá trình vận chuyển.
+
+* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp  
+  *Example:* Students need support during transitional periods in their education.  
+  → Học sinh cần được hỗ trợ trong các giai đoạn chuyển tiếp của quá trình học tập.
+
+* **transitory** /ˈtræn.zɪ.tər.i/ *(adjective)*: tạm thời, chóng qua  
+  *Example:* Some economic problems are transitory, while others are structural.  
+  → Một số vấn đề kinh tế chỉ tạm thời, trong khi những vấn đề khác mang tính cấu trúc.
+
 
 ### Notes
 
@@ -70,9 +79,18 @@ Common structures:
 
 ### Word family
 
-* **transition** /trænˈzɪʃ.ən/ *(noun/verb)*: sự chuyển đổi; chuyển đổi
-* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp
-* **transitioning** /trænˈzɪʃ.ən.ɪŋ/ *(verb form)*: đang chuyển đổi
+* **transition** /trænˈzɪʃ.ən/ *(noun/verb)*: sự chuyển đổi; chuyển đổi  
+  *Example:* The transition to renewable energy requires careful planning.  
+  → Sự chuyển đổi sang năng lượng tái tạo đòi hỏi việc lập kế hoạch cẩn thận.
+
+* **transitional** /trænˈzɪʃ.ən.əl/ *(adjective)*: mang tính chuyển tiếp  
+  *Example:* Students need support during transitional periods in their education.  
+  → Học sinh cần được hỗ trợ trong các giai đoạn chuyển tiếp của quá trình học tập.
+
+* **transitioning** /trænˈzɪʃ.ən.ɪŋ/ *(verb form)*: đang chuyển đổi  
+  *Example:* Many companies are transitioning to remote or hybrid work.  
+  → Nhiều công ty đang chuyển sang làm việc từ xa hoặc kết hợp.
+
 
 ### Notes
 
@@ -111,9 +129,18 @@ Common structures:
 
 ### Word family
 
-* **alleviate** /əˈliː.vi.eɪt/ *(verb)*: làm giảm bớt, xoa dịu
-* **alleviation** /əˌliː.viˈeɪ.ʃən/ *(uncountable noun)*: sự giảm bớt, sự xoa dịu
-* **alleviated** /əˈliː.vi.eɪ.tɪd/ *(adjective/verb form)*: được làm giảm bớt
+* **alleviate** /əˈliː.vi.eɪt/ *(verb)*: làm giảm bớt, xoa dịu  
+  *Example:* Better public transport can alleviate traffic congestion in large cities.  
+  → Giao thông công cộng tốt hơn có thể làm giảm ùn tắc giao thông ở các thành phố lớn.
+
+* **alleviation** /əˌliː.viˈeɪ.ʃən/ *(uncountable noun)*: sự giảm bớt, sự xoa dịu  
+  *Example:* Poverty alleviation requires both education and job opportunities.  
+  → Việc giảm nghèo đòi hỏi cả giáo dục và cơ hội việc làm.
+
+* **alleviated** /əˈliː.vi.eɪ.tɪd/ *(adjective/verb form)*: được làm giảm bớt  
+  *Example:* The pressure on hospitals was alleviated by early treatment programmes.  
+  → Áp lực lên bệnh viện đã được giảm bớt nhờ các chương trình điều trị sớm.
+
 
 ### Notes
 
@@ -152,9 +179,18 @@ Common structures:
 
 ### Word family
 
-* **ease** /iːz/ *(noun/verb)*: sự dễ dàng; làm giảm, nới lỏng
-* **easy** /ˈiː.zi/ *(adjective)*: dễ dàng
-* **easily** /ˈiː.zəl.i/ *(adverb)*: một cách dễ dàng
+* **ease** /iːz/ *(noun/verb)*: sự dễ dàng; làm giảm, nới lỏng  
+  *Example:* The new road may ease traffic during rush hour.  
+  → Con đường mới có thể giảm ùn tắc vào giờ cao điểm.
+
+* **easy** /ˈiː.zi/ *(adjective)*: dễ dàng  
+  *Example:* It is not always easy to change old habits.  
+  → Không phải lúc nào cũng dễ thay đổi những thói quen cũ.
+
+* **easily** /ˈiː.zəl.i/ *(adverb)*: một cách dễ dàng  
+  *Example:* Online information can be shared easily across the world.  
+  → Thông tin trực tuyến có thể được chia sẻ dễ dàng khắp thế giới.
+
 
 ### Notes
 
@@ -193,9 +229,18 @@ Common structures:
 
 ### Word family
 
-* **mitigate** /ˈmɪt.ɪ.ɡeɪt/ *(verb)*: giảm nhẹ, làm giảm tác động tiêu cực
-* **mitigation** /ˌmɪt.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự giảm nhẹ, biện pháp giảm thiểu
-* **mitigating** /ˈmɪt.ɪ.ɡeɪ.tɪŋ/ *(adjective/verb form)*: có tác dụng giảm nhẹ; đang giảm nhẹ
+* **mitigate** /ˈmɪt.ɪ.ɡeɪt/ *(verb)*: giảm nhẹ, làm giảm tác động tiêu cực  
+  *Example:* Planting trees can help mitigate the effects of urban heat.  
+  → Trồng cây có thể giúp giảm nhẹ tác động của nhiệt đô thị.
+
+* **mitigation** /ˌmɪt.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự giảm nhẹ, biện pháp giảm thiểu  
+  *Example:* Climate mitigation requires changes in energy and transport.  
+  → Giảm nhẹ biến đổi khí hậu đòi hỏi thay đổi trong năng lượng và giao thông.
+
+* **mitigating** /ˈmɪt.ɪ.ɡeɪ.tɪŋ/ *(adjective/verb form)*: có tác dụng giảm nhẹ; đang giảm nhẹ  
+  *Example:* Mitigating factors may reduce the severity of a sentence.  
+  → Các yếu tố giảm nhẹ có thể làm giảm mức độ nghiêm khắc của bản án.
+
 
 ### Notes
 
@@ -234,9 +279,18 @@ Common structures:
 
 ### Word family
 
-* **single-use** /ˌsɪŋ.ɡəl ˈjuːs/ *(adjective phrase)*: dùng một lần
-* **disposable** /dɪˈspəʊ.zə.bəl/ *(adjective)*: dùng một lần rồi bỏ, có thể vứt bỏ
-* **reuse** /ˌriːˈjuːz/ *(verb/noun)*: tái sử dụng; sự tái sử dụng
+* **single-use** /ˌsɪŋ.ɡəl ˈjuːs/ *(adjective phrase)*: dùng một lần  
+  *Example:* Single-use plastic bags are banned in some cities.  
+  → Túi nhựa dùng một lần bị cấm ở một số thành phố.
+
+* **disposable** /dɪˈspəʊ.zə.bəl/ *(adjective)*: dùng một lần rồi bỏ, có thể vứt bỏ  
+  *Example:* Disposable cups create a large amount of waste.  
+  → Cốc dùng một lần tạo ra một lượng lớn rác thải.
+
+* **reuse** /ˌriːˈjuːz/ *(verb/noun)*: tái sử dụng; sự tái sử dụng  
+  *Example:* Families can reuse glass jars instead of throwing them away.  
+  → Các gia đình có thể tái sử dụng lọ thủy tinh thay vì vứt chúng đi.
+
 
 ### Notes
 
@@ -275,9 +329,18 @@ Common structures:
 
 ### Word family
 
-* **vocational** /vəʊˈkeɪ.ʃən.əl/ *(adjective)*: thuộc về nghề nghiệp, dạy nghề
-* **vocation** /vəʊˈkeɪ.ʃən/ *(countable noun)*: nghề nghiệp, thiên hướng nghề nghiệp
-* **vocationally** /vəʊˈkeɪ.ʃən.əl.i/ *(adverb)*: theo hướng nghề nghiệp
+* **vocational** /vəʊˈkeɪ.ʃən.əl/ *(adjective)*: thuộc về nghề nghiệp, dạy nghề  
+  *Example:* Vocational courses prepare students for practical careers.  
+  → Các khóa học nghề chuẩn bị cho học sinh những nghề nghiệp thực tế.
+
+* **vocation** /vəʊˈkeɪ.ʃən/ *(countable noun)*: nghề nghiệp, thiên hướng nghề nghiệp  
+  *Example:* Teaching is often seen as a vocation, not just a job.  
+  → Dạy học thường được xem là một nghề mang tính thiên hướng, không chỉ là một công việc.
+
+* **vocationally** /vəʊˈkeɪ.ʃən.əl.i/ *(adverb)*: theo hướng nghề nghiệp  
+  *Example:* Some programmes are vocationally focused rather than academic.  
+  → Một số chương trình tập trung theo hướng nghề nghiệp hơn là học thuật.
+
 
 ### Notes
 
@@ -316,9 +379,18 @@ Common structures:
 
 ### Word family
 
-* **tuition** /tjuːˈɪʃ.ən/ *(uncountable noun)*: học phí; sự giảng dạy, dạy kèm
-* **tutor** /ˈtjuː.tər/ *(countable noun/verb)*: gia sư; dạy kèm
-* **tutorial** /tjuːˈtɔː.ri.əl/ *(countable noun/adjective)*: buổi hướng dẫn; thuộc về hướng dẫn học tập
+* **tuition** /tjuːˈɪʃ.ən/ *(uncountable noun)*: học phí; sự giảng dạy, dạy kèm  
+  *Example:* Tuition can be a heavy burden for low-income families.  
+  → Học phí có thể là gánh nặng lớn đối với các gia đình thu nhập thấp.
+
+* **tutor** /ˈtjuː.tər/ *(countable noun/verb)*: gia sư; dạy kèm  
+  *Example:* A tutor can help students prepare for difficult exams.  
+  → Gia sư có thể giúp học sinh chuẩn bị cho các kỳ thi khó.
+
+* **tutorial** /tjuːˈtɔː.ri.əl/ *(countable noun/adjective)*: buổi hướng dẫn; thuộc về hướng dẫn học tập  
+  *Example:* The online tutorial explains the grammar point clearly.  
+  → Bài hướng dẫn trực tuyến giải thích điểm ngữ pháp một cách rõ ràng.
+
 
 ### Notes
 
@@ -357,9 +429,18 @@ Common structures:
 
 ### Word family
 
-* **livelihood** /ˈlaɪv.li.hʊd/ *(countable/uncountable noun)*: sinh kế, kế sinh nhai
-* **living** /ˈlɪv.ɪŋ/ *(countable noun)*: kế sinh nhai, cách kiếm sống
-* **live** /lɪv/ *(verb)*: sống
+* **livelihood** /ˈlaɪv.li.hʊd/ *(countable/uncountable noun)*: sinh kế, kế sinh nhai  
+  *Example:* Climate change threatens the livelihood of many farmers.  
+  → Biến đổi khí hậu đe dọa sinh kế của nhiều nông dân.
+
+* **living** /ˈlɪv.ɪŋ/ *(countable noun)*: kế sinh nhai, cách kiếm sống  
+  *Example:* Fishing is the main living for many coastal families.  
+  → Đánh bắt cá là kế sinh nhai chính của nhiều gia đình ven biển.
+
+* **live** /lɪv/ *(verb)*: sống  
+  *Example:* Many students live with their parents while attending university.  
+  → Nhiều sinh viên sống với cha mẹ khi học đại học.
+
 
 ### Notes
 
@@ -398,9 +479,18 @@ Common structures:
 
 ### Word family
 
-* **irrigate** /ˈɪr.ɪ.ɡeɪt/ *(verb)*: tưới tiêu
-* **irrigation** /ˌɪr.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự tưới tiêu, hệ thống tưới tiêu
-* **irrigated** /ˈɪr.ɪ.ɡeɪ.tɪd/ *(adjective/verb form)*: được tưới tiêu
+* **irrigate** /ˈɪr.ɪ.ɡeɪt/ *(verb)*: tưới tiêu  
+  *Example:* Farmers irrigate their fields during the dry season.  
+  → Nông dân tưới tiêu đồng ruộng trong mùa khô.
+
+* **irrigation** /ˌɪr.ɪˈɡeɪ.ʃən/ *(uncountable noun)*: sự tưới tiêu, hệ thống tưới tiêu  
+  *Example:* Efficient irrigation helps conserve water in agriculture.  
+  → Hệ thống tưới tiêu hiệu quả giúp tiết kiệm nước trong nông nghiệp.
+
+* **irrigated** /ˈɪr.ɪ.ɡeɪ.tɪd/ *(adjective/verb form)*: được tưới tiêu  
+  *Example:* Irrigated land can produce more stable harvests.  
+  → Đất được tưới tiêu có thể tạo ra mùa vụ ổn định hơn.
+
 
 ### Notes
 
@@ -439,9 +529,18 @@ Common structures:
 
 ### Word family
 
-* **overexploitation** /ˌəʊ.vərˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác quá mức
-* **overexploit** /ˌəʊ.vər.ɪkˈsplɔɪt/ *(transitive verb)*: khai thác quá mức
-* **exploitation** /ˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác; sự bóc lột
+* **overexploitation** /ˌəʊ.vərˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác quá mức  
+  *Example:* Overexploitation of natural resources harms future generations.  
+  → Việc khai thác quá mức tài nguyên thiên nhiên gây hại cho các thế hệ tương lai.
+
+* **overexploit** /ˌəʊ.vər.ɪkˈsplɔɪt/ *(transitive verb)*: khai thác quá mức  
+  *Example:* Companies should not overexploit forests for short-term profit.  
+  → Các công ty không nên khai thác rừng quá mức vì lợi nhuận ngắn hạn.
+
+* **exploitation** /ˌek.splɔɪˈteɪ.ʃən/ *(uncountable noun)*: sự khai thác; sự bóc lột  
+  *Example:* The exploitation of child labour should be strictly prohibited.  
+  → Việc bóc lột lao động trẻ em nên bị cấm nghiêm ngặt.
+
 
 ### Notes
 
@@ -480,9 +579,18 @@ Common structures:
 
 ### Word family
 
-* **rote** /rəʊt/ *(adjective/noun)*: học vẹt; kiểu học thuộc máy móc
-* **memorise** /ˈmem.ə.raɪz/ *(transitive verb)*: ghi nhớ, học thuộc
-* **memorisation** /ˌmem.ə.raɪˈzeɪ.ʃən/ *(uncountable noun)*: sự ghi nhớ, sự học thuộc
+* **rote** /rəʊt/ *(adjective/noun)*: học vẹt; kiểu học thuộc máy móc  
+  *Example:* Rote learning can help with facts but not deep understanding.  
+  → Học vẹt có thể giúp nhớ dữ kiện nhưng không giúp hiểu sâu.
+
+* **memorise** /ˈmem.ə.raɪz/ *(transitive verb)*: ghi nhớ, học thuộc  
+  *Example:* Learners should memorise useful phrases, not only single words.  
+  → Người học nên ghi nhớ các cụm từ hữu ích, không chỉ từng từ riêng lẻ.
+
+* **memorisation** /ˌmem.ə.raɪˈzeɪ.ʃən/ *(uncountable noun)*: sự ghi nhớ, sự học thuộc  
+  *Example:* Memorisation is useful, but understanding is more important.  
+  → Việc ghi nhớ rất hữu ích, nhưng sự hiểu biết quan trọng hơn.
+
 
 ### Notes
 
@@ -521,9 +629,18 @@ Common structures:
 
 ### Word family
 
-* **spill** /spɪl/ *(noun/verb)*: sự đổ, sự tràn; làm đổ, tràn ra
-* **spilled** /spɪld/ *(verb form/adjective)*: đã bị đổ, đã tràn
-* **spillage** /ˈspɪl.ɪdʒ/ *(countable/uncountable noun)*: sự đổ tràn, lượng chất bị đổ tràn
+* **spill** /spɪl/ *(noun/verb)*: sự đổ, sự tràn; làm đổ, tràn ra  
+  *Example:* Factories must report any chemical spill immediately.  
+  → Các nhà máy phải báo cáo ngay bất kỳ vụ tràn hóa chất nào.
+
+* **spilled** /spɪld/ *(verb form/adjective)*: đã bị đổ, đã tràn  
+  *Example:* The spilled milk made the kitchen floor slippery.  
+  → Sữa bị đổ làm sàn bếp trơn trượt.
+
+* **spillage** /ˈspɪl.ɪdʒ/ *(countable/uncountable noun)*: sự đổ tràn, lượng chất bị đổ tràn  
+  *Example:* Oil spillage can damage marine ecosystems for years.  
+  → Sự tràn dầu có thể gây hại cho hệ sinh thái biển trong nhiều năm.
+
 
 ### Notes
 
@@ -562,9 +679,18 @@ Common structures:
 
 ### Word family
 
-* **lobby** /ˈlɒb.i/ *(noun/verb)*: sảnh; vận động hành lang
-* **lobbyist** /ˈlɒb.i.ɪst/ *(countable noun)*: người vận động hành lang
-* **lobbying** /ˈlɒb.i.ɪŋ/ *(uncountable noun/verb form)*: hoạt động vận động hành lang; đang vận động
+* **lobby** /ˈlɒb.i/ *(noun/verb)*: sảnh; vận động hành lang  
+  *Example:* Environmental groups lobby for stronger pollution controls.  
+  → Các nhóm môi trường vận động để có quy định kiểm soát ô nhiễm mạnh hơn.
+
+* **lobbyist** /ˈlɒb.i.ɪst/ *(countable noun)*: người vận động hành lang  
+  *Example:* A lobbyist tried to persuade lawmakers to support the proposal.  
+  → Một người vận động hành lang đã cố thuyết phục các nhà lập pháp ủng hộ đề xuất.
+
+* **lobbying** /ˈlɒb.i.ɪŋ/ *(uncountable noun/verb form)*: hoạt động vận động hành lang; đang vận động  
+  *Example:* Lobbying can influence how new laws are written.  
+  → Hoạt động vận động hành lang có thể ảnh hưởng đến cách các luật mới được soạn thảo.
+
 
 ### Notes
 
@@ -603,9 +729,18 @@ Common structures:
 
 ### Word family
 
-* **coursework** /ˈkɔːs.wɜːk/ *(uncountable noun)*: bài tập/khối lượng công việc trong khóa học
-* **course** /kɔːs/ *(countable noun)*: khóa học
-* **work** /wɜːk/ *(uncountable noun/verb)*: công việc; làm việc
+* **coursework** /ˈkɔːs.wɜːk/ *(uncountable noun)*: bài tập/khối lượng công việc trong khóa học  
+  *Example:* Coursework allows teachers to assess students over time.  
+  → Bài tập trong khóa học cho phép giáo viên đánh giá học sinh theo thời gian.
+
+* **course** /kɔːs/ *(countable noun)*: khóa học  
+  *Example:* This course helps students improve their academic writing.  
+  → Khóa học này giúp sinh viên cải thiện kỹ năng viết học thuật.
+
+* **work** /wɜːk/ *(uncountable noun/verb)*: công việc; làm việc  
+  *Example:* Meaningful work can give people a sense of purpose.  
+  → Công việc có ý nghĩa có thể mang lại cho con người cảm giác có mục đích.
+
 
 ### Notes
 
@@ -644,9 +779,18 @@ Common structures:
 
 ### Word family
 
-* **merit** /ˈmer.ɪt/ *(noun/verb)*: giá trị, ưu điểm; xứng đáng
-* **meritorious** /ˌmer.ɪˈtɔː.ri.əs/ *(adjective)*: đáng khen, có công trạng
-* **merit-based** /ˈmer.ɪt beɪst/ *(adjective)*: dựa trên năng lực/thành tích
+* **merit** /ˈmer.ɪt/ *(noun/verb)*: giá trị, ưu điểm; xứng đáng  
+  *Example:* The proposal has merit and deserves further discussion.  
+  → Đề xuất này có giá trị và xứng đáng được thảo luận thêm.
+
+* **meritorious** /ˌmer.ɪˈtɔː.ri.əs/ *(adjective)*: đáng khen, có công trạng  
+  *Example:* The teacher received an award for meritorious service.  
+  → Giáo viên đó nhận giải thưởng vì sự phục vụ đáng khen.
+
+* **merit-based** /ˈmer.ɪt beɪst/ *(adjective)*: dựa trên năng lực/thành tích  
+  *Example:* A merit-based scholarship rewards academic achievement.  
+  → Học bổng dựa trên thành tích thưởng cho thành tựu học tập.
+
 
 ### Notes
 
@@ -685,9 +829,18 @@ Common structures:
 
 ### Word family
 
-* **faculty** /ˈfæk.əl.ti/ *(noun)*: khoa; đội ngũ giảng viên; năng lực
-* **faculties** /ˈfæk.əl.tiz/ *(plural noun)*: các khoa; các năng lực
-* **faculty member** /ˈfæk.əl.ti ˌmem.bər/ *(countable noun)*: giảng viên, thành viên đội ngũ giảng dạy
+* **faculty** /ˈfæk.əl.ti/ *(noun)*: khoa; đội ngũ giảng viên; năng lực  
+  *Example:* The faculty voted to update the curriculum.  
+  → Đội ngũ giảng viên đã bỏ phiếu để cập nhật chương trình học.
+
+* **faculties** /ˈfæk.əl.tiz/ *(plural noun)*: các khoa; các năng lực  
+  *Example:* Universities often divide subjects into different faculties.  
+  → Các trường đại học thường chia môn học thành các khoa khác nhau.
+
+* **faculty member** /ˈfæk.əl.ti ˌmem.bər/ *(countable noun)*: giảng viên, thành viên đội ngũ giảng dạy  
+  *Example:* Each faculty member is expected to support student research.  
+  → Mỗi giảng viên được kỳ vọng sẽ hỗ trợ nghiên cứu của sinh viên.
+
 
 ### Notes
 
@@ -726,9 +879,18 @@ Common structures:
 
 ### Word family
 
-* **remission** /rɪˈmɪʃ.ən/ *(noun)*: sự miễn/giảm; sự thuyên giảm
-* **remit** /rɪˈmɪt/ *(transitive verb)*: miễn/giảm khoản phải trả; gửi tiền
-* **remitted** /rɪˈmɪt.ɪd/ *(adjective/verb form)*: được miễn/giảm; đã gửi tiền
+* **remission** /rɪˈmɪʃ.ən/ *(noun)*: sự miễn/giảm; sự thuyên giảm  
+  *Example:* Tuition remission can make university more affordable.  
+  → Việc miễn giảm học phí có thể làm cho đại học dễ chi trả hơn.
+
+* **remit** /rɪˈmɪt/ *(transitive verb)*: miễn/giảm khoản phải trả; gửi tiền  
+  *Example:* The university may remit part of the tuition fee for low-income students.  
+  → Trường đại học có thể miễn giảm một phần học phí cho sinh viên thu nhập thấp.
+
+* **remitted** /rɪˈmɪt.ɪd/ *(adjective/verb form)*: được miễn/giảm; đã gửi tiền  
+  *Example:* The fee was remitted after the student submitted financial documents.  
+  → Khoản phí đã được miễn giảm sau khi sinh viên nộp giấy tờ tài chính.
+
 
 ### Notes
 
@@ -767,9 +929,18 @@ Common structures:
 
 ### Word family
 
-* **stipend** /ˈstaɪ.pend/ *(countable noun)*: khoản trợ cấp, sinh hoạt phí
-* **stipendiary** /staɪˈpen.di.ə.ri/ *(adjective/noun)*: được trả lương/trợ cấp; người nhận lương/trợ cấp
-* **stipend-funded** /ˈstaɪ.pend ˌfʌn.dɪd/ *(adjective)*: được tài trợ bằng trợ cấp/sinh hoạt phí
+* **stipend** /ˈstaɪ.pend/ *(countable noun)*: khoản trợ cấp, sinh hoạt phí  
+  *Example:* The research assistant receives a monthly stipend.  
+  → Trợ lý nghiên cứu nhận một khoản sinh hoạt phí hằng tháng.
+
+* **stipendiary** /staɪˈpen.di.ə.ri/ *(adjective/noun)*: được trả lương/trợ cấp; người nhận lương/trợ cấp  
+  *Example:* A stipendiary position can help students cover living costs.  
+  → Một vị trí có trợ cấp có thể giúp sinh viên trang trải chi phí sinh hoạt.
+
+* **stipend-funded** /ˈstaɪ.pend ˌfʌn.dɪd/ *(adjective)*: được tài trợ bằng trợ cấp/sinh hoạt phí  
+  *Example:* The stipend-funded programme supports students from rural areas.  
+  → Chương trình được tài trợ bằng trợ cấp hỗ trợ sinh viên từ vùng nông thôn.
+
 
 ### Notes
 
@@ -808,9 +979,18 @@ Common structures:
 
 ### Word family
 
-* **underdog** /ˈʌn.də.dɒɡ/ *(countable noun)*: người/đội ở thế yếu
-* **underdogs** /ˈʌn.də.dɒɡz/ *(plural noun)*: những người/đội ở thế yếu
-* **underdog story** /ˈʌn.də.dɒɡ ˌstɔː.ri/ *(countable noun)*: câu chuyện về bên yếu thế vượt khó
+* **underdog** /ˈʌn.də.dɒɡ/ *(countable noun)*: người/đội ở thế yếu  
+  *Example:* Many viewers support the underdog in sports competitions.  
+  → Nhiều khán giả ủng hộ đội yếu thế trong các cuộc thi thể thao.
+
+* **underdogs** /ˈʌn.də.dɒɡz/ *(plural noun)*: những người/đội ở thế yếu  
+  *Example:* Underdogs sometimes win because they are underestimated.  
+  → Những đội yếu thế đôi khi chiến thắng vì họ bị đánh giá thấp.
+
+* **underdog story** /ˈʌn.də.dɒɡ ˌstɔː.ri/ *(countable noun)*: câu chuyện về bên yếu thế vượt khó  
+  *Example:* An underdog story can inspire people to keep trying.  
+  → Một câu chuyện về bên yếu thế vượt khó có thể truyền cảm hứng cho mọi người tiếp tục cố gắng.
+
 
 ### Notes
 
@@ -849,9 +1029,18 @@ Common structures:
 
 ### Word family
 
-* **accountability** /əˌkaʊn.təˈbɪl.ə.ti/ *(uncountable noun)*: trách nhiệm giải trình
-* **accountable** /əˈkaʊn.tə.bəl/ *(adjective)*: có trách nhiệm, phải chịu trách nhiệm
-* **account** /əˈkaʊnt/ *(countable noun/verb)*: tài khoản, bản tường thuật; giải thích
+* **accountability** /əˌkaʊn.təˈbɪl.ə.ti/ *(uncountable noun)*: trách nhiệm giải trình  
+  *Example:* Public accountability helps prevent corruption in government spending.  
+  → Trách nhiệm giải trình trước công chúng giúp ngăn chặn tham nhũng trong chi tiêu chính phủ.
+
+* **accountable** /əˈkaʊn.tə.bəl/ *(adjective)*: có trách nhiệm, phải chịu trách nhiệm  
+  *Example:* Schools should be accountable for the quality of education they provide.  
+  → Trường học nên chịu trách nhiệm về chất lượng giáo dục mà họ cung cấp.
+
+* **account** /əˈkaʊnt/ *(countable noun/verb)*: tài khoản, bản tường thuật; giải thích  
+  *Example:* Many users create an account before using an online learning platform.  
+  → Nhiều người dùng tạo tài khoản trước khi sử dụng một nền tảng học trực tuyến.
+
 
 ### Notes
 
@@ -890,9 +1079,18 @@ Common structures:
 
 ### Word family
 
-* **surveillance** /səˈveɪ.ləns/ *(uncountable noun)*: sự giám sát, sự theo dõi
-* **survey** /ˈsɜː.veɪ/ *(countable noun/verb)*: khảo sát; khảo sát
-* **surveil** /səˈveɪl/ *(transitive verb)*: giám sát, theo dõi
+* **surveillance** /səˈveɪ.ləns/ *(uncountable noun)*: sự giám sát, sự theo dõi  
+  *Example:* Surveillance can improve safety but may reduce privacy.  
+  → Sự giám sát có thể cải thiện an toàn nhưng có thể làm giảm quyền riêng tư.
+
+* **survey** /ˈsɜː.veɪ/ *(countable noun/verb)*: khảo sát; khảo sát  
+  *Example:* Researchers survey families to understand childcare needs.  
+  → Các nhà nghiên cứu khảo sát các gia đình để hiểu nhu cầu chăm sóc trẻ.
+
+* **surveil** /səˈveɪl/ *(transitive verb)*: giám sát, theo dõi  
+  *Example:* Authorities may surveil high-risk areas to prevent crime.  
+  → Cơ quan chức năng có thể giám sát các khu vực rủi ro cao để ngăn tội phạm.
+
 
 ### Notes
 
@@ -931,9 +1129,18 @@ Common structures:
 
 ### Word family
 
-* **deter** /dɪˈtɜːr/ *(transitive verb)*: ngăn chặn, răn đe
-* **deterrent** /dɪˈter.ənt/ *(countable noun/adjective)*: yếu tố răn đe; có tính răn đe
-* **deterrence** /dɪˈter.əns/ *(uncountable noun)*: sự răn đe
+* **deter** /dɪˈtɜːr/ *(transitive verb)*: ngăn chặn, răn đe  
+  *Example:* Visible policing may deter crime in busy public areas.  
+  → Việc cảnh sát hiện diện rõ ràng có thể răn đe tội phạm ở những khu vực công cộng đông đúc.
+
+* **deterrent** /dɪˈter.ənt/ *(countable noun/adjective)*: yếu tố răn đe; có tính răn đe  
+  *Example:* A fair punishment can act as a deterrent to future crime.  
+  → Một hình phạt công bằng có thể đóng vai trò là yếu tố răn đe tội phạm trong tương lai.
+
+* **deterrence** /dɪˈter.əns/ *(uncountable noun)*: sự răn đe  
+  *Example:* Deterrence alone cannot solve the problem of reoffending.  
+  → Chỉ sự răn đe thôi không thể giải quyết vấn đề tái phạm.
+
 
 ### Notes
 
@@ -972,9 +1179,18 @@ Common structures:
 
 ### Word family
 
-* **reoffending** /ˌriː.əˈfen.dɪŋ/ *(uncountable noun/verb form)*: việc tái phạm
-* **reoffend** /ˌriː.əˈfend/ *(intransitive verb)*: tái phạm
-* **reoffender** /ˌriː.əˈfen.dər/ *(countable noun)*: người tái phạm
+* **reoffending** /ˌriː.əˈfen.dɪŋ/ *(uncountable noun/verb form)*: việc tái phạm  
+  *Example:* Reducing reoffending is a major goal of prison education.  
+  → Giảm tái phạm là một mục tiêu lớn của giáo dục trong tù.
+
+* **reoffend** /ˌriː.əˈfend/ *(intransitive verb)*: tái phạm  
+  *Example:* Former prisoners are less likely to reoffend if they find stable work.  
+  → Cựu tù nhân ít có khả năng tái phạm hơn nếu họ tìm được việc làm ổn định.
+
+* **reoffender** /ˌriː.əˈfen.dər/ *(countable noun)*: người tái phạm  
+  *Example:* A reoffender may need rehabilitation rather than only harsher punishment.  
+  → Người tái phạm có thể cần phục hồi hơn là chỉ hình phạt nặng hơn.
+
 
 ### Notes
 
@@ -1013,9 +1229,18 @@ Common structures:
 
 ### Word family
 
-* **incarceration** /ɪnˌkɑː.sərˈeɪ.ʃən/ *(uncountable noun)*: sự giam giữ, tù giam
-* **incarcerate** /ɪnˈkɑː.sər.eɪt/ *(transitive verb)*: giam giữ, bỏ tù
-* **incarcerated** /ɪnˈkɑː.sər.eɪ.tɪd/ *(adjective/verb form)*: bị giam giữ, bị bỏ tù
+* **incarceration** /ɪnˌkɑː.sərˈeɪ.ʃən/ *(uncountable noun)*: sự giam giữ, tù giam  
+  *Example:* Incarceration is expensive and does not always reduce crime.  
+  → Việc giam giữ rất tốn kém và không phải lúc nào cũng giảm tội phạm.
+
+* **incarcerate** /ɪnˈkɑː.sər.eɪt/ *(transitive verb)*: giam giữ, bỏ tù  
+  *Example:* Courts should not incarcerate minor offenders unnecessarily.  
+  → Tòa án không nên bỏ tù người phạm tội nhẹ một cách không cần thiết.
+
+* **incarcerated** /ɪnˈkɑː.sər.eɪ.tɪd/ *(adjective/verb form)*: bị giam giữ, bị bỏ tù  
+  *Example:* Incarcerated people often need education and mental health support.  
+  → Người bị giam giữ thường cần giáo dục và hỗ trợ sức khỏe tinh thần.
+
 
 ### Notes
 
@@ -1054,9 +1279,18 @@ Common structures:
 
 ### Word family
 
-* **proportionate** /prəˈpɔː.ʃən.ət/ *(adjective)*: tương xứng, cân xứng
-* **sentence** /ˈsen.təns/ *(countable noun/verb)*: bản án; tuyên án
-* **sentencing** /ˈsen.tən.sɪŋ/ *(uncountable noun/verb form)*: việc tuyên án
+* **proportionate** /prəˈpɔː.ʃən.ət/ *(adjective)*: tương xứng, cân xứng  
+  *Example:* Punishment should be proportionate to the seriousness of the offence.  
+  → Hình phạt nên tương xứng với mức độ nghiêm trọng của hành vi phạm tội.
+
+* **sentence** /ˈsen.təns/ *(countable noun/verb)*: bản án; tuyên án  
+  *Example:* The judge gave a proportionate sentence for the offence.  
+  → Thẩm phán đã đưa ra một bản án tương xứng với hành vi phạm tội.
+
+* **sentencing** /ˈsen.tən.sɪŋ/ *(uncountable noun/verb form)*: việc tuyên án  
+  *Example:* Sentencing should consider both justice and rehabilitation.  
+  → Việc tuyên án nên cân nhắc cả công lý lẫn phục hồi.
+
 
 ### Notes
 
@@ -1095,9 +1329,18 @@ Common structures:
 
 ### Word family
 
-* **offence** /əˈfens/ *(countable/uncountable noun)*: hành vi phạm tội; sự xúc phạm
-* **offender** /əˈfen.dər/ *(countable noun)*: người phạm tội
-* **offend** /əˈfend/ *(transitive/intransitive verb)*: xúc phạm; phạm lỗi
+* **offence** /əˈfens/ *(countable/uncountable noun)*: hành vi phạm tội; sự xúc phạm  
+  *Example:* The law treats repeated offences more seriously.  
+  → Luật pháp xử lý các hành vi tái phạm nghiêm khắc hơn.
+
+* **offender** /əˈfen.dər/ *(countable noun)*: người phạm tội  
+  *Example:* Young offenders often need guidance as well as punishment.  
+  → Người phạm tội trẻ tuổi thường cần sự hướng dẫn cũng như hình phạt.
+
+* **offend** /əˈfend/ *(transitive/intransitive verb)*: xúc phạm; phạm lỗi  
+  *Example:* Insensitive jokes can offend people from different backgrounds.  
+  → Những câu đùa thiếu tế nhị có thể xúc phạm người từ các nền tảng khác nhau.
+
 
 ### Notes
 
@@ -1136,9 +1379,18 @@ Common structures:
 
 ### Word family
 
-* **detergent** /dɪˈtɜː.dʒənt/ *(countable/uncountable noun)*: chất tẩy rửa
-* **detergents** /dɪˈtɜː.dʒənts/ *(plural noun)*: các chất tẩy rửa
-* **detergency** /dɪˈtɜː.dʒən.si/ *(uncountable noun)*: khả năng tẩy rửa
+* **detergent** /dɪˈtɜː.dʒənt/ *(countable/uncountable noun)*: chất tẩy rửa  
+  *Example:* Biodegradable detergent is less harmful to rivers.  
+  → Chất tẩy rửa có thể phân hủy sinh học ít gây hại hơn cho sông ngòi.
+
+* **detergents** /dɪˈtɜː.dʒənts/ *(plural noun)*: các chất tẩy rửa  
+  *Example:* Some detergents contain chemicals that pollute water.  
+  → Một số chất tẩy rửa chứa hóa chất gây ô nhiễm nước.
+
+* **detergency** /dɪˈtɜː.dʒən.si/ *(uncountable noun)*: khả năng tẩy rửa  
+  *Example:* The detergency of a product depends on its chemical formula.  
+  → Khả năng tẩy rửa của một sản phẩm phụ thuộc vào công thức hóa học của nó.
+
 
 ### Notes
 
@@ -1177,9 +1429,18 @@ Common structures:
 
 ### Word family
 
-* **condemn** /kənˈdem/ *(transitive verb)*: lên án, kết án
-* **condemnation** /ˌkɒn.demˈneɪ.ʃən/ *(uncountable/countable noun)*: sự lên án, lời lên án
-* **condemned** /kənˈdemd/ *(adjective/verb form)*: bị lên án; bị kết án
+* **condemn** /kənˈdem/ *(transitive verb)*: lên án, kết án  
+  *Example:* Leaders should condemn violence clearly and immediately.  
+  → Các nhà lãnh đạo nên lên án bạo lực một cách rõ ràng và ngay lập tức.
+
+* **condemnation** /ˌkɒn.demˈneɪ.ʃən/ *(uncountable/countable noun)*: sự lên án, lời lên án  
+  *Example:* The policy received widespread condemnation from human rights groups.  
+  → Chính sách đó nhận được sự lên án rộng rãi từ các nhóm nhân quyền.
+
+* **condemned** /kənˈdemd/ *(adjective/verb form)*: bị lên án; bị kết án  
+  *Example:* The abandoned building was condemned as unsafe.  
+  → Tòa nhà bỏ hoang bị kết luận là không an toàn.
+
 
 ### Notes
 
@@ -1218,9 +1479,18 @@ Common structures:
 
 ### Word family
 
-* **pristine** /ˈprɪs.tiːn/ *(adjective)*: nguyên sơ, sạch tinh tươm
-* **pristinely** /ˈprɪs.tiːn.li/ *(adverb)*: một cách nguyên sơ/sạch hoàn hảo
-* **pristineness** /ˈprɪs.tiːn.nəs/ *(uncountable noun)*: trạng thái nguyên sơ/sạch hoàn hảo
+* **pristine** /ˈprɪs.tiːn/ *(adjective)*: nguyên sơ, sạch tinh tươm  
+  *Example:* Pristine beaches should be protected from mass tourism.  
+  → Những bãi biển nguyên sơ nên được bảo vệ khỏi du lịch đại trà.
+
+* **pristinely** /ˈprɪs.tiːn.li/ *(adverb)*: một cách nguyên sơ/sạch hoàn hảo  
+  *Example:* The old photographs were pristinely preserved in a family album.  
+  → Những bức ảnh cũ được bảo quản gần như hoàn hảo trong một album gia đình.
+
+* **pristineness** /ˈprɪs.tiːn.nəs/ *(uncountable noun)*: trạng thái nguyên sơ/sạch hoàn hảo  
+  *Example:* The pristineness of the forest attracts many researchers.  
+  → Sự nguyên sơ của khu rừng thu hút nhiều nhà nghiên cứu.
+
 
 ### Notes
 
@@ -1259,9 +1529,18 @@ Common structures:
 
 ### Word family
 
-* **attain** /əˈteɪn/ *(transitive verb)*: đạt được
-* **attainment** /əˈteɪn.mənt/ *(countable/uncountable noun)*: thành tựu, sự đạt được
-* **attainable** /əˈteɪ.nə.bəl/ *(adjective)*: có thể đạt được
+* **attain** /əˈteɪn/ *(transitive verb)*: đạt được  
+  *Example:* Students can attain fluency through regular speaking practice.  
+  → Học sinh có thể đạt được sự lưu loát thông qua luyện nói thường xuyên.
+
+* **attainment** /əˈteɪn.mənt/ *(countable/uncountable noun)*: thành tựu, sự đạt được  
+  *Example:* Educational attainment is often linked to future income.  
+  → Thành tựu học tập thường liên quan đến thu nhập trong tương lai.
+
+* **attainable** /əˈteɪ.nə.bəl/ *(adjective)*: có thể đạt được  
+  *Example:* Clear and attainable goals can motivate learners.  
+  → Những mục tiêu rõ ràng và có thể đạt được có thể tạo động lực cho người học.
+
 
 ### Notes
 
@@ -1300,9 +1579,18 @@ Common structures:
 
 ### Word family
 
-* **refuse** /rɪˈfjuːz/ *(verb)*: từ chối
-* **refusal** /rɪˈfjuː.zəl/ *(countable/uncountable noun)*: sự từ chối, lời từ chối
-* **refuse** /ˈref.juːs/ *(uncountable noun)*: rác thải
+* **refuse** /rɪˈfjuːz/ *(verb)*: từ chối  
+  *Example:* Workers may refuse to accept unsafe conditions.  
+  → Người lao động có thể từ chối chấp nhận điều kiện không an toàn.
+
+* **refusal** /rɪˈfjuː.zəl/ *(countable/uncountable noun)*: sự từ chối, lời từ chối  
+  *Example:* His refusal to cooperate delayed the investigation.  
+  → Việc anh ấy từ chối hợp tác đã làm chậm cuộc điều tra.
+
+* **refuse** /ˈref.juːs/ *(uncountable noun)*: rác thải  
+  *Example:* Household refuse should be collected regularly.  
+  → Rác thải sinh hoạt nên được thu gom thường xuyên.
+
 
 ### Notes
 
@@ -1341,9 +1629,18 @@ Common structures:
 
 ### Word family
 
-* **omnipresent** /ˌɒm.nɪˈprez.ənt/ *(adjective)*: có mặt khắp nơi
-* **omnipresence** /ˌɒm.nɪˈprez.əns/ *(uncountable noun)*: sự hiện diện khắp nơi
-* **present** /ˈprez.ənt/ *(adjective)*: có mặt, hiện diện
+* **omnipresent** /ˌɒm.nɪˈprez.ənt/ *(adjective)*: có mặt khắp nơi  
+  *Example:* Smartphones are almost omnipresent in modern life.  
+  → Điện thoại thông minh gần như có mặt khắp nơi trong đời sống hiện đại.
+
+* **omnipresence** /ˌɒm.nɪˈprez.əns/ *(uncountable noun)*: sự hiện diện khắp nơi  
+  *Example:* The omnipresence of advertising shapes consumer habits.  
+  → Sự hiện diện khắp nơi của quảng cáo định hình thói quen tiêu dùng.
+
+* **present** /ˈprez.ənt/ *(adjective)*: có mặt, hiện diện  
+  *Example:* Parents should be present during important moments in a child's life.  
+  → Cha mẹ nên có mặt trong những khoảnh khắc quan trọng của cuộc đời con.
+
 
 ### Notes
 
@@ -1382,9 +1679,18 @@ Common structures:
 
 ### Word family
 
-* **eminent** /ˈem.ɪ.nənt/ *(adjective)*: nổi tiếng, được kính trọng
-* **eminence** /ˈem.ɪ.nəns/ *(uncountable noun)*: sự nổi tiếng, địa vị nổi bật
-* **eminently** /ˈem.ɪ.nənt.li/ *(adverb)*: cực kỳ, rất; một cách nổi bật
+* **eminent** /ˈem.ɪ.nənt/ *(adjective)*: nổi tiếng, được kính trọng  
+  *Example:* An eminent economist spoke at the conference.  
+  → Một nhà kinh tế học nổi tiếng đã phát biểu tại hội nghị.
+
+* **eminence** /ˈem.ɪ.nəns/ *(uncountable noun)*: sự nổi tiếng, địa vị nổi bật  
+  *Example:* Her scientific eminence made her advice highly respected.  
+  → Danh tiếng khoa học của bà khiến lời khuyên của bà rất được tôn trọng.
+
+* **eminently** /ˈem.ɪ.nənt.li/ *(adverb)*: cực kỳ, rất; một cách nổi bật  
+  *Example:* This solution is eminently practical for small schools.  
+  → Giải pháp này cực kỳ thực tế đối với các trường nhỏ.
+
 
 ### Notes
 
@@ -1423,9 +1729,18 @@ Common structures:
 
 ### Word family
 
-* **pervasive** /pəˈveɪ.sɪv/ *(adjective)*: lan rộng, thấm sâu
-* **pervasiveness** /pəˈveɪ.sɪv.nəs/ *(uncountable noun)*: tính lan rộng, sự thấm sâu
-* **pervade** /pəˈveɪd/ *(transitive verb)*: lan khắp, thấm vào
+* **pervasive** /pəˈveɪ.sɪv/ *(adjective)*: lan rộng, thấm sâu  
+  *Example:* Pervasive pollution can affect both health and biodiversity.  
+  → Ô nhiễm lan rộng có thể ảnh hưởng đến cả sức khỏe và đa dạng sinh học.
+
+* **pervasiveness** /pəˈveɪ.sɪv.nəs/ *(uncountable noun)*: tính lan rộng, sự thấm sâu  
+  *Example:* The pervasiveness of social media has changed communication habits.  
+  → Sự lan rộng của mạng xã hội đã thay đổi thói quen giao tiếp.
+
+* **pervade** /pəˈveɪd/ *(transitive verb)*: lan khắp, thấm vào  
+  *Example:* A sense of competition can pervade the whole school.  
+  → Cảm giác cạnh tranh có thể lan khắp toàn bộ trường học.
+
 
 ### Notes
 
@@ -1464,9 +1779,18 @@ Common structures:
 
 ### Word family
 
-* **pointless** /ˈpɔɪnt.ləs/ *(adjective)*: vô nghĩa, vô ích
-* **pointlessly** /ˈpɔɪnt.ləs.li/ *(adverb)*: một cách vô ích
-* **pointlessness** /ˈpɔɪnt.ləs.nəs/ *(uncountable noun)*: sự vô nghĩa, sự vô ích
+* **pointless** /ˈpɔɪnt.ləs/ *(adjective)*: vô nghĩa, vô ích  
+  *Example:* It is pointless to punish students without explaining their mistakes.  
+  → Việc phạt học sinh mà không giải thích lỗi sai của các em là vô ích.
+
+* **pointlessly** /ˈpɔɪnt.ləs.li/ *(adverb)*: một cách vô ích  
+  *Example:* Many resources are wasted pointlessly each year.  
+  → Nhiều nguồn lực bị lãng phí một cách vô ích mỗi năm.
+
+* **pointlessness** /ˈpɔɪnt.ləs.nəs/ *(uncountable noun)*: sự vô nghĩa, sự vô ích  
+  *Example:* He felt the pointlessness of repeating the same argument.  
+  → Anh ấy cảm thấy sự vô nghĩa của việc lặp lại cùng một lập luận.
+
 
 ### Notes
 
@@ -1505,9 +1829,18 @@ Common structures:
 
 ### Word family
 
-* **revegetate** /ˌriːˈvedʒ.ɪ.teɪt/ *(verb)*: phục hồi/trồng lại thảm thực vật
-* **revegetation** /ˌriːˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: sự phục hồi thảm thực vật
-* **vegetation** /ˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: thảm thực vật
+* **revegetate** /ˌriːˈvedʒ.ɪ.teɪt/ *(verb)*: phục hồi/trồng lại thảm thực vật  
+  *Example:* The project aims to revegetate land damaged by mining.  
+  → Dự án nhằm phục hồi thảm thực vật trên vùng đất bị khai thác mỏ làm hư hại.
+
+* **revegetation** /ˌriːˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: sự phục hồi thảm thực vật  
+  *Example:* Revegetation can reduce soil erosion after deforestation.  
+  → Việc phục hồi thảm thực vật có thể giảm xói mòn đất sau phá rừng.
+
+* **vegetation** /ˌvedʒ.ɪˈteɪ.ʃən/ *(uncountable noun)*: thảm thực vật  
+  *Example:* Vegetation protects soil from erosion.  
+  → Thảm thực vật bảo vệ đất khỏi xói mòn.
+
 
 ### Notes
 
@@ -1546,9 +1879,18 @@ Common structures:
 
 ### Word family
 
-* **liable** /ˈlaɪ.ə.bəl/ *(adjective)*: chịu trách nhiệm pháp lý; có khả năng bị
-* **liability** /ˌlaɪ.əˈbɪl.ə.ti/ *(countable/uncountable noun)*: trách nhiệm pháp lý; khoản nợ; điểm bất lợi
-* **liabilities** /ˌlaɪ.əˈbɪl.ə.tiz/ *(plural noun)*: các khoản nợ/trách nhiệm pháp lý
+* **liable** /ˈlaɪ.ə.bəl/ *(adjective)*: chịu trách nhiệm pháp lý; có khả năng bị  
+  *Example:* Employers may be liable for unsafe working conditions.  
+  → Người sử dụng lao động có thể chịu trách nhiệm pháp lý về điều kiện làm việc không an toàn.
+
+* **liability** /ˌlaɪ.əˈbɪl.ə.ti/ *(countable/uncountable noun)*: trách nhiệm pháp lý; khoản nợ; điểm bất lợi  
+  *Example:* Pollution can become a serious legal liability for factories.  
+  → Ô nhiễm có thể trở thành trách nhiệm pháp lý nghiêm trọng đối với các nhà máy.
+
+* **liabilities** /ˌlaɪ.əˈbɪl.ə.tiz/ *(plural noun)*: các khoản nợ/trách nhiệm pháp lý  
+  *Example:* Companies must report their assets and liabilities accurately.  
+  → Các công ty phải báo cáo tài sản và các khoản nợ một cách chính xác.
+
 
 ### Notes
 
@@ -1587,9 +1929,18 @@ Common structures:
 
 ### Word family
 
-* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất
-* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là
-* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt
+* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất  
+  *Example:* Most families value emotional support and stability.  
+  → Hầu hết các gia đình coi trọng sự hỗ trợ tinh thần và sự ổn định.
+
+* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là  
+  *Example:* The course is mostly practical, with a few written assignments.  
+  → Khóa học chủ yếu mang tính thực hành, với một vài bài viết.
+
+* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt  
+  *Example:* The train was almost empty when I got on.  
+  → Tàu gần như trống khi tôi lên.
+
 
 ### Notes
 
@@ -1628,9 +1979,18 @@ Common structures:
 
 ### Word family
 
-* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt
-* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất
-* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là
+* **almost** /ˈɔːl.məʊst/ *(adverb)*: gần như, suýt  
+  *Example:* The train was almost empty when I got on.  
+  → Tàu gần như trống khi tôi lên.
+
+* **most** /məʊst/ *(determiner/pronoun/adverb)*: hầu hết; nhiều nhất; nhất  
+  *Example:* Most families value emotional support and stability.  
+  → Hầu hết các gia đình coi trọng sự hỗ trợ tinh thần và sự ổn định.
+
+* **mostly** /ˈməʊst.li/ *(adverb)*: chủ yếu là, phần lớn là  
+  *Example:* The course is mostly practical, with a few written assignments.  
+  → Khóa học chủ yếu mang tính thực hành, với một vài bài viết.
+
 
 ### Notes
 
@@ -1669,9 +2029,18 @@ Common structures:
 
 ### Word family
 
-* **label** /ˈleɪ.bəl/ *(noun/verb)*: nhãn; gán nhãn
-* **labelled** /ˈleɪ.bəld/ *(adjective/verb form)*: được dán nhãn; bị gán nhãn
-* **labelling** /ˈleɪ.bəl.ɪŋ/ *(uncountable noun/verb form)*: việc dán nhãn; việc gán nhãn
+* **label** /ˈleɪ.bəl/ *(noun/verb)*: nhãn; gán nhãn  
+  *Example:* Teachers should not label quiet students as lazy.  
+  → Giáo viên không nên gán nhãn học sinh ít nói là lười biếng.
+
+* **labelled** /ˈleɪ.bəld/ *(adjective/verb form)*: được dán nhãn; bị gán nhãn  
+  *Example:* The product was clearly labelled with safety information.  
+  → Sản phẩm được dán nhãn rõ ràng với thông tin an toàn.
+
+* **labelling** /ˈleɪ.bəl.ɪŋ/ *(uncountable noun/verb form)*: việc dán nhãn; việc gán nhãn  
+  *Example:* Negative labelling can damage a child's confidence.  
+  → Việc gán nhãn tiêu cực có thể làm tổn hại sự tự tin của trẻ.
+
 
 ### Notes
 
@@ -1710,9 +2079,18 @@ Common structures:
 
 ### Word family
 
-* **stereotype** /ˈster.i.ə.taɪp/ *(noun/verb)*: định kiến, khuôn mẫu; áp đặt khuôn mẫu
-* **stereotyped** /ˈster.i.ə.taɪpt/ *(adjective/verb form)*: bị rập khuôn, mang tính định kiến
-* **stereotypical** /ˌster.i.əˈtɪp.ɪ.kəl/ *(adjective)*: mang tính khuôn mẫu, rập khuôn
+* **stereotype** /ˈster.i.ə.taɪp/ *(noun/verb)*: định kiến, khuôn mẫu; áp đặt khuôn mẫu  
+  *Example:* Media can reinforce stereotypes about gender roles.  
+  → Truyền thông có thể củng cố định kiến về vai trò giới.
+
+* **stereotyped** /ˈster.i.ə.taɪpt/ *(adjective/verb form)*: bị rập khuôn, mang tính định kiến  
+  *Example:* Older workers are often stereotyped as less adaptable.  
+  → Người lao động lớn tuổi thường bị rập khuôn là kém thích nghi hơn.
+
+* **stereotypical** /ˌster.i.əˈtɪp.ɪ.kəl/ *(adjective)*: mang tính khuôn mẫu, rập khuôn  
+  *Example:* The film avoided stereotypical images of rural life.  
+  → Bộ phim tránh những hình ảnh rập khuôn về đời sống nông thôn.
+
 
 ### Notes
 
@@ -1751,9 +2129,18 @@ Common structures:
 
 ### Word family
 
-* **accuse** /əˈkjuːz/ *(transitive verb)*: buộc tội, tố cáo
-* **accused** /əˈkjuːzd/ *(adjective/noun/verb form)*: bị buộc tội; người bị cáo buộc
-* **accusation** /ˌæk.jəˈzeɪ.ʃən/ *(countable noun)*: lời buộc tội, cáo buộc
+* **accuse** /əˈkjuːz/ *(transitive verb)*: buộc tội, tố cáo  
+  *Example:* The report accused several officials of misusing public funds.  
+  → Báo cáo đã cáo buộc một số quan chức lạm dụng ngân sách công.
+
+* **accused** /əˈkjuːzd/ *(adjective/noun/verb form)*: bị buộc tội; người bị cáo buộc  
+  *Example:* The accused has the right to a fair trial.  
+  → Người bị cáo buộc có quyền được xét xử công bằng.
+
+* **accusation** /ˌæk.jəˈzeɪ.ʃən/ *(countable noun)*: lời buộc tội, cáo buộc  
+  *Example:* A serious accusation should be supported by clear evidence.  
+  → Một lời buộc tội nghiêm trọng nên được hỗ trợ bằng bằng chứng rõ ràng.
+
 
 ### Notes
 
@@ -1792,9 +2179,18 @@ Common structures:
 
 ### Word family
 
-* **acute** /əˈkjuːt/ *(adjective)*: nghiêm trọng, cấp tính, nhạy bén
-* **acutely** /əˈkjuːt.li/ *(adverb)*: một cách sâu sắc/dữ dội
-* **acuteness** /əˈkjuːt.nəs/ *(uncountable noun)*: mức độ nghiêm trọng; sự nhạy bén
+* **acute** /əˈkjuːt/ *(adjective)*: nghiêm trọng, cấp tính, nhạy bén  
+  *Example:* The city is facing an acute shortage of affordable housing.  
+  → Thành phố đang đối mặt với tình trạng thiếu nhà ở giá phải chăng nghiêm trọng.
+
+* **acutely** /əˈkjuːt.li/ *(adverb)*: một cách sâu sắc/dữ dội  
+  *Example:* Parents are acutely aware of the pressure their children face at school.  
+  → Cha mẹ nhận thức rất rõ áp lực mà con cái họ đối mặt ở trường.
+
+* **acuteness** /əˈkjuːt.nəs/ *(uncountable noun)*: mức độ nghiêm trọng; sự nhạy bén  
+  *Example:* The acuteness of the housing crisis requires urgent action.  
+  → Mức độ nghiêm trọng của khủng hoảng nhà ở đòi hỏi hành động khẩn cấp.
+
 
 ### Notes
 
@@ -1833,9 +2229,18 @@ Common structures:
 
 ### Word family
 
-* **adolescence** /ˌæd.əˈles.əns/ *(uncountable noun)*: tuổi vị thành niên
-* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên
-* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành
+* **adolescence** /ˌæd.əˈles.əns/ *(uncountable noun)*: tuổi vị thành niên  
+  *Example:* Adolescence is a key stage in emotional development.  
+  → Tuổi vị thành niên là một giai đoạn quan trọng trong sự phát triển cảm xúc.
+
+* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên  
+  *Example:* Adolescent students often need guidance as well as independence.  
+  → Học sinh tuổi vị thành niên thường cần sự hướng dẫn cũng như sự độc lập.
+
+* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành  
+  *Example:* Adults often have to balance work, family, and personal goals.  
+  → Người lớn thường phải cân bằng công việc, gia đình và mục tiêu cá nhân.
+
 
 ### Notes
 
@@ -1874,9 +2279,18 @@ Common structures:
 
 ### Word family
 
-* **adopt** /əˈdɒpt/ *(transitive verb)*: nhận nuôi; áp dụng
-* **adoption** /əˈdɒp.ʃən/ *(uncountable/countable noun)*: sự nhận nuôi; sự áp dụng
-* **adoptive** /əˈdɒp.tɪv/ *(adjective)*: nuôi, nhận nuôi
+* **adopt** /əˈdɒpt/ *(transitive verb)*: nhận nuôi; áp dụng  
+  *Example:* Many schools adopt new technology to make lessons more interactive.  
+  → Nhiều trường áp dụng công nghệ mới để làm bài học tương tác hơn.
+
+* **adoption** /əˈdɒp.ʃən/ *(uncountable/countable noun)*: sự nhận nuôi; sự áp dụng  
+  *Example:* The adoption of renewable energy can reduce carbon emissions.  
+  → Việc áp dụng năng lượng tái tạo có thể giảm khí thải carbon.
+
+* **adoptive** /əˈdɒp.tɪv/ *(adjective)*: nuôi, nhận nuôi  
+  *Example:* Adoptive parents can provide a stable and loving home.  
+  → Cha mẹ nuôi có thể mang lại một mái ấm ổn định và đầy yêu thương.
+
 
 ### Notes
 
@@ -1915,9 +2329,18 @@ Common structures:
 
 ### Word family
 
-* **adulthood** /ˈæd.ʌlt.hʊd/ *(uncountable noun)*: tuổi trưởng thành
-* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành
-* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên
+* **adulthood** /ˈæd.ʌlt.hʊd/ *(uncountable noun)*: tuổi trưởng thành  
+  *Example:* Financial independence is an important part of adulthood.  
+  → Sự độc lập tài chính là một phần quan trọng của tuổi trưởng thành.
+
+* **adult** /ˈæd.ʌlt/ *(countable noun/adjective)*: người lớn; trưởng thành  
+  *Example:* Adults often have to balance work, family, and personal goals.  
+  → Người lớn thường phải cân bằng công việc, gia đình và mục tiêu cá nhân.
+
+* **adolescent** /ˌæd.əˈles.ənt/ *(countable noun/adjective)*: thanh thiếu niên; thuộc tuổi vị thành niên  
+  *Example:* Adolescent students often need guidance as well as independence.  
+  → Học sinh tuổi vị thành niên thường cần sự hướng dẫn cũng như sự độc lập.
+
 
 ### Notes
 
@@ -1956,9 +2379,18 @@ Common structures:
 
 ### Word family
 
-* **bond** /bɒnd/ *(noun/verb)*: mối gắn kết; gắn kết
-* **bonding** /ˈbɒn.dɪŋ/ *(uncountable noun/verb form)*: sự gắn kết; đang gắn kết
-* **bonded** /ˈbɒn.dɪd/ *(adjective/verb form)*: được gắn kết, có liên kết
+* **bond** /bɒnd/ *(noun/verb)*: mối gắn kết; gắn kết  
+  *Example:* A strong bond between parents and children supports emotional health.  
+  → Mối gắn kết mạnh mẽ giữa cha mẹ và con cái hỗ trợ sức khỏe cảm xúc.
+
+* **bonding** /ˈbɒn.dɪŋ/ *(uncountable noun/verb form)*: sự gắn kết; đang gắn kết  
+  *Example:* Family meals can encourage bonding between generations.  
+  → Bữa ăn gia đình có thể khuyến khích sự gắn kết giữa các thế hệ.
+
+* **bonded** /ˈbɒn.dɪd/ *(adjective/verb form)*: được gắn kết, có liên kết  
+  *Example:* The children bonded quickly during the summer camp.  
+  → Những đứa trẻ đã nhanh chóng gắn kết trong trại hè.
+
 
 ### Notes
 
@@ -1997,9 +2429,18 @@ Common structures:
 
 ### Word family
 
-* **forge** /fɔːdʒ/ *(verb/noun)*: tạo dựng; rèn; lò rèn
-* **forgery** /ˈfɔː.dʒər.i/ *(countable/uncountable noun)*: sự làm giả; tài liệu giả
-* **forged** /fɔːdʒd/ *(adjective/verb form)*: được tạo dựng; bị làm giả
+* **forge** /fɔːdʒ/ *(verb/noun)*: tạo dựng; rèn; lò rèn  
+  *Example:* Students can forge lasting friendships at university.  
+  → Sinh viên có thể tạo dựng những tình bạn lâu dài ở đại học.
+
+* **forgery** /ˈfɔː.dʒər.i/ *(countable/uncountable noun)*: sự làm giả; tài liệu giả  
+  *Example:* Forgery is a serious offence in many legal systems.  
+  → Làm giả giấy tờ là một tội nghiêm trọng trong nhiều hệ thống pháp luật.
+
+* **forged** /fɔːdʒd/ *(adjective/verb form)*: được tạo dựng; bị làm giả  
+  *Example:* The forged document was discovered during the investigation.  
+  → Tài liệu giả đã bị phát hiện trong quá trình điều tra.
+
 
 ### Notes
 
@@ -2038,9 +2479,18 @@ Common structures:
 
 ### Word family
 
-* **close-knit** /ˌkləʊs ˈnɪt/ *(adjective)*: gắn bó khăng khít
-* **close** /kləʊs/ *(adjective)*: thân thiết, gần gũi
-* **knit** /nɪt/ *(verb)*: đan; gắn kết
+* **close-knit** /ˌkləʊs ˈnɪt/ *(adjective)*: gắn bó khăng khít  
+  *Example:* A close-knit community can support people in difficult times.  
+  → Một cộng đồng gắn bó có thể hỗ trợ mọi người trong thời điểm khó khăn.
+
+* **close** /kləʊs/ *(adjective)*: thân thiết, gần gũi  
+  *Example:* She has a close relationship with her grandparents.  
+  → Cô ấy có mối quan hệ thân thiết với ông bà.
+
+* **knit** /nɪt/ *(verb)*: đan; gắn kết  
+  *Example:* Shared traditions can knit a community together.  
+  → Những truyền thống chung có thể gắn kết một cộng đồng.
+
 
 ### Notes
 
@@ -2079,9 +2529,18 @@ Common structures:
 
 ### Word family
 
-* **endure** /ɪnˈdjʊər/ *(verb)*: chịu đựng; tồn tại
-* **endurance** /ɪnˈdjʊə.rəns/ *(uncountable noun)*: sức chịu đựng, sự bền bỉ
-* **enduring** /ɪnˈdjʊə.rɪŋ/ *(adjective)*: bền lâu, kéo dài
+* **endure** /ɪnˈdjʊər/ *(verb)*: chịu đựng; tồn tại  
+  *Example:* Many families endure financial stress during economic downturns.  
+  → Nhiều gia đình chịu đựng căng thẳng tài chính trong thời kỳ suy thoái kinh tế.
+
+* **endurance** /ɪnˈdjʊə.rəns/ *(uncountable noun)*: sức chịu đựng, sự bền bỉ  
+  *Example:* Long-distance running requires both strength and endurance.  
+  → Chạy đường dài đòi hỏi cả sức mạnh lẫn sức bền.
+
+* **enduring** /ɪnˈdjʊə.rɪŋ/ *(adjective)*: bền lâu, kéo dài  
+  *Example:* Education can have an enduring impact on a person's life.  
+  → Giáo dục có thể có tác động lâu dài đến cuộc đời một người.
+
 
 ### Notes
 
@@ -2120,9 +2579,18 @@ Common structures:
 
 ### Word family
 
-* **fatherhood** /ˈfɑː.ðə.hʊd/ *(uncountable noun)*: việc làm cha, vai trò làm cha
-* **father** /ˈfɑː.ðər/ *(countable noun/verb)*: cha; làm cha
-* **fatherly** /ˈfɑː.ðə.li/ *(adjective)*: như cha, ân cần như người cha
+* **fatherhood** /ˈfɑː.ðə.hʊd/ *(uncountable noun)*: việc làm cha, vai trò làm cha  
+  *Example:* Fatherhood often changes a man's sense of responsibility.  
+  → Việc làm cha thường thay đổi ý thức trách nhiệm của một người đàn ông.
+
+* **father** /ˈfɑː.ðər/ *(countable noun/verb)*: cha; làm cha  
+  *Example:* A father can influence a child's confidence and values.  
+  → Người cha có thể ảnh hưởng đến sự tự tin và giá trị của con.
+
+* **fatherly** /ˈfɑː.ðə.li/ *(adjective)*: như cha, ân cần như người cha  
+  *Example:* He gave the students fatherly advice before the exam.  
+  → Ông ấy đưa ra lời khuyên ân cần như cha cho học sinh trước kỳ thi.
+
 
 ### Notes
 
@@ -2161,9 +2629,18 @@ Common structures:
 
 ### Word family
 
-* **joy** /dʒɔɪ/ *(noun)*: niềm vui
-* **joyful** /ˈdʒɔɪ.fəl/ *(adjective)*: vui mừng, tràn đầy niềm vui
-* **joyfully** /ˈdʒɔɪ.fəl.i/ *(adverb)*: một cách vui mừng
+* **joy** /dʒɔɪ/ *(noun)*: niềm vui  
+  *Example:* Spending time with family brings many people joy.  
+  → Dành thời gian bên gia đình mang lại niềm vui cho nhiều người.
+
+* **joyful** /ˈdʒɔɪ.fəl/ *(adjective)*: vui mừng, tràn đầy niềm vui  
+  *Example:* The wedding was a joyful family celebration.  
+  → Đám cưới là một lễ kỷ niệm gia đình đầy niềm vui.
+
+* **joyfully** /ˈdʒɔɪ.fəl.i/ *(adverb)*: một cách vui mừng  
+  *Example:* The children laughed joyfully in the playground.  
+  → Những đứa trẻ cười vui vẻ trong sân chơi.
+
 
 ### Notes
 
@@ -2202,9 +2679,18 @@ Common structures:
 
 ### Word family
 
-* **maternal** /məˈtɜː.nəl/ *(adjective)*: thuộc về mẹ, bên mẹ
-* **maternity** /məˈtɜː.nə.ti/ *(uncountable noun/adjective)*: thai sản, việc làm mẹ
-* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ
+* **maternal** /məˈtɜː.nəl/ *(adjective)*: thuộc về mẹ, bên mẹ  
+  *Example:* Maternal health care is essential for safe childbirth.  
+  → Chăm sóc sức khỏe bà mẹ rất cần thiết cho việc sinh nở an toàn.
+
+* **maternity** /məˈtɜː.nə.ti/ *(uncountable noun/adjective)*: thai sản, việc làm mẹ  
+  *Example:* Paid maternity leave helps mothers recover after childbirth.  
+  → Nghỉ thai sản có lương giúp các bà mẹ hồi phục sau sinh.
+
+* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ  
+  *Example:* A mother often provides emotional support in early childhood.  
+  → Người mẹ thường cung cấp sự hỗ trợ cảm xúc trong thời thơ ấu.
+
 
 ### Notes
 
@@ -2243,9 +2729,18 @@ Common structures:
 
 ### Word family
 
-* **motherhood** /ˈmʌð.ə.hʊd/ *(uncountable noun)*: việc làm mẹ, vai trò làm mẹ
-* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ
-* **motherly** /ˈmʌð.ə.li/ *(adjective)*: dịu dàng, chăm sóc như mẹ
+* **motherhood** /ˈmʌð.ə.hʊd/ *(uncountable noun)*: việc làm mẹ, vai trò làm mẹ  
+  *Example:* Motherhood can be both rewarding and demanding.  
+  → Việc làm mẹ có thể vừa đáng quý vừa nhiều áp lực.
+
+* **mother** /ˈmʌð.ər/ *(countable noun/verb)*: mẹ; chăm sóc như mẹ  
+  *Example:* A mother often provides emotional support in early childhood.  
+  → Người mẹ thường cung cấp sự hỗ trợ cảm xúc trong thời thơ ấu.
+
+* **motherly** /ˈmʌð.ə.li/ *(adjective)*: dịu dàng, chăm sóc như mẹ  
+  *Example:* She spoke in a motherly tone to comfort the child.  
+  → Cô ấy nói bằng giọng ân cần như mẹ để an ủi đứa trẻ.
+
 
 ### Notes
 
@@ -2284,9 +2779,18 @@ Common structures:
 
 ### Word family
 
-* **relation** /rɪˈleɪ.ʃən/ *(noun)*: mối liên hệ; người họ hàng
-* **relationship** /rɪˈleɪ.ʃən.ʃɪp/ *(countable noun)*: mối quan hệ
-* **relative** /ˈrel.ə.tɪv/ *(countable noun/adjective)*: người thân; tương đối
+* **relation** /rɪˈleɪ.ʃən/ *(noun)*: mối liên hệ; người họ hàng  
+  *Example:* There is a close relation between income and access to education.  
+  → Có mối liên hệ chặt chẽ giữa thu nhập và khả năng tiếp cận giáo dục.
+
+* **relationship** /rɪˈleɪ.ʃən.ʃɪp/ *(countable noun)*: mối quan hệ  
+  *Example:* A healthy relationship requires trust and communication.  
+  → Một mối quan hệ lành mạnh đòi hỏi sự tin tưởng và giao tiếp.
+
+* **relative** /ˈrel.ə.tɪv/ *(countable noun/adjective)*: người thân; tương đối  
+  *Example:* Many people rely on relatives for childcare support.  
+  → Nhiều người dựa vào người thân để được hỗ trợ chăm sóc trẻ.
+
 
 ### Notes
 
@@ -2325,9 +2829,18 @@ Common structures:
 
 ### Word family
 
-* **resemblance** /rɪˈzem.bləns/ *(noun)*: sự giống nhau, nét tương đồng
-* **resemble** /rɪˈzem.bəl/ *(transitive verb)*: giống, giống với
-* **resembling** /rɪˈzem.blɪŋ/ *(verb form/adjective)*: đang giống; giống như
+* **resemblance** /rɪˈzem.bləns/ *(noun)*: sự giống nhau, nét tương đồng  
+  *Example:* There is a clear resemblance between the sisters.  
+  → Có sự giống nhau rõ ràng giữa hai chị em gái.
+
+* **resemble** /rɪˈzem.bəl/ *(transitive verb)*: giống, giống với  
+  *Example:* The child closely resembles his father.  
+  → Đứa trẻ rất giống cha của mình.
+
+* **resembling** /rɪˈzem.blɪŋ/ *(verb form/adjective)*: đang giống; giống như  
+  *Example:* The new policy has features resembling earlier reforms.  
+  → Chính sách mới có những đặc điểm giống với các cải cách trước đây.
+
 
 ### Notes
 
@@ -2366,9 +2879,18 @@ Common structures:
 
 ### Word family
 
-* **rivalry** /ˈraɪ.vəl.ri/ *(noun)*: sự cạnh tranh, sự kình địch
-* **rival** /ˈraɪ.vəl/ *(countable noun/verb/adjective)*: đối thủ; cạnh tranh; đối địch
-* **rivalrous** /ˈraɪ.vəl.rəs/ *(adjective)*: có tính cạnh tranh/kình địch
+* **rivalry** /ˈraɪ.vəl.ri/ *(noun)*: sự cạnh tranh, sự kình địch  
+  *Example:* Sibling rivalry can become harmful without parental guidance.  
+  → Sự ganh đua giữa anh chị em có thể trở nên có hại nếu thiếu sự hướng dẫn của cha mẹ.
+
+* **rival** /ˈraɪ.vəl/ *(countable noun/verb/adjective)*: đối thủ; cạnh tranh; đối địch  
+  *Example:* The two companies rival each other in the smartphone market.  
+  → Hai công ty cạnh tranh với nhau trên thị trường điện thoại thông minh.
+
+* **rivalrous** /ˈraɪ.vəl.rəs/ *(adjective)*: có tính cạnh tranh/kình địch  
+  *Example:* A rivalrous classroom atmosphere can increase stress.  
+  → Một bầu không khí lớp học đầy tính cạnh tranh có thể làm tăng căng thẳng.
+
 
 ### Notes
 
@@ -2407,9 +2929,18 @@ Common structures:
 
 ### Word family
 
-* **temperament** /ˈtem.prə.mənt/ *(noun)*: tính khí, khí chất
-* **temperamental** /ˌtem.prəˈmen.təl/ *(adjective)*: thất thường, dễ thay đổi cảm xúc
-* **temper** /ˈtem.pər/ *(countable noun/verb)*: tính nóng; làm dịu/điều chỉnh
+* **temperament** /ˈtem.prə.mənt/ *(noun)*: tính khí, khí chất  
+  *Example:* A child's temperament affects how they respond to new situations.  
+  → Tính khí của một đứa trẻ ảnh hưởng đến cách trẻ phản ứng với tình huống mới.
+
+* **temperamental** /ˌtem.prəˈmen.təl/ *(adjective)*: thất thường, dễ thay đổi cảm xúc  
+  *Example:* Temperamental teenagers may need patience and understanding.  
+  → Thanh thiếu niên dễ thay đổi cảm xúc có thể cần sự kiên nhẫn và thấu hiểu.
+
+* **temper** /ˈtem.pər/ *(countable noun/verb)*: tính nóng; làm dịu/điều chỉnh  
+  *Example:* Parents should temper criticism with encouragement.  
+  → Cha mẹ nên làm dịu sự phê bình bằng lời khích lệ.
+
 
 ### Notes
 
@@ -2448,9 +2979,18 @@ Common structures:
 
 ### Word family
 
-* **upbringing** /ˈʌpˌbrɪŋ.ɪŋ/ *(noun)*: sự nuôi dạy, nền tảng lớn lên
-* **bring up** /brɪŋ ˈʌp/ *(phrasal verb)*: nuôi dạy
-* **raised** /reɪzd/ *(adjective/verb form)*: được nuôi dạy, được lớn lên
+* **upbringing** /ˈʌpˌbrɪŋ.ɪŋ/ *(noun)*: sự nuôi dạy, nền tảng lớn lên  
+  *Example:* A stable upbringing can shape a child's confidence.  
+  → Sự nuôi dạy ổn định có thể định hình sự tự tin của trẻ.
+
+* **bring up** /brɪŋ ˈʌp/ *(phrasal verb)*: nuôi dạy  
+  *Example:* Parents try to bring up their children with good values.  
+  → Cha mẹ cố gắng nuôi dạy con cái với những giá trị tốt đẹp.
+
+* **raised** /reɪzd/ *(adjective/verb form)*: được nuôi dạy, được lớn lên  
+  *Example:* Children raised in stable homes often feel more secure.  
+  → Trẻ em được nuôi dạy trong gia đình ổn định thường cảm thấy an toàn hơn.
+
 
 ### Notes
 
@@ -2489,9 +3029,18 @@ Common structures:
 
 ### Word family
 
-* **hostile** /ˈhɒs.taɪl/ *(adjective)*: thù địch, không thân thiện
-* **hostility** /hɒsˈtɪl.ə.ti/ *(countable/uncountable noun)*: sự thù địch, thái độ chống đối
-* **hostilely** /ˈhɒs.taɪl.li/ *(adverb)*: một cách thù địch
+* **hostile** /ˈhɒs.taɪl/ *(adjective)*: thù địch, không thân thiện  
+  *Example:* A hostile work environment can damage employees' mental health.  
+  → Một môi trường làm việc thù địch có thể gây hại cho sức khỏe tinh thần của nhân viên.
+
+* **hostility** /hɒsˈtɪl.ə.ti/ *(countable/uncountable noun)*: sự thù địch, thái độ chống đối  
+  *Example:* Open hostility between neighbours can harm community life.  
+  → Sự thù địch công khai giữa hàng xóm có thể làm tổn hại đời sống cộng đồng.
+
+* **hostilely** /ˈhɒs.taɪl.li/ *(adverb)*: một cách thù địch  
+  *Example:* The audience reacted hostilely to the unfair decision.  
+  → Khán giả đã phản ứng một cách thù địch trước quyết định bất công.
+
 
 ### Notes
 
@@ -2530,9 +3079,18 @@ Common structures:
 
 ### Word family
 
-* **fierce** /fɪəs/ *(adjective)*: dữ dội, gay gắt, hung dữ
-* **fiercely** /ˈfɪəs.li/ *(adverb)*: một cách dữ dội/gay gắt/mãnh liệt
-* **fierceness** /ˈfɪəs.nəs/ *(uncountable noun)*: sự dữ dội, sự gay gắt
+* **fierce** /fɪəs/ *(adjective)*: dữ dội, gay gắt, hung dữ  
+  *Example:* There is fierce competition for places at top universities.  
+  → Có sự cạnh tranh gay gắt để giành suất vào các trường đại học hàng đầu.
+
+* **fiercely** /ˈfɪəs.li/ *(adverb)*: một cách dữ dội/gay gắt/mãnh liệt  
+  *Example:* Parents can fiercely protect their children's interests.  
+  → Cha mẹ có thể bảo vệ lợi ích của con mình một cách mãnh liệt.
+
+* **fierceness** /ˈfɪəs.nəs/ *(uncountable noun)*: sự dữ dội, sự gay gắt  
+  *Example:* The fierceness of the debate surprised many viewers.  
+  → Sự gay gắt của cuộc tranh luận khiến nhiều khán giả ngạc nhiên.
+
 
 ### Notes
 
