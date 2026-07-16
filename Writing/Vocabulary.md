@@ -1635,3 +1635,126 @@ Common structures:
 ### Notes
 
 The key difference is: `most` = "hầu hết/phần lớn"; `almost` = "gần như/suýt". Correct: `Most people use smartphones.` Correct: `Almost all people use smartphones.` Incorrect: `Almost people use smartphones.`
+
+---
+
+## 41. Label /ˈleɪ.bəl/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** nhãn/tem ghi thông tin trên sản phẩm hoặc đồ vật *(noun, 45%)*; gán nhãn/gọi ai hoặc cái gì bằng một danh xưng, thường đơn giản hóa hoặc tiêu cực *(verb, 40%)*; hãng thu âm/thương hiệu trong một số ngữ cảnh *(noun, 15%)*
+
+### Usage
+
+As a noun, `label` means a piece of paper or text that gives information about something. As a verb, it means to describe or classify someone or something with a particular word or phrase. In social and IELTS contexts, `label` often has a negative meaning because it can reduce a person or group to one simple category.
+
+Common structures:
+
+* `label + noun`: dán nhãn/ghi nhãn cho cái gì
+* `label someone/something as + noun/adjective`: gán cho ai/cái gì một nhãn/danh xưng
+* `be labelled as + noun/adjective`: bị gán nhãn là/bị gọi là
+
+### Examples
+
+1. **Food labels should clearly show the amount of sugar and salt in each product.**
+   → Nhãn thực phẩm nên thể hiện rõ lượng đường và muối trong mỗi sản phẩm.
+
+2. **Young people should not be labelled as lazy simply because they choose different careers.**
+   → Người trẻ không nên bị gán nhãn là lười biếng chỉ vì họ chọn những nghề nghiệp khác nhau.
+
+### Common collocations
+
+* **food label**: nhãn thực phẩm
+* **warning label**: nhãn cảnh báo
+* **be labelled as lazy/dangerous/unsuitable**: bị gán nhãn là lười biếng/nguy hiểm/không phù hợp
+
+### Word family
+
+* **label** /ˈleɪ.bəl/ *(noun/verb)*: nhãn; gán nhãn
+* **labelled** /ˈleɪ.bəld/ *(adjective/verb form)*: được dán nhãn; bị gán nhãn
+* **labelling** /ˈleɪ.bəl.ɪŋ/ *(uncountable noun/verb form)*: việc dán nhãn; việc gán nhãn
+
+### Notes
+
+`Be labelled as` means “bị gán nhãn là”. It is often used when society, media, teachers, or employers describe someone with an oversimplified label. British English commonly uses `labelled/labelling`; American English often uses `labeled/labeling`.
+
+---
+
+## 42. Stereotype /ˈster.i.ə.taɪp/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** khuôn mẫu/định kiến đơn giản hóa về một nhóm người *(noun, 70%)*; áp đặt khuôn mẫu/định kiến lên ai hoặc nhóm nào *(verb, 25%)*; hình ảnh lặp lại, thiếu cá tính trong truyền thông hoặc văn hóa *(noun, 5%)*
+
+### Usage
+
+`Stereotype` refers to a fixed and oversimplified idea about a group of people, such as their gender, age, nationality, job, or social class. As a verb, it means to judge or describe people according to such a fixed idea instead of seeing them as individuals.
+
+Common structures:
+
+* `a stereotype about + group`: một định kiến/khuôn mẫu về nhóm nào
+* `stereotype someone as + noun/adjective`: áp đặt khuôn mẫu rằng ai là gì/như thế nào
+* `be stereotyped as + noun/adjective`: bị rập khuôn/bị nhìn nhận theo định kiến là
+
+### Examples
+
+1. **Gender stereotypes can discourage students from choosing certain subjects.**
+   → Định kiến giới có thể khiến học sinh nản lòng khi chọn một số môn học nhất định.
+
+2. **Older workers are sometimes stereotyped as being less adaptable to technology.**
+   → Lao động lớn tuổi đôi khi bị định kiến là kém thích nghi với công nghệ hơn.
+
+### Common collocations
+
+* **gender stereotype**: định kiến giới
+* **racial stereotype**: định kiến chủng tộc
+* **be stereotyped as weak/lazy/aggressive**: bị rập khuôn là yếu đuối/lười biếng/hung hăng
+
+### Word family
+
+* **stereotype** /ˈster.i.ə.taɪp/ *(noun/verb)*: định kiến, khuôn mẫu; áp đặt khuôn mẫu
+* **stereotyped** /ˈster.i.ə.taɪpt/ *(adjective/verb form)*: bị rập khuôn, mang tính định kiến
+* **stereotypical** /ˌster.i.əˈtɪp.ɪ.kəl/ *(adjective)*: mang tính khuôn mẫu, rập khuôn
+
+### Notes
+
+`Be stereotyped as` means “bị nhìn nhận theo định kiến là”. It is stronger than `be labelled as` because it usually refers to a fixed social belief about a whole group, not just one simple description.
+
+---
+
+## 43. Accuse /əˈkjuːz/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** buộc tội/tố cáo ai đã làm điều sai trái hoặc phạm pháp *(80%)*; chỉ trích ai vì cho rằng họ chịu trách nhiệm cho điều xấu *(20%)*
+
+### Usage
+
+`Accuse` means to say that someone has done something wrong, illegal, or dishonest. It is common in crime, law, politics, media, and workplace contexts. The most important pattern is `accuse someone of doing something`.
+
+Common structures:
+
+* `accuse someone of + noun/V-ing`: buộc tội/tố cáo ai về điều gì hoặc vì đã làm gì
+* `be accused of + noun/V-ing`: bị buộc tội/bị tố cáo về điều gì hoặc vì đã làm gì
+* `accuse someone falsely`: buộc tội sai ai
+
+### Examples
+
+1. **The company was accused of hiding information about pollution.**
+   → Công ty bị cáo buộc che giấu thông tin về ô nhiễm.
+
+2. **It is unfair to accuse young people of being irresponsible without evidence.**
+   → Thật không công bằng khi buộc tội người trẻ là vô trách nhiệm mà không có bằng chứng.
+
+### Common collocations
+
+* **accuse someone of a crime**: buộc tội ai phạm tội
+* **be accused of corruption**: bị cáo buộc tham nhũng
+* **false accusation**: lời buộc tội sai
+
+### Word family
+
+* **accuse** /əˈkjuːz/ *(transitive verb)*: buộc tội, tố cáo
+* **accused** /əˈkjuːzd/ *(adjective/noun/verb form)*: bị buộc tội; người bị cáo buộc
+* **accusation** /ˌæk.jəˈzeɪ.ʃən/ *(countable noun)*: lời buộc tội, cáo buộc
+
+### Notes
+
+`Be accused of` means “bị buộc tội/bị cáo buộc là đã làm gì”. Use `of + noun/V-ing`, not `to + verb`. Correct: `He was accused of stealing money.` Incorrect: `He was accused to steal money.`
