@@ -3242,3 +3242,644 @@ Common structures:
 ### Notes
 
 `Instinct` is not the same as `habit`. A habit is learned by repetition, while an instinct feels natural or automatic. `Intuition` is close to the “trực giác” meaning, but `instinct` often sounds more basic and natural.
+
+---
+
+## 66. Affection /əˈfek.ʃən/
+
+* **Part of speech:** uncountable noun; countable noun in specific expressions
+* **Vietnamese meaning:** tình cảm yêu thương, sự trìu mến *(75%)*; sự yêu thích hoặc thiện cảm dành cho ai/cái gì *(20%)*; biểu hiện tình cảm như ôm, hôn, lời nói dịu dàng *(5%)*
+
+### Usage
+
+`Affection` means a warm feeling of love, care, or fondness. It is common in topics about family, children, friendship, and relationships.
+
+Common structures:
+
+* `show affection to/for someone`: thể hiện tình cảm với ai
+* `feel affection for someone`: có tình cảm yêu mến với ai
+* `a sign/display of affection`: một biểu hiện tình cảm
+
+### Examples
+
+1. **Young children need affection as much as food and safety.**
+   → Trẻ nhỏ cần tình yêu thương nhiều như thức ăn và sự an toàn.
+
+2. **He rarely shows affection in public, but he cares deeply about his family.**
+   → Anh ấy hiếm khi thể hiện tình cảm nơi công cộng, nhưng anh ấy rất quan tâm đến gia đình.
+
+### Common collocations
+
+* **parental affection**: tình thương của cha mẹ
+* **show affection**: thể hiện tình cảm
+* **deep affection**: tình cảm sâu sắc
+
+### Word family
+
+* **affection** /əˈfek.ʃən/ *(noun)*: tình cảm yêu thương, sự trìu mến  
+  *Example:* Children develop better emotionally when they receive affection at home.  
+  → Trẻ em phát triển cảm xúc tốt hơn khi nhận được tình yêu thương ở nhà.
+
+* **affectionate** /əˈfek.ʃən.ət/ *(adjective)*: trìu mến, âu yếm  
+  *Example:* She is an affectionate mother who often hugs her children.  
+  → Cô ấy là một người mẹ trìu mến, thường ôm các con của mình.
+
+* **affectionately** /əˈfek.ʃən.ət.li/ *(adverb)*: một cách trìu mến  
+  *Example:* He spoke affectionately about his childhood memories.  
+  → Anh ấy nói một cách trìu mến về những ký ức thời thơ ấu của mình.
+
+### Notes
+
+`Affection` is softer than `love`. You can feel affection for family members, friends, pets, or even places.
+
+---
+
+## 67. Crawl /krɔːl/
+
+* **Part of speech:** intransitive verb; countable noun
+* **Vietnamese meaning:** bò bằng tay và đầu gối hoặc bò sát đất *(45%)*; di chuyển rất chậm *(35%)*; bò lúc nhúc, đầy côn trùng/người *(15%)*; kiểu bơi sải *(5%)*
+
+### Usage
+
+`Crawl` is used for babies, insects, people moving low to the ground, or traffic moving very slowly.
+
+Common structures:
+
+* `crawl along/down/under something`: bò dọc theo/xuống/dưới cái gì
+* `traffic crawls`: giao thông di chuyển rất chậm
+* `be crawling with + plural noun`: đầy, lúc nhúc cái gì
+
+### Examples
+
+1. **Most babies learn to crawl before they learn to walk.**
+   → Hầu hết em bé học bò trước khi học đi.
+
+2. **Traffic crawled through the city centre during rush hour.**
+   → Giao thông di chuyển rất chậm qua trung tâm thành phố vào giờ cao điểm.
+
+### Common collocations
+
+* **crawl on the floor**: bò trên sàn
+* **traffic crawls**: giao thông nhích từng chút
+* **crawl under the table**: bò xuống dưới bàn
+
+### Word family
+
+* **crawl** /krɔːl/ *(verb/noun)*: bò; sự bò, kiểu bơi sải  
+  *Example:* The baby began to crawl across the room.  
+  → Em bé bắt đầu bò ngang qua căn phòng.
+
+* **crawler** /ˈkrɔː.lər/ *(countable noun)*: em bé đang bò; vật/người bò; chương trình thu thập dữ liệu web  
+  *Example:* Search engines use crawlers to find new web pages.  
+  → Các công cụ tìm kiếm dùng trình thu thập dữ liệu để tìm các trang web mới.
+
+* **crawling** /ˈkrɔː.lɪŋ/ *(noun/adjective)*: sự bò; bò chậm chạp  
+  *Example:* Crawling is an important stage in a baby's physical development.  
+  → Việc bò là một giai đoạn quan trọng trong sự phát triển thể chất của em bé.
+
+### Notes
+
+For babies, use `crawl`, not `creep` in everyday English. In technical English, a `web crawler` is software that scans web pages.
+
+---
+
+## 68. Indulgent /ɪnˈdʌl.dʒənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** quá dễ dãi, nuông chiều ai *(60%)*; cho phép bản thân hoặc người khác hưởng thụ thứ gì dễ chịu *(30%)*; khoan dung, ít nghiêm khắc *(10%)*
+
+### Usage
+
+`Indulgent` often describes parents, grandparents, or teachers who are too lenient. It can also describe behaviour that allows pleasure or comfort.
+
+Common structures:
+
+* `be indulgent with/towards someone`: dễ dãi/nuông chiều ai
+* `an indulgent parent`: cha/mẹ nuông chiều con
+* `indulgent lifestyle/meal`: lối sống/bữa ăn thiên về hưởng thụ
+
+### Examples
+
+1. **Indulgent parents may find it difficult to set clear rules for their children.**
+   → Cha mẹ quá nuông chiều có thể thấy khó đặt ra quy tắc rõ ràng cho con cái.
+
+2. **The hotel offers an indulgent spa experience for tired travellers.**
+   → Khách sạn cung cấp trải nghiệm spa thư giãn sang trọng cho những du khách mệt mỏi.
+
+### Common collocations
+
+* **indulgent parents**: cha mẹ nuông chiều con
+* **overly indulgent**: quá dễ dãi, quá nuông chiều
+* **indulgent treat**: món/điều hưởng thụ dễ chịu
+
+### Word family
+
+* **indulgent** /ɪnˈdʌl.dʒənt/ *(adjective)*: nuông chiều, dễ dãi; thiên về hưởng thụ  
+  *Example:* An indulgent grandparent may buy a child too many toys.  
+  → Một ông/bà quá nuông chiều có thể mua cho đứa trẻ quá nhiều đồ chơi.
+
+* **indulge** /ɪnˈdʌldʒ/ *(verb)*: chiều theo, cho phép hưởng thụ  
+  *Example:* Some people indulge themselves with dessert after a stressful day.  
+  → Một số người tự thưởng cho mình món tráng miệng sau một ngày căng thẳng.
+
+* **indulgence** /ɪnˈdʌl.dʒəns/ *(noun)*: sự nuông chiều; sự hưởng thụ  
+  *Example:* Occasional indulgence is acceptable, but constant overeating is unhealthy.  
+  → Thỉnh thoảng hưởng thụ một chút thì chấp nhận được, nhưng ăn quá nhiều liên tục thì không lành mạnh.
+
+### Notes
+
+`Indulgent` can be positive when it means pleasant and luxurious, but it is often negative when it means someone is too lenient.
+
+---
+
+## 69. Infant /ˈɪn.fənt/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** trẻ sơ sinh hoặc trẻ rất nhỏ *(85%)*; thuộc về trẻ sơ sinh/trẻ nhỏ *(10%)*; giai đoạn ban đầu của một tổ chức/ngành *(5%)*
+
+### Usage
+
+`Infant` is more formal than `baby`. It is common in medical, educational, and academic contexts.
+
+Common structures:
+
+* `infant care`: chăm sóc trẻ sơ sinh
+* `infant mortality`: tỷ lệ tử vong ở trẻ sơ sinh
+* `infant development`: sự phát triển của trẻ nhỏ
+
+### Examples
+
+1. **Good nutrition is essential for healthy infant development.**
+   → Dinh dưỡng tốt là điều thiết yếu cho sự phát triển khỏe mạnh của trẻ sơ sinh.
+
+2. **Many hospitals teach new parents basic infant care.**
+   → Nhiều bệnh viện dạy các bậc cha mẹ mới những kỹ năng chăm sóc trẻ sơ sinh cơ bản.
+
+### Common collocations
+
+* **infant care**: chăm sóc trẻ sơ sinh
+* **infant development**: sự phát triển của trẻ sơ sinh
+* **infant mortality**: tỷ lệ tử vong ở trẻ sơ sinh
+
+### Word family
+
+* **infant** /ˈɪn.fənt/ *(noun/adjective)*: trẻ sơ sinh; thuộc về trẻ sơ sinh  
+  *Example:* The clinic provides free check-ups for infants.  
+  → Phòng khám cung cấp kiểm tra sức khỏe miễn phí cho trẻ sơ sinh.
+
+* **infancy** /ˈɪn.fən.si/ *(uncountable noun)*: thời kỳ sơ sinh; giai đoạn đầu  
+  *Example:* Emotional security in infancy can affect later development.  
+  → Sự an toàn về cảm xúc trong thời kỳ sơ sinh có thể ảnh hưởng đến sự phát triển sau này.
+
+* **infantile** /ˈɪn.fən.taɪl/ *(adjective)*: trẻ con, ấu trĩ; thuộc về trẻ sơ sinh  
+  *Example:* His infantile behaviour made the discussion less productive.  
+  → Hành vi trẻ con của anh ấy khiến cuộc thảo luận kém hiệu quả hơn.
+
+### Notes
+
+Use `baby` in everyday speaking and `infant` in more formal or medical contexts.
+
+---
+
+## 70. Make-believe /ˈmeɪk.bɪˌliːv/
+
+* **Part of speech:** uncountable noun; adjective
+* **Vietnamese meaning:** trò chơi tưởng tượng, thế giới giả vờ của trẻ em *(55%)*; điều không có thật, tưởng tượng *(35%)*; mang tính giả tưởng/giả vờ *(10%)*
+
+### Usage
+
+`Make-believe` is often used for children's imaginative play, stories, or unrealistic ideas.
+
+Common structures:
+
+* `a game/world of make-believe`: trò chơi/thế giới tưởng tượng
+* `make-believe character/story`: nhân vật/câu chuyện giả tưởng
+* `just make-believe`: chỉ là tưởng tượng/giả vờ
+
+### Examples
+
+1. **Make-believe helps children develop creativity and social skills.**
+   → Trò chơi tưởng tượng giúp trẻ em phát triển sự sáng tạo và kỹ năng xã hội.
+
+2. **The child created a make-believe world with toys and blankets.**
+   → Đứa trẻ tạo ra một thế giới tưởng tượng bằng đồ chơi và chăn.
+
+### Common collocations
+
+* **make-believe world**: thế giới tưởng tượng
+* **make-believe game**: trò chơi giả vờ/tưởng tượng
+* **make-believe character**: nhân vật giả tưởng
+
+### Word family
+
+* **make-believe** /ˈmeɪk.bɪˌliːv/ *(noun/adjective)*: trò tưởng tượng; giả tưởng  
+  *Example:* Make-believe allows children to practise adult roles safely.  
+  → Trò chơi tưởng tượng cho phép trẻ em tập các vai trò của người lớn một cách an toàn.
+
+* **pretend** /prɪˈtend/ *(verb/adjective)*: giả vờ; giả tưởng  
+  *Example:* Children often pretend to be doctors or teachers when they play.  
+  → Trẻ em thường giả vờ làm bác sĩ hoặc giáo viên khi chơi.
+
+* **imaginative** /ɪˈmædʒ.ɪ.nə.tɪv/ *(adjective)*: giàu trí tưởng tượng  
+  *Example:* Imaginative play can make learning more enjoyable.  
+  → Trò chơi giàu trí tưởng tượng có thể làm việc học thú vị hơn.
+
+### Notes
+
+`Make-believe` is usually connected with imagination, especially in childhood. It is not the same as `lie`, which means saying something false to deceive someone.
+
+---
+
+## 71. Rebel /ˈreb.əl/; /rɪˈbel/
+
+* **Part of speech:** countable noun; intransitive verb
+* **Vietnamese meaning:** người nổi loạn/chống đối chính quyền hoặc quy tắc *(55%)*; nổi loạn, chống lại quyền lực/quy tắc *(35%)*; người thích làm khác số đông *(10%)*
+
+### Usage
+
+As a noun, `rebel` is pronounced /ˈreb.əl/. As a verb, it is pronounced /rɪˈbel/. It is useful for topics about teenagers, authority, politics, and social behaviour.
+
+Common structures:
+
+* `rebel against + authority/rules`: nổi loạn chống lại quyền lực/quy tắc
+* `a rebel group`: nhóm nổi dậy
+* `teenagers rebel`: thanh thiếu niên nổi loạn/chống đối
+
+### Examples
+
+1. **Some teenagers rebel against strict rules because they want more independence.**
+   → Một số thanh thiếu niên chống đối các quy tắc nghiêm khắc vì họ muốn độc lập hơn.
+
+2. **The rebel group refused to accept the government's authority.**
+   → Nhóm nổi dậy từ chối chấp nhận quyền lực của chính phủ.
+
+### Common collocations
+
+* **rebel against authority**: nổi loạn chống lại quyền lực
+* **rebel group**: nhóm nổi dậy
+* **teenage rebel**: thanh thiếu niên nổi loạn
+
+### Word family
+
+* **rebel** /ˈreb.əl/ *(noun)*: người nổi loạn, người chống đối  
+  *Example:* The novel is about a young rebel who refuses to follow unfair rules.  
+  → Cuốn tiểu thuyết nói về một người trẻ nổi loạn, không chịu tuân theo những quy tắc bất công.
+
+* **rebel** /rɪˈbel/ *(intransitive verb)*: nổi loạn, chống đối  
+  *Example:* Children may rebel when parents control every detail of their lives.  
+  → Trẻ em có thể chống đối khi cha mẹ kiểm soát mọi chi tiết trong cuộc sống của chúng.
+
+* **rebellion** /rɪˈbel.i.ən/ *(noun)*: cuộc nổi loạn; sự chống đối  
+  *Example:* The rebellion began after years of social inequality.  
+  → Cuộc nổi loạn bắt đầu sau nhiều năm bất bình đẳng xã hội.
+
+* **rebellious** /rɪˈbel.i.əs/ *(adjective)*: nổi loạn, chống đối  
+  *Example:* A rebellious teenager may reject advice from adults.  
+  → Một thiếu niên nổi loạn có thể bác bỏ lời khuyên từ người lớn.
+
+### Notes
+
+The noun and verb have different stress: **RE-bel** for the noun, but **re-BEL** for the verb.
+
+---
+
+## 72. Conscious UK: /ˈkɒn.ʃəs/ US: /ˈkɑːn.ʃəs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** tỉnh táo, có ý thức, không bất tỉnh *(45%)*; nhận thức được điều gì *(35%)*; có chủ ý, cố ý *(15%)*; quan tâm đến một vấn đề cụ thể *(5%)*
+
+### Usage
+
+`Conscious` can describe being awake and aware, or being aware of a fact, problem, or choice.
+
+Common structures:
+
+* `be conscious of + noun`: nhận thức được điều gì
+* `be conscious that + clause`: nhận thức rằng...
+* `a conscious decision/effort`: quyết định/nỗ lực có chủ ý
+
+### Examples
+
+1. **Children become more conscious of social rules as they grow older.**
+   → Trẻ em nhận thức rõ hơn về các quy tắc xã hội khi lớn lên.
+
+2. **The patient was conscious after the operation.**
+   → Bệnh nhân đã tỉnh táo sau ca phẫu thuật.
+
+### Common collocations
+
+* **be conscious of something**: nhận thức được điều gì
+* **conscious decision**: quyết định có chủ ý
+* **environmentally conscious**: có ý thức về môi trường
+
+### Word family
+
+* **conscious** UK: /ˈkɒn.ʃəs/ US: /ˈkɑːn.ʃəs/ *(adjective)*: tỉnh táo; có ý thức  
+  *Example:* A conscious effort is needed to reduce plastic waste.  
+  → Cần có một nỗ lực có ý thức để giảm rác thải nhựa.
+
+* **consciously** UK: /ˈkɒn.ʃəs.li/ US: /ˈkɑːn.ʃəs.li/ *(adverb)*: một cách có ý thức, có chủ ý  
+  *Example:* Parents should consciously model polite behaviour for their children.  
+  → Cha mẹ nên có ý thức làm mẫu hành vi lịch sự cho con cái.
+
+* **consciousness** UK: /ˈkɒn.ʃəs.nəs/ US: /ˈkɑːn.ʃəs.nəs/ *(noun)*: ý thức; trạng thái tỉnh táo  
+  *Example:* He lost consciousness for a few seconds after the fall.  
+  → Anh ấy mất ý thức trong vài giây sau cú ngã.
+
+### Notes
+
+`Conscious of something` means aware of it. `Conscientious` is different: it means careful and responsible.
+
+---
+
+## 73. Self-conscious UK: /ˌselfˈkɒn.ʃəs/ US: /ˌselfˈkɑːn.ʃəs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** ngượng ngùng, không thoải mái vì nghĩ người khác đang chú ý/đánh giá mình *(70%)*; quá để ý đến bản thân *(25%)*; có ý thức rõ về bản thân trong nghệ thuật/lối viết *(5%)*
+
+### Usage
+
+`Self-conscious` usually describes feeling awkward or embarrassed because you are too aware of yourself.
+
+Common structures:
+
+* `feel self-conscious about + noun/verb-ing`: cảm thấy ngượng vì điều gì
+* `make someone self-conscious`: làm ai cảm thấy ngượng/ngại
+* `self-conscious teenager`: thiếu niên hay ngại ngùng
+
+### Examples
+
+1. **Many teenagers feel self-conscious about their appearance.**
+   → Nhiều thanh thiếu niên cảm thấy ngại ngùng về ngoại hình của mình.
+
+2. **Speaking English in front of strangers can make learners self-conscious.**
+   → Nói tiếng Anh trước người lạ có thể khiến người học cảm thấy ngượng.
+
+### Common collocations
+
+* **feel self-conscious**: cảm thấy ngượng/ngại
+* **self-conscious about appearance**: ngại về ngoại hình
+* **make someone self-conscious**: làm ai cảm thấy ngượng
+
+### Word family
+
+* **self-conscious** UK: /ˌselfˈkɒn.ʃəs/ US: /ˌselfˈkɑːn.ʃəs/ *(adjective)*: ngượng ngùng, quá để ý đến bản thân  
+  *Example:* He felt self-conscious when everyone looked at him.  
+  → Anh ấy cảm thấy ngượng khi mọi người nhìn mình.
+
+* **self-consciously** UK: /ˌselfˈkɒn.ʃəs.li/ US: /ˌselfˈkɑːn.ʃəs.li/ *(adverb)*: một cách ngượng ngùng  
+  *Example:* She smiled self-consciously during her first presentation.  
+  → Cô ấy mỉm cười một cách ngượng ngùng trong bài thuyết trình đầu tiên.
+
+* **self-consciousness** UK: /ˌselfˈkɒn.ʃəs.nəs/ US: /ˌselfˈkɑːn.ʃəs.nəs/ *(noun)*: sự ngượng ngùng, sự quá để ý đến bản thân  
+  *Example:* Self-consciousness can stop students from practising speaking.  
+  → Sự ngượng ngùng có thể ngăn học sinh luyện nói.
+
+### Notes
+
+`Self-conscious` is usually negative. It is not the same as `conscious`, which simply means aware or awake.
+
+---
+
+## 74. Spontaneously UK: /spɒnˈteɪ.ni.əs.li/ US: /spɑːnˈteɪ.ni.əs.li/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** một cách tự phát, không lên kế hoạch trước *(60%)*; một cách tự nhiên, không bị ép buộc *(30%)*; xảy ra tự nhiên/tự động trong khoa học hoặc cơ thể *(10%)*
+
+### Usage
+
+`Spontaneously` describes actions or events that happen naturally, suddenly, or without planning.
+
+Common structures:
+
+* `happen spontaneously`: xảy ra tự phát/tự nhiên
+* `react/respond spontaneously`: phản ứng/trả lời tự nhiên
+* `spontaneously decide to do something`: tự nhiên quyết định làm gì
+
+### Examples
+
+1. **Children often speak more spontaneously when they feel safe and relaxed.**
+   → Trẻ em thường nói tự nhiên hơn khi chúng cảm thấy an toàn và thoải mái.
+
+2. **We spontaneously decided to visit the museum after lunch.**
+   → Chúng tôi tự nhiên quyết định đi thăm bảo tàng sau bữa trưa.
+
+### Common collocations
+
+* **react spontaneously**: phản ứng tự nhiên/tự phát
+* **happen spontaneously**: xảy ra tự phát
+* **speak spontaneously**: nói một cách tự nhiên
+
+### Word family
+
+* **spontaneously** UK: /spɒnˈteɪ.ni.əs.li/ US: /spɑːnˈteɪ.ni.əs.li/ *(adverb)*: một cách tự phát, tự nhiên  
+  *Example:* The audience spontaneously applauded after the performance.  
+  → Khán giả tự nhiên vỗ tay sau màn trình diễn.
+
+* **spontaneous** UK: /spɒnˈteɪ.ni.əs/ US: /spɑːnˈteɪ.ni.əs/ *(adjective)*: tự phát, tự nhiên  
+  *Example:* Spontaneous conversation is harder than prepared speaking.  
+  → Hội thoại tự nhiên khó hơn nói đã chuẩn bị trước.
+
+* **spontaneity** UK: /ˌspɒn.təˈneɪ.ə.ti/ US: /ˌspɑːn.təˈneɪ.ə.t̬i/ *(noun)*: tính tự phát, sự tự nhiên  
+  *Example:* A little spontaneity can make a trip more memorable.  
+  → Một chút tự phát có thể làm chuyến đi đáng nhớ hơn.
+
+### Notes
+
+`Spontaneously` does not mean `immediately`. It means without planning or without external pressure.
+
+---
+
+## 75. Tantrum /ˈtæn.trəm/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cơn ăn vạ/cơn giận dữ của trẻ nhỏ *(80%)*; cơn nổi nóng mất kiểm soát của người lớn *(20%)*
+
+### Usage
+
+`Tantrum` is most often used for children who cry, shout, or throw themselves around because they are angry or frustrated.
+
+Common structures:
+
+* `have/throw a tantrum`: ăn vạ, nổi cơn giận dữ
+* `temper tantrum`: cơn giận dữ/ăn vạ
+* `toddler tantrum`: cơn ăn vạ của trẻ mới biết đi
+
+### Examples
+
+1. **The toddler threw a tantrum when his mother refused to buy him a toy.**
+   → Đứa trẻ mới biết đi ăn vạ khi mẹ không chịu mua đồ chơi cho nó.
+
+2. **Parents should stay calm when a child has a tantrum in public.**
+   → Cha mẹ nên giữ bình tĩnh khi trẻ ăn vạ nơi công cộng.
+
+### Common collocations
+
+* **throw a tantrum**: ăn vạ, nổi cơn giận
+* **temper tantrum**: cơn giận dữ/cơn ăn vạ
+* **toddler tantrum**: cơn ăn vạ của trẻ mới biết đi
+
+### Word family
+
+* **tantrum** /ˈtæn.trəm/ *(noun)*: cơn ăn vạ, cơn giận dữ  
+  *Example:* The child's tantrum lasted for several minutes.  
+  → Cơn ăn vạ của đứa trẻ kéo dài vài phút.
+
+* **temper tantrum** /ˈtem.pər ˌtæn.trəm/ *(noun phrase)*: cơn giận dữ/cơn ăn vạ  
+  *Example:* A temper tantrum is common in early childhood.  
+  → Cơn ăn vạ khá phổ biến trong giai đoạn thơ ấu đầu đời.
+
+* **tantrum-prone** /ˈtæn.trəm prəʊn/ *(adjective)*: dễ ăn vạ, dễ nổi cơn giận  
+  *Example:* A tired and hungry toddler may become tantrum-prone.  
+  → Một trẻ mới biết đi vừa mệt vừa đói có thể dễ ăn vạ.
+
+### Notes
+
+The natural verb is usually `throw a tantrum` or `have a tantrum`, not `make a tantrum`.
+
+---
+
+## 76. Toddler UK: /ˈtɒd.lər/ US: /ˈtɑːd.lɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** trẻ mới biết đi, thường khoảng 1-3 tuổi *(90%)*; trẻ rất nhỏ đang trong giai đoạn tập đi/tập nói *(10%)*
+
+### Usage
+
+`Toddler` refers to a young child who has started walking but is still very young. It is common in parenting, education, and child development topics.
+
+Common structures:
+
+* `a toddler learns to do something`: trẻ mới biết đi học làm gì
+* `toddler behaviour`: hành vi của trẻ mới biết đi
+* `toddler development`: sự phát triển của trẻ mới biết đi
+
+### Examples
+
+1. **Toddlers need safe spaces where they can explore freely.**
+   → Trẻ mới biết đi cần không gian an toàn để có thể tự do khám phá.
+
+2. **A toddler may throw a tantrum when tired or hungry.**
+   → Trẻ mới biết đi có thể ăn vạ khi mệt hoặc đói.
+
+### Common collocations
+
+* **toddler behaviour**: hành vi của trẻ mới biết đi
+* **toddler development**: sự phát triển của trẻ mới biết đi
+* **toddler tantrum**: cơn ăn vạ của trẻ mới biết đi
+
+### Word family
+
+* **toddler** UK: /ˈtɒd.lər/ US: /ˈtɑːd.lɚ/ *(noun)*: trẻ mới biết đi  
+  *Example:* The toddler held his father's hand while crossing the street.  
+  → Đứa trẻ mới biết đi nắm tay bố khi băng qua đường.
+
+* **toddle** /ˈtɒd.əl/ *(intransitive verb)*: đi lẫm chẫm  
+  *Example:* The child toddled across the room toward her mother.  
+  → Đứa trẻ đi lẫm chẫm qua phòng về phía mẹ.
+
+* **toddling** /ˈtɒd.lɪŋ/ *(adjective/verb form)*: đang đi lẫm chẫm  
+  *Example:* A toddling child needs close supervision near stairs.  
+  → Một đứa trẻ đang đi lẫm chẫm cần được giám sát kỹ gần cầu thang.
+
+### Notes
+
+`Infant` usually means a younger baby, while `toddler` means a child who has begun to walk.
+
+---
+
+## 77. Steer UK: /stɪər/ US: /stɪr/
+
+* **Part of speech:** transitive verb; intransitive verb; countable noun
+* **Vietnamese meaning:** lái, điều khiển phương tiện theo hướng nào đó *(45%)*; dẫn dắt/định hướng ai hoặc điều gì *(35%)*; tránh hoặc hướng khỏi điều gì *(15%)*; bò đực đã thiến *(5%)*
+
+### Usage
+
+`Steer` means control the direction of a vehicle, conversation, person, or decision.
+
+Common structures:
+
+* `steer a car/boat/bike`: lái ô tô/thuyền/xe đạp
+* `steer someone towards/away from something`: hướng ai tới/tránh khỏi điều gì
+* `steer clear of something`: tránh xa điều gì
+
+### Examples
+
+1. **Parents can steer children towards healthy habits without controlling every choice.**
+   → Cha mẹ có thể định hướng con cái tới những thói quen lành mạnh mà không kiểm soát mọi lựa chọn.
+
+2. **The driver steered the car carefully through the narrow street.**
+   → Người lái xe điều khiển chiếc xe cẩn thận qua con phố hẹp.
+
+### Common collocations
+
+* **steer a car**: lái xe ô tô
+* **steer someone towards something**: định hướng ai tới điều gì
+* **steer clear of danger**: tránh xa nguy hiểm
+
+### Word family
+
+* **steer** UK: /stɪər/ US: /stɪr/ *(verb/noun)*: lái, điều khiển; bò đực đã thiến  
+  *Example:* A teacher can steer students towards more effective learning methods.  
+  → Giáo viên có thể định hướng học sinh tới các phương pháp học hiệu quả hơn.
+
+* **steering** UK: /ˈstɪə.rɪŋ/ US: /ˈstɪr.ɪŋ/ *(noun/adjective)*: việc lái xe; hệ thống lái  
+  *Example:* The car's steering felt heavy on the mountain road.  
+  → Hệ thống lái của chiếc xe có cảm giác nặng trên con đường núi.
+
+* **steerable** UK: /ˈstɪə.rə.bəl/ US: /ˈstɪr.ə.bəl/ *(adjective)*: có thể điều khiển hướng  
+  *Example:* A steerable camera helps doctors examine small areas inside the body.  
+  → Một camera có thể điều khiển hướng giúp bác sĩ kiểm tra các vùng nhỏ bên trong cơ thể.
+
+### Notes
+
+`Steer` is often metaphorical in academic English: `steer policy`, `steer discussion`, `steer children away from risk`.
+
+---
+
+## 78. Unparalleled UK: /ʌnˈpær.əl.eld/ US: /ʌnˈper.ə.leld/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** vô song, không gì sánh bằng *(70%)*; chưa từng có, hiếm có về mức độ/chất lượng *(25%)*; rất đặc biệt trong một lĩnh vực cụ thể *(5%)*
+
+### Usage
+
+`Unparalleled` is a strong formal adjective used to praise something that is unmatched in quality, scale, or importance.
+
+Common structures:
+
+* `unparalleled success/achievement`: thành công/thành tựu vô song
+* `unparalleled opportunity`: cơ hội hiếm có
+* `be unparalleled in + field/aspect`: không gì sánh bằng trong lĩnh vực/khía cạnh nào
+
+### Examples
+
+1. **The internet gives students unparalleled access to information.**
+   → Internet cho học sinh khả năng tiếp cận thông tin chưa từng có.
+
+2. **Her contribution to early childhood education was unparalleled.**
+   → Đóng góp của bà cho giáo dục mầm non là vô song.
+
+### Common collocations
+
+* **unparalleled access**: khả năng tiếp cận chưa từng có
+* **unparalleled success**: thành công vô song
+* **unparalleled opportunity**: cơ hội hiếm có/không gì sánh bằng
+
+### Word family
+
+* **unparalleled** UK: /ʌnˈpær.əl.eld/ US: /ʌnˈper.ə.leld/ *(adjective)*: vô song, chưa từng có  
+  *Example:* Modern technology offers unparalleled opportunities for remote learning.  
+  → Công nghệ hiện đại mang lại những cơ hội chưa từng có cho việc học từ xa.
+
+* **parallel** /ˈpær.ə.lel/ *(noun/verb/adjective)*: sự tương đồng; song song; tương đương  
+  *Example:* There are clear parallels between language learning and music practice.  
+  → Có những điểm tương đồng rõ ràng giữa việc học ngôn ngữ và luyện tập âm nhạc.
+
+* **paralleled** /ˈpær.ə.leld/ *(verb form/adjective)*: tương đương, song hành với  
+  *Example:* The growth of online learning has paralleled advances in digital technology.  
+  → Sự phát triển của học trực tuyến song hành với những tiến bộ trong công nghệ số.
+
+### Notes
+
+`Unparalleled` is stronger and more formal than `excellent`. Use it only when something is truly outstanding or unmatched.
