@@ -3883,3 +3883,1325 @@ Common structures:
 ### Notes
 
 `Unparalleled` is stronger and more formal than `excellent`. Use it only when something is truly outstanding or unmatched.
+
+---
+
+## 79. Tragic /ˈtrædʒ.ɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** bi thảm, rất đau buồn *(75%)*; đáng tiếc, rất không may *(20%)*; thuộc về bi kịch trong văn học/nghệ thuật *(5%)*
+
+### Usage
+
+`Tragic` describes events, deaths, accidents, or situations that cause great sadness. In daily speech, it can also mean extremely unfortunate.
+
+Common structures:
+
+* `a tragic accident/death`: một tai nạn/cái chết bi thảm
+* `it is tragic that + clause`: thật bi thảm/đáng buồn rằng...
+* `tragic consequences`: hậu quả bi thảm
+
+### Examples
+
+1. **The tragic accident shocked the whole community.**
+   → Vụ tai nạn bi thảm đã gây chấn động cả cộng đồng.
+
+2. **It is tragic that many children grow up without adequate healthcare.**
+   → Thật đáng buồn khi nhiều trẻ em lớn lên mà không có chăm sóc y tế đầy đủ.
+
+### Common collocations
+
+* **tragic accident**: tai nạn bi thảm
+* **tragic loss**: mất mát đau buồn
+* **tragic consequences**: hậu quả bi thảm
+
+### Word family
+
+* **tragic** /ˈtrædʒ.ɪk/ *(adjective)*: bi thảm, đáng buồn  
+  *Example:* The disaster had a tragic impact on local families.  
+  → Thảm họa đó có tác động bi thảm đến các gia đình địa phương.
+
+* **tragedy** /ˈtrædʒ.ə.di/ *(noun)*: bi kịch, thảm kịch  
+  *Example:* The loss of young lives was a national tragedy.  
+  → Sự mất mát của những sinh mạng trẻ là một thảm kịch quốc gia.
+
+* **tragically** /ˈtrædʒ.ɪ.kəl.i/ *(adverb)*: một cách bi thảm, đáng buồn thay  
+  *Example:* Tragically, many victims did not receive help in time.  
+  → Đáng buồn thay, nhiều nạn nhân đã không nhận được sự giúp đỡ kịp thời.
+
+### Notes
+
+`Tragic` is stronger than `sad`. Use it for serious loss, suffering, or disaster.
+
+---
+
+## 80. Wreckage /ˈrek.ɪdʒ/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** đống đổ nát, mảnh vỡ sau tai nạn/thảm họa *(80%)*; tàn tích sau sự phá hủy nghiêm trọng *(20%)*
+
+### Usage
+
+`Wreckage` refers to the broken parts of a vehicle, building, or object after it has been badly damaged.
+
+Common structures:
+
+* `the wreckage of + vehicle/building`: đống đổ nát/mảnh vỡ của...
+* `search through the wreckage`: tìm kiếm trong đống đổ nát
+* `remove/clear the wreckage`: dọn dẹp đống đổ nát
+
+### Examples
+
+1. **Rescue workers searched through the wreckage after the plane crash.**
+   → Nhân viên cứu hộ tìm kiếm trong đống mảnh vỡ sau vụ rơi máy bay.
+
+2. **The storm left wreckage across the coastal town.**
+   → Cơn bão để lại đống đổ nát khắp thị trấn ven biển.
+
+### Common collocations
+
+* **plane wreckage**: mảnh vỡ máy bay
+* **search the wreckage**: tìm kiếm trong đống đổ nát
+* **clear the wreckage**: dọn dẹp đống đổ nát
+
+### Word family
+
+* **wreckage** /ˈrek.ɪdʒ/ *(uncountable noun)*: đống đổ nát, mảnh vỡ  
+  *Example:* Investigators examined the wreckage to find the cause of the crash.  
+  → Các điều tra viên kiểm tra mảnh vỡ để tìm nguyên nhân vụ tai nạn.
+
+* **wreck** /rek/ *(noun/verb)*: xác tàu/xe bị hỏng; phá hủy  
+  *Example:* The flood wrecked many houses near the river.  
+  → Trận lũ đã phá hủy nhiều ngôi nhà gần sông.
+
+* **wrecked** /rekt/ *(adjective/verb form)*: bị phá hủy; rất mệt  
+  *Example:* The wrecked car was removed from the road.  
+  → Chiếc xe bị hỏng nặng đã được đưa khỏi con đường.
+
+### Notes
+
+`Wreckage` is uncountable, so say `some wreckage` or `pieces of wreckage`, not `a wreckage`.
+
+---
+
+## 81. Abdomen /ˈæb.də.mən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** bụng, vùng bụng trong cơ thể người/động vật *(90%)*; phần sau của cơ thể côn trùng *(10%)*
+
+### Usage
+
+`Abdomen` is more formal or medical than `belly` or `stomach`. It refers to the area between the chest and the hips.
+
+Common structures:
+
+* `pain in the abdomen`: đau ở vùng bụng
+* `abdominal pain`: đau bụng
+* `lower/upper abdomen`: bụng dưới/bụng trên
+
+### Examples
+
+1. **The patient complained of severe pain in the lower abdomen.**
+   → Bệnh nhân than phiền bị đau dữ dội ở vùng bụng dưới.
+
+2. **Regular exercise can strengthen the muscles around the abdomen.**
+   → Tập thể dục thường xuyên có thể làm khỏe các cơ quanh vùng bụng.
+
+### Common collocations
+
+* **lower abdomen**: bụng dưới
+* **abdominal pain**: đau bụng
+* **abdomen muscles**: cơ vùng bụng
+
+### Word family
+
+* **abdomen** /ˈæb.də.mən/ *(noun)*: bụng, vùng bụng  
+  *Example:* Doctors checked his abdomen for signs of injury.  
+  → Các bác sĩ kiểm tra vùng bụng của anh ấy để tìm dấu hiệu chấn thương.
+
+* **abdominal** /æbˈdɒm.ɪ.nəl/ *(adjective)*: thuộc vùng bụng  
+  *Example:* Abdominal pain should not be ignored if it lasts for several days.  
+  → Đau bụng không nên bị xem nhẹ nếu kéo dài trong vài ngày.
+
+* **abdominals** /æbˈdɒm.ɪ.nəlz/ *(plural noun)*: cơ bụng  
+  *Example:* Planks can help strengthen the abdominals.  
+  → Bài plank có thể giúp làm khỏe cơ bụng.
+
+### Notes
+
+`Stomach` can mean the organ that digests food, while `abdomen` means the wider body area.
+
+---
+
+## 82. Alternate /ˈɒl.tə.neɪt/; /ɒlˈtɜː.nət/
+
+* **Part of speech:** verb; adjective; countable noun
+* **Vietnamese meaning:** luân phiên, thay phiên nhau *(45%)*; xen kẽ *(25%)*; phương án/người thay thế, dự bị *(20%)*; khác, thay thế cho cái thông thường *(10%)*
+
+### Usage
+
+As a verb, `alternate` means to take turns or switch repeatedly. As an adjective, it can mean every other one or another possible choice.
+
+Common structures:
+
+* `alternate between A and B`: luân phiên giữa A và B
+* `on alternate days/weeks`: cách ngày/cách tuần
+* `an alternate plan/route`: phương án/tuyến đường thay thế
+
+### Examples
+
+1. **Students can alternate between online lessons and classroom activities.**
+   → Học sinh có thể luân phiên giữa bài học trực tuyến và hoạt động trên lớp.
+
+2. **We need an alternate route because the main road is closed.**
+   → Chúng ta cần một tuyến đường thay thế vì đường chính đã bị đóng.
+
+### Common collocations
+
+* **alternate route**: tuyến đường thay thế
+* **alternate between two tasks**: luân phiên giữa hai nhiệm vụ
+* **on alternate days**: cách ngày
+
+### Word family
+
+* **alternate** /ˈɒl.tə.neɪt/ *(verb)*: luân phiên, thay phiên  
+  *Example:* The course alternates between theory and practical training.  
+  → Khóa học luân phiên giữa lý thuyết và đào tạo thực hành.
+
+* **alternate** /ɒlˈtɜː.nət/ *(adjective/noun)*: thay thế; người/phương án dự bị  
+  *Example:* The school prepared an alternate plan for bad weather.  
+  → Nhà trường chuẩn bị một phương án thay thế cho thời tiết xấu.
+
+* **alternation** /ˌɒl.təˈneɪ.ʃən/ *(noun)*: sự luân phiên  
+  *Example:* Alternation between work and rest can improve productivity.  
+  → Sự luân phiên giữa làm việc và nghỉ ngơi có thể cải thiện năng suất.
+
+### Notes
+
+In British English, `alternative` is often preferred for “phương án thay thế”. In American English, `alternate` is common in this meaning.
+
+---
+
+## 83. Organ /ˈɔː.ɡən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cơ quan nội tạng/bộ phận trong cơ thể có chức năng riêng *(80%)*; đàn organ/đàn ống *(15%)*; cơ quan truyền thông/tổ chức chính thức của một nhóm *(5%)*
+
+### Usage
+
+`Organ` is common in health, biology, and medicine. It refers to body parts such as the heart, liver, lungs, and kidneys.
+
+Common structures:
+
+* `vital organ`: cơ quan nội tạng thiết yếu
+* `organ donation/transplant`: hiến/cấy ghép nội tạng
+* `internal organ`: cơ quan nội tạng
+
+### Examples
+
+1. **The heart is a vital organ that pumps blood around the body.**
+   → Tim là một cơ quan thiết yếu bơm máu đi khắp cơ thể.
+
+2. **Organ donation can save the lives of patients with serious illnesses.**
+   → Hiến tạng có thể cứu sống những bệnh nhân mắc bệnh nghiêm trọng.
+
+### Common collocations
+
+* **vital organ**: cơ quan thiết yếu
+* **organ donation**: hiến tạng
+* **organ transplant**: cấy ghép nội tạng
+
+### Word family
+
+* **organ** /ˈɔː.ɡən/ *(noun)*: cơ quan nội tạng; đàn organ  
+  *Example:* Smoking can damage several organs, including the lungs and heart.  
+  → Hút thuốc có thể làm tổn thương nhiều cơ quan, bao gồm phổi và tim.
+
+* **organic** /ɔːˈɡæn.ɪk/ *(adjective)*: hữu cơ; thuộc cơ thể sống  
+  *Example:* Organic food is often more expensive than conventional food.  
+  → Thực phẩm hữu cơ thường đắt hơn thực phẩm thông thường.
+
+* **organism** /ˈɔː.ɡən.ɪ.zəm/ *(noun)*: sinh vật  
+  *Example:* Every organism needs energy to survive.  
+  → Mọi sinh vật đều cần năng lượng để tồn tại.
+
+### Notes
+
+Do not confuse `organ` with `organisation`. `Organ` is usually a body part or a musical instrument.
+
+---
+
+## 84. Apparatus /ˌæp.əˈreɪ.təs/
+
+* **Part of speech:** uncountable noun; countable noun in technical use
+* **Vietnamese meaning:** thiết bị, dụng cụ cho mục đích cụ thể *(65%)*; bộ máy/hệ thống tổ chức hoặc chính quyền *(25%)*; cấu trúc/bộ phận sinh học có chức năng nhất định *(10%)*
+
+### Usage
+
+`Apparatus` is formal. It often refers to scientific, medical, sports, or technical equipment, or to an organisational system.
+
+Common structures:
+
+* `scientific/medical apparatus`: thiết bị khoa học/y tế
+* `breathing apparatus`: thiết bị hỗ trợ thở
+* `state/government apparatus`: bộ máy nhà nước/chính phủ
+
+### Examples
+
+1. **The laboratory needs modern apparatus for accurate experiments.**
+   → Phòng thí nghiệm cần thiết bị hiện đại để thực hiện thí nghiệm chính xác.
+
+2. **The government apparatus must respond quickly during a public health crisis.**
+   → Bộ máy chính phủ phải phản ứng nhanh trong một cuộc khủng hoảng y tế công cộng.
+
+### Common collocations
+
+* **laboratory apparatus**: thiết bị phòng thí nghiệm
+* **breathing apparatus**: thiết bị hỗ trợ thở
+* **state apparatus**: bộ máy nhà nước
+
+### Word family
+
+* **apparatus** /ˌæp.əˈreɪ.təs/ *(noun)*: thiết bị; bộ máy  
+  *Example:* Firefighters used breathing apparatus inside the smoke-filled building.  
+  → Lính cứu hỏa đã sử dụng thiết bị hỗ trợ thở bên trong tòa nhà đầy khói.
+
+* **apparatuses** /ˌæp.əˈreɪ.təs.ɪz/ *(plural noun)*: các thiết bị/bộ máy  
+  *Example:* Different apparatuses are used to measure air quality.  
+  → Các thiết bị khác nhau được dùng để đo chất lượng không khí.
+
+* **equipment** /ɪˈkwɪp.mənt/ *(uncountable noun)*: thiết bị, dụng cụ  
+  *Example:* Schools need basic science equipment for practical lessons.  
+  → Trường học cần thiết bị khoa học cơ bản cho các bài học thực hành.
+
+### Notes
+
+`Apparatus` is more formal than `equipment`. In everyday English, `equipment` is usually more natural.
+
+---
+
+## 85. Appetite /ˈæp.ə.taɪt/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** cảm giác thèm ăn, khẩu vị *(70%)*; sự ham muốn/mong muốn mạnh mẽ đối với điều gì *(25%)*; mức nhu cầu hoặc sự quan tâm của thị trường/công chúng *(5%)*
+
+### Usage
+
+
+Common structures:
+
+* `have/lose an appetite`: có/mất cảm giác thèm ăn
+* `an appetite for + noun`: sự ham muốn/nhu cầu đối với điều gì
+* `suppress/stimulate appetite`: làm giảm/kích thích cảm giác thèm ăn
+
+### Examples
+
+1. **Stress can reduce a person's appetite and affect their health.**
+   → Căng thẳng có thể làm giảm cảm giác thèm ăn của một người và ảnh hưởng đến sức khỏe.
+
+2. **There is a growing appetite for online education among working adults.**
+   → Nhu cầu học trực tuyến đang tăng lên trong nhóm người trưởng thành đi làm.
+
+### Common collocations
+
+* **lose your appetite**: mất cảm giác thèm ăn
+* **healthy appetite**: khẩu vị tốt
+* **appetite for knowledge**: ham muốn học hỏi
+
+### Word family
+
+* **appetite** /ˈæp.ə.taɪt/ *(noun)*: cảm giác thèm ăn; sự ham muốn  
+  *Example:* Regular exercise can improve appetite and sleep quality.  
+  → Tập thể dục thường xuyên có thể cải thiện cảm giác thèm ăn và chất lượng giấc ngủ.
+
+* **appetising** UK: /ˈæp.ɪ.taɪ.zɪŋ/ US: /ˈæp.ə.taɪ.zɪŋ/ *(adjective)*: ngon miệng, hấp dẫn  
+  *Example:* Fresh fruit can make a meal look more appetising.  
+  → Trái cây tươi có thể làm bữa ăn trông hấp dẫn hơn.
+
+* **appetiser** UK: /ˈæp.ɪ.taɪ.zər/ US: /ˈæp.ə.taɪ.zɚ/ *(noun)*: món khai vị  
+  *Example:* The restaurant served soup as an appetiser.  
+  → Nhà hàng phục vụ súp như một món khai vị.
+
+### Notes
+
+`Appetite` is not only about food. In IELTS, `an appetite for change/knowledge/risk` is useful and natural.
+
+---
+
+## 86. Apt /æpt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** có khả năng/dễ làm điều gì *(40%)*; phù hợp, thích hợp *(35%)*; nhanh hiểu, học tốt *(25%)*
+
+### Usage
+
+`Apt` is fairly formal. It is common in phrases such as `be apt to`, `an apt description`, and `an apt pupil`.
+
+Common structures:
+
+* `be apt to + verb`: có xu hướng/dễ làm gì
+* `an apt description/comment`: mô tả/bình luận phù hợp
+* `an apt student/pupil`: học sinh nhanh hiểu
+
+### Examples
+
+1. **Children are apt to copy the behaviour they see at home.**
+   → Trẻ em có xu hướng bắt chước hành vi mà chúng thấy ở nhà.
+
+2. **Her description of the problem was brief but apt.**
+   → Mô tả của cô ấy về vấn đề đó ngắn gọn nhưng phù hợp.
+
+### Common collocations
+
+* **be apt to forget**: có xu hướng hay quên
+* **apt description**: mô tả phù hợp
+* **apt student**: học sinh nhanh hiểu
+
+### Word family
+
+* **apt** /æpt/ *(adjective)*: dễ có xu hướng; phù hợp; nhanh hiểu  
+  *Example:* Young learners are apt to remember words that are linked to pictures.  
+  → Người học nhỏ tuổi có xu hướng nhớ các từ được liên kết với hình ảnh.
+
+* **aptly** /ˈæpt.li/ *(adverb)*: một cách phù hợp, chính xác  
+  *Example:* The article aptly describes the pressure faced by modern parents.  
+  → Bài báo mô tả rất phù hợp áp lực mà cha mẹ hiện đại đối mặt.
+
+* **aptitude** /ˈæp.tɪ.tjuːd/ *(noun)*: năng khiếu, khả năng học nhanh  
+  *Example:* She has a strong aptitude for languages.  
+  → Cô ấy có năng khiếu học ngôn ngữ rất tốt.
+
+### Notes
+
+`Apt to do something` means “likely to do something”, while `apt at something` is less common than `good at something`.
+
+---
+
+## 87. Briskly /ˈbrɪsk.li/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** một cách nhanh nhẹn, mau lẹ *(60%)*; một cách năng động, dứt khoát *(25%)*; một cách hơi lạnh/gắt khi nói về thời tiết hoặc thái độ *(15%)*
+
+### Usage
+
+`Briskly` describes moving, walking, speaking, or acting quickly and energetically.
+
+Common structures:
+
+* `walk briskly`: đi bộ nhanh nhẹn
+* `speak briskly`: nói nhanh gọn/dứt khoát
+* `move/work briskly`: di chuyển/làm việc nhanh nhẹn
+
+### Examples
+
+1. **Walking briskly for thirty minutes a day can improve heart health.**
+   → Đi bộ nhanh ba mươi phút mỗi ngày có thể cải thiện sức khỏe tim mạch.
+
+2. **The nurse spoke briskly but kindly to reassure the patient.**
+   → Y tá nói nhanh gọn nhưng tử tế để trấn an bệnh nhân.
+
+### Common collocations
+
+* **walk briskly**: đi bộ nhanh
+* **speak briskly**: nói nhanh gọn
+* **move briskly**: di chuyển nhanh nhẹn
+
+### Word family
+
+* **briskly** /ˈbrɪsk.li/ *(adverb)*: một cách nhanh nhẹn, mau lẹ  
+  *Example:* She walked briskly to the bus stop because she was running late.  
+  → Cô ấy đi nhanh đến trạm xe buýt vì đang bị muộn.
+
+* **brisk** /brɪsk/ *(adjective)*: nhanh nhẹn; se lạnh; sôi động  
+  *Example:* A brisk walk after dinner can help digestion.  
+  → Một cuộc đi bộ nhanh sau bữa tối có thể giúp tiêu hóa.
+
+* **briskness** /ˈbrɪsk.nəs/ *(noun)*: sự nhanh nhẹn, sự sôi động  
+  *Example:* The briskness of the service impressed the customers.  
+  → Sự nhanh nhẹn của dịch vụ đã gây ấn tượng với khách hàng.
+
+### Notes
+
+`Briskly` is more energetic and positive than simply `quickly`.
+
+---
+
+## 88. Cure /kjʊər/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** phương pháp chữa khỏi bệnh *(45%)*; chữa khỏi bệnh hoặc vấn đề *(35%)*; giải pháp cho một vấn đề xã hội/cá nhân *(20%)*
+
+### Usage
+
+`Cure` means to make an illness disappear completely, or to solve a serious problem.
+
+Common structures:
+
+* `a cure for + disease/problem`: phương pháp chữa/giải pháp cho bệnh/vấn đề
+* `cure someone of + disease/habit`: chữa cho ai khỏi bệnh/thói quen
+* `cure a disease/problem`: chữa bệnh/giải quyết vấn đề
+
+### Examples
+
+1. **Scientists are still searching for a cure for some forms of cancer.**
+   → Các nhà khoa học vẫn đang tìm kiếm phương pháp chữa khỏi một số dạng ung thư.
+
+2. **Education alone cannot cure poverty, but it can reduce its long-term effects.**
+   → Chỉ riêng giáo dục không thể xóa bỏ nghèo đói, nhưng nó có thể giảm tác động lâu dài của nó.
+
+### Common collocations
+
+* **find a cure**: tìm ra phương pháp chữa trị
+* **cure a disease**: chữa khỏi bệnh
+* **a cure for poverty**: giải pháp cho nghèo đói
+
+### Word family
+
+* **cure** /kjʊər/ *(noun/verb)*: phương pháp chữa trị; chữa khỏi  
+  *Example:* Early treatment can cure many infections.  
+  → Điều trị sớm có thể chữa khỏi nhiều bệnh nhiễm trùng.
+
+* **curable** /ˈkjʊə.rə.bəl/ *(adjective)*: có thể chữa khỏi  
+  *Example:* Some diseases are curable if they are detected early.  
+  → Một số bệnh có thể chữa khỏi nếu được phát hiện sớm.
+
+* **incurable** /ɪnˈkjʊə.rə.bəl/ *(adjective)*: không thể chữa khỏi  
+  *Example:* Patients with incurable illnesses still need emotional support.  
+  → Bệnh nhân mắc bệnh không thể chữa khỏi vẫn cần sự hỗ trợ về tinh thần.
+
+### Notes
+
+`Cure` means completely remove an illness. `Treat` means give medical care, but the illness may not fully disappear.
+
+---
+
+## 89. Clear-cut /ˌklɪə ˈkʌt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** rõ ràng, dễ hiểu, không mơ hồ *(75%)*; dứt khoát, có ranh giới rõ *(20%)*; bị chặt sạch khi nói về rừng *(5%)*
+
+### Usage
+
+`Clear-cut` describes decisions, differences, cases, or answers that are easy to understand and not ambiguous.
+
+Common structures:
+
+* `a clear-cut answer/decision`: câu trả lời/quyết định rõ ràng
+* `a clear-cut distinction`: sự phân biệt rõ ràng
+* `not clear-cut`: không rõ ràng, còn mơ hồ
+
+### Examples
+
+1. **There is no clear-cut solution to youth unemployment.**
+   → Không có giải pháp rõ ràng và đơn giản cho tình trạng thất nghiệp ở thanh niên.
+
+2. **The difference between healthy discipline and strict control is not always clear-cut.**
+   → Sự khác biệt giữa kỷ luật lành mạnh và kiểm soát nghiêm khắc không phải lúc nào cũng rõ ràng.
+
+### Common collocations
+
+* **clear-cut solution**: giải pháp rõ ràng
+* **clear-cut distinction**: sự phân biệt rõ ràng
+* **clear-cut case**: trường hợp rõ ràng
+
+### Word family
+
+* **clear-cut** /ˌklɪə ˈkʌt/ *(adjective)*: rõ ràng, không mơ hồ  
+  *Example:* The evidence was not clear-cut enough to support the claim.  
+  → Bằng chứng không đủ rõ ràng để ủng hộ tuyên bố đó.
+
+* **clear** /klɪər/ *(adjective/verb)*: rõ ràng; làm rõ, dọn sạch  
+  *Example:* Clear communication can prevent misunderstandings at work.  
+  → Giao tiếp rõ ràng có thể ngăn hiểu lầm tại nơi làm việc.
+
+* **clearly** /ˈklɪə.li/ *(adverb)*: một cách rõ ràng  
+  *Example:* The teacher explained the grammar point clearly.  
+  → Giáo viên giải thích điểm ngữ pháp đó một cách rõ ràng.
+
+### Notes
+
+Use `not clear-cut` when an issue is complicated and cannot be judged simply.
+
+---
+
+## 90. Consequently /ˈkɒn.sɪ.kwənt.li/
+
+* **Part of speech:** adverb; linking adverb
+* **Vietnamese meaning:** do đó, vì vậy, kết quả là *(85%)*; theo hệ quả là *(15%)*
+
+### Usage
+
+`Consequently` links a cause to a result. It is formal and useful in IELTS Writing.
+
+Common structures:
+
+* `Sentence. Consequently, + result`: Câu. Do đó, + kết quả
+* `cause; consequently, result`: nguyên nhân; do đó, kết quả
+* `as a consequence`: như một hệ quả
+
+### Examples
+
+1. **Many people skip breakfast; consequently, they feel tired later in the morning.**
+   → Nhiều người bỏ bữa sáng; do đó, họ cảm thấy mệt vào cuối buổi sáng.
+
+2. **Public transport is unreliable, and consequently more residents use private cars.**
+   → Giao thông công cộng không đáng tin cậy, và vì vậy nhiều cư dân sử dụng xe cá nhân hơn.
+
+### Common collocations
+
+* **consequently,**: do đó,
+* **and consequently**: và vì vậy
+* **suffer consequently**: chịu hậu quả do đó
+
+### Word family
+
+* **consequently** /ˈkɒn.sɪ.kwənt.li/ *(adverb)*: do đó, kết quả là  
+  *Example:* The company reduced salaries; consequently, many employees resigned.  
+  → Công ty giảm lương; do đó, nhiều nhân viên đã nghỉ việc.
+
+* **consequence** /ˈkɒn.sɪ.kwəns/ *(noun)*: hậu quả, hệ quả  
+  *Example:* Poor sleep can have serious consequences for mental health.  
+  → Giấc ngủ kém có thể có hậu quả nghiêm trọng đối với sức khỏe tinh thần.
+
+* **consequent** /ˈkɒn.sɪ.kwənt/ *(adjective)*: xảy ra như một hệ quả  
+  *Example:* The consequent rise in costs affected low-income families.  
+  → Sự gia tăng chi phí do đó đã ảnh hưởng đến các gia đình thu nhập thấp.
+
+### Notes
+
+`Consequently` is more formal than `so`. It normally appears at the beginning of a result clause and is followed by a comma.
+
+---
+
+## 91. Controversial UK: /ˌkɒn.trəˈvɜː.ʃəl/ US: /ˌkɑːn.trəˈvɝː.ʃəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** gây tranh cãi, khiến nhiều người bất đồng *(90%)*; có tính nhạy cảm/chưa được đồng thuận *(10%)*
+
+### Usage
+
+`Controversial` describes topics, policies, decisions, or people that cause strong disagreement.
+
+Common structures:
+
+* `a controversial issue/topic`: vấn đề/chủ đề gây tranh cãi
+* `remain controversial`: vẫn gây tranh cãi
+* `be controversial because + clause`: gây tranh cãi vì...
+
+### Examples
+
+1. **The use of surveillance cameras in public places remains controversial.**
+   → Việc sử dụng camera giám sát ở nơi công cộng vẫn gây tranh cãi.
+
+2. **Banning junk food in schools is a controversial policy.**
+   → Cấm đồ ăn vặt trong trường học là một chính sách gây tranh cãi.
+
+### Common collocations
+
+* **controversial issue**: vấn đề gây tranh cãi
+* **controversial policy**: chính sách gây tranh cãi
+* **highly controversial**: rất gây tranh cãi
+
+### Word family
+
+* **controversial** UK: /ˌkɒn.trəˈvɜː.ʃəl/ US: /ˌkɑːn.trəˈvɝː.ʃəl/ *(adjective)*: gây tranh cãi  
+  *Example:* The proposal was controversial because it affected personal privacy.  
+  → Đề xuất đó gây tranh cãi vì nó ảnh hưởng đến quyền riêng tư cá nhân.
+
+* **controversy** UK: /ˈkɒn.trə.vɜː.si/ US: /ˈkɑːn.trə.vɝː.si/ *(noun)*: cuộc tranh cãi, sự tranh cãi  
+  *Example:* The new education policy caused public controversy.  
+  → Chính sách giáo dục mới đã gây ra tranh cãi trong công chúng.
+
+* **controversially** UK: /ˌkɒn.trəˈvɜː.ʃəl.i/ US: /ˌkɑːn.trəˈvɝː.ʃəl.i/ *(adverb)*: một cách gây tranh cãi  
+  *Example:* The law was controversially introduced without enough public debate.  
+  → Luật đó được đưa ra một cách gây tranh cãi mà không có đủ thảo luận công khai.
+
+### Notes
+
+`Controversial` is not the same as `contradictory`. `Controversial` causes disagreement; `contradictory` means two ideas oppose each other logically.
+
+---
+
+## 92. Curb /kɜːb/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** kiềm chế, hạn chế một điều xấu *(60%)*; lề đường/vỉa hè thấp cạnh đường *(30%)*; sự hạn chế/biện pháp kiểm soát *(10%)*
+
+### Usage
+
+As a verb, `curb` is common in formal writing and means to control or reduce something harmful.
+
+Common structures:
+
+* `curb + problem`: hạn chế/kiềm chế vấn đề
+* `curb spending/emissions/crime`: hạn chế chi tiêu/khí thải/tội phạm
+* `put a curb on something`: đặt giới hạn lên điều gì
+
+### Examples
+
+1. **Governments should curb air pollution by investing in public transport.**
+   → Chính phủ nên hạn chế ô nhiễm không khí bằng cách đầu tư vào giao thông công cộng.
+
+2. **Parents can help children curb excessive screen time.**
+   → Cha mẹ có thể giúp trẻ hạn chế thời gian dùng màn hình quá mức.
+
+### Common collocations
+
+* **curb emissions**: hạn chế khí thải
+* **curb spending**: hạn chế chi tiêu
+* **curb crime**: kiềm chế tội phạm
+
+### Word family
+
+* **curb** /kɜːb/ *(verb/noun)*: kiềm chế, hạn chế; lề đường  
+  *Example:* Higher taxes may curb the consumption of sugary drinks.  
+  → Thuế cao hơn có thể hạn chế việc tiêu thụ đồ uống có đường.
+
+* **curbed** /kɜːbd/ *(adjective/verb form)*: bị hạn chế, được kiềm chế  
+  *Example:* Noise levels were curbed after the city introduced new rules.  
+  → Mức độ tiếng ồn đã được hạn chế sau khi thành phố đưa ra quy định mới.
+
+* **curbing** /ˈkɜː.bɪŋ/ *(noun/verb form)*: việc hạn chế, sự kiềm chế  
+  *Example:* Curbing waste requires changes in both production and consumption.  
+  → Việc hạn chế rác thải đòi hỏi thay đổi cả trong sản xuất và tiêu dùng.
+
+### Notes
+
+In American English, `curb` also commonly means the edge of a street. In British English, this is usually spelled `kerb` for the street meaning.
+
+---
+
+## 93. Debilitating /dɪˈbɪl.ɪ.teɪ.tɪŋ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** làm suy nhược nghiêm trọng về thể chất/tinh thần *(80%)*; làm yếu đi hoặc cản trở khả năng hoạt động *(20%)*
+
+### Usage
+
+`Debilitating` is often used for illnesses, pain, stress, fear, or conditions that seriously reduce a person's ability to function.
+
+Common structures:
+
+* `a debilitating disease/condition`: bệnh/tình trạng làm suy nhược
+* `debilitating pain/fatigue`: cơn đau/sự mệt mỏi làm suy kiệt
+* `have a debilitating effect on someone`: có tác động làm suy yếu ai
+
+### Examples
+
+1. **Chronic insomnia can have a debilitating effect on a person's daily life.**
+   → Mất ngủ mãn tính có thể có tác động làm suy kiệt cuộc sống hằng ngày của một người.
+
+2. **Debilitating pain prevented him from returning to work.**
+   → Cơn đau làm suy nhược đã ngăn anh ấy quay lại làm việc.
+
+### Common collocations
+
+* **debilitating illness**: căn bệnh làm suy nhược
+* **debilitating pain**: cơn đau làm suy kiệt
+* **debilitating effect**: tác động làm suy yếu
+
+### Word family
+
+* **debilitating** /dɪˈbɪl.ɪ.teɪ.tɪŋ/ *(adjective)*: làm suy nhược, làm suy yếu  
+  *Example:* Severe anxiety can be debilitating for students during exams.  
+  → Lo âu nghiêm trọng có thể làm học sinh suy kiệt trong kỳ thi.
+
+* **debilitate** /dɪˈbɪl.ɪ.teɪt/ *(verb)*: làm suy nhược, làm yếu đi  
+  *Example:* Long-term illness can debilitate both the body and the mind.  
+  → Bệnh kéo dài có thể làm suy nhược cả cơ thể lẫn tinh thần.
+
+* **debilitation** /dɪˌbɪl.ɪˈteɪ.ʃən/ *(noun)*: sự suy nhược  
+  *Example:* Proper rehabilitation can reduce debilitation after a stroke.  
+  → Phục hồi chức năng đúng cách có thể giảm sự suy nhược sau đột quỵ.
+
+### Notes
+
+`Debilitating` is stronger than `tiring`. It suggests serious weakness or loss of normal function.
+
+---
+
+## 94. Stroke /strəʊk/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** đột quỵ *(45%)*; cú đánh/động tác trong thể thao hoặc bơi lội *(25%)*; nét bút/nét vẽ *(15%)*; vuốt ve nhẹ *(10%)*; tiếng chuông điểm giờ hoặc một lần may mắn/tài năng *(5%)*
+
+### Usage
+
+`Stroke` has several common meanings. In health contexts, it usually means a serious medical condition caused by interrupted blood flow to the brain.
+
+Common structures:
+
+* `have/suffer a stroke`: bị đột quỵ
+* `recover from a stroke`: phục hồi sau đột quỵ
+* `a stroke of luck/genius`: một sự may mắn/thiên tài bất ngờ
+
+### Examples
+
+1. **High blood pressure can increase the risk of a stroke.**
+   → Huyết áp cao có thể làm tăng nguy cơ đột quỵ.
+
+2. **She painted the final stroke carefully.**
+   → Cô ấy vẽ nét cuối cùng một cách cẩn thận.
+
+### Common collocations
+
+* **suffer a stroke**: bị đột quỵ
+* **stroke patient**: bệnh nhân đột quỵ
+* **a stroke of luck**: một sự may mắn bất ngờ
+
+### Word family
+
+* **stroke** /strəʊk/ *(noun/verb)*: đột quỵ; nét/cú đánh; vuốt ve  
+  *Example:* Quick medical treatment after a stroke can save lives.  
+  → Điều trị y tế nhanh sau đột quỵ có thể cứu sống người bệnh.
+
+* **stroke** /strəʊk/ *(verb)*: vuốt ve nhẹ  
+  *Example:* The child gently stroked the cat's fur.  
+  → Đứa trẻ nhẹ nhàng vuốt ve bộ lông của con mèo.
+
+* **stroking** /ˈstrəʊ.kɪŋ/ *(noun/verb form)*: sự vuốt ve; động tác vuốt  
+  *Example:* Gentle stroking can calm a frightened animal.  
+  → Sự vuốt ve nhẹ nhàng có thể làm một con vật sợ hãi bình tĩnh lại.
+
+### Notes
+
+Because `stroke` has many meanings, context is essential. In medical IELTS topics, it almost always means `đột quỵ`.
+
+---
+
+## 95. Elevated /ˈel.ɪ.veɪ.tɪd/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** cao hơn mức bình thường, tăng lên *(55%)*; được nâng lên về vị trí/độ cao *(25%)*; cao quý/trang trọng hơn về phong cách hoặc địa vị *(20%)*
+
+### Usage
+
+`Elevated` is common in health, science, and formal writing, especially for levels such as blood pressure, risk, or temperature.
+
+Common structures:
+
+* `elevated blood pressure`: huyết áp cao hơn bình thường
+* `elevated risk/level`: nguy cơ/mức độ tăng cao
+* `be elevated to + position`: được nâng lên/bổ nhiệm vào vị trí
+
+### Examples
+
+1. **Elevated stress levels can contribute to insomnia.**
+   → Mức căng thẳng tăng cao có thể góp phần gây mất ngủ.
+
+2. **People with elevated blood pressure should seek medical advice.**
+   → Những người có huyết áp cao hơn bình thường nên tìm lời khuyên y tế.
+
+### Common collocations
+
+* **elevated blood pressure**: huyết áp tăng cao
+* **elevated risk**: nguy cơ cao hơn
+* **elevated levels**: các mức tăng cao
+
+### Word family
+
+* **elevated** /ˈel.ɪ.veɪ.tɪd/ *(adjective/verb form)*: tăng cao; được nâng lên  
+  *Example:* Elevated noise levels can harm sleep quality.  
+  → Mức tiếng ồn tăng cao có thể gây hại cho chất lượng giấc ngủ.
+
+* **elevate** /ˈel.ɪ.veɪt/ *(verb)*: nâng lên, làm tăng  
+  *Example:* Regular training can elevate an athlete's performance.  
+  → Tập luyện thường xuyên có thể nâng cao thành tích của vận động viên.
+
+* **elevation** /ˌel.ɪˈveɪ.ʃən/ *(noun)*: sự nâng lên; độ cao  
+  *Example:* The city is located at a high elevation.  
+  → Thành phố nằm ở một độ cao lớn.
+
+### Notes
+
+In medical contexts, `elevated` often means “higher than normal”, not necessarily extremely high.
+
+---
+
+## 96. Insomnia /ɪnˈsɒm.ni.ə/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** chứng mất ngủ, khó ngủ kéo dài *(90%)*; tình trạng không ngủ được tạm thời *(10%)*
+
+### Usage
+
+`Insomnia` is a health term for difficulty falling asleep, staying asleep, or getting enough sleep.
+
+Common structures:
+
+* `suffer from insomnia`: bị chứng mất ngủ
+* `chronic insomnia`: mất ngủ mãn tính
+* `insomnia caused by stress`: mất ngủ do căng thẳng gây ra
+
+### Examples
+
+1. **Insomnia can affect concentration, mood, and work performance.**
+   → Mất ngủ có thể ảnh hưởng đến sự tập trung, tâm trạng và hiệu suất làm việc.
+
+2. **Many adults suffer from insomnia during periods of intense stress.**
+   → Nhiều người trưởng thành bị mất ngủ trong các giai đoạn căng thẳng cao độ.
+
+### Common collocations
+
+* **suffer from insomnia**: bị chứng mất ngủ
+* **chronic insomnia**: mất ngủ mãn tính
+* **severe insomnia**: mất ngủ nghiêm trọng
+
+### Word family
+
+* **insomnia** /ɪnˈsɒm.ni.ə/ *(uncountable noun)*: chứng mất ngủ  
+  *Example:* Long-term insomnia may require professional treatment.  
+  → Mất ngủ kéo dài có thể cần điều trị chuyên nghiệp.
+
+* **insomniac** /ɪnˈsɒm.ni.æk/ *(noun/adjective)*: người bị mất ngủ; liên quan đến mất ngủ  
+  *Example:* An insomniac may feel exhausted even after spending hours in bed.  
+  → Một người bị mất ngủ có thể cảm thấy kiệt sức dù đã nằm trên giường nhiều giờ.
+
+* **sleepless** /ˈsliːp.ləs/ *(adjective)*: không ngủ được, mất ngủ  
+  *Example:* A sleepless night can make it harder to focus the next day.  
+  → Một đêm không ngủ có thể khiến việc tập trung vào ngày hôm sau khó hơn.
+
+### Notes
+
+`Insomnia` is more formal and medical than `can't sleep`. Do not say `an insomnia`; it is usually uncountable.
+
+---
+
+## 97. Lean /liːn/
+
+* **Part of speech:** intransitive verb; transitive verb; adjective
+* **Vietnamese meaning:** nghiêng, tựa vào gì đó *(35%)*; gầy, ít mỡ *(25%)*; tinh gọn, ít lãng phí *(20%)*; thiên về/ủng hộ một lựa chọn *(15%)*; thời kỳ khó khăn/thiếu thốn *(5%)*
+
+### Usage
+
+`Lean` can describe body movement, body shape, efficient systems, or a tendency toward an opinion.
+
+Common structures:
+
+* `lean against/on + something`: tựa vào cái gì
+* `lean towards + option/opinion`: nghiêng về lựa chọn/quan điểm nào
+* `lean meat/business`: thịt nạc/doanh nghiệp tinh gọn
+
+### Examples
+
+1. **Many companies try to become leaner by reducing unnecessary costs.**
+   → Nhiều công ty cố gắng trở nên tinh gọn hơn bằng cách giảm chi phí không cần thiết.
+
+2. **He leaned against the wall because he felt dizzy.**
+   → Anh ấy tựa vào tường vì cảm thấy chóng mặt.
+
+### Common collocations
+
+* **lean against the wall**: tựa vào tường
+* **lean towards an idea**: nghiêng về một ý tưởng
+* **lean meat**: thịt nạc
+
+### Word family
+
+* **lean** /liːn/ *(verb/adjective)*: nghiêng, tựa; gầy; tinh gọn  
+  *Example:* A lean organisation can respond quickly to market changes.  
+  → Một tổ chức tinh gọn có thể phản ứng nhanh với thay đổi của thị trường.
+
+* **leaning** /ˈliː.nɪŋ/ *(noun/adjective)*: khuynh hướng, sự nghiêng về  
+  *Example:* His political leaning influenced how he judged the policy.  
+  → Khuynh hướng chính trị của anh ấy ảnh hưởng đến cách anh ấy đánh giá chính sách.
+
+* **leanness** /ˈliːn.nəs/ *(noun)*: sự gầy; sự tinh gọn  
+  *Example:* The leanness of the design makes the app easier to use.  
+  → Sự tinh gọn của thiết kế làm ứng dụng dễ sử dụng hơn.
+
+### Notes
+
+`Lean` can be physical (`lean on a table`) or abstract (`lean towards a decision`). `Lean` as an adjective is often positive in business.
+
+---
+
+## 98. Marital /ˈmær.ɪ.təl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc hôn nhân hoặc đời sống vợ chồng *(90%)*; liên quan đến tình trạng hôn nhân pháp lý *(10%)*
+
+### Usage
+
+`Marital` is a formal adjective used in legal, social, psychological, or academic contexts.
+
+Common structures:
+
+* `marital status`: tình trạng hôn nhân
+* `marital problems/conflict`: vấn đề/xung đột hôn nhân
+* `marital relationship`: quan hệ vợ chồng
+
+### Examples
+
+1. **Financial pressure can create marital conflict in some families.**
+   → Áp lực tài chính có thể tạo ra xung đột hôn nhân trong một số gia đình.
+
+2. **Applicants are sometimes asked to state their marital status.**
+   → Ứng viên đôi khi được yêu cầu nêu tình trạng hôn nhân của họ.
+
+### Common collocations
+
+* **marital status**: tình trạng hôn nhân
+* **marital conflict**: xung đột hôn nhân
+* **marital satisfaction**: sự hài lòng trong hôn nhân
+
+### Word family
+
+* **marital** /ˈmær.ɪ.təl/ *(adjective)*: thuộc hôn nhân  
+  *Example:* Marital stress can affect both parents and children.  
+  → Căng thẳng hôn nhân có thể ảnh hưởng đến cả cha mẹ và con cái.
+
+* **marriage** /ˈmær.ɪdʒ/ *(noun)*: hôn nhân, cuộc hôn nhân  
+  *Example:* A stable marriage can provide emotional security for children.  
+  → Một cuộc hôn nhân ổn định có thể mang lại sự an toàn cảm xúc cho trẻ em.
+
+* **marry** /ˈmær.i/ *(verb)*: kết hôn, cưới  
+  *Example:* Some people choose to marry later in life for financial reasons.  
+  → Một số người chọn kết hôn muộn hơn vì lý do tài chính.
+
+### Notes
+
+`Marital` is not the same as `martial`. `Marital` relates to marriage; `martial` relates to war or fighting.
+
+---
+
+## 99. Onset /ˈɒn.set/
+
+* **Part of speech:** singular noun; uncountable noun
+* **Vietnamese meaning:** sự bắt đầu của bệnh/tình trạng xấu *(65%)*; sự khởi đầu của một giai đoạn hoặc quá trình *(30%)*; đợt tấn công dữ dội trong nghĩa cũ/hiếm hơn *(5%)*
+
+### Usage
+
+`Onset` is formal and often used with illness, symptoms, seasons, crises, or problems.
+
+Common structures:
+
+* `the onset of + illness/problem`: sự bắt đầu của bệnh/vấn đề
+* `early/sudden onset`: khởi phát sớm/đột ngột
+* `delay/prevent the onset of something`: trì hoãn/ngăn sự khởi phát của điều gì
+
+### Examples
+
+1. **Regular exercise may delay the onset of some age-related diseases.**
+   → Tập thể dục thường xuyên có thể trì hoãn sự khởi phát của một số bệnh liên quan đến tuổi tác.
+
+2. **The onset of insomnia can be linked to stress or lifestyle changes.**
+   → Sự khởi phát của chứng mất ngủ có thể liên quan đến căng thẳng hoặc thay đổi lối sống.
+
+### Common collocations
+
+* **the onset of symptoms**: sự xuất hiện ban đầu của triệu chứng
+* **early onset**: khởi phát sớm
+* **sudden onset**: khởi phát đột ngột
+
+### Word family
+
+* **onset** /ˈɒn.set/ *(noun)*: sự khởi phát, sự bắt đầu  
+  *Example:* Early treatment after the onset of symptoms can improve recovery.  
+  → Điều trị sớm sau khi triệu chứng khởi phát có thể cải thiện khả năng hồi phục.
+
+* **set in** /ˌset ˈɪn/ *(phrasal verb)*: bắt đầu và có khả năng kéo dài  
+  *Example:* Fatigue set in after several nights of poor sleep.  
+  → Sự mệt mỏi bắt đầu xuất hiện sau nhiều đêm ngủ kém.
+
+* **beginning** /bɪˈɡɪn.ɪŋ/ *(noun)*: sự bắt đầu  
+  *Example:* The beginning of a new habit is often the hardest stage.  
+  → Giai đoạn bắt đầu một thói quen mới thường là giai đoạn khó nhất.
+
+### Notes
+
+`Onset` is more formal than `start` and is especially common in medical or academic writing.
+
+---
+
+## 100. Predisposition /ˌpriː.dɪ.spəˈzɪʃ.ən/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** khuynh hướng dễ mắc bệnh hoặc có đặc điểm nào đó do di truyền/cơ địa *(60%)*; xu hướng thiên về một hành vi/thái độ *(30%)*; sự sẵn lòng/thiên hướng ban đầu *(10%)*
+
+### Usage
+
+`Predisposition` means a natural or inherited tendency to develop a condition or behave in a certain way.
+
+Common structures:
+
+* `a genetic predisposition to + disease`: khuynh hướng di truyền dễ mắc bệnh
+* `have a predisposition to/towards something`: có khuynh hướng đối với điều gì
+* `predisposition for + behaviour`: khuynh hướng đối với hành vi nào
+
+### Examples
+
+1. **Some people have a genetic predisposition to high blood pressure.**
+   → Một số người có khuynh hướng di truyền dễ bị huyết áp cao.
+
+2. **A child's temperament may create a predisposition towards certain behaviours.**
+   → Tính khí của trẻ có thể tạo ra khuynh hướng đối với một số hành vi nhất định.
+
+### Common collocations
+
+* **genetic predisposition**: khuynh hướng di truyền
+* **predisposition to disease**: khuynh hướng dễ mắc bệnh
+* **natural predisposition**: khuynh hướng tự nhiên
+
+### Word family
+
+* **predisposition** /ˌpriː.dɪ.spəˈzɪʃ.ən/ *(noun)*: khuynh hướng, thiên hướng  
+  *Example:* A family history of diabetes may indicate a predisposition to the disease.  
+  → Tiền sử gia đình mắc tiểu đường có thể cho thấy khuynh hướng dễ mắc bệnh này.
+
+* **predispose** /ˌpriː.dɪˈspəʊz/ *(verb)*: làm cho dễ mắc/dễ có khuynh hướng  
+  *Example:* Lack of exercise can predispose people to health problems.  
+  → Thiếu vận động có thể khiến con người dễ gặp các vấn đề sức khỏe.
+
+* **predisposed** /ˌpriː.dɪˈspəʊzd/ *(adjective/verb form)*: có khuynh hướng, dễ mắc  
+  *Example:* Some children are predisposed to anxiety in unfamiliar situations.  
+  → Một số trẻ có khuynh hướng lo âu trong những tình huống xa lạ.
+
+### Notes
+
+`Predisposition` does not mean something will definitely happen. It means the risk or tendency is higher.
+
+---
+
+## 101. Prehistoric /ˌpriː.hɪˈstɒr.ɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc thời tiền sử, trước khi có chữ viết *(80%)*; rất cổ xưa/lỗi thời trong cách nói không trang trọng *(20%)*
+
+### Usage
+
+`Prehistoric` describes times, animals, tools, or humans before written history.
+
+Common structures:
+
+* `prehistoric animals/humans`: động vật/con người thời tiền sử
+* `prehistoric times/period`: thời kỳ tiền sử
+* `prehistoric cave paintings`: tranh hang động thời tiền sử
+
+### Examples
+
+1. **Prehistoric humans used simple tools to hunt and prepare food.**
+   → Con người thời tiền sử sử dụng công cụ đơn giản để săn bắt và chuẩn bị thức ăn.
+
+2. **Museums help children imagine what prehistoric life was like.**
+   → Bảo tàng giúp trẻ em tưởng tượng cuộc sống thời tiền sử như thế nào.
+
+### Common collocations
+
+* **prehistoric animals**: động vật thời tiền sử
+* **prehistoric humans**: con người thời tiền sử
+* **prehistoric period**: thời kỳ tiền sử
+
+### Word family
+
+* **prehistoric** /ˌpriː.hɪˈstɒr.ɪk/ *(adjective)*: thuộc thời tiền sử  
+  *Example:* Prehistoric art can reveal how early humans understood the world.  
+  → Nghệ thuật thời tiền sử có thể cho thấy con người thời đầu hiểu thế giới như thế nào.
+
+* **prehistory** /ˌpriːˈhɪs.tər.i/ *(noun)*: thời tiền sử  
+  *Example:* Prehistory covers the period before written records.  
+  → Thời tiền sử bao gồm giai đoạn trước khi có ghi chép bằng chữ viết.
+
+* **historical** /hɪˈstɒr.ɪ.kəl/ *(adjective)*: thuộc lịch sử  
+  *Example:* Historical evidence helps researchers understand social change.  
+  → Bằng chứng lịch sử giúp các nhà nghiên cứu hiểu sự thay đổi xã hội.
+
+### Notes
+
+`Prehistoric` means before written history. `Ancient` means very old, but it can still refer to periods with written records.
+
+---
+
+## 102. Serving /ˈsɜː.vɪŋ/
+
+* **Part of speech:** countable noun; verb form
+* **Vietnamese meaning:** khẩu phần ăn cho một người *(55%)*; hành động phục vụ/đang phục vụ *(25%)*; lần giao bóng trong thể thao *(15%)*; đang giữ chức vụ hoặc thi hành án/quân dịch *(5%)*
+
+### Usage
+
+`Serving` is common on food labels and recipes. It can also be the `-ing` form of `serve`.
+
+Common structures:
+
+* `one serving of + food`: một khẩu phần...
+* `serving size`: kích cỡ khẩu phần
+* `serve someone/something`: phục vụ ai/cái gì
+
+### Examples
+
+1. **A serving of fruit with breakfast can improve a person's diet.**
+   → Một khẩu phần trái cây cùng bữa sáng có thể cải thiện chế độ ăn của một người.
+
+2. **The label shows how much sugar there is in each serving.**
+   → Nhãn cho biết có bao nhiêu đường trong mỗi khẩu phần.
+
+### Common collocations
+
+* **serving size**: kích cỡ khẩu phần
+* **one serving of vegetables**: một khẩu phần rau
+* **per serving**: trên mỗi khẩu phần
+
+### Word family
+
+* **serving** /ˈsɜː.vɪŋ/ *(noun/verb form)*: khẩu phần; việc phục vụ  
+  *Example:* One serving of nuts can provide healthy fats.  
+  → Một khẩu phần các loại hạt có thể cung cấp chất béo lành mạnh.
+
+* **serve** /sɜːv/ *(verb)*: phục vụ; dọn món; giữ chức  
+  *Example:* Schools should serve nutritious meals to children.  
+  → Trường học nên phục vụ các bữa ăn dinh dưỡng cho trẻ em.
+
+* **service** /ˈsɜː.vɪs/ *(noun)*: dịch vụ, sự phục vụ  
+  *Example:* Good public service can improve citizens' quality of life.  
+  → Dịch vụ công tốt có thể cải thiện chất lượng cuộc sống của công dân.
+
+### Notes
+
+On food labels, `serving` means an amount of food for one person, not the whole package.
+
+---
+
+## 103. Skip meals /ˌskɪp ˈmiːlz/
+
+* **Part of speech:** verb phrase
+* **Vietnamese meaning:** bỏ bữa, không ăn một hoặc nhiều bữa trong ngày *(90%)*; thường xuyên bỏ bữa vì bận/ăn kiêng/không ngon miệng *(10%)*
+
+### Usage
+
+`Skip meals` means not eat meals that you normally would eat. It is common in health and lifestyle topics.
+
+Common structures:
+
+* `skip breakfast/lunch/dinner`: bỏ bữa sáng/trưa/tối
+* `skip meals regularly`: thường xuyên bỏ bữa
+* `avoid skipping meals`: tránh bỏ bữa
+
+### Examples
+
+1. **Students who skip meals may find it harder to concentrate in class.**
+   → Học sinh bỏ bữa có thể thấy khó tập trung hơn trong lớp.
+
+2. **Skipping meals is not a healthy way to lose weight.**
+   → Bỏ bữa không phải là cách lành mạnh để giảm cân.
+
+### Common collocations
+
+* **skip breakfast**: bỏ bữa sáng
+* **regularly skip meals**: thường xuyên bỏ bữa
+* **avoid skipping meals**: tránh bỏ bữa
+
+### Word family
+
+* **skip meals** /ˌskɪp ˈmiːlz/ *(verb phrase)*: bỏ bữa  
+  *Example:* People who skip meals often feel tired later in the day.  
+  → Những người bỏ bữa thường cảm thấy mệt vào cuối ngày.
+
+* **skip** /skɪp/ *(verb)*: bỏ qua; nhảy chân sáo  
+  *Example:* Do not skip important instructions when installing software.  
+  → Đừng bỏ qua các hướng dẫn quan trọng khi cài đặt phần mềm.
+
+* **skipping** /ˈskɪp.ɪŋ/ *(noun/verb form)*: việc bỏ qua; nhảy dây/nhảy chân sáo  
+  *Example:* Skipping breakfast can affect a child's energy level.  
+  → Việc bỏ bữa sáng có thể ảnh hưởng đến mức năng lượng của trẻ.
+
+### Notes
+
+`Skip a meal` means miss one meal. `Skip meals` suggests the habit or repeated action.
+
+---
+
+## 104. Suicide /ˈsuː.ɪ.saɪd/
+
+* **Part of speech:** uncountable noun; countable noun when referring to an individual death
+* **Vietnamese meaning:** hành vi tự tử, việc tự kết liễu đời mình *(75%)*; một ca tử vong do tự tử *(15%)*; hành động tự hủy hoại tương lai/cơ hội theo nghĩa bóng *(10%)*
+
+### Usage
+
+`Suicide` is a serious and sensitive word used in mental health, public health, and social issues. Use it carefully and respectfully.
+
+Common structures:
+
+* `die by suicide`: chết do tự tử
+* `suicide prevention`: phòng ngừa tự tử
+* `suicidal thoughts`: ý nghĩ tự tử
+
+### Examples
+
+1. **Suicide prevention requires better mental health support and less social stigma.**
+   → Phòng ngừa tự tử đòi hỏi hỗ trợ sức khỏe tinh thần tốt hơn và ít kỳ thị xã hội hơn.
+
+2. **People with suicidal thoughts should receive immediate professional help.**
+   → Những người có ý nghĩ tự tử nên nhận được sự trợ giúp chuyên môn ngay lập tức.
+
+### Common collocations
+
+* **suicide prevention**: phòng ngừa tự tử
+* **suicidal thoughts**: ý nghĩ tự tử
+* **die by suicide**: chết do tự tử
+
+### Word family
+
+* **suicide** /ˈsuː.ɪ.saɪd/ *(noun)*: tự tử; một vụ tự tử  
+  *Example:* Schools can play a role in suicide prevention by supporting vulnerable students.  
+  → Trường học có thể góp phần phòng ngừa tự tử bằng cách hỗ trợ học sinh dễ bị tổn thương.
+
+* **suicidal** /ˌsuː.ɪˈsaɪ.dəl/ *(adjective)*: có ý định tự tử; liên quan đến tự tử  
+  *Example:* Suicidal thoughts are a sign that someone needs urgent support.  
+  → Ý nghĩ tự tử là dấu hiệu cho thấy ai đó cần được hỗ trợ khẩn cấp.
+
+* **suicide prevention** /ˈsuː.ɪ.saɪd prɪˈven.ʃən/ *(noun phrase)*: phòng ngừa tự tử  
+  *Example:* Suicide prevention programmes should be available in schools and communities.  
+  → Các chương trình phòng ngừa tự tử nên có ở trường học và cộng đồng.
+
+### Notes
+
+Modern respectful English often prefers `die by suicide` instead of `commit suicide`, because `commit` can sound judgmental.
+
+---
+
+## 105. Tempt /tempt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** cám dỗ, khiến ai muốn làm điều gì không nên làm *(65%)*; hấp dẫn, khiến ai muốn làm điều gì *(30%)*; thử thách số phận/nguy hiểm trong cụm `tempt fate` *(5%)*
+
+### Usage
+
+`Tempt` means make someone want to do or have something, especially something that may be unwise or unhealthy.
+
+Common structures:
+
+* `tempt someone to do something`: cám dỗ/hấp dẫn ai làm gì
+* `be tempted to do something`: bị cám dỗ/muốn làm gì
+* `tempt fate`: liều lĩnh, thử thách số phận
+
+### Examples
+
+1. **Fast food advertisements can tempt children to eat unhealthy meals.**
+   → Quảng cáo đồ ăn nhanh có thể cám dỗ trẻ em ăn những bữa ăn không lành mạnh.
+
+2. **I was tempted to skip the meeting, but I decided to attend.**
+   → Tôi đã muốn bỏ cuộc họp, nhưng tôi quyết định tham dự.
+
+### Common collocations
+
+* **tempt someone to eat/buy/do something**: cám dỗ ai ăn/mua/làm điều gì
+* **be tempted by something**: bị hấp dẫn bởi điều gì
+* **tempt fate**: thử thách số phận, liều lĩnh
+
+### Word family
+
+* **tempt** /tempt/ *(verb)*: cám dỗ, hấp dẫn  
+  *Example:* Discounts can tempt consumers to buy things they do not need.  
+  → Giảm giá có thể cám dỗ người tiêu dùng mua những thứ họ không cần.
+
+* **temptation** /tempˈteɪ.ʃən/ *(noun)*: sự cám dỗ, điều hấp dẫn  
+  *Example:* Keeping snacks out of sight can reduce temptation.  
+  → Để đồ ăn vặt khuất tầm nhìn có thể giảm sự cám dỗ.
+
+* **tempting** /ˈtemp.tɪŋ/ *(adjective)*: hấp dẫn, cám dỗ  
+  *Example:* It is tempting to use a phone while studying, but it reduces concentration.  
+  → Việc dùng điện thoại khi học rất hấp dẫn, nhưng nó làm giảm sự tập trung.
+
+### Notes
+
+`Tempt` can be negative or neutral. `Entice` is similar but often sounds more formal or deliberate.
