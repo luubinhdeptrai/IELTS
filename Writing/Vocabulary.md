@@ -5206,3 +5206,199 @@ Common structures:
 ### Notes
 
 `Tempt` can be negative or neutral. `Entice` is similar but often sounds more formal or deliberate.
+
+---
+
+## 106. Transplant /ˈtræn.splɑːnt/; /trænˈsplɑːnt/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** ca cấy ghép nội tạng/mô hoặc bộ phận cơ thể *(55%)*; cấy ghép, chuyển cơ quan/mô sang cơ thể khác *(30%)*; chuyển cây hoặc người/ý tưởng đến môi trường mới *(15%)*
+
+### Usage
+
+As a noun, `transplant` usually means an operation in which an organ or tissue is moved into a person's body. As a verb, it means to move an organ, plant, person, or idea to a new place.
+
+Common structures:
+
+* `organ/heart/kidney transplant`: ca cấy ghép nội tạng/tim/thận
+* `transplant + organ/tissue`: cấy ghép cơ quan/mô
+* `transplant something from A to B`: chuyển/cấy cái gì từ A sang B
+
+### Examples
+
+1. **A kidney transplant can greatly improve a patient's quality of life.**
+   → Một ca ghép thận có thể cải thiện đáng kể chất lượng cuộc sống của bệnh nhân.
+
+2. **Doctors successfully transplanted the organ into the patient.**
+   → Các bác sĩ đã cấy ghép thành công cơ quan đó vào cơ thể bệnh nhân.
+
+### Common collocations
+
+* **organ transplant**: cấy ghép nội tạng
+* **kidney transplant**: ghép thận
+* **transplant surgery**: phẫu thuật cấy ghép
+
+### Word family
+
+* **transplant** /ˈtræn.splɑːnt/ *(noun)*: ca cấy ghép, bộ phận được cấy ghép  
+  *Example:* The patient waited two years for a heart transplant.  
+  → Bệnh nhân đã chờ hai năm để được ghép tim.
+
+* **transplant** /trænˈsplɑːnt/ *(verb)*: cấy ghép, chuyển sang nơi mới  
+  *Example:* Surgeons transplanted healthy tissue to repair the injury.  
+  → Các bác sĩ phẫu thuật đã cấy ghép mô khỏe mạnh để sửa chữa chấn thương.
+
+* **transplantation** /ˌtræn.splɑːnˈteɪ.ʃən/ *(noun)*: sự cấy ghép  
+  *Example:* Organ transplantation depends on both medical skill and donor availability.  
+  → Việc cấy ghép nội tạng phụ thuộc vào cả kỹ năng y khoa và nguồn người hiến.
+
+### Notes
+
+The noun is usually stressed on the first syllable: **TRANS-plant**. The verb is often stressed on the second syllable: **trans-PLANT**.
+
+---
+
+## 107. Pat /pæt/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** vỗ nhẹ bằng bàn tay để an ủi/khen/ngăn nhẹ *(55%)*; cái vỗ nhẹ *(25%)*; nén/miếng nhỏ như bơ *(10%)*; trả lời hoặc giải pháp quá dễ dàng/được chuẩn bị sẵn, không tự nhiên *(10%)*
+
+### Usage
+
+`Pat` means touch someone or something lightly several times with a flat hand. It is often gentle and friendly.
+
+Common structures:
+
+* `pat someone on the back/head`: vỗ nhẹ vào lưng/đầu ai
+* `give someone a pat`: vỗ nhẹ ai một cái
+* `pat something dry`: vỗ/thấm cho khô
+
+### Examples
+
+1. **The teacher patted the child on the shoulder to comfort him.**
+   → Giáo viên vỗ nhẹ vào vai đứa trẻ để an ủi em.
+
+2. **After washing the vegetables, pat them dry with a clean towel.**
+   → Sau khi rửa rau, hãy thấm khô chúng bằng khăn sạch.
+
+### Common collocations
+
+* **pat someone on the back**: vỗ nhẹ vào lưng ai
+* **give someone a pat**: vỗ nhẹ ai một cái
+* **pat dry**: thấm/vỗ cho khô
+
+### Word family
+
+* **pat** /pæt/ *(verb/noun)*: vỗ nhẹ; cái vỗ nhẹ  
+  *Example:* She gave the toddler a gentle pat on the back.  
+  → Cô ấy vỗ nhẹ vào lưng đứa trẻ mới biết đi.
+
+* **patted** /ˈpæt.ɪd/ *(verb form)*: đã vỗ nhẹ  
+  *Example:* He patted the dog gently before leaving.  
+  → Anh ấy vỗ nhẹ con chó trước khi rời đi.
+
+* **patting** /ˈpæt.ɪŋ/ *(noun/verb form)*: việc vỗ nhẹ  
+  *Example:* Patting a baby gently can help calm them down.  
+  → Vỗ nhẹ em bé có thể giúp bé bình tĩnh lại.
+
+### Notes
+
+`Pat` is gentler than `hit` or `slap`. A `pat on the back` can also mean praise or approval.
+
+---
+
+## 108. Rub /rʌb/
+
+* **Part of speech:** transitive verb; intransitive verb; countable noun
+* **Vietnamese meaning:** chà, xoa, cọ xát bề mặt *(55%)*; xoa bóp nhẹ để giảm đau/làm sạch *(25%)*; làm đau/rát do ma sát *(10%)*; vấn đề khó chịu trong cụm `the rub` *(10%)*
+
+### Usage
+
+`Rub` means move your hand or an object back and forth against a surface. It is common with eyes, skin, hands, stains, and pain.
+
+Common structures:
+
+* `rub + body part`: xoa/chà bộ phận cơ thể
+* `rub something on/into something`: xoa cái gì lên/vào cái gì
+* `rub something off`: chà/xóa cái gì đi
+
+### Examples
+
+1. **Do not rub your eyes too hard because it can irritate them.**
+   → Đừng dụi mắt quá mạnh vì điều đó có thể làm mắt bị kích ứng.
+
+2. **She rubbed cream into her hands after washing them.**
+   → Cô ấy xoa kem vào tay sau khi rửa tay.
+
+### Common collocations
+
+* **rub your eyes**: dụi mắt
+* **rub cream into the skin**: xoa kem vào da
+* **rub a stain off**: chà sạch vết bẩn
+
+### Word family
+
+* **rub** /rʌb/ *(verb/noun)*: chà, xoa; sự chà/xoa  
+  *Example:* Rubbing the area gently may reduce muscle tension.  
+  → Xoa nhẹ vùng đó có thể làm giảm căng cơ.
+
+* **rubbed** /rʌbd/ *(verb form)*: đã chà/xoa  
+  *Example:* She rubbed her forehead because she felt dizzy.  
+  → Cô ấy xoa trán vì cảm thấy chóng mặt.
+
+* **rubbing** /ˈrʌb.ɪŋ/ *(noun/verb form)*: việc chà/xoa; sự cọ xát  
+  *Example:* Constant rubbing can make the skin red and painful.  
+  → Sự cọ xát liên tục có thể làm da đỏ và đau.
+
+### Notes
+
+`Rub` often involves repeated back-and-forth movement. `Pat` is lighter and usually does not involve sliding movement.
+
+---
+
+## 109. Dizzy /ˈdɪz.i/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** chóng mặt, cảm giác mất thăng bằng *(75%)*; bối rối/choáng vì quá nhiều thông tin hoặc cảm xúc *(15%)*; rất cao hoặc quay nhanh gây choáng *(10%)*
+
+### Usage
+
+`Dizzy` describes the feeling that you or the room is spinning, or that you might lose balance. It can also be used figuratively.
+
+Common structures:
+
+* `feel dizzy`: cảm thấy chóng mặt
+* `make someone dizzy`: làm ai chóng mặt
+* `dizzy with + emotion/success`: choáng ngợp vì cảm xúc/thành công
+
+### Examples
+
+1. **Skipping meals can make some people feel dizzy.**
+   → Bỏ bữa có thể khiến một số người cảm thấy chóng mặt.
+
+2. **She felt dizzy after standing up too quickly.**
+   → Cô ấy cảm thấy chóng mặt sau khi đứng dậy quá nhanh.
+
+### Common collocations
+
+* **feel dizzy**: cảm thấy chóng mặt
+* **dizzy spell**: cơn chóng mặt
+* **make someone dizzy**: làm ai chóng mặt
+
+### Word family
+
+* **dizzy** /ˈdɪz.i/ *(adjective)*: chóng mặt, choáng váng  
+  *Example:* A lack of sleep can leave students dizzy and unfocused.  
+  → Thiếu ngủ có thể khiến học sinh chóng mặt và mất tập trung.
+
+* **dizziness** /ˈdɪz.i.nəs/ *(uncountable noun)*: sự chóng mặt, cảm giác choáng váng  
+  *Example:* Persistent dizziness should be checked by a doctor.  
+  → Tình trạng chóng mặt kéo dài nên được bác sĩ kiểm tra.
+
+* **dizzily** /ˈdɪz.i.li/ *(adverb)*: một cách chóng mặt/choáng váng  
+  *Example:* He stood up dizzily after lying in bed all morning.  
+  → Anh ấy đứng dậy một cách choáng váng sau khi nằm trên giường cả buổi sáng.
+
+### Notes
+
+`Dizzy` is different from `sleepy`. `Dizzy` means you may lose balance; `sleepy` means you want to sleep.
