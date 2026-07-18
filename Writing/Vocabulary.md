@@ -4187,6 +4187,7 @@ Common structures:
 
 ### Usage
 
+`Appetite` is used for hunger and also metaphorically for desire or demand.
 
 Common structures:
 
