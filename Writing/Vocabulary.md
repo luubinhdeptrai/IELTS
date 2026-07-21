@@ -6333,3 +6333,199 @@ Common structures:
 ### Notes
 
 `Rod` is usually long, thin, and solid. A `stick` is more general and often made of wood; a `pole` is usually longer and thicker.
+
+---
+
+## 129. Bait /beɪt/
+
+* **Part of speech:** uncountable noun; countable noun in specific uses; transitive verb
+* **Vietnamese meaning:** mồi câu/mồi nhử dùng để bắt cá hoặc động vật *(55%)*; thứ dùng để dụ dỗ hoặc lừa ai *(30%)*; cố ý chọc tức/khiêu khích ai *(15%)*
+
+### Usage
+
+`Bait` is commonly used in fishing, hunting, and metaphorical situations where someone is tempted or trapped. As a verb, it can mean put bait on a hook/trap or deliberately provoke someone.
+
+Common structures:
+
+* `use + bait`: dùng mồi
+* `bait a hook/trap`: mắc mồi vào lưỡi câu/bẫy
+* `bait someone into doing something`: dụ/khiêu khích ai làm gì
+
+### Examples
+
+1. **He put fresh bait on the hook before casting the fishing rod.**
+   → Anh ấy mắc mồi tươi vào lưỡi câu trước khi quăng cần câu.
+
+2. **Online trolls often bait people into angry arguments.**
+   → Những kẻ quấy rối trên mạng thường khiêu khích người khác vào các cuộc tranh cãi giận dữ.
+
+### Common collocations
+
+* **fishing bait**: mồi câu cá
+* **bait a hook**: mắc mồi vào lưỡi câu
+* **take the bait**: mắc bẫy, bị dụ
+
+### Word family
+
+* **bait** /beɪt/ *(noun/verb)*: mồi câu, mồi nhử; dụ, khiêu khích  
+  *Example:* The fish ignored the bait and swam away.  
+  → Con cá phớt lờ mồi câu và bơi đi.
+
+* **baited** /ˈbeɪ.tɪd/ *(adjective/verb form)*: đã được mắc mồi; bị dụ/khiêu khích  
+  *Example:* The baited trap was placed near the river.  
+  → Cái bẫy đã được đặt mồi được đặt gần con sông.
+
+* **baiting** /ˈbeɪ.tɪŋ/ *(noun/verb form)*: việc mắc mồi; sự khiêu khích  
+  *Example:* Baiting others online can quickly escalate into cyberbullying.  
+  → Việc khiêu khích người khác trên mạng có thể nhanh chóng leo thang thành bắt nạt trực tuyến.
+
+### Notes
+
+`Bait` is often uncountable when it means material used to attract fish or animals. Say `some bait`, not usually `a bait`, unless referring to a specific lure or trick.
+
+---
+
+## 130. Cooler box /ˈkuː.lə bɒks/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** thùng giữ lạnh, hộp giữ lạnh để bảo quản đồ ăn/thức uống *(85%)*; thùng đá mang đi dã ngoại/câu cá *(15%)*
+
+### Usage
+
+`Cooler box` means an insulated container used to keep food, drinks, bait, or medicine cold. It is common in travel, camping, fishing, and daily-life contexts.
+
+Common structures:
+
+* `put something in a cooler box`: bỏ cái gì vào thùng giữ lạnh
+* `keep something cold in a cooler box`: giữ lạnh cái gì trong thùng giữ lạnh
+* `bring/carry a cooler box`: mang theo thùng giữ lạnh
+
+### Examples
+
+1. **We kept the fish in a cooler box during the trip home.**
+   → Chúng tôi giữ cá trong thùng giữ lạnh trong chuyến về nhà.
+
+2. **A cooler box is useful for picnics because it keeps drinks cold.**
+   → Thùng giữ lạnh rất hữu ích cho các buổi dã ngoại vì nó giữ đồ uống lạnh.
+
+### Common collocations
+
+* **portable cooler box**: thùng giữ lạnh di động
+* **ice-filled cooler box**: thùng giữ lạnh chứa đá
+* **keep food in a cooler box**: giữ đồ ăn trong thùng giữ lạnh
+
+### Word family
+
+* **cooler box** /ˈkuː.lə bɒks/ *(noun phrase)*: thùng giữ lạnh  
+  *Example:* The family packed sandwiches and fruit in a cooler box.  
+  → Gia đình đó đóng gói bánh mì kẹp và trái cây trong thùng giữ lạnh.
+
+* **cooler** /ˈkuː.lər/ *(noun)*: thùng giữ lạnh; máy làm mát  
+  *Example:* They brought a cooler full of drinks to the beach.  
+  → Họ mang một thùng giữ lạnh đầy đồ uống ra bãi biển.
+
+* **cool** /kuːl/ *(adjective/verb)*: mát; làm mát  
+  *Example:* Food should be cooled before it is stored in the fridge.  
+  → Thức ăn nên được làm nguội trước khi cất vào tủ lạnh.
+
+### Notes
+
+`Cooler box` is more common in British English. In American English, people often say `cooler`.
+
+---
+
+## 131. Dribble /ˈdrɪb.əl/
+
+* **Part of speech:** transitive verb; intransitive verb; countable noun
+* **Vietnamese meaning:** rê bóng bằng chân hoặc tay trong thể thao *(45%)*; chảy nhỏ giọt *(25%)*; chảy nước dãi *(20%)*; một lượng nhỏ chất lỏng *(10%)*
+
+### Usage
+
+`Dribble` is common in football/soccer and basketball, where it means control the ball while moving. It can also describe liquid or saliva flowing slowly in small amounts.
+
+Common structures:
+
+* `dribble the ball`: rê bóng
+* `dribble past + player`: rê bóng qua cầu thủ
+* `water/saliva dribbles`: nước/nước dãi chảy nhỏ giọt
+
+### Examples
+
+1. **The young player dribbled past two defenders and scored.**
+   → Cầu thủ trẻ rê bóng qua hai hậu vệ và ghi bàn.
+
+2. **Water dribbled from the old pipe onto the floor.**
+   → Nước nhỏ giọt từ ống nước cũ xuống sàn.
+
+### Common collocations
+
+* **dribble the ball**: rê bóng
+* **dribble past a defender**: rê bóng qua hậu vệ
+* **a dribble of water**: một ít nước nhỏ giọt
+
+### Word family
+
+* **dribble** /ˈdrɪb.əl/ *(verb/noun)*: rê bóng; nhỏ giọt; chảy nước dãi  
+  *Example:* Good footballers can dribble while looking for space.  
+  → Cầu thủ bóng đá giỏi có thể rê bóng trong khi tìm khoảng trống.
+
+* **dribbling** /ˈdrɪb.lɪŋ/ *(noun/verb form)*: kỹ thuật rê bóng; sự nhỏ giọt  
+  *Example:* Dribbling is an essential skill in basketball.  
+  → Rê bóng là một kỹ năng thiết yếu trong bóng rổ.
+
+* **dribbler** /ˈdrɪb.lər/ *(noun)*: người rê bóng giỏi; người chảy nước dãi  
+  *Example:* The winger is a fast dribbler who can beat defenders easily.  
+  → Cầu thủ chạy cánh là người rê bóng nhanh, có thể vượt qua hậu vệ dễ dàng.
+
+### Notes
+
+In sports, `dribble` is controlled movement with the ball. Do not confuse it with `drip`, which usually means liquid falls in drops.
+
+---
+
+## 132. Tackle /ˈtæk.əl/
+
+* **Part of speech:** transitive verb; countable noun; uncountable noun in fishing context
+* **Vietnamese meaning:** giải quyết/xử lý một vấn đề khó *(45%)*; xoạc/cản bóng hoặc chặn đối thủ trong thể thao *(30%)*; dụng cụ, đặc biệt là đồ câu cá *(15%)*; tóm giữ/ngăn ai lại *(10%)*
+
+### Usage
+
+`Tackle` is very useful in IELTS Writing because it means deal with a difficult problem. It is also common in sports and fishing.
+
+Common structures:
+
+* `tackle a problem/issue`: giải quyết một vấn đề
+* `tackle crime/pollution/inequality`: xử lý tội phạm/ô nhiễm/bất bình đẳng
+* `fishing tackle`: dụng cụ câu cá
+
+### Examples
+
+1. **Governments need long-term policies to tackle air pollution.**
+   → Chính phủ cần các chính sách dài hạn để giải quyết ô nhiễm không khí.
+
+2. **The defender made a clean tackle and won the ball.**
+   → Hậu vệ thực hiện một pha cản bóng sạch và giành được bóng.
+
+### Common collocations
+
+* **tackle a problem**: giải quyết một vấn đề
+* **tackle inequality**: giải quyết bất bình đẳng
+* **fishing tackle**: dụng cụ câu cá
+
+### Word family
+
+* **tackle** /ˈtæk.əl/ *(verb/noun)*: giải quyết; cản bóng; dụng cụ  
+  *Example:* Schools should tackle bullying before it becomes more serious.  
+  → Trường học nên xử lý nạn bắt nạt trước khi nó trở nên nghiêm trọng hơn.
+
+* **tackling** /ˈtæk.lɪŋ/ *(noun/verb form)*: việc xử lý; kỹ thuật cản bóng  
+  *Example:* Tackling poverty requires both education and job opportunities.  
+  → Việc giải quyết nghèo đói đòi hỏi cả giáo dục và cơ hội việc làm.
+
+* **tackle box** /ˈtæk.əl bɒks/ *(noun phrase)*: hộp đựng dụng cụ câu cá  
+  *Example:* He kept hooks, bait, and lines in his tackle box.  
+  → Anh ấy giữ lưỡi câu, mồi câu và dây câu trong hộp đựng dụng cụ câu cá.
+
+### Notes
+
+For IELTS Writing, `tackle` is a strong alternative to `solve` or `deal with`, especially with social problems: `tackle unemployment`, `tackle pollution`, `tackle crime`.
