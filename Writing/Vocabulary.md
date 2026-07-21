@@ -6088,3 +6088,101 @@ Common structures:
 ### Notes
 
 Be careful with `nerd`: it can sound teasing or insulting if used about someone you do not know well. In friendly contexts, it can be positive.
+
+---
+
+## 124. Superior /suːˈpɪə.ri.ər/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** tốt hơn, vượt trội hơn về chất lượng/khả năng *(65%)*; cao hơn về cấp bậc/địa vị *(25%)*; người cấp trên *(10%)*
+
+### Usage
+
+`Superior` means better in quality, ability, status, or rank. It is often used in comparisons and formal writing.
+
+Common structures:
+
+* `be superior to + noun`: tốt hơn/vượt trội hơn cái gì/ai
+* `superior quality/performance`: chất lượng/hiệu suất vượt trội
+* `a superior officer/manager`: cấp trên/sĩ quan cấp trên
+
+### Examples
+
+1. **Public transport is often superior to private cars in crowded city centres.**
+   → Giao thông công cộng thường vượt trội hơn xe cá nhân ở các trung tâm thành phố đông đúc.
+
+2. **A superior should give feedback without making employees feel inferior.**
+   → Cấp trên nên đưa ra phản hồi mà không khiến nhân viên cảm thấy thấp kém.
+
+### Common collocations
+
+* **superior quality**: chất lượng vượt trội
+* **superior to something**: tốt hơn/vượt trội hơn điều gì
+* **superior performance**: hiệu suất vượt trội
+
+### Word family
+
+* **superior** /suːˈpɪə.ri.ər/ *(adjective/noun)*: vượt trội; cấp trên  
+  *Example:* A superior education system can create more equal opportunities.  
+  → Một hệ thống giáo dục vượt trội có thể tạo ra nhiều cơ hội bình đẳng hơn.
+
+* **superiority** /suːˌpɪə.riˈɒr.ə.ti/ *(noun)*: sự vượt trội; cảm giác hơn người  
+  *Example:* A sense of superiority can damage teamwork.  
+  → Cảm giác hơn người có thể làm tổn hại tinh thần làm việc nhóm.
+
+* **superiority complex** /suːˌpɪə.riˈɒr.ə.ti ˌkɒm.pleks/ *(noun phrase)*: mặc cảm tự tôn, cảm giác hơn người  
+  *Example:* A superiority complex may make someone dismiss other people's ideas.  
+  → Mặc cảm tự tôn có thể khiến ai đó xem nhẹ ý kiến của người khác.
+
+### Notes
+
+Use `superior to`, not `superior than`. The opposite is `inferior to`.
+
+---
+
+## 125. Hallway /ˈhɔːl.weɪ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** hành lang trong nhà/tòa nhà *(85%)*; lối đi nối các phòng *(15%)*
+
+### Usage
+
+`Hallway` means a long passage inside a building that connects rooms. It is common in homes, schools, hotels, and offices.
+
+Common structures:
+
+* `in the hallway`: ở hành lang
+* `walk down/along the hallway`: đi dọc hành lang
+* `a narrow/long hallway`: hành lang hẹp/dài
+
+### Examples
+
+1. **Students should not run in the hallway because it can be dangerous.**
+   → Học sinh không nên chạy trong hành lang vì điều đó có thể nguy hiểm.
+
+2. **The hotel room is at the end of the hallway.**
+   → Phòng khách sạn nằm ở cuối hành lang.
+
+### Common collocations
+
+* **walk down the hallway**: đi dọc hành lang
+* **at the end of the hallway**: ở cuối hành lang
+* **school hallway**: hành lang trường học
+
+### Word family
+
+* **hallway** /ˈhɔːl.weɪ/ *(noun)*: hành lang  
+  *Example:* The children waited quietly in the hallway before class.  
+  → Những đứa trẻ chờ yên lặng ở hành lang trước giờ học.
+
+* **hall** /hɔːl/ *(noun)*: hội trường; sảnh; hành lang  
+  *Example:* The school hall is used for meetings and performances.  
+  → Hội trường của trường được dùng cho các cuộc họp và buổi biểu diễn.
+
+* **corridor** UK: /ˈkɒr.ɪ.dɔːr/ US: /ˈkɔːr.ə.dɚ/ *(noun)*: hành lang, lối đi dài  
+  *Example:* The hospital corridor was crowded with patients and nurses.  
+  → Hành lang bệnh viện đông bệnh nhân và y tá.
+
+### Notes
+
+`Hallway` is common in American English. `Corridor` is more common in schools, hospitals, and formal British English.
