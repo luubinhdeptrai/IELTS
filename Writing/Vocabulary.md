@@ -6186,3 +6186,150 @@ Common structures:
 ### Notes
 
 `Hallway` is common in American English. `Corridor` is more common in schools, hospitals, and formal British English.
+
+---
+
+## 126. Take a nap /ˌteɪk ə ˈnæp/
+
+* **Part of speech:** verb phrase
+* **Vietnamese meaning:** chợp mắt, ngủ một giấc ngắn trong ngày *(90%)*; nghỉ ngắn để lấy lại năng lượng *(10%)*
+
+### Usage
+
+`Take a nap` means sleep for a short time, usually during the day. It is common in daily English and health-related speaking.
+
+Common structures:
+
+* `take a short/quick nap`: chợp mắt một lát
+* `take a nap after lunch`: ngủ ngắn sau bữa trưa
+* `need a nap`: cần chợp mắt
+
+### Examples
+
+1. **A short nap after lunch can help some people feel more alert.**
+   → Một giấc ngủ ngắn sau bữa trưa có thể giúp một số người cảm thấy tỉnh táo hơn.
+
+2. **I usually take a nap when I feel exhausted in the afternoon.**
+   → Tôi thường chợp mắt khi cảm thấy kiệt sức vào buổi chiều.
+
+### Common collocations
+
+* **take a quick nap**: chợp mắt nhanh một lát
+* **afternoon nap**: giấc ngủ ngắn buổi chiều
+* **power nap**: giấc ngủ ngắn để hồi phục năng lượng
+
+### Word family
+
+* **take a nap** /ˌteɪk ə ˈnæp/ *(verb phrase)*: chợp mắt, ngủ ngắn  
+  *Example:* Students should take a nap only briefly so it does not affect night sleep.  
+  → Học sinh chỉ nên chợp mắt ngắn để không ảnh hưởng đến giấc ngủ ban đêm.
+
+* **nap** /næp/ *(noun/verb)*: giấc ngủ ngắn; chợp mắt  
+  *Example:* A twenty-minute nap can improve concentration.  
+  → Một giấc ngủ ngắn hai mươi phút có thể cải thiện sự tập trung.
+
+* **napping** /ˈnæp.ɪŋ/ *(noun/verb form)*: việc chợp mắt, đang chợp mắt  
+  *Example:* Napping too late in the day may cause insomnia.  
+  → Chợp mắt quá muộn trong ngày có thể gây mất ngủ.
+
+### Notes
+
+`Take a nap` is more natural than `sleep a little` in everyday English. A `power nap` is a very short nap taken to restore energy.
+
+---
+
+## 127. Rot /rɒt/
+
+* **Part of speech:** intransitive verb; transitive verb; uncountable noun
+* **Vietnamese meaning:** thối rữa, mục nát do vi khuẩn/nấm *(55%)*; làm cho thối rữa/mục nát *(20%)*; sự mục nát/thối rữa *(15%)*; suy đồi đạo đức hoặc hệ thống *(10%)*
+
+### Usage
+
+`Rot` means decay or become destroyed naturally, often because of bacteria, fungi, moisture, or time. It can also be used metaphorically for moral or social decline.
+
+Common structures:
+
+* `fruit/wood/teeth rot`: trái cây/gỗ/răng bị thối/mục
+* `rot away`: mục nát dần
+* `moral/social rot`: sự suy đồi đạo đức/xã hội
+
+### Examples
+
+1. **Food waste may rot quickly in hot weather.**
+   → Rác thực phẩm có thể thối rữa nhanh trong thời tiết nóng.
+
+2. **If wooden furniture is left in the rain, it can rot over time.**
+   → Nếu đồ nội thất bằng gỗ bị để ngoài mưa, nó có thể mục nát theo thời gian.
+
+### Common collocations
+
+* **rotten fruit**: trái cây bị thối
+* **wood rot**: sự mục gỗ
+* **rot away**: mục nát/thối rữa dần
+
+### Word family
+
+* **rot** /rɒt/ *(verb/noun)*: thối rữa, mục nát; sự mục nát  
+  *Example:* Poor storage conditions can cause vegetables to rot.  
+  → Điều kiện bảo quản kém có thể khiến rau củ bị thối.
+
+* **rotten** /ˈrɒt.ən/ *(adjective)*: bị thối, mục nát; tồi tệ  
+  *Example:* Rotten food should be thrown away immediately.  
+  → Thức ăn bị thối nên được vứt bỏ ngay lập tức.
+
+* **rotting** /ˈrɒt.ɪŋ/ *(adjective/verb form)*: đang thối rữa, đang mục nát  
+  *Example:* Rotting waste can attract insects and create unpleasant smells.  
+  → Rác đang thối rữa có thể thu hút côn trùng và tạo ra mùi khó chịu.
+
+### Notes
+
+`Rot` is stronger than `go bad`. `Go bad` is common for food becoming unsafe to eat; `rot` emphasizes visible decay or decomposition.
+
+---
+
+## 128. Rod /rɒd/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thanh dài, que/cây thẳng bằng kim loại, gỗ hoặc nhựa *(55%)*; cần câu cá *(20%)*; que/thanh dùng để đo, đỡ hoặc điều khiển *(15%)*; tế bào hình que trong mắt giúp nhìn trong ánh sáng yếu *(10%)*
+
+### Usage
+
+`Rod` usually refers to a long, thin, straight object made of metal, wood, plastic, or another solid material. It is common in technical, construction, fishing, and science contexts.
+
+Common structures:
+
+* `a metal/wooden rod`: một thanh kim loại/gỗ
+* `a fishing rod`: cần câu cá
+* `rod cells`: tế bào que trong mắt
+
+### Examples
+
+1. **The workers used metal rods to strengthen the concrete structure.**
+   → Công nhân dùng các thanh kim loại để gia cố kết cấu bê tông.
+
+2. **He bought a new fishing rod before the weekend trip.**
+   → Anh ấy mua một cần câu mới trước chuyến đi cuối tuần.
+
+### Common collocations
+
+* **metal rod**: thanh kim loại
+* **fishing rod**: cần câu cá
+* **steel rod**: thanh thép
+
+### Word family
+
+* **rod** /rɒd/ *(noun)*: thanh, que, cần câu  
+  *Example:* A thin rod was used to support the young plant.  
+  → Một thanh mảnh được dùng để đỡ cây non.
+
+* **rod-shaped** /ˈrɒd ʃeɪpt/ *(adjective)*: có hình que, hình thanh  
+  *Example:* Some bacteria are rod-shaped and can only be seen under a microscope.  
+  → Một số vi khuẩn có hình que và chỉ có thể nhìn thấy dưới kính hiển vi.
+
+* **fishing rod** /ˈfɪʃ.ɪŋ rɒd/ *(noun phrase)*: cần câu cá  
+  *Example:* The child learned how to hold a fishing rod properly.  
+  → Đứa trẻ học cách cầm cần câu đúng cách.
+
+### Notes
+
+`Rod` is usually long, thin, and solid. A `stick` is more general and often made of wood; a `pole` is usually longer and thicker.
