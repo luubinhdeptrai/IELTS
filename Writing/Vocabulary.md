@@ -5402,3 +5402,689 @@ Common structures:
 ### Notes
 
 `Dizzy` is different from `sleepy`. `Dizzy` means you may lose balance; `sleepy` means you want to sleep.
+
+---
+
+## 110. Inferior /ɪnˈfɪə.ri.ər/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** kém hơn về chất lượng/giá trị/địa vị *(75%)*; thấp hơn về vị trí/cấp bậc *(15%)*; người cấp dưới *(10%)*
+
+### Usage
+
+`Inferior` means lower in quality, value, status, or rank. It is often used in comparisons and formal writing.
+
+Common structures:
+
+* `be inferior to + noun`: kém hơn cái gì/ai
+* `inferior quality`: chất lượng kém hơn
+* `feel inferior`: cảm thấy thấp kém/tự ti
+
+### Examples
+
+1. **Cheap products are not always inferior to expensive ones.**
+   → Sản phẩm rẻ không phải lúc nào cũng kém hơn sản phẩm đắt tiền.
+
+2. **Students from poor backgrounds should not be made to feel inferior.**
+   → Học sinh có hoàn cảnh nghèo không nên bị khiến cảm thấy thấp kém.
+
+### Common collocations
+
+* **inferior quality**: chất lượng kém hơn
+* **feel inferior**: cảm thấy thấp kém
+* **inferior to something**: kém hơn điều gì
+
+### Word family
+
+* **inferior** /ɪnˈfɪə.ri.ər/ *(adjective/noun)*: kém hơn; người cấp dưới  
+  *Example:* An inferior education system can limit social mobility.  
+  → Một hệ thống giáo dục kém hơn có thể hạn chế sự dịch chuyển xã hội.
+
+* **inferiority** /ɪnˌfɪə.riˈɒr.ə.ti/ *(noun)*: sự thấp kém, cảm giác tự ti  
+  *Example:* Constant criticism can create a sense of inferiority in children.  
+  → Sự chỉ trích liên tục có thể tạo ra cảm giác tự ti ở trẻ em.
+
+* **inferiority complex** /ɪnˌfɪə.riˈɒr.ə.ti ˌkɒm.pleks/ *(noun phrase)*: mặc cảm tự ti  
+  *Example:* Bullying may contribute to an inferiority complex.  
+  → Bắt nạt có thể góp phần tạo ra mặc cảm tự ti.
+
+### Notes
+
+Use `inferior to`, not `inferior than`. The opposite is `superior to`.
+
+---
+
+## 111. Further /ˈfɜː.ðər/
+
+* **Part of speech:** adverb; adjective; transitive verb
+* **Vietnamese meaning:** thêm, hơn nữa, xa hơn về mức độ/thời gian *(45%)*; thêm nữa/bổ sung *(30%)*; thúc đẩy, phát triển điều gì *(15%)*; xa hơn về khoảng cách *(10%)*
+
+### Usage
+
+`Further` can mean more, additional, or to a greater degree. As a verb, it means to help something develop.
+
+Common structures:
+
+* `further discussion/research`: thảo luận/nghiên cứu thêm
+* `further improve/develop`: cải thiện/phát triển hơn nữa
+* `further + noun`: thêm/bổ sung cái gì
+
+### Examples
+
+1. **Further research is needed to understand the long-term effects of screen time.**
+   → Cần nghiên cứu thêm để hiểu tác động lâu dài của thời gian dùng màn hình.
+
+2. **Education can further social equality by giving everyone similar opportunities.**
+   → Giáo dục có thể thúc đẩy bình đẳng xã hội bằng cách cho mọi người cơ hội tương tự.
+
+### Common collocations
+
+* **further research**: nghiên cứu thêm
+* **further discussion**: thảo luận thêm
+* **further improve**: cải thiện hơn nữa
+
+### Word family
+
+* **further** /ˈfɜː.ðər/ *(adverb/adjective/verb)*: thêm, xa hơn; thúc đẩy  
+  *Example:* Governments should provide further support for disadvantaged students.  
+  → Chính phủ nên cung cấp thêm hỗ trợ cho học sinh có hoàn cảnh khó khăn.
+
+* **furthermore** /ˌfɜː.ðəˈmɔːr/ *(linking adverb)*: hơn nữa, ngoài ra  
+  *Example:* Online learning is flexible; furthermore, it can reduce travel costs.  
+  → Học trực tuyến linh hoạt; hơn nữa, nó có thể giảm chi phí đi lại.
+
+* **furtherance** /ˈfɜː.ðər.əns/ *(noun)*: sự thúc đẩy, sự xúc tiến  
+  *Example:* Scholarships can support the furtherance of equal access to education.  
+  → Học bổng có thể hỗ trợ việc thúc đẩy quyền tiếp cận giáo dục bình đẳng.
+
+### Notes
+
+`Further` and `farther` can both refer to distance, but `further` is more common for abstract meanings: `further research`, `further progress`.
+
+---
+
+## 112. Echo /ˈek.əʊ/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** tiếng vọng, âm vang *(45%)*; lặp lại/phản ánh ý tưởng, cảm xúc hoặc lời nói *(35%)*; gợi nhớ hoặc tương tự điều gì trước đó *(15%)*; sự ủng hộ/đồng tình lặp lại *(5%)*
+
+### Usage
+
+`Echo` can describe a sound that repeats after hitting a surface, or an idea that repeats or reflects another idea.
+
+Common structures:
+
+* `an echo of + sound/idea`: tiếng vọng/sự gợi lại của...
+* `echo someone's words/views`: lặp lại/phản ánh lời nói/quan điểm của ai
+* `echo through/across + place`: vang vọng qua nơi nào
+
+### Examples
+
+1. **Her speech echoed the concerns of many young people.**
+   → Bài phát biểu của cô ấy phản ánh mối quan ngại của nhiều người trẻ.
+
+2. **The sound of footsteps echoed through the empty hallway.**
+   → Tiếng bước chân vang vọng qua hành lang trống.
+
+### Common collocations
+
+* **echo concerns**: phản ánh/lặp lại mối quan ngại
+* **echo through a room**: vang vọng qua căn phòng
+* **an echo of the past**: âm vang/dấu vết của quá khứ
+
+### Word family
+
+* **echo** /ˈek.əʊ/ *(noun/verb)*: tiếng vọng; lặp lại, phản ánh  
+  *Example:* Social media often echoes popular opinions very quickly.  
+  → Mạng xã hội thường phản ánh các quan điểm phổ biến rất nhanh.
+
+* **echoing** /ˈek.əʊ.ɪŋ/ *(adjective/verb form)*: vang vọng; đang lặp lại/phản ánh  
+  *Example:* The echoing hall made the speaker's voice sound dramatic.  
+  → Hội trường vang vọng làm giọng nói của diễn giả nghe kịch tính.
+
+* **echo chamber** /ˈek.əʊ ˌtʃeɪm.bər/ *(noun phrase)*: môi trường chỉ lặp lại cùng quan điểm  
+  *Example:* Online echo chambers can make people less open to opposing views.  
+  → Các “buồng vọng” trực tuyến có thể khiến con người ít cởi mở hơn với quan điểm đối lập.
+
+### Notes
+
+In academic writing, `echo` is useful metaphorically: `This argument echoes earlier concerns about inequality`.
+
+---
+
+## 113. Bully /ˈbʊl.i/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** kẻ bắt nạt *(50%)*; bắt nạt, đe dọa người yếu thế hơn *(45%)*; ép buộc ai bằng đe dọa/áp lực *(5%)*
+
+### Usage
+
+`Bully` is used for a person who repeatedly hurts, threatens, or humiliates someone weaker. As a verb, it means to treat someone this way.
+
+Common structures:
+
+* `bully someone`: bắt nạt ai
+* `be bullied at school/online`: bị bắt nạt ở trường/trên mạng
+* `bully someone into doing something`: ép buộc ai làm gì bằng đe dọa
+
+### Examples
+
+1. **Schools should take bullying seriously because it can harm children's mental health.**
+   → Trường học nên xem trọng vấn đề bắt nạt vì nó có thể gây hại cho sức khỏe tinh thần của trẻ em.
+
+2. **He was bullied by older students when he was in secondary school.**
+   → Anh ấy bị học sinh lớn hơn bắt nạt khi học trung học cơ sở.
+
+### Common collocations
+
+* **school bully**: kẻ bắt nạt ở trường
+* **bully someone online**: bắt nạt ai trên mạng
+* **anti-bullying policy**: chính sách chống bắt nạt
+
+### Word family
+
+* **bully** /ˈbʊl.i/ *(noun/verb)*: kẻ bắt nạt; bắt nạt  
+  *Example:* A bully often targets people who seem vulnerable.  
+  → Một kẻ bắt nạt thường nhắm vào những người có vẻ dễ bị tổn thương.
+
+* **bullying** /ˈbʊl.i.ɪŋ/ *(uncountable noun/verb form)*: sự bắt nạt  
+  *Example:* Bullying can make students afraid to go to school.  
+  → Sự bắt nạt có thể khiến học sinh sợ đi học.
+
+* **bullied** /ˈbʊl.id/ *(adjective/verb form)*: bị bắt nạt  
+  *Example:* Bullied children need emotional support from adults.  
+  → Trẻ em bị bắt nạt cần sự hỗ trợ cảm xúc từ người lớn.
+
+### Notes
+
+`Bully` usually implies repeated behaviour and a power imbalance, not just one ordinary argument.
+
+---
+
+## 114. Innocent /ˈɪn.ə.sənt/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** vô tội, không phạm tội *(45%)*; ngây thơ, trong sáng, thiếu kinh nghiệm xấu *(30%)*; không gây hại/không có ý xấu *(20%)*; người vô tội *(5%)*
+
+### Usage
+
+`Innocent` can describe someone who has not committed a crime, or someone who is naive, pure, or harmless.
+
+Common structures:
+
+* `be innocent of + crime`: vô tội đối với tội danh nào
+* `innocent victim`: nạn nhân vô tội
+* `innocent mistake/question`: lỗi/câu hỏi không có ý xấu
+
+### Examples
+
+1. **The justice system must protect innocent people from wrongful punishment.**
+   → Hệ thống tư pháp phải bảo vệ người vô tội khỏi sự trừng phạt sai trái.
+
+2. **Children often ask innocent questions about the world around them.**
+   → Trẻ em thường hỏi những câu hỏi ngây thơ về thế giới xung quanh.
+
+### Common collocations
+
+* **innocent victim**: nạn nhân vô tội
+* **innocent child**: đứa trẻ ngây thơ/vô tội
+* **innocent mistake**: lỗi không có ý xấu
+
+### Word family
+
+* **innocent** /ˈɪn.ə.sənt/ *(adjective/noun)*: vô tội; ngây thơ; người vô tội  
+  *Example:* Innocent people should not suffer because of weak evidence.  
+  → Người vô tội không nên chịu khổ vì bằng chứng yếu.
+
+* **innocence** /ˈɪn.ə.səns/ *(uncountable noun)*: sự vô tội; sự ngây thơ  
+  *Example:* Childhood innocence can be damaged by violence and neglect.  
+  → Sự ngây thơ thời thơ ấu có thể bị tổn hại bởi bạo lực và sự bỏ mặc.
+
+* **innocently** /ˈɪn.ə.sənt.li/ *(adverb)*: một cách ngây thơ/vô tội  
+  *Example:* The child innocently repeated what he had heard at home.  
+  → Đứa trẻ ngây thơ lặp lại những gì em đã nghe ở nhà.
+
+### Notes
+
+`Innocent` in law means not guilty. In daily English, it can also mean naive or harmless.
+
+---
+
+## 115. Prodigy /ˈprɒd.ɪ.dʒi/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thần đồng, người trẻ có tài năng xuất chúng *(85%)*; điều/người phi thường hiếm gặp *(15%)*
+
+### Usage
+
+`Prodigy` usually describes a child or young person with extraordinary ability in music, maths, sport, or another field.
+
+Common structures:
+
+* `a child prodigy`: thần đồng
+* `a musical/mathematical prodigy`: thần đồng âm nhạc/toán học
+* `be considered a prodigy`: được xem là thần đồng
+
+### Examples
+
+1. **A child prodigy may still need emotional support and a normal childhood.**
+   → Một thần đồng vẫn có thể cần hỗ trợ cảm xúc và một tuổi thơ bình thường.
+
+2. **She was considered a musical prodigy because she played the piano beautifully at five.**
+   → Cô ấy được xem là thần đồng âm nhạc vì chơi piano rất hay khi mới năm tuổi.
+
+### Common collocations
+
+* **child prodigy**: thần đồng
+* **musical prodigy**: thần đồng âm nhạc
+* **mathematical prodigy**: thần đồng toán học
+
+### Word family
+
+* **prodigy** /ˈprɒd.ɪ.dʒi/ *(noun)*: thần đồng, người có tài năng xuất chúng  
+  *Example:* The young chess prodigy won against much older players.  
+  → Thần đồng cờ vua trẻ tuổi đã thắng những người chơi lớn tuổi hơn nhiều.
+
+* **prodigious** /prəˈdɪdʒ.əs/ *(adjective)*: phi thường, rất lớn  
+  *Example:* The athlete showed prodigious talent from an early age.  
+  → Vận động viên đó thể hiện tài năng phi thường từ khi còn nhỏ.
+
+* **prodigiously** /prəˈdɪdʒ.əs.li/ *(adverb)*: một cách phi thường, rất nhiều  
+  *Example:* She practised prodigiously before the competition.  
+  → Cô ấy luyện tập rất nhiều trước cuộc thi.
+
+### Notes
+
+`Prodigy` usually emphasizes young age. `Genius` emphasizes exceptional intelligence or creativity at any age.
+
+---
+
+## 116. Genius /ˈdʒiː.ni.əs/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** thiên tài, người có trí tuệ/tài năng xuất chúng *(60%)*; tài năng thiên bẩm/sự xuất chúng *(30%)*; ý tưởng rất thông minh trong lời nói hằng ngày *(10%)*
+
+### Usage
+
+`Genius` can refer to a highly intelligent or creative person, or the exceptional ability itself.
+
+Common structures:
+
+* `a genius at/for + noun/verb-ing`: thiên tài trong việc gì
+* `creative/musical genius`: thiên tài sáng tạo/âm nhạc
+* `a stroke of genius`: một ý tưởng thiên tài
+
+### Examples
+
+1. **A genius still needs discipline and support to develop their talent.**
+   → Một thiên tài vẫn cần kỷ luật và sự hỗ trợ để phát triển tài năng.
+
+2. **The design was simple, but it was a stroke of genius.**
+   → Thiết kế đó đơn giản, nhưng đó là một ý tưởng thiên tài.
+
+### Common collocations
+
+* **creative genius**: thiên tài sáng tạo
+* **musical genius**: thiên tài âm nhạc
+* **a stroke of genius**: một ý tưởng thiên tài
+
+### Word family
+
+* **genius** /ˈdʒiː.ni.əs/ *(noun)*: thiên tài; tài năng xuất chúng  
+  *Example:* Genius alone is not enough without hard work.  
+  → Tài năng thiên bẩm thôi là chưa đủ nếu không có sự chăm chỉ.
+
+* **ingenious** /ɪnˈdʒiː.ni.əs/ *(adjective)*: khéo léo, tài tình, thông minh  
+  *Example:* The engineer proposed an ingenious solution to the problem.  
+  → Kỹ sư đã đề xuất một giải pháp tài tình cho vấn đề đó.
+
+* **ingeniously** /ɪnˈdʒiː.ni.əs.li/ *(adverb)*: một cách tài tình  
+  *Example:* The app was ingeniously designed to save users time.  
+  → Ứng dụng được thiết kế một cách tài tình để tiết kiệm thời gian cho người dùng.
+
+### Notes
+
+`Genius` is a noun. Do not say `He is very genius`; say `He is a genius` or `He is brilliant`.
+
+---
+
+## 117. Occasion /əˈkeɪ.ʒən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** dịp, sự kiện đặc biệt *(45%)*; lần, trường hợp cụ thể *(35%)*; lý do/cơ hội để làm gì *(20%)*
+
+### Usage
+
+`Occasion` refers to a special event, a particular time when something happens, or a reason/opportunity for something.
+
+Common structures:
+
+* `on one/several occasions`: trong một/vài lần
+* `a special/formal occasion`: dịp đặc biệt/trang trọng
+* `have occasion to do something`: có dịp/lý do làm gì
+
+### Examples
+
+1. **Family meals are an important occasion for children to bond with parents.**
+   → Bữa ăn gia đình là một dịp quan trọng để trẻ em gắn kết với cha mẹ.
+
+2. **On several occasions, the company failed to protect user data.**
+   → Trong vài trường hợp, công ty đã không bảo vệ dữ liệu người dùng.
+
+### Common collocations
+
+* **special occasion**: dịp đặc biệt
+* **on several occasions**: trong vài lần/trường hợp
+* **formal occasion**: dịp trang trọng
+
+### Word family
+
+* **occasion** /əˈkeɪ.ʒən/ *(noun)*: dịp, lần, trường hợp  
+  *Example:* Weddings are often seen as joyful family occasions.  
+  → Đám cưới thường được xem là những dịp gia đình vui vẻ.
+
+* **occasional** /əˈkeɪ.ʒən.əl/ *(adjective)*: thỉnh thoảng, không thường xuyên  
+  *Example:* Occasional stress is normal, but constant stress can damage health.  
+  → Căng thẳng thỉnh thoảng là bình thường, nhưng căng thẳng liên tục có thể gây hại cho sức khỏe.
+
+* **occasionally** /əˈkeɪ.ʒən.əl.i/ *(adverb)*: thỉnh thoảng  
+  *Example:* People should occasionally take breaks from digital devices.  
+  → Con người nên thỉnh thoảng nghỉ khỏi các thiết bị kỹ thuật số.
+
+### Notes
+
+`Occasion` is countable: `an occasion`, `many occasions`. It is more formal than `time` when meaning “lần”.
+
+---
+
+## 118. Rut /rʌt/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** lối mòn/thói quen nhàm chán khó thoát *(70%)*; vệt bánh xe sâu trên đường bùn/đất *(20%)*; mùa động dục của một số động vật *(10%)*
+
+### Usage
+
+`Rut` is commonly used in the phrase `be stuck in a rut`, meaning your life or work feels repetitive and hard to change.
+
+Common structures:
+
+* `be stuck in a rut`: mắc kẹt trong lối mòn
+* `get out of a rut`: thoát khỏi lối mòn
+* `fall into a rut`: rơi vào lối mòn
+
+### Examples
+
+1. **Many workers feel stuck in a rut after doing the same job for years.**
+   → Nhiều người lao động cảm thấy mắc kẹt trong lối mòn sau nhiều năm làm cùng một công việc.
+
+2. **Trying a new hobby can help people get out of a rut.**
+   → Thử một sở thích mới có thể giúp con người thoát khỏi lối mòn.
+
+### Common collocations
+
+* **stuck in a rut**: mắc kẹt trong lối mòn
+* **get out of a rut**: thoát khỏi lối mòn
+* **fall into a rut**: rơi vào lối mòn
+
+### Word family
+
+* **rut** /rʌt/ *(noun)*: lối mòn; vệt bánh xe  
+  *Example:* A fixed daily routine can become a rut if there is no growth.  
+  → Một thói quen hằng ngày cố định có thể trở thành lối mòn nếu không có sự phát triển.
+
+* **rutted** /ˈrʌt.ɪd/ *(adjective)*: có nhiều vệt bánh xe, lồi lõm  
+  *Example:* The rutted road became dangerous after heavy rain.  
+  → Con đường lồi lõm đầy vệt bánh xe trở nên nguy hiểm sau mưa lớn.
+
+* **routine** /ruːˈtiːn/ *(noun/adjective)*: thói quen, lịch trình; thường lệ  
+  *Example:* A healthy routine can support better sleep and study habits.  
+  → Một thói quen lành mạnh có thể hỗ trợ giấc ngủ và thói quen học tập tốt hơn.
+
+### Notes
+
+`Rut` is usually negative when used about life or work. A `routine` can be positive or neutral.
+
+---
+
+## 119. Fade /feɪd/
+
+* **Part of speech:** intransitive verb; transitive verb
+* **Vietnamese meaning:** phai màu, nhạt dần *(35%)*; mờ dần, biến mất dần *(35%)*; yếu đi hoặc mất dần cảm xúc/ký ức/sức mạnh *(25%)*; chuyển cảnh mờ dần trong phim/âm thanh *(5%)*
+
+### Usage
+
+`Fade` describes colour, sound, memory, feeling, or influence becoming weaker or less visible over time.
+
+Common structures:
+
+* `fade away`: mờ/biến mất dần
+* `fade into the background`: chìm vào nền, trở nên ít được chú ý
+* `memories/feelings fade`: ký ức/cảm xúc phai nhạt
+
+### Examples
+
+1. **Childhood memories may fade, but some emotions remain strong.**
+   → Ký ức tuổi thơ có thể phai nhạt, nhưng một số cảm xúc vẫn còn mạnh mẽ.
+
+2. **The colour of the shirt faded after many washes.**
+   → Màu của chiếc áo phai đi sau nhiều lần giặt.
+
+### Common collocations
+
+* **fade away**: phai/mờ/biến mất dần
+* **memories fade**: ký ức phai nhạt
+* **colour fades**: màu phai
+
+### Word family
+
+* **fade** /feɪd/ *(verb)*: phai, mờ dần, yếu đi  
+  *Example:* Public interest in the issue faded after a few weeks.  
+  → Sự quan tâm của công chúng đến vấn đề đó giảm dần sau vài tuần.
+
+* **faded** /ˈfeɪ.dɪd/ *(adjective/verb form)*: bị phai, nhạt màu  
+  *Example:* The old photo was faded but still meaningful.  
+  → Bức ảnh cũ đã phai màu nhưng vẫn có ý nghĩa.
+
+* **fading** /ˈfeɪ.dɪŋ/ *(adjective/verb form)*: đang phai/mờ dần  
+  *Example:* Fading motivation can be improved by setting small goals.  
+  → Động lực đang giảm dần có thể được cải thiện bằng cách đặt mục tiêu nhỏ.
+
+### Notes
+
+`Fade` usually suggests gradual change, not sudden disappearance.
+
+---
+
+## 120. Fly by /ˌflaɪ ˈbaɪ/
+
+* **Part of speech:** phrasal verb; intransitive verb phrase
+* **Vietnamese meaning:** thời gian trôi qua rất nhanh *(80%)*; bay ngang qua/vụt qua *(20%)*
+
+### Usage
+
+`Fly by` is often used when time seems to pass very quickly, especially during enjoyable or busy moments.
+
+Common structures:
+
+* `time flies by`: thời gian trôi qua rất nhanh
+* `the day/week/year flew by`: ngày/tuần/năm trôi vụt qua
+* `fly by + place/person`: bay/vụt qua nơi nào/ai
+
+### Examples
+
+1. **The weekend flew by because I was busy preparing for the exam.**
+   → Cuối tuần trôi qua rất nhanh vì tôi bận chuẩn bị cho kỳ thi.
+
+2. **Childhood can fly by faster than parents expect.**
+   → Tuổi thơ có thể trôi qua nhanh hơn cha mẹ mong đợi.
+
+### Common collocations
+
+* **time flies by**: thời gian trôi nhanh
+* **the years fly by**: năm tháng trôi nhanh
+* **the day flew by**: ngày trôi qua rất nhanh
+
+### Word family
+
+* **fly by** /ˌflaɪ ˈbaɪ/ *(phrasal verb)*: trôi qua rất nhanh; bay ngang qua  
+  *Example:* University life can fly by if students do not manage their time well.  
+  → Đời sống đại học có thể trôi qua rất nhanh nếu sinh viên không quản lý thời gian tốt.
+
+* **fly** /flaɪ/ *(verb/noun)*: bay; con ruồi  
+  *Example:* Many people fly abroad for work or study.  
+  → Nhiều người bay ra nước ngoài để làm việc hoặc học tập.
+
+* **flight** /flaɪt/ *(noun)*: chuyến bay; sự bay  
+  *Example:* Long flights can be tiring for young children.  
+  → Những chuyến bay dài có thể gây mệt mỏi cho trẻ nhỏ.
+
+### Notes
+
+`Fly by` is natural in speaking: `Time flies by when you are having fun`.
+
+---
+
+## 121. Much more /ˌmʌtʃ ˈmɔːr/
+
+* **Part of speech:** adverb phrase; determiner phrase
+* **Vietnamese meaning:** nhiều hơn rất nhiều *(60%)*; hơn nhiều về mức độ/chất lượng *(30%)*; còn nhiều hơn nữa trong so sánh *(10%)*
+
+### Usage
+
+`Much more` strengthens a comparison. It can come before adjectives, adverbs, or uncountable nouns.
+
+Common structures:
+
+* `much more + adjective/adverb`: hơn nhiều về tính chất/cách thức
+* `much more + uncountable noun`: nhiều hơn rất nhiều về lượng
+* `much more than + noun/clause`: nhiều hơn so với...
+
+### Examples
+
+1. **Online learning is much more flexible than traditional classroom learning.**
+   → Học trực tuyến linh hoạt hơn nhiều so với học trên lớp truyền thống.
+
+2. **Children need much more support when they face bullying at school.**
+   → Trẻ em cần nhiều hỗ trợ hơn rất nhiều khi đối mặt với bắt nạt ở trường.
+
+### Common collocations
+
+* **much more important**: quan trọng hơn nhiều
+* **much more likely**: có khả năng hơn nhiều
+* **much more support**: nhiều hỗ trợ hơn rất nhiều
+
+### Word family
+
+* **much more** /ˌmʌtʃ ˈmɔːr/ *(phrase)*: nhiều hơn rất nhiều, hơn nhiều  
+  *Example:* Regular feedback is much more useful than vague praise.  
+  → Phản hồi thường xuyên hữu ích hơn nhiều so với lời khen mơ hồ.
+
+* **much** /mʌtʃ/ *(determiner/adverb/pronoun)*: nhiều, rất  
+  *Example:* Too much homework can reduce children's free time.  
+  → Quá nhiều bài tập về nhà có thể làm giảm thời gian rảnh của trẻ.
+
+* **more** /mɔːr/ *(determiner/adverb/pronoun)*: hơn, nhiều hơn  
+  *Example:* Students need more opportunities to practise speaking.  
+  → Học sinh cần nhiều cơ hội hơn để luyện nói.
+
+### Notes
+
+Use `much more` before comparative ideas. Do not say `very more`; say `much more`.
+
+---
+
+## 122. Dwell /dwel/
+
+* **Part of speech:** intransitive verb
+* **Vietnamese meaning:** sống/cư trú ở đâu theo nghĩa trang trọng hoặc văn chương *(40%)*; nghĩ/nói quá lâu về điều gì, nhất là điều tiêu cực *(40%)*; tập trung sâu vào một chủ đề *(20%)*
+
+### Usage
+
+`Dwell` is most common in the phrase `dwell on something`, meaning to keep thinking or talking about something too much.
+
+Common structures:
+
+* `dwell on + problem/past/mistake`: nghĩ mãi/nói mãi về vấn đề/quá khứ/lỗi lầm
+* `dwell in + place`: cư trú ở nơi nào
+* `dwell upon + topic`: tập trung/bàn kỹ về chủ đề nào
+
+### Examples
+
+1. **Students should learn from mistakes rather than dwell on them.**
+   → Học sinh nên học từ lỗi sai thay vì cứ nghĩ mãi về chúng.
+
+2. **The essay dwells on the negative effects of social media.**
+   → Bài luận tập trung khá nhiều vào tác động tiêu cực của mạng xã hội.
+
+### Common collocations
+
+* **dwell on the past**: nghĩ mãi về quá khứ
+* **dwell on mistakes**: nghĩ mãi về lỗi sai
+* **dwell in a place**: cư trú ở một nơi
+
+### Word family
+
+* **dwell** /dwel/ *(verb)*: cư trú; nghĩ/nói mãi về điều gì  
+  *Example:* It is unhealthy to dwell on failure for too long.  
+  → Việc nghĩ mãi về thất bại quá lâu là không lành mạnh.
+
+* **dweller** /ˈdwel.ər/ *(noun)*: cư dân, người sống ở nơi nào  
+  *Example:* City dwellers often face high living costs.  
+  → Cư dân thành phố thường đối mặt với chi phí sinh hoạt cao.
+
+* **dwelling** /ˈdwel.ɪŋ/ *(noun)*: nơi ở, nhà ở  
+  *Example:* Affordable dwellings are needed in rapidly growing cities.  
+  → Cần có nhà ở giá phải chăng ở các thành phố đang phát triển nhanh.
+
+### Notes
+
+`Dwell on` is often negative because it suggests spending too much mental energy on something.
+
+---
+
+## 123. Nerd /nɜːd/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** mọt sách/người rất say mê học tập hoặc công nghệ, hơi vụng về xã hội *(55%)*; người cực kỳ đam mê một lĩnh vực cụ thể *(35%)*; người bị xem là kém hòa đồng theo nghĩa trêu chọc *(10%)*
+
+### Usage
+
+`Nerd` can be mildly negative, affectionate, or even positive depending on context. It often describes someone very interested in study, computers, games, science, or a specific hobby.
+
+Common structures:
+
+* `a computer/science/math nerd`: người mê máy tính/khoa học/toán
+* `be a nerd about + topic`: rất mê/đam mê một chủ đề
+* `nerd out about/over something`: nói/hào hứng quá mức về điều mình mê
+
+### Examples
+
+1. **Being a computer nerd can be an advantage in the technology industry.**
+   → Là một người mê máy tính có thể là lợi thế trong ngành công nghệ.
+
+2. **He used to be teased as a nerd, but his knowledge later helped him build a successful career.**
+   → Anh ấy từng bị trêu là mọt sách, nhưng kiến thức của anh ấy sau này giúp anh xây dựng sự nghiệp thành công.
+
+### Common collocations
+
+* **computer nerd**: người mê máy tính
+* **science nerd**: người mê khoa học
+* **nerd culture**: văn hóa của cộng đồng mê học thuật/công nghệ/trò chơi
+
+### Word family
+
+* **nerd** /nɜːd/ *(noun)*: mọt sách, người cực kỳ mê một lĩnh vực  
+  *Example:* A language nerd may enjoy studying grammar for fun.  
+  → Một người mê ngôn ngữ có thể thích học ngữ pháp để giải trí.
+
+* **nerdy** /ˈnɜː.di/ *(adjective)*: hơi mọt sách, đậm chất mê học thuật/công nghệ  
+  *Example:* Some students feel proud of their nerdy interests.  
+  → Một số học sinh tự hào về những sở thích có phần mọt sách của mình.
+
+* **nerd out** /ˌnɜːd ˈaʊt/ *(phrasal verb)*: hào hứng nói/làm về thứ mình cực kỳ mê  
+  *Example:* He loves to nerd out about software design.  
+  → Anh ấy thích say sưa nói về thiết kế phần mềm.
+
+### Notes
+
+Be careful with `nerd`: it can sound teasing or insulting if used about someone you do not know well. In friendly contexts, it can be positive.
