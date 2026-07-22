@@ -6529,3 +6529,346 @@ Common structures:
 ### Notes
 
 For IELTS Writing, `tackle` is a strong alternative to `solve` or `deal with`, especially with social problems: `tackle unemployment`, `tackle pollution`, `tackle crime`.
+
+---
+
+## 133. Scratched /skrætʃt/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị trầy, bị xước trên bề mặt *(80%)*; bị cào/xước do móng, vật sắc hoặc ma sát *(20%)*
+
+### Usage
+
+`Scratched` describes a surface with thin lines or marks caused by rubbing, sharp objects, or accidents. It is common for phones, cars, furniture, glasses, and skin.
+
+Common structures:
+
+* `be/get scratched`: bị trầy/xước
+* `scratched surface/screen`: bề mặt/màn hình bị xước
+* `scratch something with/on something`: làm xước cái gì bằng/trên cái gì
+
+### Examples
+
+1. **My phone screen is scratched, but it still works normally.**
+   → Màn hình điện thoại của tôi bị xước, nhưng nó vẫn hoạt động bình thường.
+
+2. **The wooden table was scratched during the move.**
+   → Chiếc bàn gỗ bị trầy trong lúc chuyển nhà.
+
+### Common collocations
+
+* **scratched screen**: màn hình bị xước
+* **scratched car**: xe bị trầy
+* **badly scratched**: bị trầy/xước nặng
+
+### Word family
+
+* **scratched** /skrætʃt/ *(adjective/verb form)*: bị trầy, bị xước  
+  *Example:* The scratched laptop looked old even though it worked well.  
+  → Chiếc laptop bị xước trông cũ dù vẫn hoạt động tốt.
+
+* **scratch** /skrætʃ/ *(verb/noun)*: cào, làm xước; vết xước  
+  *Example:* Do not scratch the glass with a sharp tool.  
+  → Đừng làm xước kính bằng dụng cụ sắc.
+
+* **scratchy** /ˈskrætʃ.i/ *(adjective)*: gây ngứa/khó chịu; rè, lạo xạo  
+  *Example:* The old sweater felt scratchy on my skin.  
+  → Chiếc áo len cũ tạo cảm giác ngứa khó chịu trên da tôi.
+
+### Notes
+
+`Scratched` usually means surface damage, not deep structural damage. A scratched item may still work normally.
+
+---
+
+## 134. Dented /ˈden.tɪd/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị móp, bị lõm do va chạm *(85%)*; bị ảnh hưởng/làm suy giảm nhẹ theo nghĩa bóng *(15%)*
+
+### Usage
+
+`Dented` describes a hard surface that has been pushed inward by a hit or pressure. It is common for cars, metal objects, cans, and doors.
+
+Common structures:
+
+* `be/get dented`: bị móp
+* `a dented car/door/can`: xe/cửa/lon bị móp
+* `dent someone's confidence/reputation`: làm giảm sự tự tin/danh tiếng của ai
+
+### Examples
+
+1. **The car door was dented after a minor accident.**
+   → Cửa xe bị móp sau một vụ tai nạn nhỏ.
+
+2. **Failing the test dented his confidence, but he kept studying.**
+   → Việc thi trượt làm giảm sự tự tin của anh ấy, nhưng anh ấy vẫn tiếp tục học.
+
+### Common collocations
+
+* **dented car**: xe bị móp
+* **badly dented**: bị móp nặng
+* **dent someone's confidence**: làm giảm sự tự tin của ai
+
+### Word family
+
+* **dented** /ˈden.tɪd/ *(adjective/verb form)*: bị móp, bị lõm  
+  *Example:* The dented metal box could no longer close properly.  
+  → Chiếc hộp kim loại bị móp không còn đóng đúng cách được nữa.
+
+* **dent** /dent/ *(noun/verb)*: vết móp; làm móp  
+  *Example:* There was a small dent on the side of the car.  
+  → Có một vết móp nhỏ bên hông xe.
+
+* **dent-free** /ˈdent friː/ *(adjective)*: không có vết móp  
+  *Example:* The seller claimed the used bike was dent-free.  
+  → Người bán khẳng định chiếc xe đạp cũ không có vết móp.
+
+### Notes
+
+`Dented` usually applies to hard materials such as metal or plastic, not paper or cloth.
+
+---
+
+## 135. Broken /ˈbrəʊ.kən/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị hỏng, không hoạt động *(45%)*; bị vỡ/gãy thành mảnh hoặc không còn nguyên vẹn *(35%)*; bị phá vỡ như lời hứa/quy tắc/mối quan hệ *(15%)*; không liên tục, đứt quãng *(5%)*
+
+### Usage
+
+`Broken` describes something damaged, not working, or no longer whole. It is also used abstractly for promises, systems, relationships, and language.
+
+Common structures:
+
+* `be/get broken`: bị hỏng/vỡ/gãy
+* `broken phone/window/bone`: điện thoại/cửa sổ/xương bị hỏng/vỡ/gãy
+* `broken promise/system`: lời hứa/hệ thống bị phá vỡ
+
+### Examples
+
+1. **The elevator is broken, so we have to use the stairs.**
+   → Thang máy bị hỏng, nên chúng ta phải dùng cầu thang bộ.
+
+2. **A broken education system can deepen social inequality.**
+   → Một hệ thống giáo dục bị hỏng có thể làm sâu sắc thêm bất bình đẳng xã hội.
+
+### Common collocations
+
+* **broken device**: thiết bị bị hỏng
+* **broken window**: cửa sổ bị vỡ
+* **broken promise**: lời hứa bị phá vỡ
+
+### Word family
+
+* **broken** /ˈbrəʊ.kən/ *(adjective/verb form)*: bị hỏng, bị vỡ, bị phá vỡ  
+  *Example:* The broken printer delayed the office work.  
+  → Máy in bị hỏng đã làm chậm công việc văn phòng.
+
+* **break** /breɪk/ *(verb/noun)*: làm vỡ, làm hỏng; giờ nghỉ  
+  *Example:* Too much pressure can break a fragile object.  
+  → Quá nhiều áp lực có thể làm vỡ một vật dễ hỏng.
+
+* **breakage** /ˈbreɪ.kɪdʒ/ *(noun)*: sự vỡ, đồ bị vỡ  
+  *Example:* Careful packaging can prevent breakage during delivery.  
+  → Đóng gói cẩn thận có thể ngăn đồ bị vỡ trong quá trình giao hàng.
+
+### Notes
+
+`Broken` is broader than `cracked` or `chipped`. If something is broken, it may not work or may no longer be usable.
+
+---
+
+## 136. Chipped /tʃɪpt/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị mẻ, sứt một mảnh nhỏ ở cạnh/bề mặt *(85%)*; bị bong tróc lớp sơn hoặc lớp phủ *(15%)*
+
+### Usage
+
+`Chipped` describes something that has lost a small piece, often at the edge. It is common for cups, plates, teeth, paint, and phone cases.
+
+Common structures:
+
+* `be/get chipped`: bị mẻ, bị sứt
+* `a chipped tooth/cup/plate`: răng/cốc/đĩa bị mẻ
+* `chipped paint`: sơn bị bong tróc
+
+### Examples
+
+1. **The cup is chipped, so be careful when you drink from it.**
+   → Cái cốc bị mẻ, nên hãy cẩn thận khi uống bằng nó.
+
+2. **He went to the dentist because he had a chipped tooth.**
+   → Anh ấy đi nha sĩ vì bị mẻ răng.
+
+### Common collocations
+
+* **chipped tooth**: răng bị mẻ
+* **chipped cup**: cốc bị mẻ
+* **chipped paint**: sơn bị bong/mẻ
+
+### Word family
+
+* **chipped** /tʃɪpt/ *(adjective/verb form)*: bị mẻ, bị sứt  
+  *Example:* The chipped plate was still usable but looked old.  
+  → Chiếc đĩa bị mẻ vẫn dùng được nhưng trông cũ.
+
+* **chip** /tʃɪp/ *(noun/verb)*: mảnh nhỏ bị vỡ; làm mẻ; chip điện tử  
+  *Example:* A small chip on the screen can become a larger crack.  
+  → Một vết mẻ nhỏ trên màn hình có thể trở thành vết nứt lớn hơn.
+
+* **chipping** /ˈtʃɪp.ɪŋ/ *(noun/verb form)*: sự sứt mẻ, sự bong tróc  
+  *Example:* Chipping paint can make an old door look neglected.  
+  → Sơn bong tróc có thể khiến một cánh cửa cũ trông bị bỏ bê.
+
+### Notes
+
+`Chipped` usually means a small piece is missing. `Cracked` means there is a line or split, but the piece may still be attached.
+
+---
+
+## 137. Cracked /krækt/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị nứt, có vết nứt *(80%)*; bị vỡ giọng/khàn hoặc thay đổi đột ngột về âm thanh *(10%)*; bị suy yếu hoặc không ổn định theo nghĩa bóng *(10%)*
+
+### Usage
+
+`Cracked` describes a line or split on a surface, often without the object fully breaking apart. It is common for screens, walls, glass, eggs, and dry skin.
+
+Common structures:
+
+* `be/get cracked`: bị nứt
+* `cracked screen/wall/glass`: màn hình/tường/kính bị nứt
+* `cracked lips/skin`: môi/da bị nứt nẻ
+
+### Examples
+
+1. **The phone has a cracked screen, but it still turns on.**
+   → Điện thoại có màn hình bị nứt, nhưng nó vẫn bật được.
+
+2. **The old wall was cracked after years of heat and rain.**
+   → Bức tường cũ bị nứt sau nhiều năm nắng mưa.
+
+### Common collocations
+
+* **cracked screen**: màn hình bị nứt
+* **cracked wall**: tường bị nứt
+* **cracked lips**: môi nứt nẻ
+
+### Word family
+
+* **cracked** /krækt/ *(adjective/verb form)*: bị nứt, nứt nẻ  
+  *Example:* Cracked roads can become dangerous during heavy rain.  
+  → Đường bị nứt có thể trở nên nguy hiểm khi mưa lớn.
+
+* **crack** /kræk/ *(noun/verb)*: vết nứt; làm nứt  
+  *Example:* A crack appeared in the glass after it fell.  
+  → Một vết nứt xuất hiện trên kính sau khi nó rơi.
+
+* **cracking** /ˈkræk.ɪŋ/ *(noun/verb form)*: sự nứt; âm thanh răng rắc  
+  *Example:* Cracking in the walls may indicate structural problems.  
+  → Sự nứt trên tường có thể cho thấy vấn đề về kết cấu.
+
+### Notes
+
+`Cracked` is less severe than `shattered`. If glass is shattered, it is broken into many pieces.
+
+---
+
+## 138. Torn /tɔːn/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị rách, bị xé *(65%)*; bị giằng xé/lưỡng lự giữa hai lựa chọn *(25%)*; bị tổn thương cơ/dây chằng trong y học *(10%)*
+
+### Usage
+
+`Torn` describes paper, cloth, clothes, or tissue that has been ripped. It can also describe emotional conflict.
+
+Common structures:
+
+* `be/get torn`: bị rách
+* `torn paper/clothes`: giấy/quần áo bị rách
+* `be torn between A and B`: phân vân/giằng xé giữa A và B
+
+### Examples
+
+1. **The document was torn, so some words were missing.**
+   → Tài liệu bị rách, nên một số từ bị mất.
+
+2. **She was torn between studying abroad and staying close to her family.**
+   → Cô ấy phân vân giữa việc du học và ở gần gia đình.
+
+### Common collocations
+
+* **torn clothes**: quần áo bị rách
+* **torn paper**: giấy bị rách
+* **torn between two choices**: phân vân giữa hai lựa chọn
+
+### Word family
+
+* **torn** /tɔːn/ *(adjective/verb form)*: bị rách; bị giằng xé  
+  *Example:* The torn page made the instructions hard to read.  
+  → Trang giấy bị rách khiến hướng dẫn khó đọc.
+
+* **tear** /teər/ *(verb)*: xé, làm rách  
+  *Example:* Be careful not to tear the ticket.  
+  → Hãy cẩn thận đừng làm rách vé.
+
+* **tear** /tɪər/ *(noun)*: giọt nước mắt  
+  *Example:* A tear rolled down her face during the farewell.  
+  → Một giọt nước mắt lăn xuống mặt cô ấy trong buổi chia tay.
+
+### Notes
+
+`Tear` has two pronunciations: /teər/ as a verb meaning “xé” and /tɪər/ as a noun meaning “giọt nước mắt”.
+
+---
+
+## 139. Bent /bent/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** bị cong, bị uốn cong khỏi hình dạng ban đầu *(60%)*; cúi/gập người hoặc vật *(20%)*; quyết tâm làm điều gì trong cụm `be bent on` *(15%)*; không trung thực theo nghĩa không trang trọng *(5%)*
+
+### Usage
+
+`Bent` describes something no longer straight, or someone leaning/curving their body. It can also mean determined in the phrase `be bent on doing something`.
+
+Common structures:
+
+* `be/get bent`: bị cong
+* `bent metal/rod/frame`: kim loại/thanh/khung bị cong
+* `be bent on + verb-ing`: quyết tâm làm gì
+
+### Examples
+
+1. **The bicycle wheel was bent after the accident.**
+   → Bánh xe đạp bị cong sau vụ tai nạn.
+
+2. **He is bent on improving his English before the IELTS test.**
+   → Anh ấy quyết tâm cải thiện tiếng Anh trước kỳ thi IELTS.
+
+### Common collocations
+
+* **bent rod**: thanh bị cong
+* **bent frame**: khung bị cong
+* **bent on success**: quyết tâm thành công
+
+### Word family
+
+* **bent** /bent/ *(adjective/verb form)*: bị cong; quyết tâm  
+  *Example:* A bent rod may not support the structure safely.  
+  → Một thanh bị cong có thể không đỡ kết cấu một cách an toàn.
+
+* **bend** /bend/ *(verb/noun)*: uốn cong, cúi; khúc cua  
+  *Example:* Do not bend the metal too sharply.  
+  → Đừng uốn kim loại quá gắt.
+
+* **bending** /ˈben.dɪŋ/ *(noun/verb form)*: sự uốn cong, việc cúi/gập  
+  *Example:* Repeated bending can weaken some materials.  
+  → Việc uốn cong lặp lại có thể làm yếu một số vật liệu.
+
+### Notes
+
+`Bent` means the shape has changed but the object may still be in one piece. `Broken` means the object is damaged more seriously or no longer works.
