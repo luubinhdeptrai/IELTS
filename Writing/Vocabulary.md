@@ -7460,3 +7460,542 @@ Common structures:
 ### Notes
 
 `Standard of living` focuses on material conditions. `Quality of life` is broader and includes happiness, health, environment, safety, and relationships.
+
+---
+
+## 152. Prospect /ˈprɒs.pekt/
+
+* **Part of speech:** countable noun; plural noun
+* **Vietnamese meaning:** khả năng/triển vọng điều gì sẽ xảy ra *(45%)*; cơ hội thành công trong tương lai, thường dùng số nhiều `prospects` *(35%)*; ứng viên/khách hàng/đối tượng tiềm năng *(15%)*; cảnh nhìn ra xa *(5%)*
+
+### Usage
+
+`Prospect` refers to a future possibility, especially one that may be positive or important. In IELTS, `prospects` is useful for jobs, education, the economy, and development.
+
+Common structures:
+
+* `the prospect of + noun/verb-ing`: viễn cảnh/khả năng xảy ra điều gì
+* `job/career prospects`: triển vọng việc làm/nghề nghiệp
+* `a good/poor prospect`: triển vọng tốt/kém
+
+### Examples
+
+1. **Higher education can improve young people's career prospects.**
+   → Giáo dục đại học có thể cải thiện triển vọng nghề nghiệp của người trẻ.
+
+2. **The prospect of studying abroad can be both exciting and daunting.**
+   → Viễn cảnh du học có thể vừa thú vị vừa đáng sợ.
+
+### Common collocations
+
+* **career prospects**: triển vọng nghề nghiệp
+* **job prospects**: triển vọng việc làm
+* **the prospect of success**: triển vọng thành công
+
+### Word family
+
+* **prospect** /ˈprɒs.pekt/ *(noun)*: triển vọng, khả năng trong tương lai  
+  *Example:* The prospect of a better salary motivates many workers to study further.  
+  → Triển vọng có mức lương tốt hơn thúc đẩy nhiều người lao động học thêm.
+
+* **prospective** /prəˈspek.tɪv/ *(adjective)*: tiềm năng, trong tương lai  
+  *Example:* Universities often organise open days for prospective students.  
+  → Các trường đại học thường tổ chức ngày hội mở cho sinh viên tương lai.
+
+* **prospects** /ˈprɒs.pekts/ *(plural noun)*: triển vọng, cơ hội tương lai  
+  *Example:* Digital skills can increase graduates' employment prospects.  
+  → Kỹ năng số có thể tăng triển vọng việc làm của sinh viên tốt nghiệp.
+
+### Notes
+
+`Prospect` is usually countable. `Prospects` often means future chances of success, especially in work or study.
+
+---
+
+## 153. Ascertain /ˌæs.əˈteɪn/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** xác định, tìm hiểu chắc chắn một sự thật *(75%)*; kiểm tra để biết chính xác *(25%)*
+
+### Usage
+
+`Ascertain` is formal and means find out something with certainty. It is useful in academic, legal, scientific, and professional contexts.
+
+Common structures:
+
+* `ascertain whether/if + clause`: xác định liệu có phải...
+* `ascertain the cause/facts/truth`: xác định nguyên nhân/sự thật
+* `be difficult to ascertain`: khó xác định
+
+### Examples
+
+1. **Researchers tried to ascertain whether sleep affects academic performance.**
+   → Các nhà nghiên cứu cố xác định liệu giấc ngủ có ảnh hưởng đến kết quả học tập hay không.
+
+2. **It is difficult to ascertain the exact cause of the problem.**
+   → Rất khó xác định nguyên nhân chính xác của vấn đề.
+
+### Common collocations
+
+* **ascertain the cause**: xác định nguyên nhân
+* **ascertain the facts**: xác định sự thật/các dữ kiện
+* **ascertain whether**: xác định liệu có phải
+
+### Word family
+
+* **ascertain** /ˌæs.əˈteɪn/ *(verb)*: xác định, tìm hiểu chắc chắn  
+  *Example:* Doctors must ascertain the patient's symptoms before treatment.  
+  → Bác sĩ phải xác định các triệu chứng của bệnh nhân trước khi điều trị.
+
+* **ascertainable** /ˌæs.əˈteɪ.nə.bəl/ *(adjective)*: có thể xác định được  
+  *Example:* The cost is not easily ascertainable without further data.  
+  → Chi phí không dễ xác định nếu không có thêm dữ liệu.
+
+* **ascertainment** /ˌæs.əˈteɪn.mənt/ *(noun)*: sự xác định, việc tìm ra chắc chắn  
+  *Example:* Accurate ascertainment of risk is important in public health.  
+  → Việc xác định chính xác rủi ro rất quan trọng trong y tế công cộng.
+
+### Notes
+
+`Ascertain` is more formal than `find out`. In daily speaking, `find out` is usually more natural.
+
+---
+
+## 154. Accompany /əˈkʌm.pə.ni/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** đi cùng, đồng hành với ai *(45%)*; xảy ra/kèm theo điều gì *(35%)*; đệm nhạc cho ai hát/chơi nhạc *(20%)*
+
+### Usage
+
+`Accompany` means go with someone, happen together with something, or play music while someone sings or performs.
+
+Common structures:
+
+* `accompany someone to + place`: đi cùng ai đến nơi nào
+* `be accompanied by + noun`: đi kèm với điều gì/ai
+* `accompany someone on + instrument`: đệm cho ai bằng nhạc cụ
+
+### Examples
+
+1. **Parents should accompany young children when they travel long distances.**
+   → Cha mẹ nên đi cùng trẻ nhỏ khi chúng đi xa.
+
+2. **Economic growth is often accompanied by changes in lifestyle.**
+   → Tăng trưởng kinh tế thường đi kèm với những thay đổi trong lối sống.
+
+### Common collocations
+
+* **accompany someone to hospital**: đi cùng ai đến bệnh viện
+* **be accompanied by symptoms**: đi kèm với các triệu chứng
+* **accompany a singer**: đệm nhạc cho ca sĩ
+
+### Word family
+
+* **accompany** /əˈkʌm.pə.ni/ *(verb)*: đi cùng, đi kèm, đệm nhạc  
+  *Example:* A fever may accompany a serious infection.  
+  → Sốt có thể đi kèm với một bệnh nhiễm trùng nghiêm trọng.
+
+* **accompaniment** /əˈkʌm.pən.ɪ.mənt/ *(noun)*: phần đệm; thứ đi kèm  
+  *Example:* The piano accompaniment made the song more emotional.  
+  → Phần đệm piano làm bài hát giàu cảm xúc hơn.
+
+* **accompanied** /əˈkʌm.pə.nid/ *(adjective/verb form)*: được đi cùng, đi kèm  
+  *Example:* The report was accompanied by detailed charts.  
+  → Báo cáo được đi kèm với các biểu đồ chi tiết.
+
+### Notes
+
+`Accompany` is more formal than `go with`. In writing, `be accompanied by` is very useful for describing related effects or symptoms.
+
+---
+
+## 155. Daunting /ˈdɔːn.tɪŋ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** gây nản lòng vì khó khăn hoặc đáng sợ *(70%)*; khiến người ta thấy choáng/ngại bắt đầu *(30%)*
+
+### Usage
+
+`Daunting` describes a task, challenge, or situation that feels difficult, intimidating, or overwhelming.
+
+Common structures:
+
+* `a daunting task/challenge`: nhiệm vụ/thử thách đáng ngại
+* `seem/feel daunting`: có vẻ/cảm thấy đáng sợ, khó bắt đầu
+* `daunting prospect`: viễn cảnh đáng ngại
+
+### Examples
+
+1. **Writing a dissertation can be daunting for many master's students.**
+   → Viết luận văn có thể là điều đáng ngại đối với nhiều học viên cao học.
+
+2. **The IELTS test seems daunting at first, but practice makes it manageable.**
+   → Kỳ thi IELTS ban đầu có vẻ đáng sợ, nhưng luyện tập khiến nó dễ xử lý hơn.
+
+### Common collocations
+
+* **daunting task**: nhiệm vụ đáng ngại
+* **daunting challenge**: thử thách đáng sợ/khó khăn
+* **daunting prospect**: viễn cảnh đáng ngại
+
+### Word family
+
+* **daunting** /ˈdɔːn.tɪŋ/ *(adjective)*: gây nản lòng, đáng ngại  
+  *Example:* Moving to a new country can be a daunting experience.  
+  → Chuyển đến một quốc gia mới có thể là một trải nghiệm đáng ngại.
+
+* **daunt** /dɔːnt/ *(verb)*: làm nản lòng, làm sợ  
+  *Example:* The difficulty of the course did not daunt her.  
+  → Độ khó của khóa học không làm cô ấy nản lòng.
+
+* **undaunted** /ˌʌnˈdɔːn.tɪd/ *(adjective)*: không nản lòng, không chùn bước  
+  *Example:* Undaunted by failure, he continued to improve his writing.  
+  → Không nản lòng trước thất bại, anh ấy tiếp tục cải thiện kỹ năng viết.
+
+### Notes
+
+`Daunting` does not mean impossible. It means difficult or intimidating enough to make you nervous.
+
+---
+
+## 156. Dissertation /ˌdɪs.əˈteɪ.ʃən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** luận văn dài ở đại học/cao học *(75%)*; công trình nghiên cứu học thuật để hoàn thành bằng cấp *(25%)*
+
+### Usage
+
+`Dissertation` is a long piece of academic writing based on research, often required for a university or master's degree.
+
+Common structures:
+
+* `write/submit a dissertation`: viết/nộp luận văn
+* `a dissertation on/about + topic`: luận văn về chủ đề gì
+* `dissertation supervisor`: người hướng dẫn luận văn
+
+### Examples
+
+1. **She is writing a dissertation on the impact of technology on education.**
+   → Cô ấy đang viết luận văn về tác động của công nghệ đối với giáo dục.
+
+2. **A good dissertation requires clear research questions and reliable evidence.**
+   → Một luận văn tốt đòi hỏi câu hỏi nghiên cứu rõ ràng và bằng chứng đáng tin cậy.
+
+### Common collocations
+
+* **write a dissertation**: viết luận văn
+* **submit a dissertation**: nộp luận văn
+* **dissertation supervisor**: người hướng dẫn luận văn
+
+### Word family
+
+* **dissertation** /ˌdɪs.əˈteɪ.ʃən/ *(noun)*: luận văn, công trình nghiên cứu học thuật  
+  *Example:* Her dissertation examined the link between poverty and educational outcomes.  
+  → Luận văn của cô ấy nghiên cứu mối liên hệ giữa nghèo đói và kết quả giáo dục.
+
+* **thesis** /ˈθiː.sɪs/ *(noun)*: luận văn/luận án; luận điểm chính  
+  *Example:* The thesis presents a clear argument about climate policy.  
+  → Luận văn đó trình bày một lập luận rõ ràng về chính sách khí hậu.
+
+* **dissertate** /ˈdɪs.ə.teɪt/ *(verb)*: trình bày/nghiên cứu học thuật dài dòng  
+  *Example:* Students are rarely asked to dissertate in everyday conversation.  
+  → Sinh viên hiếm khi được yêu cầu trình bày học thuật dài dòng trong giao tiếp hằng ngày.
+
+### Notes
+
+`Dissertation` and `thesis` are used differently across countries. In many contexts, both refer to a long academic research paper.
+
+---
+
+## 157. Dyslexia /dɪsˈlek.si.ə/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** chứng khó đọc, khó xử lý chữ viết dù trí thông minh bình thường *(90%)*; khó khăn học tập liên quan đến đọc/đánh vần *(10%)*
+
+### Usage
+
+`Dyslexia` is a learning difference that affects reading, spelling, and sometimes writing. It does not mean low intelligence.
+
+Common structures:
+
+* `have dyslexia`: mắc chứng khó đọc
+* `students/children with dyslexia`: học sinh/trẻ em mắc chứng khó đọc
+* `support for dyslexia`: hỗ trợ cho chứng khó đọc
+
+### Examples
+
+1. **Students with dyslexia may need extra time in reading tests.**
+   → Học sinh mắc chứng khó đọc có thể cần thêm thời gian trong các bài kiểm tra đọc.
+
+2. **Dyslexia can make spelling difficult, but it does not mean a child is not intelligent.**
+   → Chứng khó đọc có thể làm việc đánh vần khó khăn, nhưng nó không có nghĩa là trẻ không thông minh.
+
+### Common collocations
+
+* **have dyslexia**: mắc chứng khó đọc
+* **dyslexia support**: hỗ trợ cho chứng khó đọc
+* **children with dyslexia**: trẻ em mắc chứng khó đọc
+
+### Word family
+
+* **dyslexia** /dɪsˈlek.si.ə/ *(noun)*: chứng khó đọc  
+  *Example:* Early support can help children with dyslexia succeed at school.  
+  → Hỗ trợ sớm có thể giúp trẻ mắc chứng khó đọc thành công ở trường.
+
+* **dyslexic** /dɪsˈlek.sɪk/ *(adjective/noun)*: mắc chứng khó đọc; người mắc chứng khó đọc  
+  *Example:* A dyslexic student may understand ideas well but struggle with spelling.  
+  → Một học sinh mắc chứng khó đọc có thể hiểu ý tưởng tốt nhưng gặp khó khăn với chính tả.
+
+* **neurodiversity** /ˌnjʊə.rəʊ.daɪˈvɜː.sə.ti/ *(noun)*: sự đa dạng thần kinh  
+  *Example:* Awareness of neurodiversity can make schools more inclusive.  
+  → Nhận thức về sự đa dạng thần kinh có thể làm trường học hòa nhập hơn.
+
+### Notes
+
+Use respectful language: `a student with dyslexia` is often preferred because it focuses on the person first.
+
+---
+
+## 158. Elementary /ˌel.ɪˈmen.tər.i/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** cơ bản, sơ cấp, dễ hiểu *(45%)*; thuộc bậc tiểu học *(40%)*; đơn giản đến mức hiển nhiên *(15%)*
+
+### Usage
+
+`Elementary` can describe basic knowledge or early school education. In American English, `elementary school` means primary school.
+
+Common structures:
+
+* `elementary school`: trường tiểu học
+* `elementary level`: trình độ sơ cấp
+* `elementary knowledge/skills`: kiến thức/kỹ năng cơ bản
+
+### Examples
+
+1. **Children should develop strong reading habits in elementary school.**
+   → Trẻ em nên phát triển thói quen đọc tốt ở trường tiểu học.
+
+2. **The course teaches elementary grammar before moving to academic writing.**
+   → Khóa học dạy ngữ pháp cơ bản trước khi chuyển sang viết học thuật.
+
+### Common collocations
+
+* **elementary school**: trường tiểu học
+* **elementary level**: trình độ sơ cấp
+* **elementary knowledge**: kiến thức cơ bản
+
+### Word family
+
+* **elementary** /ˌel.ɪˈmen.tər.i/ *(adjective)*: cơ bản; thuộc tiểu học  
+  *Example:* Elementary education lays the foundation for lifelong learning.  
+  → Giáo dục tiểu học đặt nền tảng cho việc học suốt đời.
+
+* **element** /ˈel.ɪ.mənt/ *(noun)*: yếu tố, thành phần  
+  *Example:* Trust is an important element of effective teamwork.  
+  → Niềm tin là một yếu tố quan trọng của làm việc nhóm hiệu quả.
+
+* **elemental** /ˌel.ɪˈmen.təl/ *(adjective)*: cơ bản, thuộc yếu tố tự nhiên  
+  *Example:* Clean water is an elemental human need.  
+  → Nước sạch là một nhu cầu cơ bản của con người.
+
+### Notes
+
+`Elementary` is often American for school level. In British English, `primary school` is more common.
+
+---
+
+## 159. Geological /ˌdʒiː.əˈlɒdʒ.ɪ.kəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc địa chất, liên quan đến cấu trúc và lịch sử Trái Đất *(85%)*; diễn ra trong thời gian địa chất rất dài *(15%)*
+
+### Usage
+
+`Geological` describes rocks, landforms, earthquakes, minerals, and the physical history of the Earth.
+
+Common structures:
+
+* `geological evidence`: bằng chứng địa chất
+* `geological formation`: sự hình thành/cấu trúc địa chất
+* `geological time`: thời gian địa chất
+
+### Examples
+
+1. **Geological evidence shows that the area was once under the sea.**
+   → Bằng chứng địa chất cho thấy khu vực này từng nằm dưới biển.
+
+2. **Earthquakes are linked to geological activity beneath the surface.**
+   → Động đất liên quan đến hoạt động địa chất bên dưới bề mặt.
+
+### Common collocations
+
+* **geological evidence**: bằng chứng địa chất
+* **geological survey**: khảo sát địa chất
+* **geological formation**: cấu trúc/sự hình thành địa chất
+
+### Word family
+
+* **geological** /ˌdʒiː.əˈlɒdʒ.ɪ.kəl/ *(adjective)*: thuộc địa chất  
+  *Example:* Geological research can help predict natural hazards.  
+  → Nghiên cứu địa chất có thể giúp dự đoán các hiểm họa tự nhiên.
+
+* **geology** /dʒiˈɒl.ə.dʒi/ *(noun)*: địa chất học  
+  *Example:* Geology helps scientists understand how mountains form.  
+  → Địa chất học giúp các nhà khoa học hiểu núi hình thành như thế nào.
+
+* **geologist** /dʒiˈɒl.ə.dʒɪst/ *(noun)*: nhà địa chất học  
+  *Example:* Geologists study rocks to learn about Earth's history.  
+  → Các nhà địa chất học nghiên cứu đá để tìm hiểu lịch sử Trái Đất.
+
+### Notes
+
+`Geological` is the adjective. `Geography` is broader and includes people, places, climate, and human activities.
+
+---
+
+## 160. Master's /ˈmɑː.stəz/
+
+* **Part of speech:** noun phrase; adjective phrase
+* **Vietnamese meaning:** bằng thạc sĩ hoặc chương trình thạc sĩ *(75%)*; thuộc cấp học thạc sĩ *(25%)*
+
+### Usage
+
+`Master's` is short for `master's degree` or `master's programme/program`. It is common in education and career contexts.
+
+Common structures:
+
+* `a master's degree`: bằng thạc sĩ
+* `do/pursue a master's`: học thạc sĩ
+* `master's student/programme`: học viên/chương trình thạc sĩ
+
+### Examples
+
+1. **She wants to pursue a master's in education policy.**
+   → Cô ấy muốn học thạc sĩ về chính sách giáo dục.
+
+2. **A master's degree can improve career prospects in some fields.**
+   → Bằng thạc sĩ có thể cải thiện triển vọng nghề nghiệp trong một số lĩnh vực.
+
+### Common collocations
+
+* **master's degree**: bằng thạc sĩ
+* **master's student**: học viên cao học
+* **master's dissertation**: luận văn thạc sĩ
+
+### Word family
+
+* **master's** /ˈmɑː.stəz/ *(noun phrase/adjective phrase)*: bằng/chương trình thạc sĩ  
+  *Example:* Many professionals do a master's to gain specialised knowledge.  
+  → Nhiều người đi làm học thạc sĩ để có kiến thức chuyên sâu.
+
+* **master** /ˈmɑː.stər/ *(noun/verb)*: bậc thầy; làm chủ, thành thạo  
+  *Example:* It takes time to master academic writing.  
+  → Cần thời gian để thành thạo viết học thuật.
+
+* **mastery** /ˈmɑː.stər.i/ *(noun)*: sự thành thạo, sự làm chủ  
+  *Example:* Vocabulary mastery requires repeated active use.  
+  → Sự thành thạo từ vựng đòi hỏi việc sử dụng chủ động lặp lại.
+
+### Notes
+
+Use the apostrophe: `master's degree`. You can also say `a master's` in informal academic contexts.
+
+---
+
+## 161. Empirical /ɪmˈpɪr.ɪ.kəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** dựa trên quan sát, thí nghiệm hoặc bằng chứng thực tế *(85%)*; mang tính kinh nghiệm/thực chứng thay vì lý thuyết thuần túy *(15%)*
+
+### Usage
+
+`Empirical` is an academic word used for evidence, research, data, studies, and findings based on observation or experiment.
+
+Common structures:
+
+* `empirical evidence`: bằng chứng thực nghiệm/thực tế
+* `empirical research/study`: nghiên cứu thực nghiệm
+* `empirical data/findings`: dữ liệu/kết quả thực chứng
+
+### Examples
+
+1. **Policy decisions should be supported by empirical evidence.**
+   → Các quyết định chính sách nên được hỗ trợ bởi bằng chứng thực tế.
+
+2. **The dissertation uses empirical data from interviews and surveys.**
+   → Luận văn sử dụng dữ liệu thực nghiệm từ phỏng vấn và khảo sát.
+
+### Common collocations
+
+* **empirical evidence**: bằng chứng thực nghiệm/thực tế
+* **empirical research**: nghiên cứu thực nghiệm
+* **empirical data**: dữ liệu thực chứng
+
+### Word family
+
+* **empirical** /ɪmˈpɪr.ɪ.kəl/ *(adjective)*: dựa trên bằng chứng thực tế/thực nghiệm  
+  *Example:* Empirical studies can test whether a policy actually works.  
+  → Các nghiên cứu thực nghiệm có thể kiểm tra liệu một chính sách có thật sự hiệu quả hay không.
+
+* **empirically** /ɪmˈpɪr.ɪ.kəl.i/ *(adverb)*: một cách dựa trên bằng chứng thực nghiệm  
+  *Example:* The theory must be tested empirically before it is widely accepted.  
+  → Lý thuyết đó phải được kiểm chứng bằng thực nghiệm trước khi được chấp nhận rộng rãi.
+
+* **empiricism** /ɪmˈpɪr.ɪ.sɪ.zəm/ *(noun)*: chủ nghĩa kinh nghiệm, quan điểm dựa vào quan sát/thực nghiệm  
+  *Example:* Empiricism values observation over pure speculation.  
+  → Chủ nghĩa kinh nghiệm coi trọng quan sát hơn suy đoán thuần túy.
+
+### Notes
+
+`Empirical` is not the same as `theoretical`. `Empirical` is based on real-world evidence; `theoretical` is based on ideas or models.
+
+---
+
+## 162. Straightforward /ˌstreɪtˈfɔː.wəd/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** đơn giản, dễ hiểu, dễ làm *(70%)*; thẳng thắn, trực tiếp *(20%)*; không phức tạp hoặc không vòng vo *(10%)*
+
+### Usage
+
+`Straightforward` describes something easy to understand or do. It can also describe a person or answer that is honest and direct.
+
+Common structures:
+
+* `a straightforward task/process`: nhiệm vụ/quy trình đơn giản
+* `a straightforward answer/explanation`: câu trả lời/giải thích rõ ràng
+* `be straightforward with someone`: thẳng thắn với ai
+
+### Examples
+
+1. **The instructions are straightforward, so beginners can follow them easily.**
+   → Hướng dẫn rất dễ hiểu, nên người mới bắt đầu có thể làm theo dễ dàng.
+
+2. **A straightforward essay structure helps the examiner follow your argument.**
+   → Một cấu trúc bài luận rõ ràng giúp giám khảo theo dõi lập luận của bạn.
+
+### Common collocations
+
+* **straightforward explanation**: lời giải thích dễ hiểu
+* **straightforward process**: quy trình đơn giản
+* **straightforward answer**: câu trả lời thẳng thắn/rõ ràng
+
+### Word family
+
+* **straightforward** /ˌstreɪtˈfɔː.wəd/ *(adjective)*: đơn giản, dễ hiểu; thẳng thắn  
+  *Example:* The app has a straightforward design that saves users time.  
+  → Ứng dụng có thiết kế đơn giản, dễ hiểu giúp tiết kiệm thời gian cho người dùng.
+
+* **straightforwardly** /ˌstreɪtˈfɔː.wəd.li/ *(adverb)*: một cách thẳng thắn/dễ hiểu  
+  *Example:* The teacher explained the rule straightforwardly.  
+  → Giáo viên giải thích quy tắc đó một cách dễ hiểu.
+
+* **straightforwardness** /ˌstreɪtˈfɔː.wəd.nəs/ *(noun)*: sự thẳng thắn; sự đơn giản dễ hiểu  
+  *Example:* The straightforwardness of the plan made it easier to implement.  
+  → Sự rõ ràng dễ hiểu của kế hoạch khiến nó dễ thực hiện hơn.
+
+### Notes
+
+`Straightforward` is often positive. It is close to `simple`, but it usually sounds more precise and less negative.
