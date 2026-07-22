@@ -6872,3 +6872,591 @@ Common structures:
 ### Notes
 
 `Bent` means the shape has changed but the object may still be in one piece. `Broken` means the object is damaged more seriously or no longer works.
+
+---
+
+## 140. Amused /əˈmjuːzd/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** cảm thấy buồn cười/thích thú nhẹ *(70%)*; được làm cho giải trí, vui vẻ *(20%)*; hơi mỉa mai hoặc thấy điều gì ngớ ngẩn *(10%)*
+
+### Usage
+
+`Amused` describes the feeling of finding something funny, entertaining, or mildly interesting.
+
+Common structures:
+
+* `be amused by/at + noun`: thấy buồn cười/thích thú vì điều gì
+* `look/sound amused`: trông/nghe có vẻ buồn cười
+* `keep someone amused`: làm ai được giải trí
+
+### Examples
+
+1. **The children were amused by the teacher's funny story.**
+   → Những đứa trẻ cảm thấy thích thú với câu chuyện hài hước của giáo viên.
+
+2. **She looked amused when her toddler tried to sing.**
+   → Cô ấy trông có vẻ buồn cười khi đứa con mới biết đi cố hát.
+
+### Common collocations
+
+* **be amused by something**: thấy buồn cười/thích thú vì điều gì
+* **look amused**: trông có vẻ buồn cười
+* **keep someone amused**: làm ai được giải trí
+
+### Word family
+
+* **amused** /əˈmjuːzd/ *(adjective/verb form)*: thấy buồn cười, thích thú  
+  *Example:* The audience seemed amused by the speaker's joke.  
+  → Khán giả có vẻ thích thú với câu đùa của diễn giả.
+
+* **amuse** /əˈmjuːz/ *(verb)*: làm cho ai vui, giải trí  
+  *Example:* Simple games can amuse children during a long trip.  
+  → Những trò chơi đơn giản có thể giúp trẻ em giải trí trong chuyến đi dài.
+
+* **amusement** /əˈmjuːz.mənt/ *(noun)*: sự thích thú, sự giải trí  
+  *Example:* To her amusement, the dog tried to chase its own tail.  
+  → Trước sự thích thú của cô ấy, con chó cố đuổi theo cái đuôi của chính nó.
+
+### Notes
+
+`Amused` is usually softer than `very funny`. It often means quietly entertained rather than laughing loudly.
+
+---
+
+## 141. Walk of life /ˌwɔːk əv ˈlaɪf/
+
+* **Part of speech:** noun phrase
+* **Vietnamese meaning:** tầng lớp/nghề nghiệp/hoàn cảnh sống trong xã hội *(75%)*; nhóm người thuộc một kiểu đời sống hoặc công việc *(25%)*
+
+### Usage
+
+`Walk of life` is most common in the plural phrase `people from all walks of life`, meaning people from many different social backgrounds, jobs, or lifestyles.
+
+Common structures:
+
+* `people from all walks of life`: mọi tầng lớp trong xã hội
+* `from every walk of life`: từ mọi tầng lớp/ngành nghề
+* `a person from a different walk of life`: một người thuộc hoàn cảnh/tầng lớp khác
+
+### Examples
+
+1. **Public parks are used by people from all walks of life.**
+   → Công viên công cộng được sử dụng bởi mọi tầng lớp trong xã hội.
+
+2. **IELTS candidates come from many different walks of life.**
+   → Thí sinh IELTS đến từ nhiều tầng lớp và hoàn cảnh sống khác nhau.
+
+### Common collocations
+
+* **all walks of life**: mọi tầng lớp trong xã hội
+* **people from different walks of life**: người từ nhiều tầng lớp khác nhau
+* **from every walk of life**: từ mọi tầng lớp/ngành nghề
+
+### Word family
+
+* **walk of life** /ˌwɔːk əv ˈlaɪf/ *(noun phrase)*: tầng lớp/hoàn cảnh sống  
+  *Example:* Libraries serve people from every walk of life.  
+  → Thư viện phục vụ mọi tầng lớp trong xã hội.
+
+* **walk** /wɔːk/ *(noun/verb)*: sự đi bộ; đi bộ  
+  *Example:* A daily walk can improve both physical and mental health.  
+  → Việc đi bộ hằng ngày có thể cải thiện cả sức khỏe thể chất lẫn tinh thần.
+
+* **lifestyle** /ˈlaɪf.staɪl/ *(noun)*: lối sống  
+  *Example:* A healthy lifestyle can reduce the risk of chronic disease.  
+  → Một lối sống lành mạnh có thể giảm nguy cơ mắc bệnh mãn tính.
+
+### Notes
+
+The user's phrase `a walk of life` is possible, but the most natural and common IELTS-useful phrase is `people from all walks of life`.
+
+---
+
+## 142. Way of life /ˌweɪ əv ˈlaɪf/
+
+* **Part of speech:** noun phrase
+* **Vietnamese meaning:** lối sống, cách sống của một cá nhân/cộng đồng *(80%)*; phong tục hoặc nếp sinh hoạt truyền thống *(20%)*
+
+### Usage
+
+`Way of life` refers to how a person, group, or society usually lives, works, eats, communicates, and spends time.
+
+Common structures:
+
+* `a traditional/modern way of life`: lối sống truyền thống/hiện đại
+* `change someone's way of life`: thay đổi lối sống của ai
+* `protect/preserve a way of life`: bảo vệ/giữ gìn một lối sống
+
+### Examples
+
+1. **Technology has changed the way of life in many rural communities.**
+   → Công nghệ đã thay đổi lối sống ở nhiều cộng đồng nông thôn.
+
+2. **Some people move to the countryside because they prefer a slower way of life.**
+   → Một số người chuyển về nông thôn vì họ thích lối sống chậm hơn.
+
+### Common collocations
+
+* **traditional way of life**: lối sống truyền thống
+* **modern way of life**: lối sống hiện đại
+* **preserve a way of life**: giữ gìn một lối sống
+
+### Word family
+
+* **way of life** /ˌweɪ əv ˈlaɪf/ *(noun phrase)*: lối sống, cách sống  
+  *Example:* Urbanisation can threaten the traditional way of life in small villages.  
+  → Đô thị hóa có thể đe dọa lối sống truyền thống ở các làng nhỏ.
+
+* **way** /weɪ/ *(noun)*: cách, con đường, phương pháp  
+  *Example:* Education is one way to reduce inequality.  
+  → Giáo dục là một cách để giảm bất bình đẳng.
+
+* **life** /laɪf/ *(noun)*: cuộc sống, đời sống  
+  *Example:* Work-life balance is important for a healthy life.  
+  → Cân bằng giữa công việc và cuộc sống rất quan trọng cho một đời sống lành mạnh.
+
+### Notes
+
+`Way of life` is about lifestyle or culture. `Standard of living` is about material comfort, income, housing, healthcare, and access to goods.
+
+---
+
+## 143. Craft /krɑːft/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb
+* **Vietnamese meaning:** nghề thủ công/kỹ năng làm bằng tay *(35%)*; kỹ năng/tay nghề trong một lĩnh vực *(30%)*; tàu/thuyền/máy bay nhỏ *(20%)*; tạo ra một cách khéo léo *(15%)*
+
+### Usage
+
+`Craft` can refer to handmade activities, a skilled profession, a vehicle, or the act of making something carefully.
+
+Common structures:
+
+* `arts and crafts`: nghệ thuật và thủ công
+* `master a craft`: thành thạo một kỹ năng/nghề
+* `craft a message/essay/strategy`: tạo ra thông điệp/bài luận/chiến lược một cách khéo léo
+
+### Examples
+
+1. **Traditional crafts can help preserve local culture.**
+   → Các nghề thủ công truyền thống có thể giúp gìn giữ văn hóa địa phương.
+
+2. **Students should learn how to craft clear arguments in IELTS Writing.**
+   → Học sinh nên học cách xây dựng lập luận rõ ràng trong IELTS Writing.
+
+### Common collocations
+
+* **traditional craft**: nghề thủ công truyền thống
+* **craft skills**: kỹ năng thủ công/tay nghề
+* **craft an argument**: xây dựng lập luận khéo léo
+
+### Word family
+
+* **craft** /krɑːft/ *(noun/verb)*: nghề thủ công; kỹ năng; tạo ra khéo léo  
+  *Example:* Writing a strong essay is a craft that improves with practice.  
+  → Viết một bài luận tốt là một kỹ năng cải thiện qua luyện tập.
+
+* **craftsman** /ˈkrɑːfts.mən/ *(noun)*: thợ thủ công, nghệ nhân  
+  *Example:* A skilled craftsman can turn simple wood into beautiful furniture.  
+  → Một nghệ nhân lành nghề có thể biến gỗ đơn giản thành đồ nội thất đẹp.
+
+* **craftsmanship** /ˈkrɑːfts.mən.ʃɪp/ *(noun)*: tay nghề, kỹ thuật thủ công  
+  *Example:* The table shows excellent craftsmanship.  
+  → Chiếc bàn thể hiện tay nghề thủ công xuất sắc.
+
+### Notes
+
+`Craft` as a verb is formal and positive: `craft a policy`, `craft a response`, `craft an essay`.
+
+---
+
+## 144. Delighted /dɪˈlaɪ.tɪd/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** rất vui mừng, hài lòng *(80%)*; rất sẵn lòng làm gì trong giao tiếp lịch sự *(20%)*
+
+### Usage
+
+`Delighted` means very pleased or happy. It is warmer and more formal than `happy`.
+
+Common structures:
+
+* `be delighted with/about + noun`: rất vui/hài lòng về điều gì
+* `be delighted to do something`: rất vui/sẵn lòng làm gì
+* `be delighted that + clause`: rất vui rằng...
+
+### Examples
+
+1. **She was delighted with her IELTS result.**
+   → Cô ấy rất vui với kết quả IELTS của mình.
+
+2. **I would be delighted to help you prepare for the interview.**
+   → Tôi rất sẵn lòng giúp bạn chuẩn bị cho buổi phỏng vấn.
+
+### Common collocations
+
+* **be delighted with something**: rất hài lòng với điều gì
+* **delighted to hear/see/announce**: rất vui khi nghe/thấy/thông báo
+* **absolutely delighted**: cực kỳ vui mừng
+
+### Word family
+
+* **delighted** /dɪˈlaɪ.tɪd/ *(adjective/verb form)*: rất vui mừng, hài lòng  
+  *Example:* Parents were delighted to see their children perform confidently.  
+  → Cha mẹ rất vui khi thấy con mình biểu diễn tự tin.
+
+* **delight** /dɪˈlaɪt/ *(noun/verb)*: niềm vui; làm vui thích  
+  *Example:* The success of the project brought great delight to the team.  
+  → Thành công của dự án mang lại niềm vui lớn cho nhóm.
+
+* **delightful** /dɪˈlaɪt.fəl/ *(adjective)*: thú vị, dễ chịu, đáng yêu  
+  *Example:* The museum offered a delightful experience for children.  
+  → Bảo tàng mang lại một trải nghiệm thú vị cho trẻ em.
+
+### Notes
+
+`Delighted` is stronger than `pleased`. It is natural in polite emails: `I would be delighted to...`
+
+---
+
+## 145. Make a living /ˌmeɪk ə ˈlɪv.ɪŋ/
+
+* **Part of speech:** verb phrase
+* **Vietnamese meaning:** kiếm sống, kiếm tiền để trang trải cuộc sống *(90%)*; duy trì cuộc sống bằng một nghề/công việc *(10%)*
+
+### Usage
+
+`Make a living` means earn enough money to support yourself or your family.
+
+Common structures:
+
+* `make a living as + job`: kiếm sống bằng nghề gì
+* `make a living from + activity`: kiếm sống từ hoạt động gì
+* `struggle to make a living`: chật vật kiếm sống
+
+### Examples
+
+1. **Many artists struggle to make a living from their work.**
+   → Nhiều nghệ sĩ chật vật kiếm sống từ công việc của mình.
+
+2. **In rural areas, some families make a living from farming.**
+   → Ở vùng nông thôn, một số gia đình kiếm sống bằng nghề nông.
+
+### Common collocations
+
+* **make a decent living**: kiếm sống đủ tốt
+* **make a living from farming**: kiếm sống từ nghề nông
+* **struggle to make a living**: chật vật kiếm sống
+
+### Word family
+
+* **make a living** /ˌmeɪk ə ˈlɪv.ɪŋ/ *(verb phrase)*: kiếm sống  
+  *Example:* Freelancers often need several clients to make a living.  
+  → Người làm tự do thường cần nhiều khách hàng để kiếm sống.
+
+* **living** /ˈlɪv.ɪŋ/ *(noun/adjective)*: sinh kế; đang sống  
+  *Example:* Teaching is how she earns her living.  
+  → Dạy học là cách cô ấy kiếm sống.
+
+* **livelihood** /ˈlaɪv.li.hʊd/ *(noun)*: sinh kế, kế sinh nhai  
+  *Example:* Climate change can threaten the livelihoods of farmers.  
+  → Biến đổi khí hậu có thể đe dọa sinh kế của nông dân.
+
+### Notes
+
+`Make a living` focuses on earning money to survive. `Standard of living` focuses on quality and comfort of life.
+
+---
+
+## 146. Occupy /ˈɒk.jə.paɪ/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** chiếm giữ không gian/thời gian/vị trí *(40%)*; sống hoặc sử dụng một nơi *(25%)*; chiếm đóng bằng quân sự/chính trị *(20%)*; làm ai bận rộn *(15%)*
+
+### Usage
+
+`Occupy` is formal and can mean take up space/time, live in a place, hold a position, control a place, or keep someone busy.
+
+Common structures:
+
+* `occupy space/time`: chiếm không gian/thời gian
+* `occupy a room/house/seat`: sử dụng/ở trong phòng/nhà/ghế
+* `be occupied with + noun/verb-ing`: bận rộn với điều gì
+
+### Examples
+
+1. **Large cars occupy too much space in crowded urban areas.**
+   → Xe lớn chiếm quá nhiều không gian ở các khu đô thị đông đúc.
+
+2. **Children need activities that occupy their minds in a positive way.**
+   → Trẻ em cần các hoạt động khiến tâm trí chúng bận rộn theo hướng tích cực.
+
+### Common collocations
+
+* **occupy space**: chiếm không gian
+* **occupy a position**: giữ một vị trí
+* **be fully occupied**: hoàn toàn bận rộn/được sử dụng hết
+
+### Word family
+
+* **occupy** /ˈɒk.jə.paɪ/ *(verb)*: chiếm giữ, sử dụng, làm bận rộn  
+  *Example:* Housing occupies a large part of household spending.  
+  → Nhà ở chiếm một phần lớn trong chi tiêu hộ gia đình.
+
+* **occupation** /ˌɒk.jəˈpeɪ.ʃən/ *(noun)*: nghề nghiệp; sự chiếm đóng; việc sử dụng  
+  *Example:* People often define themselves by their occupation.  
+  → Con người thường định nghĩa bản thân qua nghề nghiệp của họ.
+
+* **occupied** /ˈɒk.jə.paɪd/ *(adjective/verb form)*: đang bận; đang được sử dụng; bị chiếm đóng  
+  *Example:* The meeting room is occupied until three o'clock.  
+  → Phòng họp đang được sử dụng đến ba giờ.
+
+### Notes
+
+`Occupy` is more formal than `take up`. In daily speech, `This sofa takes up space` is more natural than `This sofa occupies space`.
+
+---
+
+## 147. Once in a lifetime /ˌwʌns ɪn ə ˈlaɪf.taɪm/
+
+* **Part of speech:** adjective phrase; adverb phrase
+* **Vietnamese meaning:** chỉ có một lần trong đời, cực kỳ hiếm *(80%)*; cơ hội/trải nghiệm rất đặc biệt khó lặp lại *(20%)*
+
+### Usage
+
+`Once in a lifetime` describes a rare and special chance, event, or experience.
+
+Common structures:
+
+* `a once-in-a-lifetime opportunity`: cơ hội chỉ có một lần trong đời
+* `a once-in-a-lifetime experience`: trải nghiệm hiếm có
+* `happen once in a lifetime`: xảy ra một lần trong đời
+
+### Examples
+
+1. **Studying abroad can be a once-in-a-lifetime opportunity for many students.**
+   → Du học có thể là một cơ hội chỉ có một lần trong đời đối với nhiều sinh viên.
+
+2. **Seeing the northern lights was a once-in-a-lifetime experience.**
+   → Việc nhìn thấy cực quang là một trải nghiệm hiếm có trong đời.
+
+### Common collocations
+
+* **once-in-a-lifetime opportunity**: cơ hội chỉ có một lần trong đời
+* **once-in-a-lifetime experience**: trải nghiệm hiếm có trong đời
+* **once-in-a-lifetime trip**: chuyến đi hiếm có trong đời
+
+### Word family
+
+* **once in a lifetime** /ˌwʌns ɪn ə ˈlaɪf.taɪm/ *(phrase)*: một lần trong đời, cực kỳ hiếm  
+  *Example:* Winning a full scholarship can feel like a once-in-a-lifetime chance.  
+  → Giành được học bổng toàn phần có thể giống như một cơ hội hiếm có trong đời.
+
+* **once** /wʌns/ *(adverb/conjunction)*: một lần; khi mà  
+  *Example:* I visited that museum once when I was a child.  
+  → Tôi đã đến bảo tàng đó một lần khi còn nhỏ.
+
+* **lifetime** /ˈlaɪf.taɪm/ *(noun)*: cả đời, thời gian sống  
+  *Example:* Education can influence a person's lifetime earnings.  
+  → Giáo dục có thể ảnh hưởng đến thu nhập cả đời của một người.
+
+### Notes
+
+When used before a noun, hyphenation is common: `a once-in-a-lifetime opportunity`.
+
+---
+
+## 148. Overlook /ˌəʊ.vəˈlʊk/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** bỏ sót, không chú ý đến điều gì *(45%)*; xem nhẹ/bỏ qua lỗi hoặc hành vi xấu *(30%)*; nhìn ra/quay mặt ra một cảnh quan *(25%)*
+
+### Usage
+
+`Overlook` can mean fail to notice, deliberately ignore, or have a view over something.
+
+Common structures:
+
+* `overlook a detail/mistake`: bỏ sót chi tiết/lỗi
+* `overlook someone's behaviour`: bỏ qua hành vi của ai
+* `a room/window overlooks + place`: phòng/cửa sổ nhìn ra nơi nào
+
+### Examples
+
+1. **Teachers should not overlook small signs of bullying.**
+   → Giáo viên không nên bỏ qua những dấu hiệu nhỏ của việc bắt nạt.
+
+2. **The hotel room overlooks the sea.**
+   → Phòng khách sạn nhìn ra biển.
+
+### Common collocations
+
+* **overlook a mistake**: bỏ sót/bỏ qua một lỗi
+* **overlook an important detail**: bỏ sót một chi tiết quan trọng
+* **overlook the city/sea**: nhìn ra thành phố/biển
+
+### Word family
+
+* **overlook** /ˌəʊ.vəˈlʊk/ *(verb)*: bỏ sót, bỏ qua; nhìn ra  
+  *Example:* Policymakers should not overlook the needs of rural communities.  
+  → Các nhà hoạch định chính sách không nên bỏ qua nhu cầu của cộng đồng nông thôn.
+
+* **overlooked** /ˌəʊ.vəˈlʊkt/ *(adjective/verb form)*: bị bỏ sót, bị xem nhẹ  
+  *Example:* Mental health is often overlooked in discussions about education.  
+  → Sức khỏe tinh thần thường bị xem nhẹ trong các cuộc thảo luận về giáo dục.
+
+* **overlooking** /ˌəʊ.vəˈlʊk.ɪŋ/ *(verb form/adjective)*: nhìn ra; đang bỏ sót  
+  *Example:* The apartment has a balcony overlooking the river.  
+  → Căn hộ có ban công nhìn ra sông.
+
+### Notes
+
+`Overlook` can mean both “miss by accident” and “ignore on purpose”. Context tells you which meaning is intended.
+
+---
+
+## 149. Recreation /ˌrek.riˈeɪ.ʃən/
+
+* **Part of speech:** uncountable noun; countable noun in rare specific uses
+* **Vietnamese meaning:** hoạt động giải trí/thư giãn *(70%)*; sự nghỉ ngơi để phục hồi sức khỏe/tinh thần *(20%)*; sự tái tạo lại một cảnh/sự kiện *(10%)*
+
+### Usage
+
+`Recreation` usually means enjoyable activities people do when they are not working, such as sports, games, hobbies, or outdoor activities.
+
+Common structures:
+
+* `recreation facilities`: cơ sở vật chất giải trí
+* `outdoor recreation`: hoạt động giải trí ngoài trời
+* `recreation and leisure`: giải trí và thời gian rảnh
+
+### Examples
+
+1. **Cities should provide safe recreation spaces for children and teenagers.**
+   → Thành phố nên cung cấp không gian giải trí an toàn cho trẻ em và thanh thiếu niên.
+
+2. **Outdoor recreation can improve both physical and mental health.**
+   → Hoạt động giải trí ngoài trời có thể cải thiện cả sức khỏe thể chất và tinh thần.
+
+### Common collocations
+
+* **recreation facilities**: cơ sở giải trí
+* **outdoor recreation**: giải trí ngoài trời
+* **recreation centre**: trung tâm giải trí
+
+### Word family
+
+* **recreation** /ˌrek.riˈeɪ.ʃən/ *(noun)*: hoạt động giải trí, sự thư giãn  
+  *Example:* Recreation is important for work-life balance.  
+  → Hoạt động giải trí rất quan trọng cho cân bằng giữa công việc và cuộc sống.
+
+* **recreational** /ˌrek.riˈeɪ.ʃən.əl/ *(adjective)*: thuộc về giải trí  
+  *Example:* Recreational activities can reduce stress among students.  
+  → Các hoạt động giải trí có thể giảm căng thẳng cho học sinh.
+
+* **recreate** /ˌriː.kriˈeɪt/ *(verb)*: tái tạo, dựng lại  
+  *Example:* The museum recreated a traditional village for visitors.  
+  → Bảo tàng đã tái tạo một ngôi làng truyền thống cho khách tham quan.
+
+### Notes
+
+`Recreation` is more formal than `fun`. In IELTS, it is useful for topics about health, cities, parks, and work-life balance.
+
+---
+
+## 150. Risk-taker /ˈrɪskˌteɪ.kər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người thích hoặc sẵn sàng chấp nhận rủi ro *(80%)*; người dám thử điều mới hoặc mạo hiểm trong kinh doanh/cuộc sống *(20%)*
+
+### Usage
+
+`Risk-taker` describes someone who is willing to take risks, often to achieve success, excitement, or innovation.
+
+Common structures:
+
+* `be a risk-taker`: là người dám chấp nhận rủi ro
+* `natural/big risk-taker`: người bẩm sinh/rất thích mạo hiểm
+* `risk-taker in business/sport`: người dám mạo hiểm trong kinh doanh/thể thao
+
+### Examples
+
+1. **Entrepreneurs are often risk-takers who are willing to try new ideas.**
+   → Doanh nhân thường là những người dám chấp nhận rủi ro và sẵn sàng thử ý tưởng mới.
+
+2. **A good risk-taker understands both the possible rewards and the dangers.**
+   → Một người chấp nhận rủi ro giỏi hiểu cả phần thưởng có thể có và nguy hiểm.
+
+### Common collocations
+
+* **natural risk-taker**: người bẩm sinh thích mạo hiểm
+* **calculated risk-taker**: người chấp nhận rủi ro có tính toán
+* **business risk-taker**: người dám mạo hiểm trong kinh doanh
+
+### Word family
+
+* **risk-taker** /ˈrɪskˌteɪ.kər/ *(noun)*: người dám chấp nhận rủi ro  
+  *Example:* A calculated risk-taker does not act blindly.  
+  → Một người chấp nhận rủi ro có tính toán không hành động mù quáng.
+
+* **risk-taking** /ˈrɪskˌteɪ.kɪŋ/ *(noun/adjective)*: sự chấp nhận rủi ro; mang tính mạo hiểm  
+  *Example:* Excessive risk-taking can lead to serious financial loss.  
+  → Việc chấp nhận rủi ro quá mức có thể dẫn đến tổn thất tài chính nghiêm trọng.
+
+* **risky** /ˈrɪs.ki/ *(adjective)*: rủi ro, mạo hiểm  
+  *Example:* Investing without research is risky.  
+  → Đầu tư mà không nghiên cứu là rủi ro.
+
+### Notes
+
+`Risk-taker` can be positive or negative. `Calculated risk-taker` is positive because it suggests careful judgment.
+
+---
+
+## 151. Standard of living /ˌstæn.dəd əv ˈlɪv.ɪŋ/
+
+* **Part of speech:** noun phrase
+* **Vietnamese meaning:** mức sống, mức độ đầy đủ về thu nhập, nhà ở, y tế, giáo dục và tiện nghi *(85%)*; chất lượng vật chất của đời sống trong một xã hội *(15%)*
+
+### Usage
+
+`Standard of living` refers to how comfortable people's material lives are. It is common in IELTS Writing about economy, development, inequality, and government policy.
+
+Common structures:
+
+* `improve/raise the standard of living`: cải thiện/nâng cao mức sống
+* `a high/low standard of living`: mức sống cao/thấp
+* `standard of living in + place`: mức sống ở nơi nào
+
+### Examples
+
+1. **Economic growth can improve the standard of living if its benefits are shared fairly.**
+   → Tăng trưởng kinh tế có thể cải thiện mức sống nếu lợi ích của nó được chia sẻ công bằng.
+
+2. **Access to healthcare and education is an important part of a decent standard of living.**
+   → Khả năng tiếp cận y tế và giáo dục là một phần quan trọng của mức sống tử tế.
+
+### Common collocations
+
+* **high standard of living**: mức sống cao
+* **raise the standard of living**: nâng cao mức sống
+* **decent standard of living**: mức sống tử tế/đủ tốt
+
+### Word family
+
+* **standard of living** /ˌstæn.dəd əv ˈlɪv.ɪŋ/ *(noun phrase)*: mức sống  
+  *Example:* Better infrastructure can raise the standard of living in rural areas.  
+  → Cơ sở hạ tầng tốt hơn có thể nâng cao mức sống ở vùng nông thôn.
+
+* **standard** /ˈstæn.dəd/ *(noun/adjective)*: tiêu chuẩn; chuẩn, tiêu chuẩn  
+  *Example:* Education standards vary between regions.  
+  → Tiêu chuẩn giáo dục khác nhau giữa các vùng.
+
+* **living** /ˈlɪv.ɪŋ/ *(noun/adjective)*: sinh kế; thuộc đời sống; đang sống  
+  *Example:* Rising living costs put pressure on low-income families.  
+  → Chi phí sinh hoạt tăng gây áp lực lên các gia đình thu nhập thấp.
+
+### Notes
+
+`Standard of living` focuses on material conditions. `Quality of life` is broader and includes happiness, health, environment, safety, and relationships.
