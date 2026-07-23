@@ -7999,3 +7999,640 @@ Common structures:
 ### Notes
 
 `Straightforward` is often positive. It is close to `simple`, but it usually sounds more precise and less negative.
+
+---
+
+## 163. Conjecture /kənˈdʒek.tʃər/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** sự phỏng đoán/suy đoán khi chưa có đủ bằng chứng *(60%)*; ý kiến hoặc giả thuyết được đưa ra dựa trên thông tin chưa chắc chắn *(30%)*; phỏng đoán, suy đoán *(10%)*
+
+### Usage
+
+`Conjecture` is formal and refers to a guess based on incomplete evidence. It is useful in academic writing when distinguishing speculation from evidence.
+
+Common structures:
+
+* `mere conjecture`: chỉ là phỏng đoán
+* `be based on conjecture`: dựa trên suy đoán
+* `conjecture that + clause`: phỏng đoán rằng...
+
+### Examples
+
+1. **Without empirical evidence, the claim remains mere conjecture.**
+   → Nếu không có bằng chứng thực nghiệm, tuyên bố đó vẫn chỉ là phỏng đoán.
+
+2. **Some researchers conjecture that early language exposure affects later academic success.**
+   → Một số nhà nghiên cứu phỏng đoán rằng việc tiếp xúc ngôn ngữ sớm ảnh hưởng đến thành công học tập sau này.
+
+### Common collocations
+
+* **mere conjecture**: chỉ là phỏng đoán
+* **based on conjecture**: dựa trên suy đoán
+* **reasonable conjecture**: phỏng đoán hợp lý
+
+### Word family
+
+* **conjecture** /kənˈdʒek.tʃər/ *(noun/verb)*: sự phỏng đoán; phỏng đoán  
+  *Example:* The argument is interesting, but it relies too much on conjecture.  
+  → Lập luận đó thú vị, nhưng dựa quá nhiều vào phỏng đoán.
+
+* **conjectural** /kənˈdʒek.tʃər.əl/ *(adjective)*: mang tính phỏng đoán  
+  *Example:* Conjectural explanations should be tested with reliable data.  
+  → Những lời giải thích mang tính phỏng đoán nên được kiểm chứng bằng dữ liệu đáng tin cậy.
+
+* **conjecturing** /kənˈdʒek.tʃər.ɪŋ/ *(noun/verb form)*: việc phỏng đoán, đang phỏng đoán  
+  *Example:* Conjecturing without evidence can mislead the public.  
+  → Việc phỏng đoán không có bằng chứng có thể gây hiểu lầm cho công chúng.
+
+### Notes
+
+`Conjecture` is weaker than `evidence`. In IELTS Writing, avoid presenting conjecture as fact.
+
+---
+
+## 164. Connotation /ˌkɒn.əˈteɪ.ʃən/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** sắc thái nghĩa, ý nghĩa hàm ẩn ngoài nghĩa chính *(75%)*; cảm xúc hoặc liên tưởng mà một từ gợi ra *(25%)*
+
+### Usage
+
+`Connotation` refers to the feeling, association, or implied meaning of a word, beyond its dictionary meaning.
+
+Common structures:
+
+* `positive/negative connotation`: sắc thái tích cực/tiêu cực
+* `have/carry a connotation`: mang sắc thái nghĩa
+* `the connotation of + word`: sắc thái nghĩa của từ...
+
+### Examples
+
+1. **The word `cheap` can have a negative connotation, while `affordable` sounds more positive.**
+   → Từ `cheap` có thể mang sắc thái tiêu cực, trong khi `affordable` nghe tích cực hơn.
+
+2. **Writers should consider the connotations of words when discussing sensitive topics.**
+   → Người viết nên cân nhắc sắc thái nghĩa của từ khi bàn về các chủ đề nhạy cảm.
+
+### Common collocations
+
+* **negative connotation**: sắc thái nghĩa tiêu cực
+* **positive connotation**: sắc thái nghĩa tích cực
+* **carry connotations of something**: mang liên tưởng/sắc thái về điều gì
+
+### Word family
+
+* **connotation** /ˌkɒn.əˈteɪ.ʃən/ *(noun)*: sắc thái nghĩa, hàm ý  
+  *Example:* The phrase has different connotations in different cultures.  
+  → Cụm từ đó có những sắc thái nghĩa khác nhau trong các nền văn hóa khác nhau.
+
+* **connote** /kəˈnəʊt/ *(verb)*: gợi lên, hàm ý  
+  *Example:* The word `home` often connotes safety and belonging.  
+  → Từ `home` thường gợi lên sự an toàn và cảm giác thuộc về.
+
+* **connotative** /kəˈnɒt.ə.tɪv/ *(adjective)*: thuộc về sắc thái nghĩa/hàm ý  
+  *Example:* Connotative meaning can influence how readers react to an argument.  
+  → Nghĩa hàm ẩn có thể ảnh hưởng đến cách người đọc phản ứng với một lập luận.
+
+### Notes
+
+`Denotation` is the basic dictionary meaning. `Connotation` is the extra emotional or cultural meaning.
+
+---
+
+## 165. Correspond /ˌkɒr.əˈspɒnd/
+
+* **Part of speech:** intransitive verb
+* **Vietnamese meaning:** tương ứng/phù hợp với điều gì *(55%)*; trao đổi thư từ/liên lạc bằng văn bản *(25%)*; giống hoặc khớp với điều gì *(20%)*
+
+### Usage
+
+`Correspond` means match, be similar to, or communicate by letters/emails. It is formal and common in academic or professional contexts.
+
+Common structures:
+
+* `correspond to/with + noun`: tương ứng/phù hợp với điều gì
+* `correspond with someone`: trao đổi thư từ với ai
+* `closely correspond`: tương ứng chặt chẽ
+
+### Examples
+
+1. **The results correspond closely with previous research.**
+   → Kết quả tương ứng chặt chẽ với nghiên cứu trước đó.
+
+2. **Students sometimes correspond with their supervisors by email.**
+   → Sinh viên đôi khi trao đổi với người hướng dẫn qua email.
+
+### Common collocations
+
+* **correspond to something**: tương ứng với điều gì
+* **correspond with someone**: trao đổi thư từ với ai
+* **closely correspond**: tương ứng chặt chẽ
+
+### Word family
+
+* **correspond** /ˌkɒr.əˈspɒnd/ *(verb)*: tương ứng, liên lạc bằng thư  
+  *Example:* The figures do not correspond with the data in the report.  
+  → Các con số không khớp với dữ liệu trong báo cáo.
+
+* **correspondence** /ˌkɒr.əˈspɒn.dəns/ *(noun)*: sự tương ứng; thư từ trao đổi  
+  *Example:* Email correspondence should be clear and professional.  
+  → Thư từ qua email nên rõ ràng và chuyên nghiệp.
+
+* **corresponding** /ˌkɒr.əˈspɒn.dɪŋ/ *(adjective)*: tương ứng  
+  *Example:* Higher demand led to a corresponding rise in prices.  
+  → Nhu cầu cao hơn dẫn đến mức tăng giá tương ứng.
+
+### Notes
+
+Use `correspond to/with` for matching. Use `correspond with someone` for written communication.
+
+---
+
+## 166. Devastate /ˈdev.ə.steɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** tàn phá nghiêm trọng một nơi/hệ thống *(55%)*; làm ai đau buồn hoặc sốc nặng *(35%)*; làm suy sụp hoặc phá hủy hy vọng/kế hoạch *(10%)*
+
+### Usage
+
+`Devastate` means destroy badly or make someone extremely upset. It is stronger than `damage` or `upset`.
+
+Common structures:
+
+* `devastate a community/area/economy`: tàn phá cộng đồng/khu vực/nền kinh tế
+* `be devastated by + event/news`: bị sốc/đau buồn nặng vì...
+* `devastating impact/effect`: tác động tàn phá
+
+### Examples
+
+1. **The flood devastated several villages and destroyed local livelihoods.**
+   → Trận lũ tàn phá nhiều ngôi làng và phá hủy sinh kế địa phương.
+
+2. **She was devastated by the news of her friend's death.**
+   → Cô ấy đau buồn tột độ trước tin bạn mình qua đời.
+
+### Common collocations
+
+* **devastate an area**: tàn phá một khu vực
+* **be devastated by news**: đau buồn/sốc nặng vì tin tức
+* **devastating effect**: tác động tàn phá
+
+### Word family
+
+* **devastate** /ˈdev.ə.steɪt/ *(verb)*: tàn phá; làm đau buồn tột độ  
+  *Example:* A severe drought can devastate farming communities.  
+  → Một đợt hạn hán nghiêm trọng có thể tàn phá các cộng đồng nông nghiệp.
+
+* **devastating** /ˈdev.ə.steɪ.tɪŋ/ *(adjective)*: tàn phá, gây đau buồn nặng nề  
+  *Example:* The pandemic had a devastating effect on small businesses.  
+  → Đại dịch có tác động tàn phá đối với các doanh nghiệp nhỏ.
+
+* **devastation** /ˌdev.əˈsteɪ.ʃən/ *(noun)*: sự tàn phá, nỗi đau buồn tột độ  
+  *Example:* The earthquake left widespread devastation.  
+  → Trận động đất để lại sự tàn phá trên diện rộng.
+
+### Notes
+
+`Devastate` is very strong. Use it for serious destruction or emotional shock.
+
+---
+
+## 167. Intimate /ˈɪn.tɪ.mət/; /ˈɪn.tɪ.meɪt/
+
+* **Part of speech:** adjective; transitive verb; countable noun
+* **Vietnamese meaning:** thân mật, gần gũi về cảm xúc *(40%)*; riêng tư/cá nhân *(25%)*; có quan hệ tình cảm hoặc tình dục *(20%)*; ám chỉ/nói bóng gió một cách trang trọng *(10%)*; bạn thân/người thân thiết *(5%)*
+
+### Usage
+
+As an adjective, `intimate` means close, private, or deeply personal. As a verb, it means suggest something indirectly and is formal.
+
+Common structures:
+
+* `an intimate relationship/conversation`: mối quan hệ/cuộc trò chuyện thân mật
+* `intimate details`: chi tiết riêng tư
+* `intimate that + clause`: ám chỉ rằng...
+
+### Examples
+
+1. **Close friends can share intimate thoughts without fear of judgment.**
+   → Bạn thân có thể chia sẻ những suy nghĩ riêng tư mà không sợ bị phán xét.
+
+2. **The report intimated that further investigation was necessary.**
+   → Báo cáo ám chỉ rằng cần có thêm điều tra.
+
+### Common collocations
+
+* **intimate relationship**: mối quan hệ thân mật
+* **intimate conversation**: cuộc trò chuyện thân mật
+* **intimate details**: chi tiết riêng tư
+
+### Word family
+
+* **intimate** /ˈɪn.tɪ.mət/ *(adjective/noun)*: thân mật, riêng tư; người thân thiết  
+  *Example:* An intimate conversation can strengthen a close friendship.  
+  → Một cuộc trò chuyện thân mật có thể củng cố một tình bạn gần gũi.
+
+* **intimate** /ˈɪn.tɪ.meɪt/ *(verb)*: ám chỉ, nói bóng gió  
+  *Example:* The manager intimated that changes were coming.  
+  → Người quản lý ám chỉ rằng sắp có những thay đổi.
+
+* **intimacy** /ˈɪn.tɪ.mə.si/ *(noun)*: sự thân mật, sự gần gũi  
+  *Example:* Emotional intimacy is important in a healthy relationship.  
+  → Sự gần gũi về cảm xúc rất quan trọng trong một mối quan hệ lành mạnh.
+
+### Notes
+
+The adjective is pronounced /ˈɪn.tɪ.mət/, but the verb is pronounced /ˈɪn.tɪ.meɪt/.
+
+---
+
+## 168. Persevere /ˌpɜː.sɪˈvɪər/
+
+* **Part of speech:** intransitive verb
+* **Vietnamese meaning:** kiên trì tiếp tục dù khó khăn *(85%)*; bền bỉ theo đuổi mục tiêu *(15%)*
+
+### Usage
+
+`Persevere` means continue trying despite difficulty, failure, or delay. It is useful for education, work, sport, and personal development.
+
+Common structures:
+
+* `persevere with + noun/verb-ing`: kiên trì với điều gì
+* `persevere despite + difficulty`: kiên trì bất chấp khó khăn
+* `persevere in + noun/verb-ing`: kiên trì trong việc gì
+
+### Examples
+
+1. **Students who persevere with academic writing usually improve over time.**
+   → Học sinh kiên trì với viết học thuật thường cải thiện theo thời gian.
+
+2. **She persevered despite repeated failures.**
+   → Cô ấy kiên trì bất chấp nhiều lần thất bại.
+
+### Common collocations
+
+* **persevere with something**: kiên trì với điều gì
+* **persevere despite difficulties**: kiên trì bất chấp khó khăn
+* **persevere in learning**: kiên trì trong học tập
+
+### Word family
+
+* **persevere** /ˌpɜː.sɪˈvɪər/ *(verb)*: kiên trì, bền bỉ  
+  *Example:* Learners need to persevere when progress feels slow.  
+  → Người học cần kiên trì khi tiến bộ có vẻ chậm.
+
+* **perseverance** /ˌpɜː.sɪˈvɪə.rəns/ *(noun)*: sự kiên trì  
+  *Example:* Perseverance is essential for long-term language learning.  
+  → Sự kiên trì là điều thiết yếu cho việc học ngôn ngữ lâu dài.
+
+* **persevering** /ˌpɜː.sɪˈvɪə.rɪŋ/ *(adjective/verb form)*: kiên trì, bền bỉ  
+  *Example:* A persevering student can overcome many learning difficulties.  
+  → Một học sinh kiên trì có thể vượt qua nhiều khó khăn trong học tập.
+
+### Notes
+
+`Persevere` is more formal than `keep trying` and has a positive meaning.
+
+---
+
+## 169. Recap /ˈriː.kæp/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** phần tóm tắt ngắn lại nội dung chính *(55%)*; tóm tắt lại những điểm chính *(40%)*; đoạn nhắc lại trong chương trình/bài học *(5%)*
+
+### Usage
+
+`Recap` is common in lessons, meetings, presentations, and videos. It means summarise the main points again.
+
+Common structures:
+
+* `give a quick recap`: tóm tắt nhanh
+* `recap the main points`: tóm tắt lại các điểm chính
+* `to recap, ...`: để tóm tắt lại,...
+
+### Examples
+
+1. **At the end of the lesson, the teacher gave a quick recap of the grammar rules.**
+   → Cuối bài học, giáo viên tóm tắt nhanh các quy tắc ngữ pháp.
+
+2. **Let me recap the main arguments before we write the conclusion.**
+   → Hãy để tôi tóm tắt lại các lập luận chính trước khi chúng ta viết kết luận.
+
+### Common collocations
+
+* **quick recap**: tóm tắt nhanh
+* **brief recap**: tóm tắt ngắn gọn
+* **recap the lesson**: tóm tắt lại bài học
+
+### Word family
+
+* **recap** /ˈriː.kæp/ *(noun/verb)*: phần tóm tắt; tóm tắt lại  
+  *Example:* A short recap can help students remember key vocabulary.  
+  → Một phần tóm tắt ngắn có thể giúp học sinh nhớ từ vựng chính.
+
+* **recapping** /ˈriː.kæp.ɪŋ/ *(noun/verb form)*: việc tóm tắt lại  
+  *Example:* Recapping previous lessons is useful before learning new grammar.  
+  → Việc tóm tắt lại các bài trước rất hữu ích trước khi học ngữ pháp mới.
+
+* **recapped** /ˌriːˈkæpt/ *(verb form)*: đã tóm tắt lại  
+  *Example:* The speaker recapped the findings in the final slide.  
+  → Diễn giả đã tóm tắt lại các phát hiện ở slide cuối.
+
+### Notes
+
+`Recap` is more conversational than `summarise`, but it is still natural in study and workplace contexts.
+
+---
+
+## 170. Recount /rɪˈkaʊnt/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** kể lại một câu chuyện/sự kiện *(65%)*; thuật lại chi tiết điều đã xảy ra *(25%)*; việc đếm lại phiếu bầu hoặc số lượng *(10%)*
+
+### Usage
+
+`Recount` means tell someone about an event or experience, usually in order. As a noun, it can mean a second count of votes.
+
+Common structures:
+
+* `recount a story/experience/event`: kể lại câu chuyện/trải nghiệm/sự kiện
+* `recount what happened`: kể lại điều đã xảy ra
+* `a vote recount`: việc kiểm phiếu lại
+
+### Examples
+
+1. **She recounted her first day at university in great detail.**
+   → Cô ấy kể lại ngày đầu tiên ở đại học rất chi tiết.
+
+2. **Witnesses were asked to recount what they saw.**
+   → Các nhân chứng được yêu cầu kể lại những gì họ đã thấy.
+
+### Common collocations
+
+* **recount a story**: kể lại một câu chuyện
+* **recount an experience**: kể lại một trải nghiệm
+* **recount what happened**: kể lại điều đã xảy ra
+
+### Word family
+
+* **recount** /rɪˈkaʊnt/ *(verb/noun)*: kể lại; việc đếm lại  
+  *Example:* Grandparents often recount stories from their childhood.  
+  → Ông bà thường kể lại những câu chuyện từ thời thơ ấu của họ.
+
+* **recounting** /rɪˈkaʊn.tɪŋ/ *(noun/verb form)*: việc kể lại  
+  *Example:* Recounting personal experiences can make a speech more engaging.  
+  → Việc kể lại trải nghiệm cá nhân có thể làm bài nói hấp dẫn hơn.
+
+* **recounted** /rɪˈkaʊn.tɪd/ *(verb form)*: đã kể lại  
+  *Example:* The survivor recounted the events calmly.  
+  → Người sống sót kể lại các sự kiện một cách bình tĩnh.
+
+### Notes
+
+`Recount` is more formal than `tell`. It often suggests giving details in sequence.
+
+---
+
+## 171. Relate /rɪˈleɪt/
+
+* **Part of speech:** transitive verb; intransitive verb
+* **Vietnamese meaning:** liên quan/kết nối với điều gì *(40%)*; hiểu và đồng cảm với ai/điều gì *(30%)*; kể lại hoặc thuật lại *(20%)*; có quan hệ họ hàng *(10%)*
+
+### Usage
+
+`Relate` is very common in academic and daily English. It can mean connect ideas, understand someone's experience, or tell a story.
+
+Common structures:
+
+* `relate to + noun`: liên quan đến/đồng cảm với điều gì
+* `relate A to B`: liên hệ A với B
+* `relate a story/event`: kể lại một câu chuyện/sự kiện
+
+### Examples
+
+1. **Many students can relate to the pressure of preparing for exams.**
+   → Nhiều học sinh có thể đồng cảm với áp lực chuẩn bị cho kỳ thi.
+
+2. **The essay relates poverty to limited access to education.**
+   → Bài luận liên hệ nghèo đói với việc tiếp cận giáo dục hạn chế.
+
+### Common collocations
+
+* **relate to someone**: đồng cảm với ai
+* **relate to a topic**: liên quan đến một chủ đề
+* **relate A to B**: liên hệ A với B
+
+### Word family
+
+* **relate** /rɪˈleɪt/ *(verb)*: liên quan, liên hệ, đồng cảm, kể lại  
+  *Example:* Teachers should relate new vocabulary to real-life situations.  
+  → Giáo viên nên liên hệ từ vựng mới với các tình huống đời thực.
+
+* **related** /rɪˈleɪ.tɪd/ *(adjective/verb form)*: có liên quan; có họ hàng  
+  *Example:* Health problems are often related to lifestyle choices.  
+  → Các vấn đề sức khỏe thường liên quan đến lựa chọn lối sống.
+
+* **relationship** /rɪˈleɪ.ʃən.ʃɪp/ *(noun)*: mối quan hệ  
+  *Example:* A strong relationship between parents and children supports emotional development.  
+  → Mối quan hệ bền chặt giữa cha mẹ và con cái hỗ trợ sự phát triển cảm xúc.
+
+### Notes
+
+`Relate to` can mean “be connected to” or “understand/empathise with”. Context decides the meaning.
+
+---
+
+## 172. Signify /ˈsɪɡ.nɪ.faɪ/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** biểu thị, có nghĩa là *(55%)*; cho thấy hoặc là dấu hiệu của điều gì *(35%)*; có tầm quan trọng *(10%)*
+
+### Usage
+
+`Signify` is formal and means represent, mean, or indicate something. It is common in academic writing and analysis.
+
+Common structures:
+
+* `signify + meaning/idea`: biểu thị ý nghĩa/ý tưởng
+* `signify that + clause`: cho thấy rằng...
+* `be significant`: có ý nghĩa/quan trọng
+
+### Examples
+
+1. **A rise in unemployment may signify deeper economic problems.**
+   → Sự gia tăng thất nghiệp có thể cho thấy các vấn đề kinh tế sâu xa hơn.
+
+2. **In some cultures, white can signify purity or peace.**
+   → Trong một số nền văn hóa, màu trắng có thể biểu thị sự thuần khiết hoặc hòa bình.
+
+### Common collocations
+
+* **signify a change**: biểu thị một sự thay đổi
+* **signify importance**: biểu thị tầm quan trọng
+* **signify that**: cho thấy rằng
+
+### Word family
+
+* **signify** /ˈsɪɡ.nɪ.faɪ/ *(verb)*: biểu thị, cho thấy  
+  *Example:* Improved test scores may signify better teaching methods.  
+  → Điểm kiểm tra được cải thiện có thể cho thấy phương pháp giảng dạy tốt hơn.
+
+* **significance** /sɪɡˈnɪf.ɪ.kəns/ *(noun)*: tầm quan trọng, ý nghĩa  
+  *Example:* The significance of early childhood education is widely recognised.  
+  → Tầm quan trọng của giáo dục mầm non được công nhận rộng rãi.
+
+* **significant** /sɪɡˈnɪf.ɪ.kənt/ *(adjective)*: quan trọng, đáng kể  
+  *Example:* Sleep has a significant effect on concentration.  
+  → Giấc ngủ có tác động đáng kể đến sự tập trung.
+
+### Notes
+
+`Signify` is more formal than `mean`. In IELTS, it is useful for interpreting data, symbols, or social changes.
+
+---
+
+## 173. Stutter /ˈstʌt.ər/
+
+* **Part of speech:** intransitive verb; transitive verb; countable noun
+* **Vietnamese meaning:** nói lắp, bị vấp khi nói *(75%)*; sự nói lắp *(20%)*; hoạt động giật cục/không trơn tru của máy móc hoặc âm thanh *(5%)*
+
+### Usage
+
+`Stutter` means speak with repeated sounds, pauses, or difficulty getting words out. It can also describe something moving or working unevenly.
+
+Common structures:
+
+* `stutter over + words`: nói lắp/vấp ở các từ
+* `have a stutter`: bị nói lắp
+* `stutter when nervous`: nói lắp khi lo lắng
+
+### Examples
+
+1. **Some children stutter when they feel anxious or under pressure.**
+   → Một số trẻ nói lắp khi cảm thấy lo lắng hoặc bị áp lực.
+
+2. **Speech therapy can help people manage a stutter.**
+   → Trị liệu ngôn ngữ có thể giúp con người kiểm soát chứng nói lắp.
+
+### Common collocations
+
+* **have a stutter**: bị nói lắp
+* **stutter over words**: nói lắp/vấp ở các từ
+* **childhood stutter**: chứng nói lắp thời thơ ấu
+
+### Word family
+
+* **stutter** /ˈstʌt.ər/ *(verb/noun)*: nói lắp; chứng nói lắp  
+  *Example:* He used to stutter during presentations, but practice helped him improve.  
+  → Anh ấy từng nói lắp khi thuyết trình, nhưng luyện tập giúp anh ấy cải thiện.
+
+* **stuttering** /ˈstʌt.ər.ɪŋ/ *(noun/adjective/verb form)*: sự nói lắp; nói lắp  
+  *Example:* Stuttering should be treated with patience, not ridicule.  
+  → Chứng nói lắp nên được đối xử bằng sự kiên nhẫn, không phải sự chế giễu.
+
+* **stutterer** /ˈstʌt.ər.ər/ *(noun)*: người nói lắp  
+  *Example:* A stutterer may speak more fluently in a calm environment.  
+  → Một người nói lắp có thể nói trôi chảy hơn trong môi trường bình tĩnh.
+
+### Notes
+
+Use sensitive language. Avoid mocking someone's stutter; it can seriously affect confidence.
+
+---
+
+## 174. Tanker /ˈtæŋ.kər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tàu chở dầu/chất lỏng số lượng lớn *(65%)*; xe bồn chở xăng, nước hoặc chất lỏng *(30%)*; máy bay tiếp nhiên liệu *(5%)*
+
+### Usage
+
+`Tanker` refers to a large ship, truck, or aircraft designed to carry liquids or gas in large quantities.
+
+Common structures:
+
+* `oil tanker`: tàu chở dầu
+* `water/fuel tanker`: xe bồn chở nước/nhiên liệu
+* `tanker spill/accident`: sự cố/tai nạn tàu hoặc xe bồn
+
+### Examples
+
+1. **An oil tanker accident can cause serious marine pollution.**
+   → Một tai nạn tàu chở dầu có thể gây ô nhiễm biển nghiêm trọng.
+
+2. **The village received clean water from a tanker during the drought.**
+   → Ngôi làng nhận nước sạch từ xe bồn trong đợt hạn hán.
+
+### Common collocations
+
+* **oil tanker**: tàu chở dầu
+* **fuel tanker**: xe/tàu chở nhiên liệu
+* **water tanker**: xe bồn chở nước
+
+### Word family
+
+* **tanker** /ˈtæŋ.kər/ *(noun)*: tàu/xe/máy bay chở chất lỏng số lượng lớn  
+  *Example:* The tanker transported fuel to remote areas.  
+  → Xe bồn/tàu chở đó vận chuyển nhiên liệu đến các khu vực xa xôi.
+
+* **tank** /tæŋk/ *(noun)*: bồn, thùng chứa; xe tăng  
+  *Example:* Rainwater can be stored in a large tank.  
+  → Nước mưa có thể được lưu trữ trong một bồn lớn.
+
+* **oil tanker** /ˈɔɪl ˌtæŋ.kər/ *(noun phrase)*: tàu chở dầu  
+  *Example:* The oil tanker was inspected before entering the port.  
+  → Tàu chở dầu được kiểm tra trước khi vào cảng.
+
+### Notes
+
+`Tanker` usually carries liquids in bulk. `Container ship` carries goods in containers.
+
+---
+
+## 175. Verbalise /ˈvɜː.bəl.aɪz/
+
+* **Part of speech:** transitive verb; intransitive verb
+* **Vietnamese meaning:** diễn đạt bằng lời nói *(70%)*; nói ra rõ ràng một suy nghĩ/cảm xúc *(25%)*; biến thành dạng động từ trong ngôn ngữ học *(5%)*
+
+### Usage
+
+`Verbalise` means express thoughts, feelings, or ideas in words. The American spelling is `verbalize`.
+
+Common structures:
+
+* `verbalise thoughts/feelings`: diễn đạt suy nghĩ/cảm xúc bằng lời
+* `struggle to verbalise something`: khó diễn đạt điều gì
+* `verbalise an idea clearly`: diễn đạt ý tưởng rõ ràng
+
+### Examples
+
+1. **Young children may struggle to verbalise their emotions.**
+   → Trẻ nhỏ có thể gặp khó khăn khi diễn đạt cảm xúc bằng lời.
+
+2. **IELTS learners need practice to verbalise complex ideas clearly.**
+   → Người học IELTS cần luyện tập để diễn đạt các ý tưởng phức tạp một cách rõ ràng.
+
+### Common collocations
+
+* **verbalise feelings**: diễn đạt cảm xúc bằng lời
+* **verbalise thoughts**: diễn đạt suy nghĩ bằng lời
+* **struggle to verbalise**: khó diễn đạt bằng lời
+
+### Word family
+
+* **verbalise** /ˈvɜː.bəl.aɪz/ *(verb)*: diễn đạt bằng lời  
+  *Example:* Some students understand an idea but cannot verbalise it clearly.  
+  → Một số học sinh hiểu ý tưởng nhưng không thể diễn đạt nó rõ ràng bằng lời.
+
+* **verbal** /ˈvɜː.bəl/ *(adjective)*: bằng lời nói; thuộc về từ ngữ  
+  *Example:* Verbal feedback can help learners correct mistakes quickly.  
+  → Phản hồi bằng lời có thể giúp người học sửa lỗi nhanh chóng.
+
+* **verbalisation** /ˌvɜː.bəl.aɪˈzeɪ.ʃən/ *(noun)*: sự diễn đạt bằng lời  
+  *Example:* Verbalisation of emotions can support mental health.  
+  → Việc diễn đạt cảm xúc bằng lời có thể hỗ trợ sức khỏe tinh thần.
+
+### Notes
+
+`Verbalise` is British spelling. In American English, write `verbalize`.
