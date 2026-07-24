@@ -8636,3 +8636,1228 @@ Common structures:
 ### Notes
 
 `Verbalise` is British spelling. In American English, write `verbalize`.
+
+---
+
+## 176. Cater /ˈkeɪ.tər/
+
+* **Part of speech:** intransitive verb; transitive verb
+* **Vietnamese meaning:** cung cấp đồ ăn/dịch vụ ăn uống cho sự kiện *(45%)*; đáp ứng nhu cầu hoặc phục vụ một nhóm người cụ thể *(45%)*; tính đến/sắp xếp để phù hợp với điều gì *(10%)*
+
+### Usage
+
+`Cater` means provide food for an event or provide what a particular group needs. It is useful for tourism, business, education, and services.
+
+Common structures:
+
+* `cater for + group/need`: phục vụ/đáp ứng nhóm hoặc nhu cầu nào
+* `cater to + taste/demand/customer`: đáp ứng thị hiếu/nhu cầu/khách hàng
+* `cater an event`: cung cấp đồ ăn cho một sự kiện
+
+### Examples
+
+1. **Hotels in tourist areas must cater for visitors from different cultures.**
+   → Khách sạn ở khu du lịch phải phục vụ du khách từ nhiều nền văn hóa khác nhau.
+
+2. **The restaurant caters weddings and business events.**
+   → Nhà hàng đó cung cấp dịch vụ ăn uống cho đám cưới và sự kiện kinh doanh.
+
+### Common collocations
+
+* **cater for tourists**: phục vụ khách du lịch
+* **cater to different needs**: đáp ứng các nhu cầu khác nhau
+* **cater an event**: cung cấp đồ ăn cho một sự kiện
+
+### Word family
+
+* **cater** /ˈkeɪ.tər/ *(verb)*: phục vụ, đáp ứng; cung cấp đồ ăn  
+  *Example:* Schools should cater for students with different learning needs.  
+  → Trường học nên đáp ứng nhu cầu học tập khác nhau của học sinh.
+
+* **catering** /ˈkeɪ.tər.ɪŋ/ *(noun/verb form)*: dịch vụ ăn uống; việc phục vụ đồ ăn  
+  *Example:* The conference fee includes catering for lunch and coffee breaks.  
+  → Phí hội nghị bao gồm dịch vụ ăn uống cho bữa trưa và giờ nghỉ cà phê.
+
+* **caterer** /ˈkeɪ.tər.ər/ *(noun)*: người/công ty cung cấp dịch vụ ăn uống  
+  *Example:* The couple hired a caterer for their wedding reception.  
+  → Cặp đôi thuê một đơn vị cung cấp tiệc cho lễ cưới của họ.
+
+### Notes
+
+`Cater for` is common in British English. `Cater to` is common when talking about customers, tastes, or demands.
+
+---
+
+## 177. Cosmopolitan /ˌkɒz.məˈpɒl.ɪ.tən/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** mang tính quốc tế, đa văn hóa *(70%)*; sành điệu, quen với nhiều nền văn hóa *(20%)*; người có tư duy quốc tế *(10%)*
+
+### Usage
+
+`Cosmopolitan` describes cities, people, or lifestyles influenced by many cultures and nationalities.
+
+Common structures:
+
+* `a cosmopolitan city`: thành phố quốc tế/đa văn hóa
+* `cosmopolitan lifestyle`: lối sống mang tính quốc tế
+* `cosmopolitan atmosphere`: bầu không khí đa văn hóa
+
+### Examples
+
+1. **London is a cosmopolitan city with people from all walks of life.**
+   → London là một thành phố đa văn hóa với người từ mọi tầng lớp xã hội.
+
+2. **A cosmopolitan environment can help students become more open-minded.**
+   → Một môi trường đa văn hóa có thể giúp học sinh cởi mở hơn.
+
+### Common collocations
+
+* **cosmopolitan city**: thành phố quốc tế/đa văn hóa
+* **cosmopolitan culture**: văn hóa đa quốc tế
+* **cosmopolitan atmosphere**: bầu không khí đa văn hóa
+
+### Word family
+
+* **cosmopolitan** /ˌkɒz.məˈpɒl.ɪ.tən/ *(adjective/noun)*: mang tính quốc tế; người có tư duy quốc tế  
+  *Example:* Tourism can make a small city feel more cosmopolitan.  
+  → Du lịch có thể khiến một thành phố nhỏ có cảm giác quốc tế hơn.
+
+* **cosmopolitanism** /ˌkɒz.məˈpɒl.ɪ.tən.ɪ.zəm/ *(noun)*: chủ nghĩa/tinh thần quốc tế, tư duy đa văn hóa  
+  *Example:* Cosmopolitanism encourages respect for different cultures.  
+  → Tinh thần quốc tế khuyến khích sự tôn trọng các nền văn hóa khác nhau.
+
+* **cosmopolite** /kɒzˈmɒp.ə.laɪt/ *(noun)*: người từng trải, quen với nhiều nơi/văn hóa  
+  *Example:* As a cosmopolite, she feels comfortable in many countries.  
+  → Là một người từng trải quốc tế, cô ấy cảm thấy thoải mái ở nhiều quốc gia.
+
+### Notes
+
+`Cosmopolitan` is often positive and useful for describing global cities, tourism, and multicultural societies.
+
+---
+
+## 178. Crisp /krɪsp/
+
+* **Part of speech:** adjective; countable noun; transitive verb
+* **Vietnamese meaning:** giòn, nhất là đồ ăn *(35%)*; rõ ràng, sắc nét *(30%)*; mát lạnh, trong lành khi nói về thời tiết *(20%)*; gọn gàng, dứt khoát *(15%)*
+
+### Usage
+
+`Crisp` can describe food texture, clear sound/images, cool air, or neat communication.
+
+Common structures:
+
+* `crisp bread/chips`: bánh mì/khoai tây chiên giòn
+* `crisp sound/image`: âm thanh/hình ảnh rõ nét
+* `crisp morning air`: không khí buổi sáng mát lạnh
+
+### Examples
+
+1. **The mountain village has crisp air and beautiful scenery.**
+   → Ngôi làng miền núi có không khí mát lành và phong cảnh đẹp.
+
+2. **Her presentation was crisp, clear, and easy to follow.**
+   → Bài thuyết trình của cô ấy gọn gàng, rõ ràng và dễ theo dõi.
+
+### Common collocations
+
+* **crisp air**: không khí mát lạnh
+* **crisp sound**: âm thanh rõ nét
+* **crisp vegetables**: rau củ giòn
+
+### Word family
+
+* **crisp** /krɪsp/ *(adjective/noun/verb)*: giòn; rõ nét; làm giòn  
+  *Example:* A crisp explanation is easier for learners to remember.  
+  → Một lời giải thích rõ gọn dễ để người học ghi nhớ hơn.
+
+* **crispy** /ˈkrɪs.pi/ *(adjective)*: giòn, thường dùng cho thức ăn  
+  *Example:* The fish was crispy on the outside and soft inside.  
+  → Cá giòn bên ngoài và mềm bên trong.
+
+* **crispness** /ˈkrɪsp.nəs/ *(noun)*: độ giòn; sự rõ nét  
+  *Example:* The crispness of the photo made every detail visible.  
+  → Độ rõ nét của bức ảnh làm mọi chi tiết nhìn thấy được.
+
+### Notes
+
+For food, `crispy` is often more natural than `crisp` in everyday speech, but both are correct.
+
+---
+
+## 179. Crystal clear /ˌkrɪs.təl ˈklɪər/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** cực kỳ rõ ràng, dễ hiểu *(60%)*; trong vắt, rất trong khi nói về nước/kính/âm thanh *(30%)*; chắc chắn, không mơ hồ *(10%)*
+
+### Usage
+
+`Crystal clear` means very clear, either visually or in meaning. It is common in speaking and writing.
+
+Common structures:
+
+* `make something crystal clear`: làm điều gì cực kỳ rõ ràng
+* `crystal-clear water`: nước trong vắt
+* `be crystal clear that + clause`: hoàn toàn rõ ràng rằng...
+
+### Examples
+
+1. **The instructions must be crystal clear for first-time visitors.**
+   → Hướng dẫn phải cực kỳ rõ ràng cho những khách đến lần đầu.
+
+2. **The island is famous for its crystal-clear water.**
+   → Hòn đảo nổi tiếng với làn nước trong vắt.
+
+### Common collocations
+
+* **crystal-clear water**: nước trong vắt
+* **crystal-clear explanation**: lời giải thích cực kỳ rõ ràng
+* **make it crystal clear**: làm cho điều đó thật rõ ràng
+
+### Word family
+
+* **crystal clear** /ˌkrɪs.təl ˈklɪər/ *(adjective phrase)*: cực kỳ rõ ràng; trong vắt  
+  *Example:* A crystal-clear thesis statement improves an IELTS essay.  
+  → Một câu luận điểm cực kỳ rõ ràng cải thiện bài luận IELTS.
+
+* **crystal** /ˈkrɪs.təl/ *(noun/adjective)*: tinh thể, pha lê; trong như pha lê  
+  *Example:* The museum displayed beautiful crystals from geological formations.  
+  → Bảo tàng trưng bày các tinh thể đẹp từ các cấu trúc địa chất.
+
+* **clearly** /ˈklɪə.li/ *(adverb)*: một cách rõ ràng  
+  *Example:* Tour guides should speak clearly to international visitors.  
+  → Hướng dẫn viên du lịch nên nói rõ ràng với du khách quốc tế.
+
+### Notes
+
+`Crystal clear` is stronger and more vivid than simply `clear`.
+
+---
+
+## 180. Downside /ˈdaʊn.saɪd/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** mặt bất lợi, điểm hạn chế *(85%)*; rủi ro hoặc khả năng giảm giá/lợi ích trong kinh doanh *(15%)*
+
+### Usage
+
+`Downside` means the negative part or disadvantage of a situation, plan, or choice.
+
+Common structures:
+
+* `the downside of + noun/verb-ing`: mặt bất lợi của điều gì
+* `one major downside is that + clause`: một bất lợi lớn là...
+* `have a downside`: có mặt hạn chế
+
+### Examples
+
+1. **The downside of mass tourism is that it can damage local environments.**
+   → Mặt bất lợi của du lịch đại chúng là nó có thể làm hại môi trường địa phương.
+
+2. **Online learning is flexible, but one downside is reduced face-to-face interaction.**
+   → Học trực tuyến linh hoạt, nhưng một bất lợi là giảm tương tác trực tiếp.
+
+### Common collocations
+
+* **major downside**: bất lợi lớn
+* **potential downside**: mặt hạn chế tiềm tàng
+* **the downside of something**: mặt bất lợi của điều gì
+
+### Word family
+
+* **downside** /ˈdaʊn.saɪd/ *(noun)*: mặt bất lợi, điểm hạn chế  
+  *Example:* Every travel plan has a downside, such as cost or bad weather.  
+  → Mọi kế hoạch du lịch đều có mặt hạn chế, chẳng hạn như chi phí hoặc thời tiết xấu.
+
+* **down** /daʊn/ *(adverb/adjective/preposition)*: xuống; thấp; buồn  
+  *Example:* Prices went down after the tourist season ended.  
+  → Giá giảm sau khi mùa du lịch kết thúc.
+
+* **disadvantage** /ˌdɪs.ədˈvɑːn.tɪdʒ/ *(noun)*: bất lợi  
+  *Example:* One disadvantage of living in a big city is noise pollution.  
+  → Một bất lợi của việc sống ở thành phố lớn là ô nhiễm tiếng ồn.
+
+### Notes
+
+`Downside` is natural in both speaking and writing. It is close to `disadvantage`, but a little more conversational.
+
+---
+
+## 181. Eco-tourism /ˈiː.kəʊ ˌtʊə.rɪ.zəm/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** du lịch sinh thái, du lịch có trách nhiệm với thiên nhiên *(85%)*; hình thức du lịch hỗ trợ bảo tồn và cộng đồng địa phương *(15%)*
+
+### Usage
+
+`Eco-tourism` refers to travel that aims to protect nature, reduce environmental harm, and support local communities.
+
+Common structures:
+
+* `promote eco-tourism`: thúc đẩy du lịch sinh thái
+* `eco-tourism project/initiative`: dự án/sáng kiến du lịch sinh thái
+* `eco-tourism can support conservation`: du lịch sinh thái có thể hỗ trợ bảo tồn
+
+### Examples
+
+1. **Eco-tourism can create jobs while protecting natural scenery.**
+   → Du lịch sinh thái có thể tạo việc làm trong khi bảo vệ cảnh quan thiên nhiên.
+
+2. **The downside of poorly managed eco-tourism is environmental damage.**
+   → Mặt bất lợi của du lịch sinh thái được quản lý kém là thiệt hại môi trường.
+
+### Common collocations
+
+* **promote eco-tourism**: thúc đẩy du lịch sinh thái
+* **eco-tourism destination**: điểm đến du lịch sinh thái
+* **sustainable eco-tourism**: du lịch sinh thái bền vững
+
+### Word family
+
+* **eco-tourism** /ˈiː.kəʊ ˌtʊə.rɪ.zəm/ *(noun)*: du lịch sinh thái  
+  *Example:* Eco-tourism should benefit both wildlife and local residents.  
+  → Du lịch sinh thái nên mang lại lợi ích cho cả động vật hoang dã và cư dân địa phương.
+
+* **eco-tourist** /ˈiː.kəʊ ˌtʊə.rɪst/ *(noun)*: du khách sinh thái  
+  *Example:* Eco-tourists often prefer small local hotels to large resorts.  
+  → Du khách sinh thái thường thích khách sạn địa phương nhỏ hơn các khu nghỉ dưỡng lớn.
+
+* **tourism** /ˈtʊə.rɪ.zəm/ *(noun)*: du lịch  
+  *Example:* Tourism can raise the standard of living in some coastal areas.  
+  → Du lịch có thể nâng cao mức sống ở một số khu vực ven biển.
+
+### Notes
+
+`Eco-tourism` should imply environmental responsibility, not just travel to a natural place.
+
+---
+
+## 182. Charm /tʃɑːm/
+
+* **Part of speech:** uncountable noun; countable noun; transitive verb
+* **Vietnamese meaning:** sức hấp dẫn, vẻ duyên dáng *(45%)*; bùa/charm nhỏ để may mắn hoặc trang trí *(20%)*; làm ai yêu thích bằng sự duyên dáng *(25%)*; đặc điểm nhỏ đáng yêu *(10%)*
+
+### Usage
+
+`Charm` can describe an attractive quality in a person, place, or object. As a verb, it means make someone like you.
+
+Common structures:
+
+* `have charm`: có sức hấp dẫn/duyên
+* `the charm of + place/person`: nét duyên của...
+* `charm someone`: làm ai bị thu hút
+
+### Examples
+
+1. **The old town has a special charm that attracts many visitors.**
+   → Phố cổ có một nét duyên đặc biệt thu hút nhiều du khách.
+
+2. **The guide charmed the tourists with funny stories about local history.**
+   → Hướng dẫn viên làm du khách thích thú bằng những câu chuyện hài hước về lịch sử địa phương.
+
+### Common collocations
+
+* **old-world charm**: nét duyên cổ kính
+* **natural charm**: vẻ duyên dáng tự nhiên
+* **charm visitors**: làm du khách yêu thích
+
+### Word family
+
+* **charm** /tʃɑːm/ *(noun/verb)*: sức hấp dẫn; làm mê hoặc  
+  *Example:* Small villages often have more charm than modern resorts.  
+  → Các ngôi làng nhỏ thường có sức hấp dẫn hơn các khu nghỉ dưỡng hiện đại.
+
+* **charming** /ˈtʃɑː.mɪŋ/ *(adjective)*: duyên dáng, dễ mến  
+  *Example:* The hotel is small but charming.  
+  → Khách sạn nhỏ nhưng duyên dáng.
+
+* **charmingly** /ˈtʃɑː.mɪŋ.li/ *(adverb)*: một cách duyên dáng  
+  *Example:* The cafe was charmingly decorated with local crafts.  
+  → Quán cà phê được trang trí duyên dáng bằng đồ thủ công địa phương.
+
+### Notes
+
+`Charm` is often positive and useful for describing places in IELTS Speaking Part 2.
+
+---
+
+## 183. Ferry /ˈfer.i/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** phà/tàu chở người hoặc xe qua sông/biển ngắn *(70%)*; chuyên chở người hoặc hàng qua lại *(30%)*
+
+### Usage
+
+`Ferry` is a boat or ship that regularly carries people, vehicles, or goods across a short stretch of water. As a verb, it means transport back and forth.
+
+Common structures:
+
+* `take/catch a ferry`: đi/bắt phà
+* `ferry from A to B`: phà từ A đến B
+* `ferry passengers/cars`: chở hành khách/ô tô bằng phà
+
+### Examples
+
+1. **We took a ferry to the island early in the morning.**
+   → Chúng tôi đi phà ra đảo vào sáng sớm.
+
+2. **The service ferries passengers across the river every day.**
+   → Dịch vụ đó chở hành khách qua sông mỗi ngày.
+
+### Common collocations
+
+* **ferry terminal**: bến phà
+* **ferry service**: dịch vụ phà
+* **take a ferry**: đi phà
+
+### Word family
+
+* **ferry** /ˈfer.i/ *(noun/verb)*: phà; chở bằng phà  
+  *Example:* The ferry was crowded during the holiday season.  
+  → Chiếc phà đông đúc trong mùa nghỉ lễ.
+
+* **ferryman** /ˈfer.i.mən/ *(noun)*: người lái phà  
+  *Example:* The ferryman helped passengers board safely.  
+  → Người lái phà giúp hành khách lên phà an toàn.
+
+* **ferryboat** /ˈfer.i.bəʊt/ *(noun)*: tàu phà  
+  *Example:* A small ferryboat connects the village with the mainland.  
+  → Một chiếc tàu phà nhỏ nối ngôi làng với đất liền.
+
+### Notes
+
+`Ferry` usually suggests regular transport across water, not a one-time private boat trip.
+
+---
+
+## 184. Fountain /ˈfaʊn.tɪn/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** đài phun nước *(70%)*; nguồn phun/chảy ra của nước hoặc chất lỏng *(20%)*; nguồn gốc dồi dào của điều gì theo nghĩa bóng *(10%)*
+
+### Usage
+
+`Fountain` usually means a decorative structure that sends water into the air, often in a park, square, or garden.
+
+Common structures:
+
+* `a water fountain`: đài phun nước/vòi nước uống
+* `a fountain in the square`: đài phun nước ở quảng trường
+* `fountain of + abstract noun`: nguồn dồi dào của điều gì
+
+### Examples
+
+1. **Tourists gathered around the fountain to take photos.**
+   → Du khách tụ tập quanh đài phun nước để chụp ảnh.
+
+2. **The city square has a beautiful fountain and several old statues.**
+   → Quảng trường thành phố có một đài phun nước đẹp và vài bức tượng cổ.
+
+### Common collocations
+
+* **water fountain**: đài phun nước; vòi nước uống
+* **decorative fountain**: đài phun nước trang trí
+* **fountain pen**: bút máy
+
+### Word family
+
+* **fountain** /ˈfaʊn.tɪn/ *(noun)*: đài phun nước; nguồn phun  
+  *Example:* The fountain in the park is popular with children.  
+  → Đài phun nước trong công viên rất được trẻ em yêu thích.
+
+* **fountain pen** /ˈfaʊn.tɪn pen/ *(noun phrase)*: bút máy  
+  *Example:* He used a fountain pen to sign the certificate.  
+  → Anh ấy dùng bút máy để ký giấy chứng nhận.
+
+* **fount** /faʊnt/ *(noun)*: nguồn, cội nguồn  
+  *Example:* Libraries are a fount of knowledge for the community.  
+  → Thư viện là nguồn tri thức cho cộng đồng.
+
+### Notes
+
+In American English, `water fountain` can also mean a public drinking fountain.
+
+---
+
+## 185. Resentment /rɪˈzent.mənt/
+
+* **Part of speech:** uncountable noun; countable noun when referring to specific feelings
+* **Vietnamese meaning:** sự oán giận, bực tức âm ỉ vì bị đối xử bất công *(85%)*; cảm giác bất mãn kéo dài *(15%)*
+
+### Usage
+
+`Resentment` is a strong negative feeling caused by unfair treatment, disrespect, or long-term frustration.
+
+Common structures:
+
+* `feel resentment towards someone`: cảm thấy oán giận ai
+* `resentment over/about + issue`: sự oán giận về vấn đề gì
+* `build up resentment`: tích tụ sự oán giận
+
+### Examples
+
+1. **Income inequality can create resentment among disadvantaged groups.**
+   → Bất bình đẳng thu nhập có thể tạo ra sự oán giận trong các nhóm thiệt thòi.
+
+2. **Resentment may build up when employees feel overlooked.**
+   → Sự oán giận có thể tích tụ khi nhân viên cảm thấy bị xem nhẹ.
+
+### Common collocations
+
+* **deep resentment**: sự oán giận sâu sắc
+* **feel resentment**: cảm thấy oán giận
+* **resentment towards someone**: sự oán giận đối với ai
+
+### Word family
+
+* **resentment** /rɪˈzent.mənt/ *(noun)*: sự oán giận, bất mãn  
+  *Example:* Poor communication can lead to resentment in a team.  
+  → Giao tiếp kém có thể dẫn đến sự oán giận trong một nhóm.
+
+* **resent** /rɪˈzent/ *(verb)*: oán giận, bực tức vì điều gì  
+  *Example:* Some workers resent being paid less than their colleagues.  
+  → Một số nhân viên oán giận việc bị trả lương thấp hơn đồng nghiệp.
+
+* **resentful** /rɪˈzent.fəl/ *(adjective)*: đầy oán giận, bất mãn  
+  *Example:* A resentful employee may become less cooperative.  
+  → Một nhân viên đầy bất mãn có thể trở nên ít hợp tác hơn.
+
+### Notes
+
+`Resentment` is usually long-lasting and deeper than simple anger.
+
+---
+
+## 186. In advance /ˌɪn ədˈvɑːns/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** trước, trước thời điểm cần thiết *(85%)*; đặt/lên kế hoạch/thông báo trước *(15%)*
+
+### Usage
+
+`In advance` means before a particular time or event. It is very useful for travel, booking, planning, and polite communication.
+
+Common structures:
+
+* `book/pay/order in advance`: đặt/trả tiền/gọi món trước
+* `tell/inform someone in advance`: báo trước cho ai
+* `thank you in advance`: cảm ơn trước
+
+### Examples
+
+1. **You should book ferry tickets in advance during the holiday season.**
+   → Bạn nên đặt vé phà trước trong mùa nghỉ lễ.
+
+2. **Please inform the hotel in advance if you need airport transport.**
+   → Vui lòng báo trước cho khách sạn nếu bạn cần phương tiện đưa đón sân bay.
+
+### Common collocations
+
+* **book in advance**: đặt trước
+* **pay in advance**: trả trước
+* **thank you in advance**: cảm ơn trước
+
+### Word family
+
+* **in advance** /ˌɪn ədˈvɑːns/ *(adverb phrase)*: trước, trước thời hạn  
+  *Example:* Planning in advance can make a trip less stressful.  
+  → Lên kế hoạch trước có thể làm chuyến đi ít căng thẳng hơn.
+
+* **advance** /ədˈvɑːns/ *(noun/verb/adjective)*: sự tiến bộ; tiến lên; trước  
+  *Example:* Advances in technology have changed tourism.  
+  → Những tiến bộ trong công nghệ đã thay đổi du lịch.
+
+* **advanced** /ədˈvɑːnst/ *(adjective)*: nâng cao, tiên tiến  
+  *Example:* Advanced booking systems help hotels manage demand.  
+  → Các hệ thống đặt chỗ tiên tiến giúp khách sạn quản lý nhu cầu.
+
+### Notes
+
+`In advance` usually comes after the verb phrase: `book in advance`, not `advance book`.
+
+---
+
+## 187. Itinerary /aɪˈtɪn.ər.ər.i/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** lịch trình chuyến đi, kế hoạch di chuyển *(90%)*; tuyến đường hoặc danh sách điểm đến *(10%)*
+
+### Usage
+
+`Itinerary` is a plan for a journey, including places, dates, activities, and transport.
+
+Common structures:
+
+* `travel itinerary`: lịch trình du lịch
+* `plan/follow/change an itinerary`: lên/theo/thay đổi lịch trình
+* `a detailed/flexible itinerary`: lịch trình chi tiết/linh hoạt
+
+### Examples
+
+1. **Our itinerary includes a ferry ride, a scenic walk, and a seafood dinner.**
+   → Lịch trình của chúng tôi bao gồm đi phà, đi bộ ngắm cảnh và ăn tối hải sản.
+
+2. **A flexible itinerary allows travellers to spend more time in places they enjoy.**
+   → Một lịch trình linh hoạt cho phép du khách dành nhiều thời gian hơn ở những nơi họ thích.
+
+### Common collocations
+
+* **travel itinerary**: lịch trình du lịch
+* **detailed itinerary**: lịch trình chi tiết
+* **change the itinerary**: thay đổi lịch trình
+
+### Word family
+
+* **itinerary** /aɪˈtɪn.ər.ər.i/ *(noun)*: lịch trình chuyến đi  
+  *Example:* The tour company sent us a full itinerary by email.  
+  → Công ty du lịch gửi cho chúng tôi lịch trình đầy đủ qua email.
+
+* **itinerant** /aɪˈtɪn.ər.ənt/ *(adjective/noun)*: lưu động; người đi từ nơi này sang nơi khác  
+  *Example:* Itinerant workers often move between towns for seasonal jobs.  
+  → Lao động lưu động thường di chuyển giữa các thị trấn để làm việc theo mùa.
+
+* **journey** /ˈdʒɜː.ni/ *(noun/verb)*: chuyến đi; đi đến nơi nào  
+  *Example:* A long journey is easier with a clear plan.  
+  → Một chuyến đi dài sẽ dễ dàng hơn với một kế hoạch rõ ràng.
+
+### Notes
+
+`Itinerary` is more formal and travel-specific than `plan`.
+
+---
+
+## 188. Neighbouring /ˈneɪ.bər.ɪŋ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** lân cận, ở gần hoặc giáp bên cạnh *(85%)*; thuộc quốc gia/khu vực bên cạnh *(15%)*
+
+### Usage
+
+`Neighbouring` describes places located near or next to each other. American spelling is `neighboring`.
+
+Common structures:
+
+* `neighbouring country/city/village`: quốc gia/thành phố/làng lân cận
+* `neighbouring areas/regions`: các khu vực/vùng lân cận
+* `neighbouring communities`: cộng đồng lân cận
+
+### Examples
+
+1. **Tourism can benefit neighbouring villages as well as the main city.**
+   → Du lịch có thể mang lại lợi ích cho các làng lân cận cũng như thành phố chính.
+
+2. **Pollution from one country can affect neighbouring regions.**
+   → Ô nhiễm từ một quốc gia có thể ảnh hưởng đến các vùng lân cận.
+
+### Common collocations
+
+* **neighbouring country**: quốc gia láng giềng
+* **neighbouring village**: làng lân cận
+* **neighbouring area**: khu vực lân cận
+
+### Word family
+
+* **neighbouring** /ˈneɪ.bər.ɪŋ/ *(adjective)*: lân cận, bên cạnh  
+  *Example:* Neighbouring towns often share transport links.  
+  → Các thị trấn lân cận thường chia sẻ tuyến giao thông.
+
+* **neighbour** /ˈneɪ.bər/ *(noun)*: hàng xóm, nước láng giềng  
+  *Example:* Good neighbours can make daily life more pleasant.  
+  → Hàng xóm tốt có thể làm cuộc sống hằng ngày dễ chịu hơn.
+
+* **neighbourhood** /ˈneɪ.bə.hʊd/ *(noun)*: khu phố, khu dân cư  
+  *Example:* A safe neighbourhood improves quality of life.  
+  → Một khu dân cư an toàn cải thiện chất lượng cuộc sống.
+
+### Notes
+
+`Neighbouring` is British spelling. American spelling is `neighboring`.
+
+---
+
+## 189. Quaint /kweɪnt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** cổ kính, duyên dáng theo cách xưa cũ *(70%)*; lạ lẫm nhưng dễ thương/thú vị *(20%)*; hơi lỗi thời nhưng có sức hấp dẫn *(10%)*
+
+### Usage
+
+`Quaint` often describes small towns, streets, houses, cafes, or traditions that feel old-fashioned in a charming way.
+
+Common structures:
+
+* `a quaint village/town`: ngôi làng/thị trấn cổ kính duyên dáng
+* `quaint streets/shops`: những con phố/cửa hàng cổ kính
+* `quaint charm`: nét duyên cổ kính
+
+### Examples
+
+1. **The quaint village attracts visitors who enjoy traditional architecture.**
+   → Ngôi làng cổ kính thu hút du khách thích kiến trúc truyền thống.
+
+2. **We stayed in a quaint guesthouse near the river.**
+   → Chúng tôi ở trong một nhà nghỉ nhỏ cổ kính gần con sông.
+
+### Common collocations
+
+* **quaint village**: ngôi làng cổ kính duyên dáng
+* **quaint streets**: những con phố cổ kính
+* **quaint charm**: nét duyên cổ kính
+
+### Word family
+
+* **quaint** /kweɪnt/ *(adjective)*: cổ kính duyên dáng, lạ mà dễ thương  
+  *Example:* The town's quaint charm makes it popular with tourists.  
+  → Nét duyên cổ kính của thị trấn khiến nó được du khách yêu thích.
+
+* **quaintly** /ˈkweɪnt.li/ *(adverb)*: một cách cổ kính/dễ thương  
+  *Example:* The rooms were quaintly decorated with handmade crafts.  
+  → Các căn phòng được trang trí một cách cổ kính bằng đồ thủ công.
+
+* **quaintness** /ˈkweɪnt.nəs/ *(noun)*: nét cổ kính duyên dáng  
+  *Example:* The quaintness of the old street gives it a special appeal.  
+  → Nét cổ kính của con phố cũ mang lại cho nó sức hấp dẫn đặc biệt.
+
+### Notes
+
+`Quaint` is usually positive, but it can sound slightly patronising if used for people or cultures carelessly.
+
+---
+
+## 190. Scenery /ˈsiː.nər.i/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** phong cảnh thiên nhiên *(85%)*; phông cảnh/sân khấu trong nhà hát *(15%)*
+
+### Usage
+
+`Scenery` refers to the natural view of an area, especially mountains, rivers, beaches, forests, or countryside.
+
+Common structures:
+
+* `beautiful/stunning scenery`: phong cảnh đẹp/tuyệt đẹp
+* `mountain/coastal scenery`: phong cảnh núi/ven biển
+* `enjoy/admire the scenery`: thưởng thức/ngắm phong cảnh
+
+### Examples
+
+1. **The train journey is famous for its stunning mountain scenery.**
+   → Chuyến tàu nổi tiếng với phong cảnh núi non tuyệt đẹp.
+
+2. **Eco-tourism can help protect local scenery from overdevelopment.**
+   → Du lịch sinh thái có thể giúp bảo vệ phong cảnh địa phương khỏi phát triển quá mức.
+
+### Common collocations
+
+* **beautiful scenery**: phong cảnh đẹp
+* **stunning scenery**: phong cảnh tuyệt đẹp
+* **coastal scenery**: phong cảnh ven biển
+
+### Word family
+
+* **scenery** /ˈsiː.nər.i/ *(noun)*: phong cảnh  
+  *Example:* Tourists often visit the region for its scenery rather than its nightlife.  
+  → Du khách thường đến khu vực này vì phong cảnh hơn là đời sống về đêm.
+
+* **scene** /siːn/ *(noun)*: cảnh, khung cảnh; hiện trường  
+  *Example:* The sunset created a peaceful scene by the lake.  
+  → Hoàng hôn tạo nên một khung cảnh yên bình bên hồ.
+
+* **scenic** /ˈsiː.nɪk/ *(adjective)*: có phong cảnh đẹp  
+  *Example:* The scenic route takes longer but is more enjoyable.  
+  → Tuyến đường ngắm cảnh mất nhiều thời gian hơn nhưng thú vị hơn.
+
+### Notes
+
+`Scenery` is uncountable. Say `beautiful scenery`, not `beautiful sceneries`.
+
+---
+
+## 191. Scenic /ˈsiː.nɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** có phong cảnh đẹp, đáng ngắm *(85%)*; liên quan đến cảnh sân khấu hoặc phong cảnh *(15%)*
+
+### Usage
+
+`Scenic` describes places, routes, views, or journeys that are visually beautiful.
+
+Common structures:
+
+* `scenic route/drive`: tuyến đường/chuyến lái xe ngắm cảnh
+* `scenic view`: cảnh đẹp
+* `scenic spot`: điểm ngắm cảnh
+
+### Examples
+
+1. **We took the scenic route along the coast.**
+   → Chúng tôi đi tuyến đường ngắm cảnh dọc bờ biển.
+
+2. **The hotel has a scenic view of the mountains.**
+   → Khách sạn có cảnh nhìn ra núi rất đẹp.
+
+### Common collocations
+
+* **scenic route**: tuyến đường ngắm cảnh
+* **scenic view**: cảnh đẹp
+* **scenic spot**: điểm ngắm cảnh
+
+### Word family
+
+* **scenic** /ˈsiː.nɪk/ *(adjective)*: có phong cảnh đẹp  
+  *Example:* Scenic train journeys can attract many tourists.  
+  → Những chuyến tàu có phong cảnh đẹp có thể thu hút nhiều du khách.
+
+* **scenery** /ˈsiː.nər.i/ *(noun)*: phong cảnh  
+  *Example:* The scenery in the national park is breathtaking.  
+  → Phong cảnh trong vườn quốc gia đẹp đến nghẹt thở.
+
+* **scene** /siːn/ *(noun)*: cảnh, khung cảnh  
+  *Example:* The old bridge created a beautiful scene at sunset.  
+  → Cây cầu cũ tạo nên một khung cảnh đẹp lúc hoàng hôn.
+
+### Notes
+
+`Scenic` is the adjective; `scenery` is the noun. Say `a scenic view`, not `a scenery view`.
+
+---
+
+## 192. Scuba /ˈskuː.bə/
+
+* **Part of speech:** uncountable noun; adjective
+* **Vietnamese meaning:** hoạt động lặn có bình dưỡng khí *(80%)*; thiết bị/hệ thống lặn dùng bình khí *(20%)*
+
+### Usage
+
+`Scuba` usually appears in `scuba diving`, meaning underwater diving using breathing equipment.
+
+Common structures:
+
+* `scuba diving`: lặn bình khí
+* `go scuba diving`: đi lặn bình khí
+* `scuba gear/equipment`: thiết bị lặn bình khí
+
+### Examples
+
+1. **Many tourists go scuba diving to explore coral reefs.**
+   → Nhiều du khách đi lặn bình khí để khám phá các rạn san hô.
+
+2. **Scuba equipment must be checked carefully before a dive.**
+   → Thiết bị lặn bình khí phải được kiểm tra cẩn thận trước khi lặn.
+
+### Common collocations
+
+* **scuba diving**: lặn bình khí
+* **scuba gear**: thiết bị lặn bình khí
+* **scuba instructor**: huấn luyện viên lặn bình khí
+
+### Word family
+
+* **scuba** /ˈskuː.bə/ *(noun/adjective)*: lặn bình khí; thuộc lặn bình khí  
+  *Example:* Scuba activities should follow strict safety rules.  
+  → Các hoạt động lặn bình khí nên tuân theo quy tắc an toàn nghiêm ngặt.
+
+* **scuba diver** /ˈskuː.bə ˌdaɪ.vər/ *(noun phrase)*: thợ/người lặn bình khí  
+  *Example:* A scuba diver needs training before entering deep water.  
+  → Người lặn bình khí cần được đào tạo trước khi xuống vùng nước sâu.
+
+* **scuba diving** /ˈskuː.bə ˌdaɪ.vɪŋ/ *(noun phrase)*: môn/hoạt động lặn bình khí  
+  *Example:* Scuba diving can support eco-tourism if it is managed responsibly.  
+  → Lặn bình khí có thể hỗ trợ du lịch sinh thái nếu được quản lý có trách nhiệm.
+
+### Notes
+
+`Scuba` comes from an acronym, but in modern English it is usually written as a normal word.
+
+---
+
+## 193. Sleepy /ˈsliː.pi/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** buồn ngủ *(65%)*; yên tĩnh, vắng vẻ, ít hoạt động *(25%)*; gây cảm giác thư thái/chậm rãi *(10%)*
+
+### Usage
+
+`Sleepy` describes a person who wants to sleep, or a quiet place with little activity.
+
+Common structures:
+
+* `feel sleepy`: cảm thấy buồn ngủ
+* `a sleepy village/town`: ngôi làng/thị trấn yên tĩnh
+* `sleepy after lunch`: buồn ngủ sau bữa trưa
+
+### Examples
+
+1. **I felt sleepy after the long ferry ride.**
+   → Tôi cảm thấy buồn ngủ sau chuyến phà dài.
+
+2. **The sleepy village becomes lively during the tourist season.**
+   → Ngôi làng yên tĩnh trở nên sôi động vào mùa du lịch.
+
+### Common collocations
+
+* **feel sleepy**: cảm thấy buồn ngủ
+* **sleepy town**: thị trấn yên tĩnh/vắng vẻ
+* **sleepy after lunch**: buồn ngủ sau bữa trưa
+
+### Word family
+
+* **sleepy** /ˈsliː.pi/ *(adjective)*: buồn ngủ; yên tĩnh  
+  *Example:* A sleepy child may become irritable.  
+  → Một đứa trẻ buồn ngủ có thể trở nên cáu kỉnh.
+
+* **sleep** /sliːp/ *(noun/verb)*: giấc ngủ; ngủ  
+  *Example:* Good sleep improves memory and concentration.  
+  → Giấc ngủ tốt cải thiện trí nhớ và sự tập trung.
+
+* **sleepiness** /ˈsliː.pi.nəs/ *(noun)*: sự buồn ngủ  
+  *Example:* Daytime sleepiness can be a sign of poor sleep quality.  
+  → Buồn ngủ ban ngày có thể là dấu hiệu của chất lượng giấc ngủ kém.
+
+### Notes
+
+`Sleepy` means wanting to sleep. `Dizzy` means feeling unsteady or as if things are spinning.
+
+---
+
+## 194. Snorkelling /ˈsnɔː.kəl.ɪŋ/
+
+* **Part of speech:** uncountable noun; verb form
+* **Vietnamese meaning:** hoạt động lặn với ống thở gần mặt nước *(90%)*; việc dùng ống thở để ngắm dưới nước *(10%)*
+
+### Usage
+
+`Snorkelling` means swimming near the surface of water while breathing through a snorkel. American spelling is `snorkeling`.
+
+Common structures:
+
+* `go snorkelling`: đi lặn ống thở
+* `snorkelling trip/tour`: chuyến/tour lặn ống thở
+* `snorkelling gear`: dụng cụ lặn ống thở
+
+### Examples
+
+1. **We went snorkelling in crystal-clear water near the island.**
+   → Chúng tôi đi lặn ống thở trong làn nước trong vắt gần hòn đảo.
+
+2. **Snorkelling is usually easier and cheaper than scuba diving.**
+   → Lặn ống thở thường dễ hơn và rẻ hơn lặn bình khí.
+
+### Common collocations
+
+* **go snorkelling**: đi lặn ống thở
+* **snorkelling gear**: dụng cụ lặn ống thở
+* **snorkelling tour**: tour lặn ống thở
+
+### Word family
+
+* **snorkelling** /ˈsnɔː.kəl.ɪŋ/ *(noun/verb form)*: lặn ống thở  
+  *Example:* Snorkelling allows tourists to see fish without diving deeply.  
+  → Lặn ống thở cho phép du khách nhìn cá mà không cần lặn sâu.
+
+* **snorkel** /ˈsnɔː.kəl/ *(noun/verb)*: ống thở; lặn bằng ống thở  
+  *Example:* A good snorkel helps swimmers breathe at the surface.  
+  → Một ống thở tốt giúp người bơi thở trên mặt nước.
+
+* **snorkeller** /ˈsnɔː.kəl.ər/ *(noun)*: người lặn ống thở  
+  *Example:* Snorkellers should avoid touching coral reefs.  
+  → Người lặn ống thở nên tránh chạm vào các rạn san hô.
+
+### Notes
+
+British spelling is `snorkelling`; American spelling is `snorkeling`.
+
+---
+
+## 195. Statue /ˈstætʃ.uː/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tượng người, động vật hoặc nhân vật được điêu khắc *(90%)*; tượng đài/trang trí công cộng *(10%)*
+
+### Usage
+
+`Statue` refers to a three-dimensional artwork made of stone, metal, wood, or another material.
+
+Common structures:
+
+* `a statue of + person/animal`: tượng của ai/con gì
+* `bronze/marble statue`: tượng đồng/cẩm thạch
+* `erect/build a statue`: dựng/xây một bức tượng
+
+### Examples
+
+1. **The square has a statue of a famous national hero.**
+   → Quảng trường có một bức tượng của một anh hùng dân tộc nổi tiếng.
+
+2. **Some old statues have been damaged by pollution and weather.**
+   → Một số bức tượng cổ đã bị hư hại bởi ô nhiễm và thời tiết.
+
+### Common collocations
+
+* **bronze statue**: tượng đồng
+* **statue of a hero**: tượng một anh hùng
+* **public statue**: tượng nơi công cộng
+
+### Word family
+
+* **statue** /ˈstætʃ.uː/ *(noun)*: bức tượng  
+  *Example:* Tourists often take photos beside the statue.  
+  → Du khách thường chụp ảnh bên cạnh bức tượng.
+
+* **statuary** /ˈstætʃ.u.ə.ri/ *(noun/adjective)*: nghệ thuật tượng; thuộc về tượng  
+  *Example:* The museum has a collection of ancient statuary.  
+  → Bảo tàng có một bộ sưu tập tượng cổ.
+
+* **sculpture** /ˈskʌlp.tʃər/ *(noun)*: tác phẩm điêu khắc  
+  *Example:* The sculpture was made by a local artist.  
+  → Tác phẩm điêu khắc đó được làm bởi một nghệ sĩ địa phương.
+
+### Notes
+
+`Statue` is one kind of `sculpture`, usually representing a person, animal, or figure.
+
+---
+
+## 196. Stretch /stretʃ/
+
+* **Part of speech:** transitive verb; intransitive verb; countable noun
+* **Vietnamese meaning:** kéo giãn, căng ra *(40%)*; trải dài, kéo dài *(30%)*; một đoạn dài/khoảng thời gian dài *(20%)*; làm căng nguồn lực hoặc khả năng *(10%)*
+
+### Usage
+
+`Stretch` is used for physical extension, long areas of land or road, periods of time, and pressure on resources.
+
+Common structures:
+
+* `stretch from A to B`: trải dài từ A đến B
+* `stretch for + distance/time`: kéo dài trong một khoảng cách/thời gian
+* `stretch resources/budget`: làm căng nguồn lực/ngân sách
+
+### Examples
+
+1. **The beach stretches for several kilometres along the coast.**
+   → Bãi biển trải dài vài ki-lô-mét dọc theo bờ biển.
+
+2. **Tourism can stretch local resources during the peak season.**
+   → Du lịch có thể làm căng nguồn lực địa phương trong mùa cao điểm.
+
+### Common collocations
+
+* **a stretch of road/coast**: một đoạn đường/bờ biển
+* **stretch your legs**: duỗi chân, đi lại cho đỡ mỏi
+* **stretch resources**: làm căng nguồn lực
+
+### Word family
+
+* **stretch** /stretʃ/ *(verb/noun)*: kéo giãn; trải dài; đoạn dài  
+  *Example:* A short walk can help you stretch your legs after a long journey.  
+  → Một cuộc đi bộ ngắn có thể giúp bạn duỗi chân sau một chuyến đi dài.
+
+* **stretched** /stretʃt/ *(adjective/verb form)*: bị kéo căng; bị quá tải  
+  *Example:* Public services are often stretched in crowded cities.  
+  → Các dịch vụ công thường bị quá tải ở những thành phố đông đúc.
+
+* **stretchy** /ˈstretʃ.i/ *(adjective)*: co giãn  
+  *Example:* Stretchy clothes are comfortable for travelling.  
+  → Quần áo co giãn rất thoải mái khi đi du lịch.
+
+### Notes
+
+`Stretch` can be physical or abstract. `A stretch of road/coast/time` means a continuous length or period.
+
+---
+
+## 197. Surf /sɜːf/
+
+* **Part of speech:** uncountable noun; intransitive verb; transitive verb
+* **Vietnamese meaning:** lướt sóng *(45%)*; sóng vỗ/bọt sóng ven bờ *(25%)*; lướt web hoặc chuyển kênh *(30%)*
+
+### Usage
+
+`Surf` commonly refers to riding waves, but it is also used in daily English for looking through websites or channels.
+
+Common structures:
+
+* `go surfing`: đi lướt sóng
+* `surf the internet/web`: lướt internet/web
+* `surf along/off + coast`: lướt sóng dọc/ngoài khơi bờ biển
+
+### Examples
+
+1. **Many tourists visit the beach to surf in the summer.**
+   → Nhiều du khách đến bãi biển để lướt sóng vào mùa hè.
+
+2. **Students often surf the internet to find information for assignments.**
+   → Sinh viên thường lướt internet để tìm thông tin cho bài tập.
+
+### Common collocations
+
+* **surf the internet**: lướt internet
+* **go surfing**: đi lướt sóng
+* **surf lesson**: buổi học lướt sóng
+
+### Word family
+
+* **surf** /sɜːf/ *(noun/verb)*: sóng ven bờ; lướt sóng; lướt web  
+  *Example:* The surf was too rough for beginners.  
+  → Sóng ven bờ quá mạnh đối với người mới bắt đầu.
+
+* **surfer** /ˈsɜː.fər/ *(noun)*: người lướt sóng  
+  *Example:* Experienced surfers know how to read the waves.  
+  → Những người lướt sóng có kinh nghiệm biết cách quan sát sóng.
+
+* **surfing** /ˈsɜː.fɪŋ/ *(noun/verb form)*: môn lướt sóng; việc lướt sóng  
+  *Example:* Surfing is popular in many coastal towns.  
+  → Lướt sóng phổ biến ở nhiều thị trấn ven biển.
+
+### Notes
+
+`Surf` can refer to a sea sport or browsing online. In modern daily English, `surf the internet` is common but slightly older than `browse the internet`.
+
+---
+
+## 198. Treacherous /ˈtretʃ.ər.əs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** nguy hiểm vì khó đoán hoặc dễ gây tai nạn *(65%)*; phản bội, không đáng tin *(25%)*; dễ đánh lừa *(10%)*
+
+### Usage
+
+`Treacherous` describes conditions, places, or people that are dangerous because the risk is hidden or unpredictable.
+
+Common structures:
+
+* `treacherous road/path/waters`: đường/lối đi/vùng nước nguy hiểm khó lường
+* `treacherous conditions`: điều kiện nguy hiểm khó đoán
+* `treacherous behaviour`: hành vi phản bội
+
+### Examples
+
+1. **The winding road became treacherous after heavy rain.**
+   → Con đường quanh co trở nên nguy hiểm sau trận mưa lớn.
+
+2. **Treacherous waters can make ferry journeys unsafe.**
+   → Vùng nước nguy hiểm khó lường có thể khiến các chuyến phà không an toàn.
+
+### Common collocations
+
+* **treacherous road**: con đường nguy hiểm khó lường
+* **treacherous conditions**: điều kiện nguy hiểm khó đoán
+* **treacherous waters**: vùng nước nguy hiểm khó lường
+
+### Word family
+
+* **treacherous** /ˈtretʃ.ər.əs/ *(adjective)*: nguy hiểm khó lường; phản bội  
+  *Example:* The mountain path is treacherous in winter.  
+  → Lối đi trên núi rất nguy hiểm khó lường vào mùa đông.
+
+* **treacherously** /ˈtretʃ.ər.əs.li/ *(adverb)*: một cách nguy hiểm khó lường; một cách phản bội  
+  *Example:* The road was treacherously icy at night.  
+  → Con đường đóng băng nguy hiểm vào ban đêm.
+
+* **treachery** /ˈtretʃ.ər.i/ *(uncountable noun)*: sự phản bội  
+  *Example:* The story is about loyalty and treachery.  
+  → Câu chuyện nói về lòng trung thành và sự phản bội.
+
+### Notes
+
+`Treacherous` is stronger than `dangerous`; it often suggests hidden or unpredictable danger, or betrayal.
+
+---
+
+## 199. Trough /trɒf/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** máng ăn/uống cho động vật *(35%)*; điểm thấp nhất trong chu kỳ hoặc biểu đồ *(35%)*; rãnh/vùng thấp giữa sóng hoặc vùng áp suất thấp *(25%)*; khay dài *(5%)*
+
+### Usage
+
+`Trough` can describe a physical container, the lowest point in a cycle or graph, or a low area in waves or weather systems.
+
+Common structures:
+
+* `trough of + cycle/wave`: đáy của chu kỳ/con sóng
+* `economic trough`: đáy suy thoái kinh tế
+* `feeding/water trough`: máng ăn/máng nước
+
+### Examples
+
+1. **Economists try to identify the trough of a business cycle.**
+   → Các nhà kinh tế cố gắng xác định đáy của một chu kỳ kinh doanh.
+
+2. **Rainwater collected in a long trough beside the road.**
+   → Nước mưa đọng lại trong một máng dài bên đường.
+
+### Common collocations
+
+* **economic trough**: đáy của chu kỳ kinh tế
+* **feeding trough**: máng ăn cho động vật
+* **trough of a wave**: phần thấp giữa các con sóng
+
+### Word family
+
+* **trough** /trɒf/ *(noun)*: máng; điểm thấp nhất; rãnh thấp  
+  *Example:* The economy slowly recovered after reaching a trough.  
+  → Nền kinh tế phục hồi chậm sau khi chạm đáy.
+
+* **trough-like** /ˈtrɒf.laɪk/ *(adjective)*: giống cái máng; có dạng rãnh  
+  *Example:* Water flowed through a trough-like channel.  
+  → Nước chảy qua một kênh có dạng giống cái máng.
+
+* **peak and trough** /ˌpiːk ən ˈtrɒf/ *(noun phrase)*: đỉnh và đáy; lúc cao lúc thấp  
+  *Example:* Every industry experiences peaks and troughs over time.  
+  → Mọi ngành công nghiệp đều trải qua những giai đoạn lên xuống theo thời gian.
+
+### Notes
+
+In graphs and cycles, the opposite of `trough` is usually `peak`.
+
+---
+
+## 200. Winding /ˈwaɪn.dɪŋ/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** quanh co, uốn lượn *(75%)*; đang quấn/cuộn hoặc lên dây cót *(15%)*; tiến triển phức tạp, không thẳng *(10%)*
+
+### Usage
+
+`Winding` usually describes roads, paths, rivers, or routes that curve many times instead of going straight.
+
+Common structures:
+
+* `winding road/path/river`: con đường/lối đi/dòng sông quanh co
+* `winding through + place`: uốn lượn qua nơi nào
+* `a long and winding route`: một tuyến đường dài và quanh co
+
+### Examples
+
+1. **The winding road offers scenic views of the valley.**
+   → Con đường quanh co mang lại cảnh nhìn đẹp xuống thung lũng.
+
+2. **A small river winds through the quaint village.**
+   → Một dòng sông nhỏ uốn lượn qua ngôi làng cổ kính.
+
+### Common collocations
+
+* **winding road**: con đường quanh co
+* **winding path**: lối đi quanh co
+* **winding river**: dòng sông uốn lượn
+
+### Word family
+
+* **winding** /ˈwaɪn.dɪŋ/ *(adjective/verb form)*: quanh co; đang quấn/cuộn  
+  *Example:* The winding path led us to a quiet beach.  
+  → Lối đi quanh co dẫn chúng tôi đến một bãi biển yên tĩnh.
+
+* **wind** /waɪnd/ *(verb)*: uốn lượn; quấn; lên dây cót  
+  *Example:* The road winds through the mountains.  
+  → Con đường uốn lượn qua các ngọn núi.
+
+* **wound** /waʊnd/ *(verb form)*: đã quấn; đã lên dây cót; đã uốn lượn  
+  *Example:* The old road wound around the lake.  
+  → Con đường cũ uốn quanh hồ.
+
+### Notes
+
+`Winding` comes from the verb `wind` /waɪnd/, which is different from `wind` /wɪnd/ meaning `gió`. `Wound` /waʊnd/ here is the past form of `wind`, not `wound` /wuːnd/ meaning `vết thương`.
