@@ -11674,3 +11674,1424 @@ Common structures:
 ### Notes
 
 The plural can be `millennia` or `millenniums`, but `millennia` is more common in academic writing.
+
+---
+
+## 238. Missile UK: /ˈmɪs.aɪl/ US: /ˈmɪs.əl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tên lửa, vũ khí bay có điều khiển *(85%)*; vật được ném/phóng đi *(15%)*
+
+### Usage
+
+`Missile` usually refers to a weapon that is fired through the air at a target. It is common in news, military, and international-relations contexts.
+
+Common structures:
+
+* `launch/fire a missile`: phóng/bắn tên lửa
+* `missile attack/strike`: cuộc tấn công bằng tên lửa
+* `missile defence system`: hệ thống phòng thủ tên lửa
+
+### Examples
+
+1. **The country invested heavily in missile defence systems.**
+   → Quốc gia đó đầu tư mạnh vào các hệ thống phòng thủ tên lửa.
+
+2. **A missile attack can cause serious damage to civilian infrastructure.**
+   → Một cuộc tấn công bằng tên lửa có thể gây thiệt hại nghiêm trọng cho cơ sở hạ tầng dân sự.
+
+### Common collocations
+
+* **missile attack**: cuộc tấn công bằng tên lửa
+* **missile defence**: phòng thủ tên lửa
+* **launch a missile**: phóng tên lửa
+
+### Word family
+
+* **missile** /ˈmɪs.aɪl/ *(noun)*: tên lửa  
+  *Example:* The missile was detected before it reached the city.  
+  → Tên lửa đã được phát hiện trước khi nó tới thành phố.
+
+* **missile defence** /ˈmɪs.aɪl dɪˌfens/ *(noun phrase)*: phòng thủ tên lửa  
+  *Example:* Missile defence is expensive but important for national security.  
+  → Phòng thủ tên lửa tốn kém nhưng quan trọng đối với an ninh quốc gia.
+
+* **guided missile** /ˌɡaɪ.dɪd ˈmɪs.aɪl/ *(noun phrase)*: tên lửa dẫn đường  
+  *Example:* A guided missile can change direction during flight.  
+  → Tên lửa dẫn đường có thể đổi hướng trong khi bay.
+
+### Notes
+
+`Missile` is usually a military word. Do not confuse it with `mission`, which means `nhiệm vụ`.
+
+---
+
+## 239. Nostalgia UK: /nɒˈstæl.dʒə/ US: /nɑːˈstæl.dʒə/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** nỗi nhớ quá khứ, cảm giác hoài niệm *(90%)*; sự luyến tiếc một thời đã qua *(10%)*
+
+### Usage
+
+`Nostalgia` describes a warm but sometimes sad feeling when remembering the past.
+
+Common structures:
+
+* `feel nostalgia for + time/place`: cảm thấy hoài niệm về thời gian/nơi chốn nào
+* `a sense/wave of nostalgia`: cảm giác/làn sóng hoài niệm
+* `nostalgia for childhood/the past`: nỗi nhớ tuổi thơ/quá khứ
+
+### Examples
+
+1. **Old songs often fill people with nostalgia for their childhood.**
+   → Những bài hát cũ thường khiến con người hoài niệm về tuổi thơ.
+
+2. **Nostalgia can make former traditions seem better than they really were.**
+   → Hoài niệm có thể khiến các truyền thống xưa có vẻ tốt đẹp hơn thực tế.
+
+### Common collocations
+
+* **feel nostalgia**: cảm thấy hoài niệm
+* **childhood nostalgia**: nỗi nhớ tuổi thơ
+* **a wave of nostalgia**: một làn sóng/cảm giác hoài niệm mạnh
+
+### Word family
+
+* **nostalgia** /nɒˈstæl.dʒə/ *(noun)*: nỗi hoài niệm  
+  *Example:* The smell of rain brought back a sense of nostalgia.  
+  → Mùi mưa gợi lại một cảm giác hoài niệm.
+
+* **nostalgic** /nɒˈstæl.dʒɪk/ *(adjective)*: hoài niệm  
+  *Example:* Many adults feel nostalgic when they visit their old school.  
+  → Nhiều người lớn cảm thấy hoài niệm khi thăm lại trường cũ.
+
+* **nostalgically** /nɒˈstæl.dʒɪ.kəl.i/ *(adverb)*: một cách hoài niệm  
+  *Example:* She spoke nostalgically about life in her hometown.  
+  → Cô ấy nói một cách hoài niệm về cuộc sống ở quê nhà.
+
+### Notes
+
+`Nostalgia` is uncountable. Say `a sense of nostalgia`, not `a nostalgia`.
+
+---
+
+## 240. Oral /ˈɔː.rəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** bằng miệng, qua lời nói *(55%)*; thuộc về miệng/răng miệng *(35%)*; dạng thi nói *(10%)*
+
+### Usage
+
+`Oral` can describe spoken communication or something related to the mouth.
+
+Common structures:
+
+* `oral communication/presentation`: giao tiếp/bài thuyết trình bằng lời nói
+* `oral exam/test`: bài thi nói
+* `oral health/hygiene`: sức khỏe/vệ sinh răng miệng
+
+### Examples
+
+1. **Oral communication is important in job interviews.**
+   → Giao tiếp bằng lời nói rất quan trọng trong phỏng vấn xin việc.
+
+2. **Children should learn good oral hygiene from an early age.**
+   → Trẻ em nên học cách vệ sinh răng miệng tốt từ khi còn nhỏ.
+
+### Common collocations
+
+* **oral exam**: bài thi nói
+* **oral health**: sức khỏe răng miệng
+* **oral presentation**: bài thuyết trình miệng
+
+### Word family
+
+* **oral** /ˈɔː.rəl/ *(adjective)*: bằng miệng; thuộc về miệng  
+  *Example:* IELTS Speaking tests a candidate's oral fluency.  
+  → IELTS Speaking kiểm tra độ lưu loát nói của thí sinh.
+
+* **orally** /ˈɔː.rəl.i/ *(adverb)*: bằng miệng, bằng lời nói  
+  *Example:* The instructions were given orally.  
+  → Các hướng dẫn được đưa ra bằng lời nói.
+
+* **orality** /ɔːˈræl.ə.ti/ *(noun)*: tính truyền miệng/văn hóa nói  
+  *Example:* Orality was important before written records became common.  
+  → Văn hóa truyền miệng rất quan trọng trước khi ghi chép bằng chữ trở nên phổ biến.
+
+### Notes
+
+`Oral` can mean `spoken` or `related to the mouth`; context tells you which meaning is intended.
+
+---
+
+## 241. Pastureland UK: /ˈpɑːs.tʃə.lænd/ US: /ˈpæs.tʃɚ.lænd/
+
+* **Part of speech:** uncountable noun; countable noun
+* **Vietnamese meaning:** đồng cỏ dùng để chăn thả gia súc *(90%)*; vùng đất chăn nuôi *(10%)*
+
+### Usage
+
+`Pastureland` refers to land covered with grass where animals such as cows or sheep graze.
+
+Common structures:
+
+* `convert land into pastureland`: chuyển đất thành đồng cỏ chăn thả
+* `areas of pastureland`: các khu đồng cỏ chăn thả
+* `protect/manage pastureland`: bảo vệ/quản lý đồng cỏ chăn thả
+
+### Examples
+
+1. **Large areas of forest were turned into pastureland.**
+   → Những khu rừng rộng lớn đã bị biến thành đồng cỏ chăn thả.
+
+2. **Good pastureland is important for cattle farming.**
+   → Đồng cỏ chăn thả tốt rất quan trọng đối với chăn nuôi gia súc.
+
+### Common collocations
+
+* **grazing pastureland**: đồng cỏ chăn thả
+* **areas of pastureland**: các khu đồng cỏ
+* **convert forest into pastureland**: chuyển rừng thành đồng cỏ chăn thả
+
+### Word family
+
+* **pastureland** /ˈpɑːs.tʃə.lænd/ *(noun)*: đồng cỏ chăn thả  
+  *Example:* Overgrazing can damage pastureland.  
+  → Chăn thả quá mức có thể làm hư hại đồng cỏ.
+
+* **pasture** /ˈpɑːs.tʃər/ *(noun/verb)*: đồng cỏ; cho gia súc ăn cỏ  
+  *Example:* The cows were moved to a fresh pasture.  
+  → Đàn bò được chuyển đến một đồng cỏ mới.
+
+* **pastoral** /ˈpɑːs.tər.əl/ *(adjective)*: thuộc về đồng quê/chăn nuôi  
+  *Example:* The painting shows a peaceful pastoral scene.  
+  → Bức tranh thể hiện một cảnh đồng quê yên bình.
+
+### Notes
+
+`Pastureland` is useful for environment, agriculture, deforestation, and land-use topics.
+
+---
+
+## 242. Physician /fɪˈzɪʃ.ən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** bác sĩ y khoa *(80%)*; bác sĩ nội khoa/chuyên khám bệnh không phẫu thuật *(20%)*
+
+### Usage
+
+`Physician` is a formal word for a doctor, especially one who diagnoses and treats illness.
+
+Common structures:
+
+* `consult/see a physician`: gặp bác sĩ
+* `a qualified/experienced physician`: bác sĩ có chuyên môn/kinh nghiệm
+* `physician's advice`: lời khuyên của bác sĩ
+
+### Examples
+
+1. **Patients should consult a physician before changing medication.**
+   → Bệnh nhân nên hỏi bác sĩ trước khi thay đổi thuốc.
+
+2. **A shortage of physicians can reduce access to healthcare.**
+   → Sự thiếu hụt bác sĩ có thể làm giảm khả năng tiếp cận chăm sóc y tế.
+
+### Common collocations
+
+* **consult a physician**: hỏi/gặp bác sĩ
+* **family physician**: bác sĩ gia đình
+* **qualified physician**: bác sĩ có chuyên môn
+
+### Word family
+
+* **physician** /fɪˈzɪʃ.ən/ *(noun)*: bác sĩ  
+  *Example:* The physician recommended more rest and exercise.  
+  → Bác sĩ khuyên nên nghỉ ngơi và tập thể dục nhiều hơn.
+
+* **physical** /ˈfɪz.ɪ.kəl/ *(adjective)*: thuộc về thể chất/vật lý  
+  *Example:* Physical activity can prevent many health problems.  
+  → Hoạt động thể chất có thể ngăn ngừa nhiều vấn đề sức khỏe.
+
+* **physicist** /ˈfɪz.ɪ.sɪst/ *(noun)*: nhà vật lý học  
+  *Example:* A physicist studies matter, energy, and the laws of nature.  
+  → Nhà vật lý học nghiên cứu vật chất, năng lượng và các quy luật tự nhiên.
+
+### Notes
+
+Do not confuse `physician` with `physicist`. `Physician` = doctor; `physicist` = scientist who studies physics.
+
+---
+
+## 243. Pine /paɪn/
+
+* **Part of speech:** countable noun; intransitive verb
+* **Vietnamese meaning:** cây thông/gỗ thông *(70%)*; nhớ nhung, đau buồn vì mong muốn điều gì *(30%)*
+
+### Usage
+
+As a noun, `pine` is a type of evergreen tree. As a verb, `pine for` means to miss or long for someone or something deeply.
+
+Common structures:
+
+* `pine tree/forest`: cây/rừng thông
+* `pine wood/furniture`: gỗ/đồ nội thất bằng gỗ thông
+* `pine for + person/place`: nhớ nhung ai/nơi nào
+
+### Examples
+
+1. **The mountain path was lined with tall pine trees.**
+   → Lối đi trên núi được bao quanh bởi những cây thông cao.
+
+2. **After moving abroad, he pined for his hometown.**
+   → Sau khi chuyển ra nước ngoài, anh ấy nhớ quê nhà da diết.
+
+### Common collocations
+
+* **pine tree**: cây thông
+* **pine forest**: rừng thông
+* **pine for home**: nhớ nhà da diết
+
+### Word family
+
+* **pine** /paɪn/ *(noun/verb)*: cây thông; nhớ nhung  
+  *Example:* Pine grows well in cool mountain areas.  
+  → Cây thông phát triển tốt ở vùng núi mát mẻ.
+
+* **pinewood** /ˈpaɪn.wʊd/ *(noun)*: gỗ thông  
+  *Example:* Pinewood is often used for simple furniture.  
+  → Gỗ thông thường được dùng làm đồ nội thất đơn giản.
+
+* **pining** /ˈpaɪ.nɪŋ/ *(noun/verb form)*: sự nhớ nhung; đang nhớ nhung  
+  *Example:* Her pining for the past made it hard to enjoy the present.  
+  → Sự nhớ nhung quá khứ khiến cô ấy khó tận hưởng hiện tại.
+
+### Notes
+
+The verb pattern is `pine for someone/something`, not `pine someone`.
+
+---
+
+## 244. Plague /pleɪɡ/
+
+* **Part of speech:** countable noun; singular noun; transitive verb
+* **Vietnamese meaning:** bệnh dịch nghiêm trọng *(45%)*; vấn đề tai hại lan rộng *(35%)*; gây phiền toái/ám ảnh liên tục *(20%)*
+
+### Usage
+
+`Plague` can mean a serious infectious disease or a widespread problem that harms many people.
+
+Common structures:
+
+* `a plague of + noun`: một nạn/dịch gì đó
+* `be plagued by/with + problem`: bị làm phiền/gặp vấn đề liên tục
+* `plague + society/community`: gây hại dai dẳng cho xã hội/cộng đồng
+
+### Examples
+
+1. **Poor sanitation can increase the risk of plague and other diseases.**
+   → Vệ sinh kém có thể làm tăng nguy cơ dịch hạch và các bệnh khác.
+
+2. **Many cities are plagued by traffic congestion.**
+   → Nhiều thành phố bị ùn tắc giao thông hoành hành.
+
+### Common collocations
+
+* **the plague**: bệnh dịch hạch
+* **be plagued by problems**: bị nhiều vấn đề làm phiền
+* **a plague of insects**: nạn côn trùng
+
+### Word family
+
+* **plague** /pleɪɡ/ *(noun/verb)*: bệnh dịch; gây phiền toái dai dẳng  
+  *Example:* Corruption can plague public institutions for years.  
+  → Tham nhũng có thể gây hại dai dẳng cho các cơ quan công quyền trong nhiều năm.
+
+* **plagued** /pleɪɡd/ *(adjective/verb form)*: bị ảnh hưởng dai dẳng bởi vấn đề  
+  *Example:* The project was plagued by delays.  
+  → Dự án bị trì hoãn liên tục.
+
+* **plague-ridden** /ˈpleɪɡˌrɪd.ən/ *(adjective)*: đầy bệnh dịch/vấn đề nghiêm trọng  
+  *Example:* The novel describes a plague-ridden city.  
+  → Cuốn tiểu thuyết mô tả một thành phố đầy bệnh dịch.
+
+### Notes
+
+In modern academic writing, `be plagued by` is useful for problems that happen repeatedly or persistently.
+
+---
+
+## 245. Pole /pəʊl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cây cột/sào dài *(45%)*; cực Bắc/cực Nam hoặc cực của nam châm *(35%)*; một đầu đối lập trong quan điểm/thang đo *(20%)*
+
+### Usage
+
+`Pole` can refer to a long stick or post, the Earth's poles, magnetic poles, or opposite positions in an argument.
+
+Common structures:
+
+* `a flag/tent pole`: cột cờ/cọc lều
+* `the North/South Pole`: Bắc Cực/Nam Cực
+* `opposite poles`: hai cực đối lập
+
+### Examples
+
+1. **The flag was raised on a tall pole.**
+   → Lá cờ được kéo lên trên một cây cột cao.
+
+2. **Climate change is causing ice to melt near the poles.**
+   → Biến đổi khí hậu đang khiến băng tan gần hai cực.
+
+### Common collocations
+
+* **flag pole**: cột cờ
+* **North Pole**: Bắc Cực
+* **opposite poles**: hai cực đối lập
+
+### Word family
+
+* **pole** /pəʊl/ *(noun)*: cột; cực  
+  *Example:* A streetlight was fixed to the pole.  
+  → Một đèn đường được gắn vào cây cột.
+
+* **polar** /ˈpəʊ.lər/ *(adjective)*: thuộc vùng cực; đối cực  
+  *Example:* Polar regions are highly sensitive to climate change.  
+  → Các vùng cực rất nhạy cảm với biến đổi khí hậu.
+
+* **polarity** /pəˈlær.ə.ti/ *(noun)*: tính phân cực; sự đối lập  
+  *Example:* Political polarity can make compromise difficult.  
+  → Sự phân cực chính trị có thể khiến việc thỏa hiệp trở nên khó khăn.
+
+### Notes
+
+Do not confuse `pole` with `poll` /pəʊl/, which means `cuộc thăm dò ý kiến`.
+
+---
+
+## 246. Precede /prɪˈsiːd/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** xảy ra/đứng trước cái gì về thời gian hoặc thứ tự *(85%)*; đi trước ai/cái gì *(15%)*
+
+### Usage
+
+`Precede` is a formal verb meaning to come before something in time, order, or position.
+
+Common structures:
+
+* `precede + event`: xảy ra trước sự kiện nào
+* `be preceded by + noun`: được đi trước bởi điều gì
+* `the period preceding + noun`: giai đoạn trước điều gì
+
+### Examples
+
+1. **A short introduction usually precedes the main discussion.**
+   → Một phần giới thiệu ngắn thường đứng trước phần thảo luận chính.
+
+2. **Economic decline often precedes social unrest.**
+   → Suy thoái kinh tế thường xảy ra trước bất ổn xã hội.
+
+### Common collocations
+
+* **precede an event**: xảy ra trước một sự kiện
+* **be preceded by**: được đi trước bởi
+* **preceding period**: giai đoạn trước đó
+
+### Word family
+
+* **precede** /prɪˈsiːd/ *(verb)*: xảy ra/đứng trước  
+  *Example:* Several warning signs preceded the crisis.  
+  → Một số dấu hiệu cảnh báo đã xuất hiện trước cuộc khủng hoảng.
+
+* **preceding** /prɪˈsiː.dɪŋ/ *(adjective/verb form)*: trước đó, đứng trước  
+  *Example:* The preceding chapter explains the background.  
+  → Chương trước đó giải thích bối cảnh.
+
+* **precedence** /ˈpres.ɪ.dəns/ *(noun)*: quyền ưu tiên; sự đứng trước về tầm quan trọng  
+  *Example:* Public safety should take precedence over convenience.  
+  → An toàn công cộng nên được ưu tiên hơn sự tiện lợi.
+
+### Notes
+
+`Precede` = come before. Do not confuse it with `proceed`, which means `tiếp tục/tiến hành`.
+
+---
+
+## 247. Predate /ˌpriːˈdeɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** có trước, tồn tại trước cái gì *(85%)*; ghi ngày lùi về trước *(15%)*
+
+### Usage
+
+`Predate` means to exist or happen before another thing, often in history, archaeology, or development.
+
+Common structures:
+
+* `predate + period/event`: có trước một giai đoạn/sự kiện
+* `predate modern technology/agriculture`: có trước công nghệ/nông nghiệp hiện đại
+* `predate something by + time`: có trước cái gì bao lâu
+
+### Examples
+
+1. **These stone tools predate the invention of agriculture.**
+   → Những công cụ đá này có trước sự ra đời của nông nghiệp.
+
+2. **Some traditions predate written history.**
+   → Một số truyền thống có trước lịch sử được ghi chép.
+
+### Common collocations
+
+* **predate written history**: có trước lịch sử được ghi chép
+* **predate modern society**: có trước xã hội hiện đại
+* **predate agriculture**: có trước nông nghiệp
+
+### Word family
+
+* **predate** /ˌpriːˈdeɪt/ *(verb)*: có trước; ghi ngày lùi  
+  *Example:* The village predates the nearby city.  
+  → Ngôi làng có trước thành phố gần đó.
+
+* **predated** /ˌpriːˈdeɪ.tɪd/ *(adjective/verb form)*: đã tồn tại trước  
+  *Example:* The predated document caused legal confusion.  
+  → Tài liệu bị ghi lùi ngày đã gây nhầm lẫn pháp lý.
+
+* **predating** /ˌpriːˈdeɪ.tɪŋ/ *(verb form)*: có trước, tồn tại trước  
+  *Example:* Archaeologists found objects predating the Roman period.  
+  → Các nhà khảo cổ tìm thấy những đồ vật có trước thời La Mã.
+
+### Notes
+
+`Predate` is useful for history and archaeology. It means `older than`, not `predict`.
+
+---
+
+## 248. Punctuality /ˌpʌŋk.tʃuˈæl.ə.ti/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự đúng giờ *(90%)*; thói quen tôn trọng thời gian *(10%)*
+
+### Usage
+
+`Punctuality` refers to the habit or quality of arriving or doing things on time.
+
+Common structures:
+
+* `value punctuality`: coi trọng sự đúng giờ
+* `poor/good punctuality`: tính đúng giờ kém/tốt
+* `punctuality is important in + context`: sự đúng giờ quan trọng trong bối cảnh nào
+
+### Examples
+
+1. **Punctuality is highly valued in many workplaces.**
+   → Sự đúng giờ được coi trọng ở nhiều nơi làm việc.
+
+2. **Poor punctuality can create a bad impression in an interview.**
+   → Việc thường xuyên không đúng giờ có thể tạo ấn tượng xấu trong phỏng vấn.
+
+### Common collocations
+
+* **value punctuality**: coi trọng sự đúng giờ
+* **poor punctuality**: tính đúng giờ kém
+* **improve punctuality**: cải thiện sự đúng giờ
+
+### Word family
+
+* **punctuality** /ˌpʌŋk.tʃuˈæl.ə.ti/ *(noun)*: sự đúng giờ  
+  *Example:* Punctuality shows respect for other people's time.  
+  → Sự đúng giờ thể hiện sự tôn trọng thời gian của người khác.
+
+* **punctual** /ˈpʌŋk.tʃu.əl/ *(adjective)*: đúng giờ  
+  *Example:* A punctual student rarely arrives late for class.  
+  → Một học sinh đúng giờ hiếm khi đến lớp muộn.
+
+* **punctually** /ˈpʌŋk.tʃu.ə.li/ *(adverb)*: một cách đúng giờ  
+  *Example:* The meeting started punctually at nine.  
+  → Cuộc họp bắt đầu đúng giờ lúc chín giờ.
+
+### Notes
+
+`Punctuality` is uncountable. Say `good punctuality`, not `a good punctuality`.
+
+---
+
+## 249. Puncture /ˈpʌŋk.tʃər/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** lỗ thủng nhỏ, đặc biệt ở lốp xe *(45%)*; làm thủng/chọc thủng *(40%)*; làm xẹp tan niềm tin, ảo tưởng hoặc sự tự tin *(15%)*
+
+### Usage
+
+`Puncture` means to make a small hole in something, especially a tyre, skin, or container. It can also be used figuratively.
+
+Common structures:
+
+* `get/have a puncture`: bị thủng lốp
+* `puncture a tyre/container`: làm thủng lốp/vật chứa
+* `puncture someone's confidence/illusion`: làm xẹp sự tự tin/ảo tưởng của ai
+
+### Examples
+
+1. **We had a puncture on the way to the countryside.**
+   → Chúng tôi bị thủng lốp trên đường về vùng quê.
+
+2. **The new evidence punctured his confidence in the theory.**
+   → Bằng chứng mới đã làm lung lay sự tự tin của anh ấy vào lý thuyết đó.
+
+### Common collocations
+
+* **have a puncture**: bị thủng lốp
+* **puncture a tyre**: làm thủng lốp xe
+* **puncture someone's confidence**: làm xẹp/lung lay sự tự tin của ai
+
+### Word family
+
+* **puncture** /ˈpʌŋk.tʃər/ *(noun/verb)*: lỗ thủng; làm thủng  
+  *Example:* A sharp stone caused a puncture in the tyre.  
+  → Một hòn đá sắc đã gây ra lỗ thủng trên lốp xe.
+
+* **punctured** /ˈpʌŋk.tʃəd/ *(adjective/verb form)*: bị thủng  
+  *Example:* The punctured tyre had to be replaced.  
+  → Chiếc lốp bị thủng phải được thay.
+
+* **puncturing** /ˈpʌŋk.tʃər.ɪŋ/ *(noun/verb form)*: việc chọc thủng; đang làm thủng  
+  *Example:* Puncturing the packaging can spoil the food inside.  
+  → Việc chọc thủng bao bì có thể làm hỏng thức ăn bên trong.
+
+### Notes
+
+In British English, `puncture` is commonly used for a tyre problem. In American English, people often say `flat tire`.
+
+---
+
+## 250. Post UK: /pəʊst/ US: /poʊst/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb
+* **Vietnamese meaning:** bài đăng/thông báo trên mạng *(35%)*; bưu điện/thư từ *(25%)*; vị trí công việc/chức vụ *(20%)*; cột/trụ *(15%)*; đăng/gửi thư/niêm yết *(5%)*
+
+### Usage
+
+`Post` has several common meanings. In modern daily English, it often means a social-media item or to publish something online.
+
+Common structures:
+
+* `post something online/on social media`: đăng cái gì lên mạng/mạng xã hội
+* `apply for/take up a post`: ứng tuyển/nhận một vị trí công việc
+* `send something by post`: gửi cái gì qua bưu điện
+
+### Examples
+
+1. **She wrote a short post about her travel experience.**
+   → Cô ấy viết một bài đăng ngắn về trải nghiệm du lịch của mình.
+
+2. **The university advertised a new teaching post.**
+   → Trường đại học đã đăng tuyển một vị trí giảng dạy mới.
+
+### Common collocations
+
+* **social media post**: bài đăng trên mạng xã hội
+* **teaching post**: vị trí giảng dạy
+* **send by post**: gửi qua bưu điện
+
+### Word family
+
+* **post** /pəʊst/ *(noun/verb)*: bài đăng; vị trí; gửi/đăng  
+  *Example:* The company posted the announcement on its website.  
+  → Công ty đã đăng thông báo trên trang web của mình.
+
+* **posting** /ˈpəʊ.stɪŋ/ *(noun/verb form)*: bài đăng; sự bổ nhiệm công tác  
+  *Example:* The job posting attracted many applicants.  
+  → Tin tuyển dụng đã thu hút nhiều ứng viên.
+
+* **poster** /ˈpəʊ.stər/ *(noun)*: áp phích; người đăng bài  
+  *Example:* The poster explained the health campaign clearly.  
+  → Tấm áp phích giải thích rõ chiến dịch sức khỏe.
+
+### Notes
+
+Because `post` has many meanings, always notice the context: online, mail, job, or physical object.
+
+---
+
+## 251. Remedy /ˈrem.ə.di/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** biện pháp khắc phục/giải pháp *(50%)*; thuốc/cách chữa bệnh *(35%)*; khắc phục/sửa chữa vấn đề *(15%)*
+
+### Usage
+
+`Remedy` is useful in IELTS Writing when discussing solutions to social, health, or environmental problems.
+
+Common structures:
+
+* `a remedy for + problem/illness`: biện pháp/thuốc chữa cho vấn đề/bệnh gì
+* `seek/provide a remedy`: tìm/cung cấp biện pháp khắc phục
+* `remedy a problem/situation`: khắc phục một vấn đề/tình huống
+
+### Examples
+
+1. **Education is not a complete remedy for poverty, but it can reduce inequality.**
+   → Giáo dục không phải là giải pháp hoàn toàn cho nghèo đói, nhưng nó có thể giảm bất bình đẳng.
+
+2. **The company promised to remedy the safety problems quickly.**
+   → Công ty hứa sẽ khắc phục các vấn đề an toàn nhanh chóng.
+
+### Common collocations
+
+* **effective remedy**: biện pháp hiệu quả
+* **natural remedy**: phương thuốc tự nhiên
+* **remedy a problem**: khắc phục một vấn đề
+
+### Word family
+
+* **remedy** /ˈrem.ə.di/ *(noun/verb)*: biện pháp khắc phục; khắc phục  
+  *Example:* Stronger regulation may remedy some market failures.  
+  → Quy định chặt chẽ hơn có thể khắc phục một số thất bại thị trường.
+
+* **remedial** /rɪˈmiː.di.əl/ *(adjective)*: mang tính sửa chữa/bổ trợ  
+  *Example:* Some students need remedial classes in basic writing.  
+  → Một số học sinh cần các lớp bổ trợ về viết cơ bản.
+
+* **remediation** /rɪˌmiː.diˈeɪ.ʃən/ *(noun)*: sự khắc phục, phục hồi  
+  *Example:* Soil remediation is necessary after industrial pollution.  
+  → Việc phục hồi đất là cần thiết sau ô nhiễm công nghiệp.
+
+### Notes
+
+`Remedy` is more formal than `fix`. As a noun, it is countable: `a remedy`, `several remedies`.
+
+---
+
+## 252. Screw /skruː/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** con vít/ốc vít *(55%)*; vặn bằng vít hoặc xoay chặt *(25%)*; làm hỏng hoặc gây rắc rối *(15%, informal)*; ép/siết ai làm gì *(5%)*
+
+### Usage
+
+`Screw` is mainly a small metal fastener. As a verb, it means to fasten or tighten by turning.
+
+Common structures:
+
+* `tighten/loosen a screw`: siết/nới lỏng một con vít
+* `screw something into/onto + object`: vặn cái gì vào/lên vật gì
+* `screw up + task/situation`: làm hỏng việc/tình huống
+
+### Examples
+
+1. **Use a screwdriver to tighten the loose screw.**
+   → Hãy dùng tua vít để siết chặt con vít bị lỏng.
+
+2. **A small mistake can screw up the whole plan.**
+   → Một lỗi nhỏ có thể làm hỏng toàn bộ kế hoạch.
+
+### Common collocations
+
+* **loose screw**: con vít lỏng
+* **tighten a screw**: siết vít
+* **screw something into place**: vặn cái gì vào đúng vị trí
+
+### Word family
+
+* **screw** /skruː/ *(noun/verb)*: con vít; vặn vít  
+  *Example:* The shelf fell because one screw was missing.  
+  → Cái kệ rơi xuống vì thiếu một con vít.
+
+* **screwdriver** /ˈskruːˌdraɪ.vər/ *(noun)*: tua vít  
+  *Example:* A screwdriver is needed to open the back cover.  
+  → Cần một cái tua vít để mở nắp sau.
+
+* **screwed** /skruːd/ *(adjective/verb form)*: được vặn chặt; gặp rắc rối *(informal)*  
+  *Example:* The panel must be screwed firmly to the wall.  
+  → Tấm bảng phải được vặn chặt vào tường.
+
+### Notes
+
+`Screw up` is informal and means `make a mistake` or `ruin something`. Avoid it in formal IELTS Writing.
+
+---
+
+## 253. Screwdriver /ˈskruːˌdraɪ.vər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tua vít, dụng cụ vặn vít *(95%)*; cocktail screwdriver *(5%)*
+
+### Usage
+
+`Screwdriver` is a tool used to tighten or loosen screws.
+
+Common structures:
+
+* `use a screwdriver`: dùng tua vít
+* `flat-head/Phillips screwdriver`: tua vít dẹt/tua vít chữ thập
+* `tighten something with a screwdriver`: siết cái gì bằng tua vít
+
+### Examples
+
+1. **I need a screwdriver to repair this chair.**
+   → Tôi cần một cái tua vít để sửa chiếc ghế này.
+
+2. **Every home should have a basic screwdriver for small repairs.**
+   → Mỗi gia đình nên có một cái tua vít cơ bản để sửa chữa nhỏ.
+
+### Common collocations
+
+* **Phillips screwdriver**: tua vít chữ thập
+* **flat-head screwdriver**: tua vít dẹt
+* **electric screwdriver**: tua vít điện
+
+### Word family
+
+* **screwdriver** /ˈskruːˌdraɪ.vər/ *(noun)*: tua vít  
+  *Example:* The mechanic kept a screwdriver in his toolbox.  
+  → Người thợ máy để một cái tua vít trong hộp dụng cụ.
+
+* **screw** /skruː/ *(noun/verb)*: con vít; vặn vít  
+  *Example:* She used two screws to fix the handle.  
+  → Cô ấy dùng hai con vít để cố định tay cầm.
+
+* **drive** /draɪv/ *(verb/noun)*: lái xe; đẩy/đưa vào; ổ đĩa  
+  *Example:* The drill can drive screws into hard wood.  
+  → Máy khoan có thể đưa vít vào gỗ cứng.
+
+### Notes
+
+`Screwdriver` is a compound noun: `screw` + `driver`. It is countable: `a screwdriver`, `two screwdrivers`.
+
+---
+
+## 254. Sketch /sketʃ/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** bản phác thảo/hình vẽ nhanh *(55%)*; phác thảo ý tưởng/kế hoạch *(35%)*; tiểu phẩm hài ngắn *(10%)*
+
+### Usage
+
+`Sketch` can mean a quick drawing or a brief outline of an idea.
+
+Common structures:
+
+* `make/draw a sketch`: vẽ một bản phác thảo
+* `sketch out + plan/idea`: phác thảo kế hoạch/ý tưởng
+* `a rough sketch`: bản phác thảo sơ bộ
+
+### Examples
+
+1. **The architect made a quick sketch of the new house.**
+   → Kiến trúc sư vẽ một bản phác thảo nhanh của ngôi nhà mới.
+
+2. **The teacher sketched out the main points before the lecture.**
+   → Giáo viên phác thảo các ý chính trước bài giảng.
+
+### Common collocations
+
+* **rough sketch**: bản phác thảo sơ bộ
+* **quick sketch**: bản vẽ nhanh
+* **sketch out a plan**: phác thảo một kế hoạch
+
+### Word family
+
+* **sketch** /sketʃ/ *(noun/verb)*: bản phác thảo; phác thảo  
+  *Example:* A sketch can help explain a design idea.  
+  → Một bản phác thảo có thể giúp giải thích ý tưởng thiết kế.
+
+* **sketchy** /ˈsketʃ.i/ *(adjective)*: sơ sài; không rõ ràng  
+  *Example:* The report was rejected because the evidence was sketchy.  
+  → Báo cáo bị từ chối vì bằng chứng còn sơ sài.
+
+* **sketchbook** /ˈsketʃ.bʊk/ *(noun)*: sổ phác thảo  
+  *Example:* The artist carries a sketchbook everywhere.  
+  → Người nghệ sĩ mang theo sổ phác thảo ở mọi nơi.
+
+### Notes
+
+`Sketch out` is useful for ideas and plans, not only drawings.
+
+---
+
+## 255. Skull /skʌl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** hộp sọ, xương đầu *(85%)*; đầu hoặc trí óc *(15%, informal/figurative)*
+
+### Usage
+
+`Skull` refers to the bone structure of the head that protects the brain.
+
+Common structures:
+
+* `fracture/crack the skull`: làm nứt/vỡ hộp sọ
+* `human/animal skull`: hộp sọ người/động vật
+* `skull injury`: chấn thương hộp sọ
+
+### Examples
+
+1. **The cyclist suffered a skull fracture in the accident.**
+   → Người đi xe đạp bị nứt hộp sọ trong vụ tai nạn.
+
+2. **Archaeologists found an ancient human skull near the cave.**
+   → Các nhà khảo cổ tìm thấy một hộp sọ người cổ gần hang động.
+
+### Common collocations
+
+* **human skull**: hộp sọ người
+* **skull fracture**: nứt/vỡ hộp sọ
+* **skull injury**: chấn thương hộp sọ
+
+### Word family
+
+* **skull** /skʌl/ *(noun)*: hộp sọ  
+  *Example:* The skull protects the brain from injury.  
+  → Hộp sọ bảo vệ não khỏi chấn thương.
+
+* **skullcap** /ˈskʌl.kæp/ *(noun)*: mũ chỏm; phần trên của hộp sọ  
+  *Example:* The child wore a small skullcap in winter.  
+  → Đứa trẻ đội một chiếc mũ chỏm nhỏ vào mùa đông.
+
+* **skulled** /skʌld/ *(adjective)*: có hộp sọ kiểu nào đó  
+  *Example:* The fossil was described as thick-skulled.  
+  → Hóa thạch được mô tả là có hộp sọ dày.
+
+### Notes
+
+`Skull` is different from `brain`: `skull` is bone; `brain` is the organ inside it.
+
+---
+
+## 256. Sore /sɔːr/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** đau nhức, ê ẩm *(60%)*; vết đau/loét *(25%)*; bực bội/tự ái *(15%)*
+
+### Usage
+
+`Sore` describes a painful part of the body, especially after illness, injury, or exercise.
+
+Common structures:
+
+* `sore throat/back/muscles`: đau họng/đau lưng/đau cơ
+* `feel sore`: cảm thấy đau nhức
+* `sore about + noun`: bực bội/tự ái về điều gì
+
+### Examples
+
+1. **I have a sore throat, so I should drink warm water.**
+   → Tôi bị đau họng, nên tôi nên uống nước ấm.
+
+2. **Her legs felt sore after the long hike.**
+   → Chân cô ấy đau nhức sau chuyến đi bộ đường dài.
+
+### Common collocations
+
+* **sore throat**: đau họng
+* **sore muscles**: đau cơ
+* **feel sore**: cảm thấy đau nhức
+
+### Word family
+
+* **sore** /sɔːr/ *(adjective/noun)*: đau nhức; vết đau  
+  *Example:* My shoulders are sore from carrying heavy bags.  
+  → Vai tôi đau nhức vì mang túi nặng.
+
+* **soreness** /ˈsɔːr.nəs/ *(noun)*: sự đau nhức  
+  *Example:* Muscle soreness is common after intense exercise.  
+  → Đau nhức cơ thường gặp sau khi tập luyện mạnh.
+
+* **sorely** /ˈsɔː.li/ *(adverb)*: rất nhiều, nghiêm trọng  
+  *Example:* Rural hospitals are sorely in need of more doctors.  
+  → Các bệnh viện nông thôn đang rất cần thêm bác sĩ.
+
+### Notes
+
+`Sore` is often milder than `painful`. `I have a sore throat` is more natural than `my throat is pain`.
+
+---
+
+## 257. Span /spæn/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** khoảng thời gian/khoảng cách *(55%)*; sải/cầu nối qua một khoảng *(25%)*; kéo dài hoặc bao phủ qua một phạm vi *(20%)*
+
+### Usage
+
+`Span` is used for periods of time, physical distance, bridges, and ranges of topics.
+
+Common structures:
+
+* `a span of + time`: một khoảng thời gian
+* `over/within a short span`: trong một khoảng ngắn
+* `span + period/range/river`: kéo dài qua giai đoạn/phạm vi/bắc qua sông
+
+### Examples
+
+1. **The project was completed within a short span of time.**
+   → Dự án được hoàn thành trong một khoảng thời gian ngắn.
+
+2. **The bridge spans the river and connects two villages.**
+   → Cây cầu bắc qua sông và nối hai ngôi làng.
+
+### Common collocations
+
+* **life span**: tuổi thọ
+* **attention span**: khả năng tập trung trong một khoảng thời gian
+* **span a river**: bắc qua một con sông
+
+### Word family
+
+* **span** /spæn/ *(noun/verb)*: khoảng; kéo dài; bắc qua  
+  *Example:* The course spans twelve weeks.  
+  → Khóa học kéo dài mười hai tuần.
+
+* **lifespan** /ˈlaɪf.spæn/ *(noun)*: tuổi thọ  
+  *Example:* Better healthcare can increase average lifespan.  
+  → Chăm sóc y tế tốt hơn có thể tăng tuổi thọ trung bình.
+
+* **spanning** /ˈspæn.ɪŋ/ *(verb form/adjective)*: kéo dài qua, bao phủ  
+  *Example:* The research covers data spanning three decades.  
+  → Nghiên cứu bao gồm dữ liệu trải dài qua ba thập kỷ.
+
+### Notes
+
+`Span` is useful in academic writing because it can describe time, distance, and scope.
+
+---
+
+## 258. Spare /speər/
+
+* **Part of speech:** adjective; transitive verb; countable noun
+* **Vietnamese meaning:** dư/thừa/dự phòng *(45%)*; dành ra thời gian/tiền *(25%)*; tha cho/không làm hại *(20%)*; phụ tùng dự phòng *(10%)*
+
+### Usage
+
+`Spare` can describe something extra, mean to give time or money, or mean to avoid harming someone.
+
+Common structures:
+
+* `spare time/room/key`: thời gian/phòng/chìa khóa dự phòng
+* `spare someone something`: tránh cho ai khỏi điều gì
+* `spare + time/money`: dành ra thời gian/tiền
+
+### Examples
+
+1. **I usually read English articles in my spare time.**
+   → Tôi thường đọc bài báo tiếng Anh trong thời gian rảnh.
+
+2. **Could you spare ten minutes to check my essay?**
+   → Bạn có thể dành ra mười phút để xem bài luận của tôi không?
+
+### Common collocations
+
+* **spare time**: thời gian rảnh
+* **spare key**: chìa khóa dự phòng
+* **spare parts**: phụ tùng thay thế
+
+### Word family
+
+* **spare** /speər/ *(adjective/verb/noun)*: dự phòng; dành ra; tha cho  
+  *Example:* We keep a spare charger in the office.  
+  → Chúng tôi giữ một bộ sạc dự phòng ở văn phòng.
+
+* **sparing** /ˈspeə.rɪŋ/ *(adjective)*: tiết kiệm, hạn chế  
+  *Example:* The doctor advised sparing use of strong painkillers.  
+  → Bác sĩ khuyên dùng thuốc giảm đau mạnh một cách hạn chế.
+
+* **sparely** /ˈspeə.li/ *(adverb)*: một cách giản dị/tiết chế  
+  *Example:* The room was sparely furnished but comfortable.  
+  → Căn phòng được trang bị giản dị nhưng thoải mái.
+
+### Notes
+
+`Spare time` means free time. `Spare someone something` means prevent someone from experiencing something unpleasant.
+
+---
+
+## 259. Succession /səkˈseʃ.ən/
+
+* **Part of speech:** uncountable noun; singular noun; countable noun
+* **Vietnamese meaning:** chuỗi liên tiếp/sự nối tiếp *(55%)*; sự kế vị/chuyển giao vị trí *(35%)*; quyền thừa kế *(10%)*
+
+### Usage
+
+`Succession` is used for events happening one after another, or for someone taking over a position.
+
+Common structures:
+
+* `in succession`: liên tiếp
+* `a succession of + plural noun`: một loạt điều gì
+* `succession to + position/throne`: sự kế vị vị trí/ngai vàng
+
+### Examples
+
+1. **The city experienced a succession of storms last month.**
+   → Thành phố đã trải qua một loạt cơn bão vào tháng trước.
+
+2. **Clear succession planning is important in large organisations.**
+   → Kế hoạch kế nhiệm rõ ràng rất quan trọng trong các tổ chức lớn.
+
+### Common collocations
+
+* **in succession**: liên tiếp
+* **a succession of events**: một chuỗi sự kiện
+* **succession planning**: kế hoạch kế nhiệm
+
+### Word family
+
+* **succession** /səkˈseʃ.ən/ *(noun)*: sự nối tiếp; sự kế vị  
+  *Example:* Three meetings were held in quick succession.  
+  → Ba cuộc họp được tổ chức liên tiếp rất nhanh.
+
+* **successive** /səkˈses.ɪv/ *(adjective)*: liên tiếp  
+  *Example:* Successive governments have tried to reform education.  
+  → Các chính phủ liên tiếp đã cố gắng cải cách giáo dục.
+
+* **successor** /səkˈses.ər/ *(noun)*: người kế nhiệm  
+  *Example:* The director trained her successor before retiring.  
+  → Giám đốc đào tạo người kế nhiệm trước khi nghỉ hưu.
+
+### Notes
+
+`Succession` is related to sequence and replacement. Do not confuse it with `success`, which means achievement.
+
+---
+
+## 260. Superb /suːˈpɜːb/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** tuyệt vời, xuất sắc *(85%)*; rất đẹp/chất lượng rất cao *(15%)*
+
+### Usage
+
+`Superb` describes something extremely good in quality, performance, appearance, or experience.
+
+Common structures:
+
+* `a superb performance/view`: màn trình diễn/cảnh nhìn tuyệt vời
+* `superb quality/service`: chất lượng/dịch vụ xuất sắc
+* `absolutely superb`: cực kỳ tuyệt vời
+
+### Examples
+
+1. **The hotel offered superb service throughout our stay.**
+   → Khách sạn cung cấp dịch vụ tuyệt vời trong suốt kỳ nghỉ của chúng tôi.
+
+2. **The essay contains a superb range of vocabulary.**
+   → Bài luận có một vốn từ vựng vô cùng xuất sắc.
+
+### Common collocations
+
+* **superb service**: dịch vụ tuyệt vời
+* **superb view**: cảnh nhìn tuyệt đẹp
+* **superb performance**: màn trình diễn xuất sắc
+
+### Word family
+
+* **superb** /suːˈpɜːb/ *(adjective)*: tuyệt vời, xuất sắc  
+  *Example:* The museum has a superb collection of ancient art.  
+  → Bảo tàng có một bộ sưu tập nghệ thuật cổ tuyệt vời.
+
+* **superbly** /suːˈpɜːb.li/ *(adverb)*: một cách xuất sắc  
+  *Example:* The speaker explained the issue superbly.  
+  → Diễn giả giải thích vấn đề một cách xuất sắc.
+
+* **superbness** /suːˈpɜːb.nəs/ *(noun)*: sự tuyệt vời  
+  *Example:* The superbness of the view made the climb worthwhile.  
+  → Sự tuyệt đẹp của quang cảnh khiến chuyến leo núi rất đáng công.
+
+### Notes
+
+`Superb` is stronger than `good` and slightly more formal than `great`.
+
+---
+
+## 261. Telegraph /ˈtel.ɪ.ɡrɑːf/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** máy điện báo/hệ thống điện báo *(65%)*; gửi bằng điện báo *(20%)*; để lộ ý định một cách vô tình *(15%)*
+
+### Usage
+
+`Telegraph` is mainly historical technology for sending messages over long distances. As a verb, it can also mean to reveal something unintentionally.
+
+Common structures:
+
+* `send a message by telegraph`: gửi tin nhắn bằng điện báo
+* `telegraph one's intentions`: để lộ ý định của mình
+* `telegraph line/system`: đường dây/hệ thống điện báo
+
+### Examples
+
+1. **The telegraph changed long-distance communication in the nineteenth century.**
+   → Điện báo đã thay đổi giao tiếp đường dài trong thế kỷ mười chín.
+
+2. **His nervous expression telegraphed his doubts.**
+   → Vẻ mặt lo lắng của anh ấy để lộ sự nghi ngờ.
+
+### Common collocations
+
+* **telegraph system**: hệ thống điện báo
+* **telegraph line**: đường dây điện báo
+* **telegraph one's intentions**: để lộ ý định
+
+### Word family
+
+* **telegraph** /ˈtel.ɪ.ɡrɑːf/ *(noun/verb)*: điện báo; gửi điện báo; để lộ  
+  *Example:* Before phones, people used the telegraph for urgent messages.  
+  → Trước khi có điện thoại, người ta dùng điện báo cho các tin nhắn khẩn cấp.
+
+* **telegraphic** /ˌtel.ɪˈɡræf.ɪk/ *(adjective)*: thuộc điện báo; ngắn gọn  
+  *Example:* The note was written in a telegraphic style.  
+  → Ghi chú được viết theo phong cách ngắn gọn như điện báo.
+
+* **telegraphy** /təˈleɡ.rə.fi/ *(noun)*: kỹ thuật điện báo  
+  *Example:* Telegraphy was a major step in communication technology.  
+  → Kỹ thuật điện báo là một bước tiến lớn trong công nghệ giao tiếp.
+
+### Notes
+
+`Telegraph` is often historical. The figurative verb `telegraph` means reveal a plan or feeling before you intend to.
+
+---
+
+## 262. Twig /twɪɡ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cành cây nhỏ, nhánh cây nhỏ *(95%)*; phần nhỏ giống cành cây *(5%)*
+
+### Usage
+
+`Twig` refers to a very small, thin branch of a tree or bush.
+
+Common structures:
+
+* `a dry/broken twig`: một cành nhỏ khô/gãy
+* `snap/break a twig`: bẻ/gãy một cành nhỏ
+* `twigs and leaves`: cành nhỏ và lá
+
+### Examples
+
+1. **The child picked up a dry twig from the ground.**
+   → Đứa trẻ nhặt một cành cây nhỏ khô dưới đất.
+
+2. **Birds use twigs to build their nests.**
+   → Chim dùng các cành cây nhỏ để xây tổ.
+
+### Common collocations
+
+* **dry twig**: cành cây nhỏ khô
+* **broken twig**: cành cây nhỏ bị gãy
+* **twigs and leaves**: cành nhỏ và lá
+
+### Word family
+
+* **twig** /twɪɡ/ *(noun)*: cành cây nhỏ  
+  *Example:* A twig snapped under his foot.  
+  → Một cành cây nhỏ gãy dưới chân anh ấy.
+
+* **twiggy** /ˈtwɪɡ.i/ *(adjective)*: nhiều cành nhỏ; giống cành nhỏ  
+  *Example:* The twiggy bush looked dry after weeks without rain.  
+  → Bụi cây nhiều cành nhỏ trông khô sau nhiều tuần không mưa.
+
+* **twiglet** /ˈtwɪɡ.lət/ *(noun)*: cành rất nhỏ  
+  *Example:* The nest was made from tiny twiglets and grass.  
+  → Cái tổ được làm từ những cành rất nhỏ và cỏ.
+
+### Notes
+
+`Twig` is smaller than `branch`. A `branch` can be large; a `twig` is thin and small.
+
+---
+
+## 263. Undertake /ˌʌn.dəˈteɪk/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** đảm nhận/thực hiện nhiệm vụ hoặc dự án *(75%)*; cam kết/hứa làm gì *(25%)*
+
+### Usage
+
+`Undertake` is formal and common in academic or professional English when talking about research, projects, or responsibilities.
+
+Common structures:
+
+* `undertake research/a study`: tiến hành nghiên cứu
+* `undertake a task/project`: đảm nhận nhiệm vụ/dự án
+* `undertake to + verb`: cam kết làm gì
+
+### Examples
+
+1. **The university will undertake a study on urban air pollution.**
+   → Trường đại học sẽ tiến hành một nghiên cứu về ô nhiễm không khí đô thị.
+
+2. **The company undertook to improve safety standards.**
+   → Công ty cam kết cải thiện các tiêu chuẩn an toàn.
+
+### Common collocations
+
+* **undertake research**: tiến hành nghiên cứu
+* **undertake a project**: đảm nhận một dự án
+* **undertake responsibility**: đảm nhận trách nhiệm
+
+### Word family
+
+* **undertake** /ˌʌn.dəˈteɪk/ *(verb)*: đảm nhận; tiến hành; cam kết  
+  *Example:* Governments should undertake serious reform when systems fail.  
+  → Chính phủ nên tiến hành cải cách nghiêm túc khi hệ thống thất bại.
+
+* **undertaking** /ˌʌn.dəˈteɪ.kɪŋ/ *(noun/verb form)*: nhiệm vụ lớn; sự đảm nhận  
+  *Example:* Building a national railway is a major undertaking.  
+  → Xây dựng một tuyến đường sắt quốc gia là một nhiệm vụ lớn.
+
+* **undertaken** /ˌʌn.dəˈteɪ.kən/ *(verb form)*: đã được thực hiện/đảm nhận  
+  *Example:* The survey was undertaken by an independent organisation.  
+  → Cuộc khảo sát được thực hiện bởi một tổ chức độc lập.
+
+### Notes
+
+`Undertake` is more formal than `do`. It is especially useful for IELTS Writing: `undertake research`, `undertake reforms`, `undertake responsibility`.
+
+---
+
+## 264. Unearth /ʌnˈɜːθ/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** khai quật, đào lên từ dưới đất *(55%)*; phát hiện ra điều bị che giấu hoặc chưa biết *(45%)*
+
+### Usage
+
+`Unearth` literally means to dig something out of the ground. Figuratively, it means to discover hidden information.
+
+Common structures:
+
+* `unearth evidence/information`: phát hiện bằng chứng/thông tin
+* `unearth remains/artefacts`: khai quật hài cốt/hiện vật
+* `be unearthed by + person/group`: được khai quật/phát hiện bởi ai
+
+### Examples
+
+1. **Archaeologists unearthed ancient tools near the river.**
+   → Các nhà khảo cổ khai quật được những công cụ cổ gần con sông.
+
+2. **The investigation unearthed evidence of corruption.**
+   → Cuộc điều tra đã phát hiện bằng chứng về tham nhũng.
+
+### Common collocations
+
+* **unearth evidence**: phát hiện bằng chứng
+* **unearth artefacts**: khai quật hiện vật
+* **unearth the truth**: phát hiện sự thật
+
+### Word family
+
+* **unearth** /ʌnˈɜːθ/ *(verb)*: khai quật; phát hiện  
+  *Example:* Researchers unearthed new data about the disease.  
+  → Các nhà nghiên cứu đã phát hiện dữ liệu mới về căn bệnh.
+
+* **unearthed** /ʌnˈɜːθt/ *(adjective/verb form)*: được khai quật/phát hiện  
+  *Example:* The unearthed statue was sent to a museum.  
+  → Bức tượng được khai quật đã được gửi đến bảo tàng.
+
+* **unearthing** /ʌnˈɜːθ.ɪŋ/ *(noun/verb form)*: việc khai quật/phát hiện  
+  *Example:* The unearthing of old records changed the case.  
+  → Việc phát hiện các hồ sơ cũ đã thay đổi vụ việc.
+
+### Notes
+
+`Unearth` is stronger and more vivid than `find`, especially when the thing was hidden.
+
+---
+
+## 265. Wear and tear /ˌweər ən ˈteər/
+
+* **Part of speech:** uncountable noun phrase
+* **Vietnamese meaning:** sự hao mòn tự nhiên do sử dụng *(90%)*; hư hỏng nhỏ tích tụ theo thời gian *(10%)*
+
+### Usage
+
+`Wear and tear` describes normal damage that happens when something is used regularly over time.
+
+Common structures:
+
+* `normal wear and tear`: hao mòn bình thường
+* `show signs of wear and tear`: có dấu hiệu hao mòn
+* `damage caused by wear and tear`: hư hỏng do hao mòn
+
+### Examples
+
+1. **The apartment showed signs of normal wear and tear.**
+   → Căn hộ có dấu hiệu hao mòn bình thường.
+
+2. **Public facilities need regular maintenance because of wear and tear.**
+   → Các cơ sở công cộng cần được bảo trì thường xuyên do hao mòn.
+
+### Common collocations
+
+* **normal wear and tear**: hao mòn bình thường
+* **signs of wear and tear**: dấu hiệu hao mòn
+* **general wear and tear**: sự hao mòn chung
+
+### Word family
+
+* **wear and tear** /ˌweər ən ˈteər/ *(noun phrase)*: sự hao mòn  
+  *Example:* The landlord accepted that the marks were normal wear and tear.  
+  → Chủ nhà chấp nhận rằng các vết đó là hao mòn bình thường.
+
+* **wear** /weər/ *(verb/noun)*: mặc; mòn; sự hao mòn  
+  *Example:* Heavy use can wear the surface of the table.  
+  → Việc sử dụng nhiều có thể làm mòn bề mặt bàn.
+
+* **worn** /wɔːn/ *(adjective/verb form)*: bị mòn; đã mặc  
+  *Example:* The worn carpet needs to be replaced.  
+  → Tấm thảm bị mòn cần được thay.
+
+### Notes
+
+`Wear and tear` is uncountable. It usually refers to normal use, not sudden damage.
+
+---
+
+## 266. Wear away /ˌweər əˈweɪ/
+
+* **Part of speech:** phrasal verb
+* **Vietnamese meaning:** bị mòn dần/làm mòn dần *(75%)*; làm biến mất dần cảm xúc, sức mạnh hoặc niềm tin *(25%)*
+
+### Usage
+
+`Wear away` means to gradually disappear or become thinner because of repeated use, pressure, water, wind, or time.
+
+Common structures:
+
+* `be worn away by + noun`: bị làm mòn bởi điều gì
+* `wear away + surface/material`: làm mòn bề mặt/chất liệu
+* `confidence/patience wears away`: sự tự tin/kiên nhẫn giảm dần
+
+### Examples
+
+1. **The stone steps were worn away by centuries of use.**
+   → Các bậc đá bị mòn dần do hàng thế kỷ sử dụng.
+
+2. **Constant criticism can wear away a student's confidence.**
+   → Sự chỉ trích liên tục có thể làm giảm dần sự tự tin của học sinh.
+
+### Common collocations
+
+* **wear away stone**: làm mòn đá
+* **be worn away by water**: bị nước làm mòn
+* **wear away confidence**: làm hao mòn sự tự tin
+
+### Word family
+
+* **wear away** /ˌweər əˈweɪ/ *(phrasal verb)*: mòn dần; làm mòn dần  
+  *Example:* Wind and rain slowly wear away old buildings.  
+  → Gió và mưa làm mòn dần các tòa nhà cũ.
+
+* **wear** /weər/ *(verb/noun)*: mặc; làm mòn; sự hao mòn  
+  *Example:* Cheap materials may wear quickly.  
+  → Vật liệu rẻ tiền có thể mòn nhanh.
+
+* **worn away** /ˌwɔːn əˈweɪ/ *(adjective/verb form)*: đã bị mòn dần  
+  *Example:* The inscription was worn away and hard to read.  
+  → Dòng chữ khắc đã bị mòn và khó đọc.
+
+### Notes
+
+`Wear away` focuses on gradual erosion. `Wear out` usually means become unusable because of use.
