@@ -9861,3 +9861,1816 @@ Common structures:
 ### Notes
 
 `Winding` comes from the verb `wind` /waɪnd/, which is different from `wind` /wɪnd/ meaning `gió`. `Wound` /waʊnd/ here is the past form of `wind`, not `wound` /wuːnd/ meaning `vết thương`.
+
+---
+
+## 201. Acre /ˈeɪ.kər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** mẫu Anh, đơn vị đo diện tích đất *(85%)*; một vùng đất rộng *(15%)*
+
+### Usage
+
+`Acre` is a unit for measuring land area, especially farms, parks, forests, and property.
+
+Common structures:
+
+* `an acre of land`: một mẫu Anh đất
+* `several acres of + place/land`: vài mẫu Anh của nơi/đất nào đó
+* `cover + number + acres`: bao phủ diện tích bao nhiêu mẫu Anh
+
+### Examples
+
+1. **The farm covers nearly fifty acres of land.**
+   → Trang trại này bao phủ gần năm mươi mẫu Anh đất.
+
+2. **The city plans to protect several acres of forest.**
+   → Thành phố dự định bảo vệ vài mẫu Anh rừng.
+
+### Common collocations
+
+* **an acre of land**: một mẫu Anh đất
+* **several acres**: vài mẫu Anh
+* **acres of farmland**: nhiều mẫu Anh đất nông nghiệp
+
+### Word family
+
+* **acre** /ˈeɪ.kər/ *(noun)*: mẫu Anh  
+  *Example:* One acre is enough for a small community garden.  
+  → Một mẫu Anh là đủ cho một khu vườn cộng đồng nhỏ.
+
+* **acreage** /ˈeɪ.kər.ɪdʒ/ *(noun)*: diện tích đất tính bằng mẫu Anh  
+  *Example:* The total acreage of farmland has declined.  
+  → Tổng diện tích đất nông nghiệp đã giảm.
+
+* **half-acre** /ˌhɑːf ˈeɪ.kər/ *(noun/adjective)*: nửa mẫu Anh  
+  *Example:* They bought a half-acre plot near the river.  
+  → Họ mua một mảnh đất nửa mẫu Anh gần sông.
+
+### Notes
+
+One acre is about 4,047 square metres. In IELTS, `acre` is useful for land, farming, housing, and environmental topics.
+
+---
+
+## 202. Acupuncture /ˈæk.jəˌpʌŋk.tʃər/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** châm cứu *(95%)*; liệu pháp dùng kim trong y học cổ truyền *(5%)*
+
+### Usage
+
+`Acupuncture` is a treatment in which thin needles are inserted into the body to reduce pain or treat health problems.
+
+Common structures:
+
+* `try acupuncture`: thử châm cứu
+* `acupuncture treatment`: phương pháp điều trị bằng châm cứu
+* `use acupuncture to treat + condition`: dùng châm cứu để điều trị bệnh/tình trạng nào
+
+### Examples
+
+1. **Some patients use acupuncture to relieve back pain.**
+   → Một số bệnh nhân dùng châm cứu để giảm đau lưng.
+
+2. **Acupuncture is often discussed as a form of alternative medicine.**
+   → Châm cứu thường được bàn đến như một hình thức y học thay thế.
+
+### Common collocations
+
+* **acupuncture treatment**: điều trị bằng châm cứu
+* **traditional acupuncture**: châm cứu truyền thống
+* **try acupuncture**: thử châm cứu
+
+### Word family
+
+* **acupuncture** /ˈæk.jəˌpʌŋk.tʃər/ *(noun)*: châm cứu  
+  *Example:* Acupuncture may help some people manage chronic pain.  
+  → Châm cứu có thể giúp một số người kiểm soát cơn đau mãn tính.
+
+* **acupuncturist** /ˈæk.jəˌpʌŋk.tʃər.ɪst/ *(noun)*: người châm cứu  
+  *Example:* A qualified acupuncturist should use clean needles.  
+  → Một người châm cứu có chuyên môn nên sử dụng kim sạch.
+
+* **acupunctural** /ˌæk.jəˈpʌŋk.tʃər.əl/ *(adjective)*: thuộc về châm cứu  
+  *Example:* Acupunctural methods are common in some traditional therapies.  
+  → Các phương pháp thuộc về châm cứu phổ biến trong một số liệu pháp truyền thống.
+
+### Notes
+
+`Acupuncture` is uncountable, so do not say `an acupuncture`. Say `an acupuncture treatment/session`.
+
+---
+
+## 203. Analogue UK: /ˈæn.ə.lɒɡ/ US: /ˈæn.ə.lɑːɡ/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** tương tự, không phải kỹ thuật số *(55%)*; vật/người tương đương hoặc giống với cái khác *(30%)*; dạng tín hiệu liên tục *(15%)*
+
+### Usage
+
+`Analogue` usually contrasts with `digital`. As a noun, it can mean something similar to another thing.
+
+Common structures:
+
+* `analogue technology/device`: công nghệ/thiết bị analog
+* `analogue signal`: tín hiệu tương tự
+* `an analogue of + noun`: một thứ tương đương với cái gì
+
+### Examples
+
+1. **Many people still enjoy the warm sound of analogue music.**
+   → Nhiều người vẫn thích âm thanh ấm của nhạc analog.
+
+2. **Traditional notebooks are an analogue alternative to digital apps.**
+   → Sổ tay truyền thống là một lựa chọn tương tự thay cho ứng dụng kỹ thuật số.
+
+### Common collocations
+
+* **analogue signal**: tín hiệu analog
+* **analogue device**: thiết bị analog
+* **analogue clock**: đồng hồ kim
+
+### Word family
+
+* **analogue** /ˈæn.ə.lɒɡ/ *(adjective/noun)*: analog; thứ tương đương  
+  *Example:* An analogue clock has hands instead of numbers on a screen.  
+  → Đồng hồ kim có kim chỉ thay vì số trên màn hình.
+
+* **analogy** /əˈnæl.ə.dʒi/ *(noun)*: phép loại suy, sự so sánh tương đồng  
+  *Example:* The teacher used an analogy to explain the difficult idea.  
+  → Giáo viên dùng một phép loại suy để giải thích ý tưởng khó.
+
+* **analogous** /əˈnæl.ə.ɡəs/ *(adjective)*: tương tự, có thể so sánh được  
+  *Example:* The two systems are analogous in several ways.  
+  → Hai hệ thống này tương tự nhau ở một số điểm.
+
+### Notes
+
+British English often uses `analogue`; American English often uses `analog`. The opposite in technology is `digital`.
+
+---
+
+## 204. Awe /ɔː/
+
+* **Part of speech:** uncountable noun; transitive verb
+* **Vietnamese meaning:** sự kinh ngạc pha kính phục *(80%)*; làm ai choáng ngợp/kính sợ *(20%)*
+
+### Usage
+
+`Awe` describes a strong feeling of wonder, respect, or fear when something is extremely impressive.
+
+Common structures:
+
+* `be in awe of + noun`: kinh ngạc/kính phục trước ai hoặc điều gì
+* `fill someone with awe`: khiến ai choáng ngợp
+* `awe-inspiring + noun`: điều gì gây choáng ngợp
+
+### Examples
+
+1. **Visitors stood in awe of the ancient temple.**
+   → Du khách đứng kinh ngạc trước ngôi đền cổ.
+
+2. **The size of the universe fills many people with awe.**
+   → Quy mô của vũ trụ khiến nhiều người choáng ngợp.
+
+### Common collocations
+
+* **in awe of**: kinh ngạc/kính phục trước
+* **sense of awe**: cảm giác choáng ngợp
+* **awe-inspiring view**: cảnh tượng gây choáng ngợp
+
+### Word family
+
+* **awe** /ɔː/ *(noun/verb)*: sự kinh ngạc; làm choáng ngợp  
+  *Example:* The waterfall inspired awe in every visitor.  
+  → Thác nước khiến mọi du khách cảm thấy kinh ngạc.
+
+* **awesome** /ˈɔː.səm/ *(adjective)*: tuyệt vời; gây kinh ngạc  
+  *Example:* The concert was awesome from start to finish.  
+  → Buổi hòa nhạc tuyệt vời từ đầu đến cuối.
+
+* **awe-inspiring** /ˈɔː.ɪnˌspaɪə.rɪŋ/ *(adjective)*: gây choáng ngợp, truyền cảm hứng mạnh  
+  *Example:* The mountain scenery was truly awe-inspiring.  
+  → Phong cảnh núi non thật sự gây choáng ngợp.
+
+### Notes
+
+`Awesome` is common in daily English meaning `great`, but `awe` itself is stronger and more formal.
+
+---
+
+## 205. Barren /ˈbær.ən/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** cằn cỗi, không thể trồng trọt *(55%)*; không có kết quả/thiếu sức sống *(30%)*; không thể sinh con/sinh sản *(15%)*
+
+### Usage
+
+`Barren` describes land that cannot support plants, or a situation that produces no useful result.
+
+Common structures:
+
+* `barren land/desert`: đất/sa mạc cằn cỗi
+* `barren of + noun`: thiếu hoàn toàn điều gì
+* `a barren discussion/effort`: cuộc thảo luận/nỗ lực không có kết quả
+
+### Examples
+
+1. **Years of drought turned the farmland into barren land.**
+   → Nhiều năm hạn hán đã biến đất nông nghiệp thành đất cằn cỗi.
+
+2. **The meeting was barren of practical solutions.**
+   → Cuộc họp thiếu hoàn toàn các giải pháp thực tế.
+
+### Common collocations
+
+* **barren land**: đất cằn cỗi
+* **barren desert**: sa mạc cằn cỗi
+* **barren of ideas**: thiếu ý tưởng
+
+### Word family
+
+* **barren** /ˈbær.ən/ *(adjective)*: cằn cỗi; không hiệu quả  
+  *Example:* Few plants can survive in barren soil.  
+  → Rất ít cây có thể sống trong đất cằn cỗi.
+
+* **barrenness** /ˈbær.ən.nəs/ *(noun)*: sự cằn cỗi; sự thiếu sức sống  
+  *Example:* The barrenness of the landscape shocked the travellers.  
+  → Sự cằn cỗi của cảnh quan khiến những người đi đường kinh ngạc.
+
+* **barrenly** /ˈbær.ən.li/ *(adverb)*: một cách cằn cỗi/thiếu sức sống  
+  *Example:* The hills stretched barrenly into the distance.  
+  → Những ngọn đồi trải dài cằn cỗi về phía xa.
+
+### Notes
+
+In IELTS Writing, `barren land` is useful for environment, agriculture, and climate change topics.
+
+---
+
+## 206. Barricade /ˌbær.ɪˈkeɪd/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** rào chắn, chướng ngại vật *(65%)*; chặn lại bằng rào chắn *(35%)*
+
+### Usage
+
+`Barricade` refers to a temporary barrier used to block a road, entrance, or crowd.
+
+Common structures:
+
+* `put up/build a barricade`: dựng rào chắn
+* `barricade + entrance/road`: chặn lối vào/con đường
+* `behind a barricade`: phía sau rào chắn
+
+### Examples
+
+1. **Police put up a barricade to control the crowd.**
+   → Cảnh sát dựng rào chắn để kiểm soát đám đông.
+
+2. **The workers barricaded the entrance during the repair work.**
+   → Công nhân đã chặn lối vào trong quá trình sửa chữa.
+
+### Common collocations
+
+* **police barricade**: rào chắn của cảnh sát
+* **metal barricade**: rào chắn kim loại
+* **barricade the road**: chặn đường bằng rào chắn
+
+### Word family
+
+* **barricade** /ˌbær.ɪˈkeɪd/ *(noun/verb)*: rào chắn; chặn bằng rào chắn  
+  *Example:* A barricade blocked the main street.  
+  → Một rào chắn đã chặn con phố chính.
+
+* **barricaded** /ˌbær.ɪˈkeɪ.dɪd/ *(adjective/verb form)*: bị chặn bằng rào chắn  
+  *Example:* The building was barricaded after the accident.  
+  → Tòa nhà bị chặn bằng rào chắn sau vụ tai nạn.
+
+* **barricading** /ˌbær.ɪˈkeɪ.dɪŋ/ *(noun/verb form)*: việc dựng rào chắn; đang chặn  
+  *Example:* Barricading the road helped keep pedestrians safe.  
+  → Việc dựng rào chắn trên đường giúp giữ an toàn cho người đi bộ.
+
+### Notes
+
+`Barricade` is stronger than `barrier`; it often suggests blocking access for safety, protest, or security.
+
+---
+
+## 207. Brilliant /ˈbrɪl.jənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** xuất sắc, rất giỏi *(45%)*; tuyệt vời *(35%)*; sáng chói/rực rỡ *(20%)*
+
+### Usage
+
+`Brilliant` can describe a person, idea, performance, or light. In British English, it is also common in daily speech meaning `great`.
+
+Common structures:
+
+* `a brilliant idea/student`: một ý tưởng/học sinh xuất sắc
+* `brilliant at + noun/verb-ing`: rất giỏi về việc gì
+* `absolutely brilliant`: cực kỳ tuyệt vời
+
+### Examples
+
+1. **She gave a brilliant answer during the interview.**
+   → Cô ấy đã đưa ra một câu trả lời xuất sắc trong buổi phỏng vấn.
+
+2. **The city looked brilliant under the evening lights.**
+   → Thành phố trông rực rỡ dưới ánh đèn buổi tối.
+
+### Common collocations
+
+* **brilliant idea**: ý tưởng xuất sắc
+* **brilliant student**: học sinh/sinh viên xuất sắc
+* **brilliant performance**: màn trình diễn xuất sắc
+
+### Word family
+
+* **brilliant** /ˈbrɪl.jənt/ *(adjective)*: xuất sắc; rực rỡ  
+  *Example:* The scientist made a brilliant discovery.  
+  → Nhà khoa học đã có một phát hiện xuất sắc.
+
+* **brilliance** /ˈbrɪl.jəns/ *(noun)*: sự xuất sắc; sự rực rỡ  
+  *Example:* Her academic brilliance earned her a scholarship.  
+  → Sự xuất sắc trong học tập đã giúp cô ấy nhận được học bổng.
+
+* **brilliantly** /ˈbrɪl.jənt.li/ *(adverb)*: một cách xuất sắc  
+  *Example:* The team performed brilliantly under pressure.  
+  → Đội đã thể hiện xuất sắc dưới áp lực.
+
+### Notes
+
+`Brilliant` is stronger and more expressive than `good`. In formal writing, use it when something is genuinely excellent.
+
+---
+
+## 208. Canal /kəˈnæl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** kênh đào, kênh nhân tạo *(75%)*; ống/dẫn trong cơ thể hoặc kỹ thuật *(25%)*
+
+### Usage
+
+`Canal` usually refers to an artificial waterway built for transport, irrigation, or drainage.
+
+Common structures:
+
+* `build/dig a canal`: xây/đào kênh
+* `canal system`: hệ thống kênh đào
+* `along/by the canal`: dọc/bên kênh
+
+### Examples
+
+1. **The canal helped farmers irrigate their fields.**
+   → Kênh đào đã giúp nông dân tưới tiêu đồng ruộng.
+
+2. **Many tourists enjoy walking along the old canal.**
+   → Nhiều du khách thích đi bộ dọc theo con kênh cũ.
+
+### Common collocations
+
+* **irrigation canal**: kênh tưới tiêu
+* **canal system**: hệ thống kênh đào
+* **canal boat**: thuyền đi trên kênh
+
+### Word family
+
+* **canal** /kəˈnæl/ *(noun)*: kênh đào; ống dẫn  
+  *Example:* The canal connects the river to the port.  
+  → Kênh đào nối con sông với cảng.
+
+* **canalisation** /ˌkæn.əl.aɪˈzeɪ.ʃən/ *(noun)*: việc đào kênh/kênh hóa  
+  *Example:* Canalisation changed the way goods moved through the region.  
+  → Việc đào kênh đã thay đổi cách hàng hóa di chuyển trong khu vực.
+
+* **canalise** /ˈkæn.əl.aɪz/ *(verb)*: đào kênh; dẫn dòng  
+  *Example:* Engineers canalised part of the river for transport.  
+  → Các kỹ sư đã kênh hóa một phần con sông để phục vụ vận tải.
+
+### Notes
+
+`Canal` is usually man-made, while `river` is natural.
+
+---
+
+## 209. Capsule /ˈkæp.sjuːl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** viên nang thuốc *(45%)*; khoang kín nhỏ, con nhộng không gian *(35%)*; bản tóm tắt ngắn gọn *(20%)*
+
+### Usage
+
+`Capsule` can refer to medicine, a small enclosed container, or a very short summary.
+
+Common structures:
+
+* `take a capsule`: uống một viên nang
+* `space capsule`: khoang tàu vũ trụ
+* `capsule summary/review`: bản tóm tắt/đánh giá ngắn gọn
+
+### Examples
+
+1. **The doctor told him to take one capsule after dinner.**
+   → Bác sĩ bảo anh ấy uống một viên nang sau bữa tối.
+
+2. **The report begins with a capsule summary of the main findings.**
+   → Báo cáo bắt đầu bằng một bản tóm tắt ngắn gọn về các phát hiện chính.
+
+### Common collocations
+
+* **medicine capsule**: viên nang thuốc
+* **space capsule**: khoang tàu vũ trụ
+* **capsule summary**: bản tóm tắt ngắn gọn
+
+### Word family
+
+* **capsule** /ˈkæp.sjuːl/ *(noun)*: viên nang; khoang kín nhỏ; tóm tắt ngắn  
+  *Example:* The capsule contains a small amount of medicine.  
+  → Viên nang chứa một lượng thuốc nhỏ.
+
+* **encapsulate** /ɪnˈkæp.sjə.leɪt/ *(verb)*: tóm gọn; bao bọc  
+  *Example:* This sentence encapsulates the main argument.  
+  → Câu này tóm gọn luận điểm chính.
+
+* **encapsulation** /ɪnˌkæp.sjəˈleɪ.ʃən/ *(noun)*: sự tóm gọn; sự bao bọc  
+  *Example:* Encapsulation is useful when explaining complex ideas briefly.  
+  → Sự tóm gọn hữu ích khi giải thích ngắn gọn những ý tưởng phức tạp.
+
+### Notes
+
+For medicine, say `take a capsule`, not `drink a capsule`.
+
+---
+
+## 210. Carve /kɑːv/
+
+* **Part of speech:** transitive verb; intransitive verb
+* **Vietnamese meaning:** chạm/khắc, đục thành hình *(55%)*; cắt/thái thịt *(25%)*; tạo ra bằng nỗ lực hoặc theo thời gian *(20%)*
+
+### Usage
+
+`Carve` means to cut a material such as wood or stone into a shape, or to cut food into pieces.
+
+Common structures:
+
+* `carve + object + out of/from + material`: khắc/tạc vật gì từ chất liệu gì
+* `carve meat/turkey`: thái thịt/gà tây
+* `carve out + career/role/niche`: tạo dựng sự nghiệp/vai trò/thị trường riêng
+
+### Examples
+
+1. **The artist carved a statue out of wood.**
+   → Nghệ sĩ đã tạc một bức tượng từ gỗ.
+
+2. **She carved out a successful career in digital marketing.**
+   → Cô ấy đã tạo dựng một sự nghiệp thành công trong tiếp thị kỹ thuật số.
+
+### Common collocations
+
+* **carve a statue**: tạc tượng
+* **carve wood/stone**: khắc gỗ/đá
+* **carve out a career**: tạo dựng sự nghiệp
+
+### Word family
+
+* **carve** /kɑːv/ *(verb)*: khắc; tạc; thái  
+  *Example:* Craftsmen carve patterns into the wooden doors.  
+  → Thợ thủ công khắc hoa văn lên những cánh cửa gỗ.
+
+* **carving** /ˈkɑː.vɪŋ/ *(noun/verb form)*: tác phẩm chạm khắc; việc khắc  
+  *Example:* The temple is famous for its stone carvings.  
+  → Ngôi đền nổi tiếng với các tác phẩm chạm khắc đá.
+
+* **carver** /ˈkɑː.vər/ *(noun)*: người thợ khắc/tạc  
+  *Example:* The carver spent months working on the statue.  
+  → Người thợ tạc đã dành nhiều tháng làm bức tượng.
+
+### Notes
+
+`Carve out` is a useful academic/business phrase meaning to create something through effort.
+
+---
+
+## 211. Chalk /tʃɔːk/
+
+* **Part of speech:** uncountable noun; countable noun; transitive verb
+* **Vietnamese meaning:** phấn viết bảng *(55%)*; đá phấn/khoáng chất trắng *(25%)*; ghi hoặc vẽ bằng phấn *(20%)*
+
+### Usage
+
+`Chalk` is used for classroom writing material and a soft white rock. As a verb, it means to write or mark with chalk.
+
+Common structures:
+
+* `a piece of chalk`: một viên/cục phấn
+* `chalk + something + on + board`: viết/vẽ gì bằng phấn lên bảng
+* `chalk up + success/experience`: đạt được hoặc ghi nhận thành tích/kinh nghiệm
+
+### Examples
+
+1. **The teacher wrote the answer on the board with chalk.**
+   → Giáo viên viết câu trả lời lên bảng bằng phấn.
+
+2. **The team chalked up another victory last night.**
+   → Đội đã giành thêm một chiến thắng tối qua.
+
+### Common collocations
+
+* **a piece of chalk**: một viên phấn
+* **chalk dust**: bụi phấn
+* **chalk up a victory**: giành/ghi nhận một chiến thắng
+
+### Word family
+
+* **chalk** /tʃɔːk/ *(noun/verb)*: phấn; viết bằng phấn  
+  *Example:* Children used chalk to draw on the pavement.  
+  → Trẻ em dùng phấn để vẽ trên vỉa hè.
+
+* **chalky** /ˈtʃɔː.ki/ *(adjective)*: giống phấn; có nhiều phấn  
+  *Example:* The soil is dry and chalky in this area.  
+  → Đất ở khu vực này khô và giống đá phấn.
+
+* **chalkboard** /ˈtʃɔːk.bɔːd/ *(noun)*: bảng viết phấn  
+  *Example:* The formula was written on the chalkboard.  
+  → Công thức được viết trên bảng phấn.
+
+### Notes
+
+`Chalk` is often uncountable as a material. To count it, use `a piece of chalk`.
+
+---
+
+## 212. Decline /dɪˈklaɪn/
+
+* **Part of speech:** intransitive verb; transitive verb; countable noun; uncountable noun
+* **Vietnamese meaning:** giảm sút, suy giảm *(55%)*; từ chối lịch sự *(30%)*; sự suy tàn/suy thoái *(15%)*
+
+### Usage
+
+`Decline` is common in IELTS Writing for describing decreases. It can also mean to refuse politely.
+
+Common structures:
+
+* `decline by + percentage/amount`: giảm bao nhiêu phần trăm/số lượng
+* `a decline in + noun`: sự suy giảm ở điều gì
+* `decline to + verb`: từ chối làm gì
+
+### Examples
+
+1. **The birth rate has declined sharply in many developed countries.**
+   → Tỷ lệ sinh đã giảm mạnh ở nhiều quốc gia phát triển.
+
+2. **She declined to comment on the decision.**
+   → Cô ấy từ chối bình luận về quyết định đó.
+
+### Common collocations
+
+* **sharp decline**: sự giảm mạnh
+* **economic decline**: sự suy thoái kinh tế
+* **decline an invitation**: từ chối lời mời
+
+### Word family
+
+* **decline** /dɪˈklaɪn/ *(verb/noun)*: giảm; từ chối; sự suy giảm  
+  *Example:* Sales began to decline after the new policy.  
+  → Doanh số bắt đầu giảm sau chính sách mới.
+
+* **declining** /dɪˈklaɪ.nɪŋ/ *(adjective/verb form)*: đang giảm; suy giảm  
+  *Example:* Declining air quality is a serious urban problem.  
+  → Chất lượng không khí suy giảm là một vấn đề đô thị nghiêm trọng.
+
+* **declinable** /dɪˈklaɪ.nə.bəl/ *(adjective)*: có thể từ chối  
+  *Example:* Some optional fees are declinable.  
+  → Một số khoản phí tùy chọn có thể được từ chối.
+
+### Notes
+
+For data, `decline` is more formal than `go down`. For invitations, `decline` is more polite/formal than `refuse`.
+
+---
+
+## 213. Demolish /dɪˈmɒl.ɪʃ/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** phá dỡ công trình *(70%)*; phá hủy hoàn toàn *(20%)*; đánh bại hoàn toàn trong tranh luận/trận đấu *(10%)*
+
+### Usage
+
+`Demolish` is often used for buildings, old structures, or arguments that are completely destroyed.
+
+Common structures:
+
+* `demolish a building/house`: phá dỡ một tòa nhà/ngôi nhà
+* `be demolished to make way for + noun`: bị phá dỡ để nhường chỗ cho cái gì
+* `demolish an argument`: bác bỏ hoàn toàn một lập luận
+
+### Examples
+
+1. **The old cinema was demolished to make way for apartments.**
+   → Rạp chiếu phim cũ đã bị phá dỡ để nhường chỗ cho các căn hộ.
+
+2. **The evidence demolished his argument.**
+   → Bằng chứng đã bác bỏ hoàn toàn lập luận của anh ấy.
+
+### Common collocations
+
+* **demolish a building**: phá dỡ một tòa nhà
+* **demolish an old house**: phá dỡ một ngôi nhà cũ
+* **demolish an argument**: bác bỏ hoàn toàn một lập luận
+
+### Word family
+
+* **demolish** /dɪˈmɒl.ɪʃ/ *(verb)*: phá dỡ; phá hủy  
+  *Example:* The government decided to demolish unsafe buildings.  
+  → Chính phủ quyết định phá dỡ các tòa nhà không an toàn.
+
+* **demolition** /ˌdem.əˈlɪʃ.ən/ *(noun)*: sự phá dỡ  
+  *Example:* The demolition of historic buildings can damage cultural heritage.  
+  → Việc phá dỡ các tòa nhà lịch sử có thể làm tổn hại di sản văn hóa.
+
+* **demolished** /dɪˈmɒl.ɪʃt/ *(adjective/verb form)*: bị phá dỡ  
+  *Example:* The demolished houses were replaced by a shopping centre.  
+  → Những ngôi nhà bị phá dỡ đã được thay bằng một trung tâm mua sắm.
+
+### Notes
+
+`Demolish` usually implies complete destruction, while `damage` may be only partial.
+
+---
+
+## 214. Dental /ˈden.təl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc về răng hoặc nha khoa *(95%)*; âm răng trong ngôn ngữ học *(5%)*
+
+### Usage
+
+`Dental` is used before nouns related to teeth, dentists, and oral health.
+
+Common structures:
+
+* `dental care`: chăm sóc răng miệng
+* `dental problem`: vấn đề về răng
+* `dental clinic`: phòng khám nha khoa
+
+### Examples
+
+1. **Regular dental check-ups can prevent serious tooth problems.**
+   → Khám răng định kỳ có thể ngăn ngừa các vấn đề răng nghiêm trọng.
+
+2. **Many children need better access to dental care.**
+   → Nhiều trẻ em cần được tiếp cận tốt hơn với chăm sóc răng miệng.
+
+### Common collocations
+
+* **dental care**: chăm sóc răng miệng
+* **dental clinic**: phòng khám nha khoa
+* **dental health**: sức khỏe răng miệng
+
+### Word family
+
+* **dental** /ˈden.təl/ *(adjective)*: thuộc về răng/nha khoa  
+  *Example:* Dental health is an important part of general health.  
+  → Sức khỏe răng miệng là một phần quan trọng của sức khỏe tổng thể.
+
+* **dentist** /ˈden.tɪst/ *(noun)*: nha sĩ  
+  *Example:* You should see a dentist if the pain continues.  
+  → Bạn nên gặp nha sĩ nếu cơn đau tiếp tục.
+
+* **dentistry** /ˈden.tɪ.stri/ *(noun)*: ngành nha khoa  
+  *Example:* Dentistry has become more advanced with digital technology.  
+  → Ngành nha khoa đã trở nên tiên tiến hơn nhờ công nghệ kỹ thuật số.
+
+### Notes
+
+Use `dental` before nouns, such as `dental care`, not usually after `be`: say `This is a dental problem`, not `This problem is dental`.
+
+---
+
+## 215. Dentistry /ˈden.tɪ.stri/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** ngành nha khoa *(80%)*; việc điều trị và chăm sóc răng *(20%)*
+
+### Usage
+
+`Dentistry` refers to the medical field that deals with teeth, gums, and oral health.
+
+Common structures:
+
+* `study dentistry`: học ngành nha khoa
+* `modern dentistry`: nha khoa hiện đại
+* `a career in dentistry`: sự nghiệp trong ngành nha khoa
+
+### Examples
+
+1. **She wants to study dentistry at university.**
+   → Cô ấy muốn học ngành nha khoa ở đại học.
+
+2. **Modern dentistry can treat many problems with less pain.**
+   → Nha khoa hiện đại có thể điều trị nhiều vấn đề với ít đau hơn.
+
+### Common collocations
+
+* **study dentistry**: học nha khoa
+* **modern dentistry**: nha khoa hiện đại
+* **cosmetic dentistry**: nha khoa thẩm mỹ
+
+### Word family
+
+* **dentistry** /ˈden.tɪ.stri/ *(noun)*: ngành nha khoa  
+  *Example:* Dentistry requires both scientific knowledge and practical skill.  
+  → Ngành nha khoa đòi hỏi cả kiến thức khoa học và kỹ năng thực hành.
+
+* **dentist** /ˈden.tɪst/ *(noun)*: nha sĩ  
+  *Example:* The dentist explained the treatment clearly.  
+  → Nha sĩ giải thích phương pháp điều trị một cách rõ ràng.
+
+* **dental** /ˈden.təl/ *(adjective)*: thuộc về răng/nha khoa  
+  *Example:* Dental insurance can reduce the cost of treatment.  
+  → Bảo hiểm nha khoa có thể giảm chi phí điều trị.
+
+### Notes
+
+`Dentistry` is uncountable. Say `a field of dentistry` or `a branch of dentistry`, not `a dentistry`.
+
+---
+
+## 216. Digital /ˈdɪdʒ.ɪ.təl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** kỹ thuật số, dùng công nghệ số *(85%)*; liên quan đến ngón tay/ngón chân *(15%)*
+
+### Usage
+
+`Digital` is widely used for technology, media, devices, skills, platforms, and data.
+
+Common structures:
+
+* `digital technology/device`: công nghệ/thiết bị kỹ thuật số
+* `digital skills`: kỹ năng số
+* `digital access/divide`: khả năng tiếp cận số/khoảng cách số
+
+### Examples
+
+1. **Digital technology has changed the way students learn.**
+   → Công nghệ kỹ thuật số đã thay đổi cách học sinh học tập.
+
+2. **Governments should improve digital access in rural areas.**
+   → Chính phủ nên cải thiện khả năng tiếp cận công nghệ số ở vùng nông thôn.
+
+### Common collocations
+
+* **digital technology**: công nghệ kỹ thuật số
+* **digital skills**: kỹ năng số
+* **digital divide**: khoảng cách số
+
+### Word family
+
+* **digital** /ˈdɪdʒ.ɪ.təl/ *(adjective)*: kỹ thuật số  
+  *Example:* Digital tools can make learning more flexible.  
+  → Công cụ kỹ thuật số có thể làm việc học linh hoạt hơn.
+
+* **digitise** /ˈdɪdʒ.ɪ.taɪz/ *(verb)*: số hóa  
+  *Example:* Many museums digitise old documents to protect them.  
+  → Nhiều bảo tàng số hóa tài liệu cũ để bảo vệ chúng.
+
+* **digitisation** /ˌdɪdʒ.ɪ.taɪˈzeɪ.ʃən/ *(noun)*: sự số hóa  
+  *Example:* Digitisation has improved access to public records.  
+  → Sự số hóa đã cải thiện khả năng tiếp cận hồ sơ công.
+
+### Notes
+
+`Digital` is the opposite of `analogue` in technology.
+
+---
+
+## 217. Ditch /dɪtʃ/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** mương/rãnh thoát nước *(45%)*; bỏ rơi hoặc từ bỏ *(35%)*; bỏ học/nghỉ việc không chính thức *(20%)*
+
+### Usage
+
+As a noun, `ditch` means a long narrow channel beside a road or field. As a verb, it means to abandon something or someone.
+
+Common structures:
+
+* `fall into a ditch`: rơi xuống mương
+* `ditch + plan/habit`: bỏ kế hoạch/thói quen
+* `ditch school/work`: trốn học/nghỉ làm không chính thức
+
+### Examples
+
+1. **Rainwater flowed into the ditch beside the road.**
+   → Nước mưa chảy vào mương bên đường.
+
+2. **Many people are trying to ditch unhealthy habits.**
+   → Nhiều người đang cố bỏ các thói quen không lành mạnh.
+
+### Common collocations
+
+* **roadside ditch**: mương bên đường
+* **drainage ditch**: mương thoát nước
+* **ditch a plan**: bỏ một kế hoạch
+
+### Word family
+
+* **ditch** /dɪtʃ/ *(noun/verb)*: mương; từ bỏ  
+  *Example:* The farmer dug a ditch to drain the field.  
+  → Người nông dân đào một cái mương để thoát nước cho cánh đồng.
+
+* **ditched** /dɪtʃt/ *(adjective/verb form)*: bị bỏ rơi; đã từ bỏ  
+  *Example:* The ditched proposal was too expensive.  
+  → Đề xuất bị bỏ đó quá tốn kém.
+
+* **ditching** /ˈdɪtʃ.ɪŋ/ *(noun/verb form)*: việc từ bỏ; đang bỏ  
+  *Example:* Ditching plastic bags can reduce waste.  
+  → Việc bỏ túi nhựa có thể giảm rác thải.
+
+### Notes
+
+`Ditch` as a verb is informal. In formal writing, use `abandon`, `give up`, or `stop using`.
+
+---
+
+## 218. Dusk /dʌsk/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** hoàng hôn, lúc chạng vạng tối *(90%)*; bóng tối nhẹ cuối ngày *(10%)*
+
+### Usage
+
+`Dusk` refers to the time in the evening when the sun has gone down but it is not completely dark.
+
+Common structures:
+
+* `at dusk`: lúc hoàng hôn
+* `from dawn to dusk`: từ bình minh đến hoàng hôn
+* `before/after dusk`: trước/sau hoàng hôn
+
+### Examples
+
+1. **The streets become quieter at dusk.**
+   → Đường phố trở nên yên tĩnh hơn lúc hoàng hôn.
+
+2. **Tourists should return before dusk because the path is unsafe.**
+   → Du khách nên quay lại trước hoàng hôn vì lối đi không an toàn.
+
+### Common collocations
+
+* **at dusk**: lúc hoàng hôn
+* **from dawn to dusk**: từ sáng đến tối
+* **dusk falls**: hoàng hôn buông xuống
+
+### Word family
+
+* **dusk** /dʌsk/ *(noun)*: hoàng hôn, chạng vạng tối  
+  *Example:* The birds returned to the trees at dusk.  
+  → Chim quay về cây lúc hoàng hôn.
+
+* **dusky** /ˈdʌs.ki/ *(adjective)*: tối mờ, chạng vạng  
+  *Example:* The village looked peaceful in the dusky light.  
+  → Ngôi làng trông yên bình trong ánh sáng chạng vạng.
+
+* **duskiness** /ˈdʌs.ki.nəs/ *(noun)*: sự tối mờ  
+  *Example:* The duskiness of the room made it feel calm.  
+  → Sự tối mờ của căn phòng khiến nó có cảm giác yên bình.
+
+### Notes
+
+`Dusk` is the evening equivalent of `dawn`, which means early morning light.
+
+---
+
+## 219. Enormous /ɪˈnɔː.məs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** rất lớn, khổng lồ *(80%)*; rất nhiều/rất nghiêm trọng *(20%)*
+
+### Usage
+
+`Enormous` describes something extremely large in size, amount, scale, or importance.
+
+Common structures:
+
+* `an enormous amount of + noun`: một lượng cực lớn
+* `enormous pressure/cost/impact`: áp lực/chi phí/tác động rất lớn
+* `enormous difference`: sự khác biệt rất lớn
+
+### Examples
+
+1. **The project requires an enormous amount of funding.**
+   → Dự án đòi hỏi một lượng kinh phí cực lớn.
+
+2. **Tourism has had an enormous impact on the local economy.**
+   → Du lịch đã có tác động rất lớn đến nền kinh tế địa phương.
+
+### Common collocations
+
+* **enormous amount**: lượng cực lớn
+* **enormous impact**: tác động rất lớn
+* **enormous pressure**: áp lực rất lớn
+
+### Word family
+
+* **enormous** /ɪˈnɔː.məs/ *(adjective)*: rất lớn, khổng lồ  
+  *Example:* The city faces enormous housing demand.  
+  → Thành phố đối mặt với nhu cầu nhà ở rất lớn.
+
+* **enormously** /ɪˈnɔː.məs.li/ *(adverb)*: vô cùng, cực kỳ  
+  *Example:* Online learning has grown enormously in recent years.  
+  → Học trực tuyến đã phát triển cực kỳ nhanh trong những năm gần đây.
+
+* **enormity** /ɪˈnɔː.mə.ti/ *(noun)*: mức độ to lớn/nghiêm trọng  
+  *Example:* People slowly realised the enormity of the environmental damage.  
+  → Mọi người dần nhận ra mức độ nghiêm trọng của thiệt hại môi trường.
+
+### Notes
+
+`Enormous` is stronger than `big` and is useful in IELTS Writing for scale and impact.
+
+---
+
+## 220. Erect /ɪˈrekt/
+
+* **Part of speech:** transitive verb; adjective
+* **Vietnamese meaning:** dựng lên, xây dựng *(65%)*; thẳng đứng, đứng thẳng *(30%)*; cương cứng trong ngữ cảnh sinh học/y khoa *(5%)*
+
+### Usage
+
+`Erect` is a formal verb meaning to build or put something upright, such as a statue, fence, or building.
+
+Common structures:
+
+* `erect a building/statue/fence`: dựng/xây một tòa nhà/tượng/hàng rào
+* `stand/sit erect`: đứng/ngồi thẳng
+* `be erected in + place`: được dựng ở nơi nào
+
+### Examples
+
+1. **A memorial was erected in the town centre.**
+   → Một đài tưởng niệm đã được dựng ở trung tâm thị trấn.
+
+2. **The workers erected a temporary fence around the site.**
+   → Công nhân dựng một hàng rào tạm thời quanh công trường.
+
+### Common collocations
+
+* **erect a statue**: dựng tượng
+* **erect a fence**: dựng hàng rào
+* **stand erect**: đứng thẳng
+
+### Word family
+
+* **erect** /ɪˈrekt/ *(verb/adjective)*: dựng lên; thẳng đứng  
+  *Example:* The council plans to erect a new public monument.  
+  → Hội đồng dự định dựng một tượng đài công cộng mới.
+
+* **erection** /ɪˈrek.ʃən/ *(noun)*: sự dựng lên/xây dựng; sự cương cứng  
+  *Example:* The erection of new bridges improved transport links.  
+  → Việc xây dựng các cây cầu mới đã cải thiện kết nối giao thông.
+
+* **erected** /ɪˈrek.tɪd/ *(adjective/verb form)*: được dựng lên  
+  *Example:* The newly erected sign warned drivers about the danger.  
+  → Biển báo mới được dựng lên cảnh báo tài xế về nguy hiểm.
+
+### Notes
+
+In academic or public-space contexts, `erect` is formal and natural. Be aware that it can have a biological meaning in medical contexts.
+
+---
+
+## 221. Flaunt /flɔːnt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** khoe khoang, phô trương *(90%)*; phớt lờ luật lệ một cách công khai *(10%, often confused with `flout`)*
+
+### Usage
+
+`Flaunt` means to show money, beauty, success, or possessions in a way that attracts attention and may annoy others.
+
+Common structures:
+
+* `flaunt + wealth/status/success`: khoe của/địa vị/thành công
+* `flaunt something on social media`: khoe điều gì trên mạng xã hội
+* `flaunt the rules`: công khai phớt lờ luật lệ
+
+### Examples
+
+1. **Some influencers flaunt their wealth on social media.**
+   → Một số người có ảnh hưởng khoe sự giàu có của họ trên mạng xã hội.
+
+2. **It is insensitive to flaunt luxury goods in a poor community.**
+   → Việc phô trương hàng xa xỉ trong một cộng đồng nghèo là thiếu tinh tế.
+
+### Common collocations
+
+* **flaunt wealth**: khoe của
+* **flaunt success**: khoe thành công
+* **flaunt luxury goods**: phô trương hàng xa xỉ
+
+### Word family
+
+* **flaunt** /flɔːnt/ *(verb)*: khoe khoang, phô trương  
+  *Example:* He does not like to flaunt his achievements.  
+  → Anh ấy không thích khoe khoang thành tích của mình.
+
+* **flaunting** /ˈflɔːn.tɪŋ/ *(noun/verb form)*: sự khoe khoang; đang phô trương  
+  *Example:* The flaunting of wealth can create resentment.  
+  → Việc khoe của có thể tạo ra sự oán giận.
+
+* **flaunted** /flɔːn.tɪd/ *(adjective/verb form)*: được phô trương, được khoe ra  
+  *Example:* The flaunted wealth made some local people uncomfortable.  
+  → Sự giàu có được phô trương khiến một số người địa phương không thoải mái.
+
+### Notes
+
+Do not confuse `flaunt` with `flout`. `Flaunt` = show off; `flout` = openly disobey a rule.
+
+---
+
+## 222. Foliage /ˈfəʊ.li.ɪdʒ/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** tán lá, lá cây nói chung *(90%)*; cây lá trang trí *(10%)*
+
+### Usage
+
+`Foliage` refers to the leaves of plants or trees collectively, especially when describing scenery.
+
+Common structures:
+
+* `dense/thick foliage`: tán lá rậm rạp
+* `green/autumn foliage`: tán lá xanh/lá mùa thu
+* `be covered in foliage`: được bao phủ bởi tán lá
+
+### Examples
+
+1. **The path was hidden by thick foliage.**
+   → Lối đi bị che khuất bởi tán lá rậm rạp.
+
+2. **Autumn foliage attracts many visitors to the countryside.**
+   → Lá mùa thu thu hút nhiều du khách đến vùng nông thôn.
+
+### Common collocations
+
+* **thick foliage**: tán lá rậm rạp
+* **green foliage**: tán lá xanh
+* **autumn foliage**: lá mùa thu
+
+### Word family
+
+* **foliage** /ˈfəʊ.li.ɪdʒ/ *(noun)*: tán lá, lá cây  
+  *Example:* The hotel balcony was surrounded by tropical foliage.  
+  → Ban công khách sạn được bao quanh bởi tán lá nhiệt đới.
+
+* **foliate** /ˈfəʊ.li.eɪt/ *(verb/adjective)*: mọc lá; có dạng lá  
+  *Example:* Some plants foliate quickly after rain.  
+  → Một số cây mọc lá nhanh sau mưa.
+
+* **foliated** /ˈfəʊ.li.eɪ.tɪd/ *(adjective)*: có lá; được trang trí hình lá  
+  *Example:* The old gate had a foliated pattern.  
+  → Cánh cổng cũ có hoa văn hình lá.
+
+### Notes
+
+`Foliage` is uncountable. Do not say `foliages`; say `leaves` if you mean individual leaves.
+
+---
+
+## 223. Forefront /ˈfɔː.frʌnt/
+
+* **Part of speech:** singular noun
+* **Vietnamese meaning:** vị trí hàng đầu, tuyến đầu trong một lĩnh vực *(85%)*; phần phía trước *(15%)*
+
+### Usage
+
+`Forefront` is common in academic writing to describe leading positions in science, technology, policy, or social change.
+
+Common structures:
+
+* `at the forefront of + noun`: ở vị trí hàng đầu trong lĩnh vực nào
+* `bring something to the forefront`: đưa điều gì lên vị trí nổi bật
+* `remain at the forefront`: tiếp tục ở vị trí tiên phong
+
+### Examples
+
+1. **Universities should be at the forefront of scientific research.**
+   → Các trường đại học nên ở tuyến đầu của nghiên cứu khoa học.
+
+2. **Climate change has moved to the forefront of public debate.**
+   → Biến đổi khí hậu đã trở thành vấn đề nổi bật trong tranh luận công chúng.
+
+### Common collocations
+
+* **at the forefront of research**: ở tuyến đầu nghiên cứu
+* **forefront of innovation**: vị trí tiên phong trong đổi mới
+* **bring to the forefront**: đưa lên vị trí nổi bật
+
+### Word family
+
+* **forefront** /ˈfɔː.frʌnt/ *(noun)*: tuyến đầu, vị trí hàng đầu  
+  *Example:* The company is at the forefront of digital innovation.  
+  → Công ty ở vị trí tiên phong trong đổi mới kỹ thuật số.
+
+* **front** /frʌnt/ *(noun/adjective/verb)*: phía trước; mặt trước; đối mặt  
+  *Example:* The front of the building faces the canal.  
+  → Mặt trước của tòa nhà hướng ra kênh.
+
+* **frontline** /ˈfrʌnt.laɪn/ *(noun/adjective)*: tuyến đầu  
+  *Example:* Frontline workers need strong public support.  
+  → Nhân viên tuyến đầu cần sự hỗ trợ mạnh mẽ từ cộng đồng.
+
+### Notes
+
+The common phrase is `at the forefront of`, not `in the forefront of` in most modern usage.
+
+---
+
+## 224. Formerly /ˈfɔː.mə.li/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** trước đây, formerly known as *(85%)*; theo tên/chức vụ cũ *(15%)*
+
+### Usage
+
+`Formerly` means that something was true in the past but is no longer true now.
+
+Common structures:
+
+* `formerly known as + name`: trước đây được biết đến với tên là
+* `formerly used as + noun`: trước đây được dùng làm gì
+* `formerly part of + place/group`: trước đây là một phần của nơi/nhóm nào
+
+### Examples
+
+1. **The building was formerly used as an inn.**
+   → Tòa nhà trước đây được dùng làm quán trọ.
+
+2. **The city, formerly a small port, is now a major tourist destination.**
+   → Thành phố này, trước đây là một cảng nhỏ, hiện là một điểm du lịch lớn.
+
+### Common collocations
+
+* **formerly known as**: trước đây được biết đến là
+* **formerly used as**: trước đây được dùng làm
+* **formerly part of**: trước đây là một phần của
+
+### Word family
+
+* **formerly** /ˈfɔː.mə.li/ *(adverb)*: trước đây  
+  *Example:* The school was formerly a private house.  
+  → Ngôi trường trước đây là một ngôi nhà riêng.
+
+* **former** /ˈfɔː.mər/ *(adjective/noun)*: trước đây; người cũ/cựu  
+  *Example:* The former mayor supported the new transport plan.  
+  → Cựu thị trưởng ủng hộ kế hoạch giao thông mới.
+
+* **form** /fɔːm/ *(noun/verb)*: hình thức; tạo thành  
+  *Example:* Education can form a person's values.  
+  → Giáo dục có thể hình thành các giá trị của một người.
+
+### Notes
+
+`Formerly` is more formal than `before`. It is useful in descriptions of places, organisations, and historical change.
+
+---
+
+## 225. Fracture /ˈfræk.tʃər/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** vết gãy xương hoặc nứt vật cứng *(65%)*; làm gãy/nứt *(25%)*; sự rạn nứt trong quan hệ/xã hội *(10%)*
+
+### Usage
+
+`Fracture` is often used in medical contexts for broken bones and in formal contexts for divisions in society or relationships.
+
+Common structures:
+
+* `a bone/skull fracture`: gãy xương/nứt sọ
+* `fracture + bone/object`: làm gãy/nứt xương/vật
+* `fracture relations/trust`: làm rạn nứt quan hệ/lòng tin
+
+### Examples
+
+1. **The accident caused a fracture in his left arm.**
+   → Vụ tai nạn gây ra một vết gãy ở cánh tay trái của anh ấy.
+
+2. **Political conflict can fracture trust within a community.**
+   → Xung đột chính trị có thể làm rạn nứt lòng tin trong cộng đồng.
+
+### Common collocations
+
+* **bone fracture**: gãy xương
+* **hairline fracture**: vết nứt xương nhỏ
+* **fracture trust**: làm rạn nứt lòng tin
+
+### Word family
+
+* **fracture** /ˈfræk.tʃər/ *(noun/verb)*: vết gãy; làm gãy/nứt  
+  *Example:* A fracture needs proper medical treatment.  
+  → Một vết gãy cần được điều trị y tế đúng cách.
+
+* **fractured** /ˈfræk.tʃəd/ *(adjective/verb form)*: bị gãy; rạn nứt  
+  *Example:* The fractured bone took weeks to heal.  
+  → Xương bị gãy mất nhiều tuần để lành.
+
+* **fracturing** /ˈfræk.tʃər.ɪŋ/ *(noun/verb form)*: sự nứt/gãy; việc làm rạn nứt  
+  *Example:* Social fracturing can weaken national unity.  
+  → Sự rạn nứt xã hội có thể làm suy yếu đoàn kết quốc gia.
+
+### Notes
+
+`Fracture` is more formal/medical than `break`. In daily English, people often say `break a bone`.
+
+---
+
+## 226. Frenzy /ˈfren.zi/
+
+* **Part of speech:** countable noun; uncountable noun
+* **Vietnamese meaning:** trạng thái hỗn loạn, kích động cao độ *(70%)*; cơn sốt/đợt hoạt động điên cuồng *(30%)*
+
+### Usage
+
+`Frenzy` describes excited, uncontrolled activity or emotion, often in crowds, media, or markets.
+
+Common structures:
+
+* `in a frenzy`: trong trạng thái điên cuồng/hỗn loạn
+* `a frenzy of + activity`: một đợt hoạt động dồn dập
+* `media/shopping frenzy`: cơn sốt truyền thông/mua sắm
+
+### Examples
+
+1. **The announcement caused a media frenzy.**
+   → Thông báo đó gây ra một cơn sốt truyền thông.
+
+2. **Shoppers were in a frenzy during the sale.**
+   → Người mua sắm ở trong trạng thái hỗn loạn trong đợt giảm giá.
+
+### Common collocations
+
+* **media frenzy**: cơn sốt truyền thông
+* **shopping frenzy**: cơn sốt mua sắm
+* **in a frenzy**: trong trạng thái điên cuồng
+
+### Word family
+
+* **frenzy** /ˈfren.zi/ *(noun)*: cơn hỗn loạn; sự điên cuồng  
+  *Example:* The celebrity's visit created a frenzy among fans.  
+  → Chuyến thăm của người nổi tiếng đã tạo ra sự cuồng nhiệt trong người hâm mộ.
+
+* **frenzied** /ˈfren.zid/ *(adjective)*: điên cuồng, náo loạn  
+  *Example:* The market saw frenzied buying before the holiday.  
+  → Thị trường chứng kiến việc mua sắm điên cuồng trước kỳ nghỉ.
+
+* **frenetically** /frəˈnet.ɪ.kəl.i/ *(adverb)*: một cách điên cuồng, hối hả  
+  *Example:* Reporters worked frenetically to cover the breaking news.  
+  → Các phóng viên làm việc hối hả để đưa tin nóng.
+
+### Notes
+
+`Frenzy` is stronger than `excitement`; it suggests loss of control or extreme activity.
+
+---
+
+## 227. Gaze /ɡeɪz/
+
+* **Part of speech:** intransitive verb; countable noun
+* **Vietnamese meaning:** nhìn chăm chú *(75%)*; ánh nhìn chăm chú *(25%)*
+
+### Usage
+
+`Gaze` means to look steadily at someone or something, often because of interest, admiration, or deep thought.
+
+Common structures:
+
+* `gaze at + noun`: nhìn chăm chú vào ai/cái gì
+* `gaze into + place/object`: nhìn sâu vào nơi/vật gì
+* `hold someone's gaze`: giữ ánh nhìn của ai
+
+### Examples
+
+1. **Tourists gazed at the brilliant night sky in awe.**
+   → Du khách nhìn chăm chú bầu trời đêm rực rỡ với sự kinh ngạc.
+
+2. **She sat by the canal and gazed into the water.**
+   → Cô ấy ngồi bên kênh và nhìn chăm chú xuống nước.
+
+### Common collocations
+
+* **gaze at the sky**: nhìn chăm chú lên bầu trời
+* **steady gaze**: ánh nhìn ổn định/chăm chú
+* **hold someone's gaze**: nhìn thẳng và giữ ánh mắt của ai
+
+### Word family
+
+* **gaze** /ɡeɪz/ *(verb/noun)*: nhìn chăm chú; ánh nhìn  
+  *Example:* His gaze moved slowly across the landscape.  
+  → Ánh mắt anh ấy chậm rãi lướt qua phong cảnh.
+
+* **gazer** /ˈɡeɪ.zər/ *(noun)*: người nhìn chăm chú  
+  *Example:* Stargazers gathered on the hill at dusk.  
+  → Những người ngắm sao tụ tập trên đồi lúc hoàng hôn.
+
+* **gazing** /ˈɡeɪ.zɪŋ/ *(noun/verb form)*: việc nhìn chăm chú; đang nhìn  
+  *Example:* Gazing at nature can make people feel calm.  
+  → Việc nhìn ngắm thiên nhiên có thể khiến con người cảm thấy bình yên.
+
+### Notes
+
+`Gaze` is softer and more thoughtful than `stare`, which can sound rude or intense.
+
+---
+
+## 228. Give way to /ˌɡɪv ˈweɪ tuː/
+
+* **Part of speech:** phrasal verb; verb phrase
+* **Vietnamese meaning:** nhường chỗ cho, được thay thế bởi *(45%)*; nhường đường cho xe/người khác *(35%)*; sụp đổ/không chịu nổi *(20%)*
+
+### Usage
+
+`Give way to` can mean to be replaced by something, to allow another road user to go first, or to collapse under pressure.
+
+Common structures:
+
+* `give way to + noun`: nhường chỗ cho/được thay thế bởi điều gì
+* `give way to traffic/pedestrians`: nhường đường cho xe/người đi bộ
+* `bridge/floor gives way`: cầu/sàn sụp xuống
+
+### Examples
+
+1. **Traditional shops are giving way to large shopping centres.**
+   → Các cửa hàng truyền thống đang nhường chỗ cho những trung tâm mua sắm lớn.
+
+2. **Drivers must give way to pedestrians at this crossing.**
+   → Tài xế phải nhường đường cho người đi bộ tại vạch qua đường này.
+
+### Common collocations
+
+* **give way to pedestrians**: nhường đường cho người đi bộ
+* **give way to pressure**: chịu thua áp lực
+* **give way to modern buildings**: nhường chỗ cho các tòa nhà hiện đại
+
+### Word family
+
+* **give way to** /ˌɡɪv ˈweɪ tuː/ *(phrasal verb)*: nhường chỗ; nhường đường; sụp đổ  
+  *Example:* Old factories gave way to new apartment blocks.  
+  → Các nhà máy cũ nhường chỗ cho những khu căn hộ mới.
+
+* **give way** /ˌɡɪv ˈweɪ/ *(phrasal verb)*: nhường đường; sụp xuống  
+  *Example:* The old bridge gave way during the storm.  
+  → Cây cầu cũ đã sụp trong cơn bão.
+
+* **right of way** /ˌraɪt əv ˈweɪ/ *(noun phrase)*: quyền đi trước/quyền ưu tiên đường  
+  *Example:* Pedestrians have the right of way at this crossing.  
+  → Người đi bộ có quyền ưu tiên tại vạch qua đường này.
+
+### Notes
+
+In British road signs, `Give Way` means `Yield` in American English.
+
+---
+
+## 229. Herb UK: /hɜːb/ US: /ɜːrb/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thảo mộc dùng trong nấu ăn hoặc làm thuốc *(85%)*; cây thân thảo *(15%)*
+
+### Usage
+
+`Herb` refers to a plant used for flavour, medicine, or scent.
+
+Common structures:
+
+* `fresh/dried herbs`: thảo mộc tươi/khô
+* `medicinal herbs`: thảo dược chữa bệnh
+* `grow herbs`: trồng thảo mộc
+
+### Examples
+
+1. **Fresh herbs can improve the flavour of simple dishes.**
+   → Thảo mộc tươi có thể làm món ăn đơn giản ngon hơn.
+
+2. **Some people use medicinal herbs to support their health.**
+   → Một số người dùng thảo dược để hỗ trợ sức khỏe.
+
+### Common collocations
+
+* **fresh herbs**: thảo mộc tươi
+* **dried herbs**: thảo mộc khô
+* **medicinal herbs**: thảo dược
+
+### Word family
+
+* **herb** /hɜːb/ *(noun)*: thảo mộc  
+  *Example:* Mint is a common herb used in drinks and food.  
+  → Bạc hà là một loại thảo mộc phổ biến dùng trong đồ uống và món ăn.
+
+* **herbal** /ˈhɜː.bəl/ *(adjective)*: thuộc về thảo mộc/thảo dược  
+  *Example:* Herbal tea is popular with people who avoid caffeine.  
+  → Trà thảo mộc phổ biến với những người tránh caffeine.
+
+* **herbalist** /ˈhɜː.bəl.ɪst/ *(noun)*: người bán hoặc chuyên dùng thảo dược  
+  *Example:* A herbalist recommended a mild tea for relaxation.  
+  → Một người chuyên thảo dược đã gợi ý một loại trà nhẹ để thư giãn.
+
+### Notes
+
+In British English, the `h` in `herb` is pronounced. In American English, it is often silent.
+
+---
+
+## 230. Hollow /ˈhɒl.əʊ/
+
+* **Part of speech:** adjective; countable noun; transitive verb
+* **Vietnamese meaning:** rỗng bên trong *(55%)*; trống rỗng/không chân thành về cảm xúc *(30%)*; chỗ lõm/hốc *(15%)*
+
+### Usage
+
+`Hollow` describes something empty inside or a feeling, promise, or sound that lacks depth or sincerity.
+
+Common structures:
+
+* `hollow tree/object`: cây/vật rỗng bên trong
+* `hollow promise/victory`: lời hứa/chiến thắng trống rỗng
+* `hollow out + noun`: khoét rỗng cái gì
+
+### Examples
+
+1. **The children found a bird's nest inside a hollow tree.**
+   → Bọn trẻ tìm thấy một tổ chim bên trong một cái cây rỗng.
+
+2. **The apology sounded hollow because he made the same mistake again.**
+   → Lời xin lỗi nghe có vẻ không chân thành vì anh ấy lại mắc cùng lỗi đó.
+
+### Common collocations
+
+* **hollow tree**: cây rỗng ruột
+* **hollow sound**: âm thanh rỗng
+* **hollow promise**: lời hứa trống rỗng
+
+### Word family
+
+* **hollow** /ˈhɒl.əʊ/ *(adjective/noun/verb)*: rỗng; chỗ lõm; khoét rỗng  
+  *Example:* The old log was hollow inside.  
+  → Khúc gỗ cũ rỗng bên trong.
+
+* **hollowed** /ˈhɒl.əʊd/ *(adjective/verb form)*: bị khoét rỗng  
+  *Example:* The hollowed stone was used as a small bowl.  
+  → Hòn đá bị khoét rỗng được dùng như một cái bát nhỏ.
+
+* **hollowness** /ˈhɒl.əʊ.nəs/ *(noun)*: sự rỗng; cảm giác trống rỗng  
+  *Example:* The speech had a sense of hollowness.  
+  → Bài phát biểu có cảm giác trống rỗng.
+
+### Notes
+
+`Hollow` can be literal (`a hollow tree`) or emotional/abstract (`a hollow promise`).
+
+---
+
+## 231. Hunter-gatherer /ˌhʌn.təˈɡæð.ər.ər/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** người săn bắt hái lượm *(85%)*; thuộc xã hội/lối sống săn bắt hái lượm *(15%)*
+
+### Usage
+
+`Hunter-gatherer` refers to people or societies that live by hunting animals and gathering wild plants rather than farming.
+
+Common structures:
+
+* `hunter-gatherer society`: xã hội săn bắt hái lượm
+* `hunter-gatherer lifestyle`: lối sống săn bắt hái lượm
+* `early hunter-gatherers`: những người săn bắt hái lượm thời kỳ đầu
+
+### Examples
+
+1. **Hunter-gatherer societies depended directly on nature for survival.**
+   → Các xã hội săn bắt hái lượm phụ thuộc trực tiếp vào thiên nhiên để sinh tồn.
+
+2. **Early hunter-gatherers moved frequently to find food.**
+   → Những người săn bắt hái lượm thời kỳ đầu di chuyển thường xuyên để tìm thức ăn.
+
+### Common collocations
+
+* **hunter-gatherer society**: xã hội săn bắt hái lượm
+* **hunter-gatherer lifestyle**: lối sống săn bắt hái lượm
+* **early hunter-gatherers**: người săn bắt hái lượm thời kỳ đầu
+
+### Word family
+
+* **hunter-gatherer** /ˌhʌn.təˈɡæð.ər.ər/ *(noun/adjective)*: người/xã hội săn bắt hái lượm  
+  *Example:* Hunter-gatherer communities had deep knowledge of local plants.  
+  → Các cộng đồng săn bắt hái lượm có hiểu biết sâu về cây cối địa phương.
+
+* **hunter** /ˈhʌn.tər/ *(noun)*: thợ săn, người săn bắt  
+  *Example:* The hunter followed animal tracks through the forest.  
+  → Người thợ săn lần theo dấu động vật trong rừng.
+
+* **gatherer** /ˈɡæð.ər.ər/ *(noun)*: người hái lượm/thu gom  
+  *Example:* Gatherers collected berries, roots, and herbs.  
+  → Những người hái lượm thu thập quả mọng, rễ cây và thảo mộc.
+
+### Notes
+
+Use a hyphen in `hunter-gatherer`. The plural is `hunter-gatherers`.
+
+---
+
+## 232. Imminent /ˈɪm.ɪ.nənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** sắp xảy ra, cận kề *(90%)*; sắp đến rất gần về thời gian *(10%)*
+
+### Usage
+
+`Imminent` describes something, often serious or important, that is expected to happen very soon.
+
+Common structures:
+
+* `an imminent threat/danger`: mối đe dọa/nguy hiểm sắp xảy ra
+* `be imminent`: sắp xảy ra
+* `imminent arrival/collapse/change`: sự đến/sụp đổ/thay đổi sắp diễn ra
+
+### Examples
+
+1. **The government warned residents of an imminent storm.**
+   → Chính phủ cảnh báo người dân về một cơn bão sắp xảy ra.
+
+2. **Experts believe that major changes in transport are imminent.**
+   → Các chuyên gia tin rằng những thay đổi lớn trong giao thông sắp diễn ra.
+
+### Common collocations
+
+* **imminent danger**: nguy hiểm cận kề
+* **imminent threat**: mối đe dọa sắp xảy ra
+* **imminent change**: thay đổi sắp diễn ra
+
+### Word family
+
+* **imminent** /ˈɪm.ɪ.nənt/ *(adjective)*: sắp xảy ra, cận kề  
+  *Example:* The village prepared for the imminent flood.  
+  → Ngôi làng chuẩn bị cho trận lũ sắp xảy ra.
+
+* **imminently** /ˈɪm.ɪ.nənt.li/ *(adverb)*: sắp sửa, trong thời gian rất gần  
+  *Example:* The new policy will be announced imminently.  
+  → Chính sách mới sẽ được công bố trong thời gian rất gần.
+
+* **imminence** /ˈɪm.ɪ.nəns/ *(noun)*: tính sắp xảy ra, sự cận kề  
+  *Example:* The imminence of the deadline increased everyone's stress.  
+  → Việc hạn chót sắp đến làm tăng căng thẳng của mọi người.
+
+### Notes
+
+`Imminent` is not the same as `eminent`. `Imminent` = sắp xảy ra; `eminent` = nổi tiếng, lỗi lạc.
+
+---
+
+## 233. Inn /ɪn/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** quán trọ/nhà nghỉ nhỏ, thường truyền thống *(80%)*; quán rượu có chỗ nghỉ ở Anh *(20%)*
+
+### Usage
+
+`Inn` refers to a small hotel or traditional place where travellers can stay, often in the countryside or an old town.
+
+Common structures:
+
+* `stay at an inn`: ở tại một quán trọ
+* `country inn`: quán trọ vùng quê
+* `old/traditional inn`: quán trọ cũ/truyền thống
+
+### Examples
+
+1. **We stayed at a small inn near the canal.**
+   → Chúng tôi ở tại một quán trọ nhỏ gần kênh.
+
+2. **The old inn has a lot of charm.**
+   → Quán trọ cũ có rất nhiều nét duyên dáng.
+
+### Common collocations
+
+* **country inn**: quán trọ vùng quê
+* **old inn**: quán trọ cũ
+* **stay at an inn**: ở tại một quán trọ
+
+### Word family
+
+* **inn** /ɪn/ *(noun)*: quán trọ  
+  *Example:* The inn offers simple rooms for travellers.  
+  → Quán trọ cung cấp phòng đơn giản cho khách đi đường.
+
+* **innkeeper** /ˈɪnˌkiː.pər/ *(noun)*: chủ quán trọ  
+  *Example:* The innkeeper welcomed us warmly.  
+  → Chủ quán trọ chào đón chúng tôi nồng nhiệt.
+
+* **innkeeping** /ˈɪnˌkiː.pɪŋ/ *(noun)*: nghề quản lý quán trọ  
+  *Example:* Innkeeping requires patience and good service skills.  
+  → Nghề quản lý quán trọ đòi hỏi sự kiên nhẫn và kỹ năng phục vụ tốt.
+
+### Notes
+
+`Inn` sounds more traditional or countryside-related than `hotel`.
+
+---
+
+## 234. Innkeeper /ˈɪnˌkiː.pər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** chủ quán trọ/nhà nghỉ nhỏ *(90%)*; người quản lý quán trọ *(10%)*
+
+### Usage
+
+`Innkeeper` refers to the person who owns or manages an inn.
+
+Common structures:
+
+* `the innkeeper welcomed/helped + someone`: chủ quán trọ chào đón/giúp ai
+* `ask the innkeeper about + noun`: hỏi chủ quán trọ về điều gì
+* `local/friendly innkeeper`: chủ quán trọ địa phương/thân thiện
+
+### Examples
+
+1. **The innkeeper gave us a map of the village.**
+   → Chủ quán trọ đưa cho chúng tôi một bản đồ của ngôi làng.
+
+2. **A friendly innkeeper can make a small hotel feel welcoming.**
+   → Một chủ quán trọ thân thiện có thể khiến một khách sạn nhỏ trở nên ấm áp.
+
+### Common collocations
+
+* **friendly innkeeper**: chủ quán trọ thân thiện
+* **local innkeeper**: chủ quán trọ địa phương
+* **ask the innkeeper**: hỏi chủ quán trọ
+
+### Word family
+
+* **innkeeper** /ˈɪnˌkiː.pər/ *(noun)*: chủ quán trọ  
+  *Example:* The innkeeper prepared breakfast for the guests.  
+  → Chủ quán trọ chuẩn bị bữa sáng cho khách.
+
+* **inn** /ɪn/ *(noun)*: quán trọ  
+  *Example:* The inn was full during the holiday weekend.  
+  → Quán trọ đã kín phòng trong cuối tuần nghỉ lễ.
+
+* **innkeeping** /ˈɪnˌkiː.pɪŋ/ *(noun)*: nghề quản lý quán trọ  
+  *Example:* Innkeeping can be demanding during the tourist season.  
+  → Nghề quản lý quán trọ có thể rất vất vả trong mùa du lịch.
+
+### Notes
+
+`Innkeeper` is less common in modern city hotels; `hotel manager` or `receptionist` may be more natural depending on the role.
+
+---
+
+## 235. Memorial /məˈmɔː.ri.əl/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** đài tưởng niệm/vật tưởng niệm *(70%)*; thuộc về việc tưởng nhớ *(30%)*
+
+### Usage
+
+`Memorial` refers to something created to remember a person, group, or event, especially after death or tragedy.
+
+Common structures:
+
+* `a memorial to + person/event`: đài tưởng niệm dành cho ai/sự kiện gì
+* `war memorial`: đài tưởng niệm chiến tranh
+* `memorial service`: lễ tưởng niệm
+
+### Examples
+
+1. **The city built a memorial to honour the victims.**
+   → Thành phố xây một đài tưởng niệm để vinh danh các nạn nhân.
+
+2. **Many tourists visit the war memorial each year.**
+   → Nhiều du khách đến thăm đài tưởng niệm chiến tranh mỗi năm.
+
+### Common collocations
+
+* **war memorial**: đài tưởng niệm chiến tranh
+* **memorial service**: lễ tưởng niệm
+* **memorial statue**: tượng tưởng niệm
+
+### Word family
+
+* **memorial** /məˈmɔː.ri.əl/ *(noun/adjective)*: đài tưởng niệm; thuộc về tưởng nhớ  
+  *Example:* The memorial stands in the centre of the square.  
+  → Đài tưởng niệm nằm ở trung tâm quảng trường.
+
+* **memory** /ˈmem.ər.i/ *(noun)*: ký ức; trí nhớ  
+  *Example:* The trip created many happy memories.  
+  → Chuyến đi đã tạo ra nhiều kỷ niệm vui.
+
+* **commemorate** /kəˈmem.ə.reɪt/ *(verb)*: tưởng niệm, kỷ niệm  
+  *Example:* The ceremony commemorates those who died in the war.  
+  → Buổi lễ tưởng niệm những người đã mất trong chiến tranh.
+
+### Notes
+
+`Memorial` focuses on remembering and honouring. `Monument` can be broader and may celebrate a person, event, or achievement.
+
+---
+
+## 236. Medication /ˌmed.ɪˈkeɪ.ʃən/
+
+* **Part of speech:** uncountable noun; countable noun
+* **Vietnamese meaning:** thuốc nói chung/việc dùng thuốc *(70%)*; một loại thuốc cụ thể *(30%)*
+
+### Usage
+
+`Medication` refers to medicine used to treat an illness. It is often uncountable, but can be countable when referring to different types of medicine.
+
+Common structures:
+
+* `take medication`: dùng/uống thuốc
+* `be on medication`: đang dùng thuốc
+* `prescribe medication`: kê thuốc
+
+### Examples
+
+1. **Patients should take medication exactly as prescribed.**
+   → Bệnh nhân nên dùng thuốc đúng như được kê đơn.
+
+2. **Some medications can cause dizziness.**
+   → Một số loại thuốc có thể gây chóng mặt.
+
+### Common collocations
+
+* **take medication**: dùng thuốc
+* **prescription medication**: thuốc kê đơn
+* **pain medication**: thuốc giảm đau
+
+### Word family
+
+* **medication** /ˌmed.ɪˈkeɪ.ʃən/ *(noun)*: thuốc; việc dùng thuốc  
+  *Example:* Medication can control symptoms but may not cure the disease.  
+  → Thuốc có thể kiểm soát triệu chứng nhưng có thể không chữa khỏi bệnh.
+
+* **medicine** /ˈmed.ɪ.sən/ *(noun)*: thuốc; y học  
+  *Example:* Modern medicine has increased life expectancy.  
+  → Y học hiện đại đã làm tăng tuổi thọ.
+
+* **medicate** /ˈmed.ɪ.keɪt/ *(verb)*: điều trị bằng thuốc  
+  *Example:* Doctors should not medicate patients unnecessarily.  
+  → Bác sĩ không nên điều trị bệnh nhân bằng thuốc khi không cần thiết.
+
+### Notes
+
+`Medication` is more formal than `medicine` when talking about treatment. Say `take medication`, not `eat medication`.
+
+---
+
+## 237. Millennium /mɪˈlen.i.əm/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thiên niên kỷ, khoảng thời gian 1.000 năm *(80%)*; thời điểm chuyển sang năm 2000 hoặc kỷ nguyên mới *(20%)*
+
+### Usage
+
+`Millennium` means a period of one thousand years. It is often used in history, culture, and long-term change.
+
+Common structures:
+
+* `for a millennium`: trong một thiên niên kỷ
+* `over the past millennium`: trong thiên niên kỷ qua
+* `the new millennium`: thiên niên kỷ mới
+
+### Examples
+
+1. **This temple has stood for more than a millennium.**
+   → Ngôi đền này đã tồn tại hơn một thiên niên kỷ.
+
+2. **Digital technology has shaped life in the new millennium.**
+   → Công nghệ kỹ thuật số đã định hình cuộc sống trong thiên niên kỷ mới.
+
+### Common collocations
+
+* **new millennium**: thiên niên kỷ mới
+* **past millennium**: thiên niên kỷ qua
+* **for a millennium**: trong một thiên niên kỷ
+
+### Word family
+
+* **millennium** /mɪˈlen.i.əm/ *(noun)*: thiên niên kỷ  
+  *Example:* Human societies have changed greatly over the last millennium.  
+  → Xã hội loài người đã thay đổi rất nhiều trong thiên niên kỷ qua.
+
+* **millennial** /mɪˈlen.i.əl/ *(adjective/noun)*: thuộc thiên niên kỷ; người thuộc thế hệ Millennials  
+  *Example:* Millennial consumers often value digital convenience.  
+  → Người tiêu dùng thuộc thế hệ Millennials thường coi trọng sự tiện lợi kỹ thuật số.
+
+* **millennia** /mɪˈlen.i.ə/ *(plural noun)*: nhiều thiên niên kỷ  
+  *Example:* Some traditions have survived for millennia.  
+  → Một số truyền thống đã tồn tại trong nhiều thiên niên kỷ.
+
+### Notes
+
+The plural can be `millennia` or `millenniums`, but `millennia` is more common in academic writing.
