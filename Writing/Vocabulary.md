@@ -13095,3 +13095,1032 @@ Common structures:
 ### Notes
 
 `Wear away` focuses on gradual erosion. `Wear out` usually means become unusable because of use.
+
+---
+
+## 267. Arid /ˈær.ɪd/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** khô cằn, rất ít mưa *(75%)*; thiếu sức sống hoặc thiếu thú vị *(25%)*
+
+### Usage
+
+`Arid` is often used to describe land, climate, or regions that are extremely dry. It can also describe writing or ideas that feel dry and uninteresting.
+
+Common structures:
+
+* `arid region/climate`: vùng/khí hậu khô cằn
+* `arid land/soil`: đất khô cằn
+* `arid discussion/style`: cuộc thảo luận/phong cách khô khan
+
+### Examples
+
+1. **Many crops cannot survive in arid regions without irrigation.**
+   → Nhiều loại cây trồng không thể sống ở vùng khô cằn nếu không có tưới tiêu.
+
+2. **The lecture was accurate but rather arid.**
+   → Bài giảng chính xác nhưng khá khô khan.
+
+### Common collocations
+
+* **arid climate**: khí hậu khô cằn
+* **arid region**: vùng khô cằn
+* **arid soil**: đất khô cằn
+
+### Word family
+
+* **arid** /ˈær.ɪd/ *(adjective)*: khô cằn; khô khan  
+  *Example:* Arid land is difficult to farm without reliable water.  
+  → Đất khô cằn rất khó canh tác nếu không có nguồn nước ổn định.
+
+* **aridity** /əˈrɪd.ə.ti/ *(noun)*: sự khô cằn  
+  *Example:* Climate change may increase aridity in some regions.  
+  → Biến đổi khí hậu có thể làm tăng sự khô cằn ở một số khu vực.
+
+* **aridly** /ˈær.ɪd.li/ *(adverb)*: một cách khô khan  
+  *Example:* The report was written aridly, with few clear examples.  
+  → Báo cáo được viết một cách khô khan, với rất ít ví dụ rõ ràng.
+
+### Notes
+
+`Arid` is stronger and more formal than `dry`, especially for geography and climate.
+
+---
+
+## 268. Beak /biːk/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** mỏ chim *(85%)*; phần nhọn giống mỏ chim *(15%)*
+
+### Usage
+
+`Beak` refers to the hard pointed mouth of a bird. It is also used for similar pointed parts in nature or design.
+
+Common structures:
+
+* `a bird's beak`: mỏ chim
+* `sharp/curved beak`: mỏ sắc/cong
+* `use its beak to + verb`: dùng mỏ để làm gì
+
+### Examples
+
+1. **The bird used its beak to break the seed.**
+   → Con chim dùng mỏ để làm vỡ hạt.
+
+2. **Different birds have different beaks depending on what they eat.**
+   → Các loài chim khác nhau có mỏ khác nhau tùy vào thức ăn của chúng.
+
+### Common collocations
+
+* **sharp beak**: mỏ sắc
+* **curved beak**: mỏ cong
+* **bird's beak**: mỏ chim
+
+### Word family
+
+* **beak** /biːk/ *(noun)*: mỏ chim  
+  *Example:* The eagle has a strong, curved beak.  
+  → Đại bàng có một chiếc mỏ cong và khỏe.
+
+* **beaked** /biːkt/ *(adjective)*: có mỏ; có phần nhọn như mỏ  
+  *Example:* The beaked bird was searching for insects.  
+  → Con chim có mỏ đang tìm côn trùng.
+
+* **beak-like** /ˈbiːk.laɪk/ *(adjective)*: giống mỏ chim  
+  *Example:* The tool has a beak-like tip for gripping small objects.  
+  → Dụng cụ này có đầu giống mỏ chim để kẹp các vật nhỏ.
+
+### Notes
+
+Use `beak` for birds. For animals such as dogs or cats, use `mouth` or `snout`, not `beak`.
+
+---
+
+## 269. Bonfire UK: /ˈbɒn.faɪər/ US: /ˈbɑːn.faɪr/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** đống lửa lớn ngoài trời *(90%)*; lửa trại/đống lửa trong lễ hội *(10%)*
+
+### Usage
+
+`Bonfire` refers to a large outdoor fire, often made for celebration, warmth, or burning waste safely.
+
+Common structures:
+
+* `build/light a bonfire`: dựng/đốt đống lửa
+* `sit around a bonfire`: ngồi quanh đống lửa
+* `bonfire night`: đêm đốt lửa hội
+
+### Examples
+
+1. **We sat around a bonfire and talked until midnight.**
+   → Chúng tôi ngồi quanh đống lửa và nói chuyện đến nửa đêm.
+
+2. **Bonfires should be controlled carefully to prevent accidents.**
+   → Các đống lửa ngoài trời nên được kiểm soát cẩn thận để tránh tai nạn.
+
+### Common collocations
+
+* **light a bonfire**: đốt đống lửa
+* **sit around a bonfire**: ngồi quanh đống lửa
+* **bonfire smoke**: khói từ đống lửa
+
+### Word family
+
+* **bonfire** /ˈbɒn.faɪər/ *(noun)*: đống lửa lớn ngoài trời  
+  *Example:* The bonfire kept everyone warm during the camping trip.  
+  → Đống lửa giúp mọi người giữ ấm trong chuyến cắm trại.
+
+* **fire** /faɪər/ *(noun/verb)*: lửa; đốt; sa thải  
+  *Example:* Fire can spread quickly in dry forests.  
+  → Lửa có thể lan nhanh trong rừng khô.
+
+* **campfire** /ˈkæmp.faɪər/ *(noun)*: lửa trại  
+  *Example:* The children sang songs beside the campfire.  
+  → Bọn trẻ hát bên cạnh lửa trại.
+
+### Notes
+
+`Bonfire` is usually larger than a small `campfire`.
+
+---
+
+## 270. Burrow UK: /ˈbʌr.əʊ/ US: /ˈbɝː.oʊ/
+
+* **Part of speech:** countable noun; intransitive verb; transitive verb
+* **Vietnamese meaning:** hang nhỏ dưới đất của động vật *(60%)*; đào hang/chui vào *(30%)*; vùi mình vào nơi nào *(10%)*
+
+### Usage
+
+`Burrow` is used for animals that dig tunnels or holes underground. It can also describe someone moving into a warm or hidden place.
+
+Common structures:
+
+* `a rabbit/fox burrow`: hang thỏ/hang cáo
+* `burrow into/under + noun`: đào/chui vào dưới cái gì
+* `burrow through + material`: đào xuyên qua vật liệu gì
+
+### Examples
+
+1. **The rabbit disappeared into its burrow.**
+   → Con thỏ biến mất vào hang của nó.
+
+2. **Some animals burrow underground to escape extreme heat.**
+   → Một số loài động vật đào hang dưới đất để tránh cái nóng khắc nghiệt.
+
+### Common collocations
+
+* **rabbit burrow**: hang thỏ
+* **burrow underground**: đào hang dưới đất
+* **burrow into the soil**: đào vào đất
+
+### Word family
+
+* **burrow** /ˈbʌr.əʊ/ *(noun/verb)*: hang nhỏ; đào hang  
+  *Example:* The animal made a burrow near the roots of a tree.  
+  → Con vật làm một cái hang gần rễ cây.
+
+* **burrowing** /ˈbʌr.əʊ.ɪŋ/ *(adjective/verb form)*: đào hang; có thói quen đào hang  
+  *Example:* Burrowing animals can improve soil structure.  
+  → Các loài động vật đào hang có thể cải thiện cấu trúc đất.
+
+* **burrower** /ˈbʌr.əʊ.ər/ *(noun)*: loài/người đào hang  
+  *Example:* The desert mouse is an efficient burrower.  
+  → Chuột sa mạc là một loài đào hang hiệu quả.
+
+### Notes
+
+`Burrow` is both the hole and the action of making or entering that hole.
+
+---
+
+## 271. Claw /klɔː/
+
+* **Part of speech:** countable noun; transitive verb; intransitive verb
+* **Vietnamese meaning:** móng vuốt *(65%)*; càng/cái kẹp của động vật *(20%)*; cào/bám bằng móng vuốt hoặc tay *(15%)*
+
+### Usage
+
+`Claw` refers to a sharp curved nail on an animal's foot, or to the action of scratching or gripping with claws.
+
+Common structures:
+
+* `sharp claws`: móng vuốt sắc
+* `claw at + noun`: cào/bám vào cái gì
+* `use claws to + verb`: dùng móng vuốt để làm gì
+
+### Examples
+
+1. **The eagle uses its claws to catch prey.**
+   → Đại bàng dùng móng vuốt để bắt con mồi.
+
+2. **The cat clawed at the door because it wanted to go outside.**
+   → Con mèo cào cửa vì nó muốn ra ngoài.
+
+### Common collocations
+
+* **sharp claws**: móng vuốt sắc
+* **cat's claws**: móng vuốt của mèo
+* **claw at the ground**: cào xuống đất
+
+### Word family
+
+* **claw** /klɔː/ *(noun/verb)*: móng vuốt; cào  
+  *Example:* The bear left claw marks on the tree.  
+  → Con gấu để lại vết móng vuốt trên cây.
+
+* **clawed** /klɔːd/ *(adjective/verb form)*: có móng vuốt; bị cào  
+  *Example:* The clawed animal climbed the rock easily.  
+  → Con vật có móng vuốt leo lên tảng đá dễ dàng.
+
+* **clawless** /ˈklɔː.ləs/ *(adjective)*: không có móng vuốt  
+  *Example:* Some pets become almost clawless after medical procedures.  
+  → Một số thú cưng gần như không còn móng sau các thủ thuật y tế.
+
+### Notes
+
+`Claw` is for animals. For humans, use `fingernail` or `nail`.
+
+---
+
+## 272. Conduct /kənˈdʌkt/; /ˈkɒn.dʌkt/
+
+* **Part of speech:** transitive verb; uncountable noun
+* **Vietnamese meaning:** tiến hành/thực hiện *(45%)*; cư xử/hành vi *(30%)*; dẫn điện/nhiệt/âm thanh *(15%)*; chỉ huy dàn nhạc *(10%)*
+
+### Usage
+
+As a verb, `conduct` often means to carry out research, an investigation, or an experiment. As a noun, `conduct` means behaviour.
+
+Common structures:
+
+* `conduct research/a study`: tiến hành nghiên cứu
+* `conduct an investigation/experiment`: tiến hành điều tra/thí nghiệm
+* `professional/personal conduct`: hành vi nghề nghiệp/cá nhân
+
+### Examples
+
+1. **The university conducted research into childhood development.**
+   → Trường đại học đã tiến hành nghiên cứu về sự phát triển trẻ em.
+
+2. **Teachers are expected to maintain professional conduct at school.**
+   → Giáo viên được kỳ vọng duy trì hành vi chuyên nghiệp ở trường.
+
+### Common collocations
+
+* **conduct research**: tiến hành nghiên cứu
+* **conduct an experiment**: tiến hành thí nghiệm
+* **professional conduct**: hành vi chuyên nghiệp
+
+### Word family
+
+* **conduct** /kənˈdʌkt/ *(verb)*: tiến hành; dẫn; chỉ huy  
+  *Example:* Researchers conduct surveys to collect reliable data.  
+  → Các nhà nghiên cứu tiến hành khảo sát để thu thập dữ liệu đáng tin cậy.
+
+* **conduct** /ˈkɒn.dʌkt/ *(noun)*: hành vi, cách cư xử  
+  *Example:* Good conduct is important in public service.  
+  → Hành vi tốt rất quan trọng trong dịch vụ công.
+
+* **conductor** /kənˈdʌk.tər/ *(noun)*: người chỉ huy dàn nhạc; người soát vé; chất dẫn  
+  *Example:* Copper is a good conductor of electricity.  
+  → Đồng là chất dẫn điện tốt.
+
+### Notes
+
+Pronunciation changes by part of speech: verb `conduct` /kənˈdʌkt/, noun `conduct` /ˈkɒn.dʌkt/.
+
+---
+
+## 273. Conductor /kənˈdʌk.tər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người chỉ huy dàn nhạc *(40%)*; người soát vé/nhân viên trên xe hoặc tàu *(30%)*; chất dẫn điện/nhiệt *(30%)*
+
+### Usage
+
+`Conductor` can refer to a person who leads an orchestra, a transport worker, or a material that allows electricity or heat to pass through it.
+
+Common structures:
+
+* `orchestra conductor`: nhạc trưởng
+* `bus/train conductor`: nhân viên soát vé trên xe buýt/tàu
+* `good/poor conductor of electricity`: chất dẫn điện tốt/kém
+
+### Examples
+
+1. **The conductor guided the orchestra through a difficult piece.**
+   → Nhạc trưởng dẫn dắt dàn nhạc qua một bản nhạc khó.
+
+2. **Metal is usually a good conductor of electricity.**
+   → Kim loại thường là chất dẫn điện tốt.
+
+### Common collocations
+
+* **orchestra conductor**: nhạc trưởng dàn nhạc
+* **train conductor**: nhân viên soát vé trên tàu
+* **conductor of electricity**: chất dẫn điện
+
+### Word family
+
+* **conductor** /kənˈdʌk.tər/ *(noun)*: nhạc trưởng; người soát vé; chất dẫn  
+  *Example:* The conductor checked our tickets on the train.  
+  → Nhân viên soát vé đã kiểm tra vé của chúng tôi trên tàu.
+
+* **conduct** /kənˈdʌkt/ *(verb)*: tiến hành; dẫn; chỉ huy  
+  *Example:* Scientists conduct tests before releasing new medication.  
+  → Các nhà khoa học tiến hành thử nghiệm trước khi phát hành thuốc mới.
+
+* **conductive** /kənˈdʌk.tɪv/ *(adjective)*: có khả năng dẫn điện/nhiệt  
+  *Example:* Conductive materials are used in electrical wiring.  
+  → Vật liệu dẫn điện được dùng trong hệ thống dây điện.
+
+### Notes
+
+Context decides the meaning: music, transport, or science.
+
+---
+
+## 274. Counter /ˈkaʊn.tər/
+
+* **Part of speech:** countable noun; transitive verb; adjective; adverb
+* **Vietnamese meaning:** quầy phục vụ/bàn giao dịch *(35%)*; thiết bị/người đếm *(20%)*; phản bác/chống lại *(30%)*; ngược lại/đối lập *(15%)*
+
+### Usage
+
+`Counter` is common in shops, services, arguments, and strategy. As a verb, it means to respond against an argument, claim, or action.
+
+Common structures:
+
+* `at/behind the counter`: ở/sau quầy
+* `counter an argument/claim`: phản bác một lập luận/tuyên bố
+* `counter-terrorism/counter-argument`: chống khủng bố/lập luận phản bác
+
+### Examples
+
+1. **Please pay at the counter before leaving the cafe.**
+   → Vui lòng thanh toán tại quầy trước khi rời quán cà phê.
+
+2. **The government introduced new policies to counter online fraud.**
+   → Chính phủ đưa ra các chính sách mới để chống gian lận trực tuyến.
+
+### Common collocations
+
+* **service counter**: quầy phục vụ
+* **counter an argument**: phản bác một lập luận
+* **counter measures**: biện pháp đối phó
+
+### Word family
+
+* **counter** /ˈkaʊn.tər/ *(noun/verb/adjective/adverb)*: quầy; phản bác; đối lập  
+  *Example:* The receptionist stood behind the counter.  
+  → Nhân viên lễ tân đứng sau quầy.
+
+* **counterargument** /ˈkaʊn.tərˌɑːɡ.jə.mənt/ *(noun)*: lập luận phản bác  
+  *Example:* A strong essay should address a counterargument.  
+  → Một bài luận tốt nên xử lý một lập luận phản bác.
+
+* **counteract** /ˌkaʊn.tərˈækt/ *(verb)*: chống lại, làm giảm tác động  
+  *Example:* Exercise can counteract some effects of a sedentary lifestyle.  
+  → Tập thể dục có thể chống lại một số tác động của lối sống ít vận động.
+
+### Notes
+
+`Counter` as a noun often means `quầy`; as a verb it means `respond against`.
+
+---
+
+## 275. Crevice /ˈkrev.ɪs/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** khe nứt/khe hẹp trong đá, tường hoặc bề mặt *(90%)*; khoảng hẹp khó thấy *(10%)*
+
+### Usage
+
+`Crevice` refers to a narrow crack or opening, especially in rocks, walls, or old surfaces.
+
+Common structures:
+
+* `a narrow/deep crevice`: khe hẹp/sâu
+* `hide in a crevice`: ẩn trong khe nứt
+* `crevice between + plural noun`: khe giữa các vật
+
+### Examples
+
+1. **Small plants grew in the crevices of the old wall.**
+   → Những cây nhỏ mọc trong các khe nứt của bức tường cũ.
+
+2. **The climber placed his hand in a narrow crevice.**
+   → Người leo núi đặt tay vào một khe hẹp.
+
+### Common collocations
+
+* **narrow crevice**: khe hẹp
+* **rock crevice**: khe đá
+* **deep crevice**: khe sâu
+
+### Word family
+
+* **crevice** /ˈkrev.ɪs/ *(noun)*: khe nứt, khe hẹp  
+  *Example:* Rainwater collected in a crevice in the rock.  
+  → Nước mưa đọng lại trong một khe nứt trên đá.
+
+* **crack** /kræk/ *(noun/verb)*: vết nứt; làm nứt  
+  *Example:* A crack appeared in the wall after the earthquake.  
+  → Một vết nứt xuất hiện trên tường sau trận động đất.
+
+* **cranny** /ˈkræn.i/ *(noun)*: khe nhỏ, ngóc ngách  
+  *Example:* Dust gathered in every cranny of the old room.  
+  → Bụi bám vào mọi ngóc ngách của căn phòng cũ.
+
+### Notes
+
+`Crevice` is usually narrower and more natural for rocks than a general `crack`.
+
+---
+
+## 276. Deduce UK: /dɪˈdjuːs/ US: /dɪˈduːs/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** suy luận, rút ra kết luận từ bằng chứng *(90%)*; nhận ra thông qua logic *(10%)*
+
+### Usage
+
+`Deduce` means to reach a conclusion by using evidence, facts, or logic.
+
+Common structures:
+
+* `deduce something from + evidence/facts`: suy luận điều gì từ bằng chứng/sự kiện
+* `deduce that + clause`: suy ra rằng
+* `be able to deduce + noun`: có thể suy luận ra điều gì
+
+### Examples
+
+1. **Scientists can deduce past climates from geological evidence.**
+   → Các nhà khoa học có thể suy luận khí hậu quá khứ từ bằng chứng địa chất.
+
+2. **From his tone, I deduced that he was unhappy with the decision.**
+   → Từ giọng điệu của anh ấy, tôi suy ra rằng anh ấy không hài lòng với quyết định đó.
+
+### Common collocations
+
+* **deduce from evidence**: suy luận từ bằng chứng
+* **deduce a conclusion**: rút ra kết luận
+* **logically deduce**: suy luận một cách logic
+
+### Word family
+
+* **deduce** /dɪˈdjuːs/ *(verb)*: suy luận  
+  *Example:* We can deduce the cause of the problem from the data.  
+  → Chúng ta có thể suy luận nguyên nhân của vấn đề từ dữ liệu.
+
+* **deduction** /dɪˈdʌk.ʃən/ *(noun)*: sự suy luận; khoản khấu trừ  
+  *Example:* Her deduction was based on careful observation.  
+  → Suy luận của cô ấy dựa trên sự quan sát cẩn thận.
+
+* **deductive** /dɪˈdʌk.tɪv/ *(adjective)*: mang tính suy diễn/suy luận  
+  *Example:* Deductive reasoning is useful in mathematics and science.  
+  → Suy luận diễn dịch hữu ích trong toán học và khoa học.
+
+### Notes
+
+`Deduce` is more formal than `guess`. A deduction should be based on evidence.
+
+---
+
+## 277. Flavour UK: /ˈfleɪ.vər/ US: /ˈfleɪ.vɚ/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb
+* **Vietnamese meaning:** hương vị *(70%)*; nét đặc trưng/cảm giác riêng *(20%)*; thêm hương vị cho món ăn *(10%)*
+
+### Usage
+
+`Flavour` usually refers to the taste of food or drink. It can also mean the general character of a place, event, or piece of writing.
+
+Common structures:
+
+* `strong/mild flavour`: hương vị mạnh/nhẹ
+* `flavour of + food/drink/place`: hương vị/nét đặc trưng của món/uống/nơi nào
+* `flavour something with + ingredient`: thêm hương vị cho món gì bằng nguyên liệu gì
+
+### Examples
+
+1. **Fresh herbs add flavour to simple dishes.**
+   → Thảo mộc tươi làm tăng hương vị cho các món ăn đơn giản.
+
+2. **The old market gives the city a local flavour.**
+   → Khu chợ cũ mang lại cho thành phố một nét địa phương riêng.
+
+### Common collocations
+
+* **strong flavour**: hương vị mạnh
+* **local flavour**: nét địa phương
+* **add flavour**: thêm hương vị
+
+### Word family
+
+* **flavour** /ˈfleɪ.vər/ *(noun/verb)*: hương vị; thêm hương vị  
+  *Example:* Lemon can flavour tea without adding much sugar.  
+  → Chanh có thể tạo hương vị cho trà mà không cần thêm nhiều đường.
+
+* **flavoured** /ˈfleɪ.vəd/ *(adjective/verb form)*: có hương vị  
+  *Example:* Many children prefer fruit-flavoured medicine.  
+  → Nhiều trẻ em thích thuốc có hương trái cây hơn.
+
+* **flavourful** /ˈfleɪ.və.fəl/ *(adjective)*: đậm đà, nhiều hương vị  
+  *Example:* The soup was simple but flavourful.  
+  → Món súp đơn giản nhưng đậm đà.
+
+### Notes
+
+British English uses `flavour`; American English uses `flavor`.
+
+---
+
+## 278. Favour UK: /ˈfeɪ.vər/ US: /ˈfeɪ.vɚ/
+
+* **Part of speech:** countable noun; uncountable noun; transitive verb
+* **Vietnamese meaning:** sự giúp đỡ/ân huệ *(35%)*; sự ủng hộ/thiện cảm *(35%)*; ưu tiên hoặc thiên về lựa chọn nào *(30%)*
+
+### Usage
+
+`Favour` can mean a helpful act, support for someone or something, or to prefer one option.
+
+Common structures:
+
+* `do someone a favour`: giúp ai một việc
+* `in favour of + noun/verb-ing`: ủng hộ điều gì
+* `favour + option/person`: ưu tiên/thiên về lựa chọn hoặc người nào
+
+### Examples
+
+1. **Could you do me a favour and check this sentence?**
+   → Bạn có thể giúp tôi một việc và kiểm tra câu này không?
+
+2. **Many people are in favour of stricter environmental laws.**
+   → Nhiều người ủng hộ các luật môi trường nghiêm ngặt hơn.
+
+### Common collocations
+
+* **do someone a favour**: giúp ai một việc
+* **in favour of**: ủng hộ
+* **favour one option**: ưu tiên một lựa chọn
+
+### Word family
+
+* **favour** /ˈfeɪ.vər/ *(noun/verb)*: ân huệ; sự ủng hộ; ưu tiên  
+  *Example:* The new policy favours low-income families.  
+  → Chính sách mới ưu tiên các gia đình thu nhập thấp.
+
+* **favourable** /ˈfeɪ.vər.ə.bəl/ *(adjective)*: thuận lợi; có thiện cảm  
+  *Example:* Favourable weather helped farmers increase production.  
+  → Thời tiết thuận lợi giúp nông dân tăng sản lượng.
+
+* **favourably** /ˈfeɪ.vər.ə.bli/ *(adverb)*: một cách thuận lợi/tích cực  
+  *Example:* The proposal was received favourably by local residents.  
+  → Đề xuất được người dân địa phương đón nhận tích cực.
+
+### Notes
+
+British English uses `favour`; American English uses `favor`. The phrase `in favour of` is very useful for IELTS opinions.
+
+---
+
+## 279. Den /den/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** hang ổ của động vật *(45%)*; phòng nhỏ riêng tư để làm việc/thư giãn *(30%)*; nơi tụ tập xấu hoặc bí mật *(25%)*
+
+### Usage
+
+`Den` can refer to an animal's home, a small private room, or a place associated with secret or illegal activity.
+
+Common structures:
+
+* `animal/lion's den`: hang thú/hang sư tử
+* `a cosy den`: một phòng nhỏ ấm cúng
+* `a den of + activity`: ổ/nơi diễn ra hoạt động gì
+
+### Examples
+
+1. **The fox returned to its den before dawn.**
+   → Con cáo quay về hang trước bình minh.
+
+2. **He turned the spare room into a quiet reading den.**
+   → Anh ấy biến căn phòng trống thành một phòng đọc yên tĩnh.
+
+### Common collocations
+
+* **fox den**: hang cáo
+* **cosy den**: phòng nhỏ ấm cúng
+* **den of thieves**: ổ trộm cắp
+
+### Word family
+
+* **den** /den/ *(noun)*: hang ổ; phòng nhỏ riêng  
+  *Example:* The bear slept in its den during winter.  
+  → Con gấu ngủ trong hang của nó vào mùa đông.
+
+* **den-like** /ˈden.laɪk/ *(adjective)*: giống hang/phòng nhỏ kín đáo  
+  *Example:* The room felt den-like because it was small and warm.  
+  → Căn phòng có cảm giác như một căn phòng nhỏ kín đáo vì nó nhỏ và ấm.
+
+* **denning** /ˈden.ɪŋ/ *(noun/verb form)*: việc trú trong hang; đang làm hang  
+  *Example:* Denning behaviour helps some animals survive cold weather.  
+  → Hành vi trú trong hang giúp một số loài động vật sống sót qua thời tiết lạnh.
+
+### Notes
+
+`Den` is often smaller or more hidden than `home`. In negative contexts, it can mean a secret place for bad activity.
+
+---
+
+## 280. Disastrous /dɪˈzɑː.strəs/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thảm khốc, gây hậu quả nghiêm trọng *(75%)*; cực kỳ thất bại/tệ hại *(25%)*
+
+### Usage
+
+`Disastrous` describes events, decisions, results, or policies that cause serious damage or failure.
+
+Common structures:
+
+* `disastrous consequences/effects`: hậu quả/tác động thảm khốc
+* `disastrous decision/policy`: quyết định/chính sách tệ hại
+* `prove disastrous`: hóa ra gây hậu quả nghiêm trọng
+
+### Examples
+
+1. **Deforestation can have disastrous consequences for wildlife.**
+   → Phá rừng có thể gây hậu quả thảm khốc cho động vật hoang dã.
+
+2. **The lack of planning proved disastrous for the project.**
+   → Việc thiếu lập kế hoạch đã gây hậu quả nghiêm trọng cho dự án.
+
+### Common collocations
+
+* **disastrous consequences**: hậu quả thảm khốc
+* **disastrous effects**: tác động thảm khốc
+* **disastrous decision**: quyết định tệ hại
+
+### Word family
+
+* **disastrous** /dɪˈzɑː.strəs/ *(adjective)*: thảm khốc, tệ hại  
+  *Example:* Poor water management can be disastrous in arid regions.  
+  → Quản lý nước kém có thể gây hậu quả thảm khốc ở vùng khô cằn.
+
+* **disaster** /dɪˈzɑː.stər/ *(noun)*: thảm họa; thất bại nghiêm trọng  
+  *Example:* The flood was a disaster for local farmers.  
+  → Trận lũ là một thảm họa đối với nông dân địa phương.
+
+* **disastrously** /dɪˈzɑː.strəs.li/ *(adverb)*: một cách thảm khốc/tệ hại  
+  *Example:* The policy failed disastrously.  
+  → Chính sách đó thất bại thảm hại.
+
+### Notes
+
+`Disastrous` is stronger than `bad`; use it only for serious failure or damage.
+
+---
+
+## 281. Endangered /ɪnˈdeɪn.dʒəd/
+
+* **Part of speech:** adjective; verb form
+* **Vietnamese meaning:** có nguy cơ tuyệt chủng *(80%)*; bị đe dọa/nguy cấp *(20%)*
+
+### Usage
+
+`Endangered` is most often used for animals, plants, and species that may disappear forever.
+
+Common structures:
+
+* `endangered species/animal`: loài/động vật có nguy cơ tuyệt chủng
+* `critically endangered`: cực kỳ nguy cấp
+* `be endangered by + noun`: bị đe dọa bởi điều gì
+
+### Examples
+
+1. **Many endangered species are losing their natural habitats.**
+   → Nhiều loài có nguy cơ tuyệt chủng đang mất môi trường sống tự nhiên.
+
+2. **Illegal hunting has endangered several rare animals.**
+   → Săn bắt trái phép đã khiến một số loài động vật quý hiếm bị đe dọa.
+
+### Common collocations
+
+* **endangered species**: loài có nguy cơ tuyệt chủng
+* **endangered animal**: động vật có nguy cơ tuyệt chủng
+* **critically endangered**: cực kỳ nguy cấp
+
+### Word family
+
+* **endangered** /ɪnˈdeɪn.dʒəd/ *(adjective/verb form)*: có nguy cơ tuyệt chủng; bị đe dọa  
+  *Example:* Endangered animals need protected habitats.  
+  → Động vật có nguy cơ tuyệt chủng cần môi trường sống được bảo vệ.
+
+* **endanger** /ɪnˈdeɪn.dʒər/ *(verb)*: gây nguy hiểm, đe dọa  
+  *Example:* Pollution can endanger marine life.  
+  → Ô nhiễm có thể đe dọa sinh vật biển.
+
+* **danger** /ˈdeɪn.dʒər/ *(noun)*: nguy hiểm  
+  *Example:* The animals are in danger because their habitat is shrinking.  
+  → Các loài động vật đang gặp nguy hiểm vì môi trường sống của chúng bị thu hẹp.
+
+### Notes
+
+`Endangered` is a key environmental word. Do not say `dangerous species` when you mean `species at risk of extinction`.
+
+---
+
+## 282. Equator /ɪˈkweɪ.tər/
+
+* **Part of speech:** singular countable noun
+* **Vietnamese meaning:** đường xích đạo *(95%)*; đường chia một vật thành hai nửa bằng nhau *(5%)*
+
+### Usage
+
+`The equator` is the imaginary line around the middle of the Earth, equally distant from the North and South Poles.
+
+Common structures:
+
+* `near/on the equator`: gần/trên đường xích đạo
+* `north/south of the equator`: phía bắc/phía nam đường xích đạo
+* `cross the equator`: băng qua đường xích đạo
+
+### Examples
+
+1. **Countries near the equator often have warm climates.**
+   → Các quốc gia gần đường xích đạo thường có khí hậu ấm.
+
+2. **The ship crossed the equator during its long journey.**
+   → Con tàu đã băng qua đường xích đạo trong hành trình dài.
+
+### Common collocations
+
+* **near the equator**: gần đường xích đạo
+* **cross the equator**: băng qua đường xích đạo
+* **north of the equator**: phía bắc đường xích đạo
+
+### Word family
+
+* **equator** /ɪˈkweɪ.tər/ *(noun)*: đường xích đạo  
+  *Example:* The equator divides the Earth into northern and southern halves.  
+  → Đường xích đạo chia Trái Đất thành hai nửa bắc và nam.
+
+* **equatorial** /ˌek.wəˈtɔː.ri.əl/ *(adjective)*: thuộc vùng xích đạo  
+  *Example:* Equatorial forests receive heavy rainfall.  
+  → Rừng xích đạo nhận lượng mưa lớn.
+
+* **equate** /ɪˈkweɪt/ *(verb)*: coi là tương đương, đánh đồng  
+  *Example:* People should not equate wealth with happiness.  
+  → Mọi người không nên đánh đồng sự giàu có với hạnh phúc.
+
+### Notes
+
+Usually use `the equator`, not just `equator`, because it is a unique global line.
+
+---
+
+## 283. Eradicate /ɪˈræd.ɪ.keɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** xóa bỏ hoàn toàn, diệt trừ tận gốc *(85%)*; loại bỏ một bệnh hoặc vấn đề xã hội *(15%)*
+
+### Usage
+
+`Eradicate` is a strong verb used for completely removing diseases, poverty, corruption, pests, or harmful practices.
+
+Common structures:
+
+* `eradicate poverty/disease`: xóa bỏ nghèo đói/bệnh tật
+* `eradicate corruption`: xóa bỏ tham nhũng
+* `efforts to eradicate + noun`: nỗ lực xóa bỏ điều gì
+
+### Examples
+
+1. **Vaccination programmes helped eradicate some deadly diseases.**
+   → Các chương trình tiêm chủng đã giúp xóa bỏ một số bệnh chết người.
+
+2. **It is difficult to eradicate corruption without strong accountability.**
+   → Rất khó xóa bỏ tham nhũng nếu không có trách nhiệm giải trình mạnh mẽ.
+
+### Common collocations
+
+* **eradicate poverty**: xóa bỏ nghèo đói
+* **eradicate disease**: diệt trừ bệnh tật
+* **eradicate corruption**: xóa bỏ tham nhũng
+
+### Word family
+
+* **eradicate** /ɪˈræd.ɪ.keɪt/ *(verb)*: xóa bỏ hoàn toàn; diệt trừ  
+  *Example:* Governments cannot eradicate crime through punishment alone.  
+  → Chính phủ không thể xóa bỏ tội phạm chỉ bằng hình phạt.
+
+* **eradication** /ɪˌræd.ɪˈkeɪ.ʃən/ *(noun)*: sự xóa bỏ/diệt trừ tận gốc  
+  *Example:* Disease eradication requires international cooperation.  
+  → Việc diệt trừ bệnh tật đòi hỏi hợp tác quốc tế.
+
+* **eradicable** /ɪˈræd.ɪ.kə.bəl/ *(adjective)*: có thể xóa bỏ/diệt trừ  
+  *Example:* Some infections are eradicable with effective vaccination.  
+  → Một số bệnh nhiễm trùng có thể được diệt trừ bằng tiêm chủng hiệu quả.
+
+### Notes
+
+`Eradicate` is stronger than `reduce`; it means remove completely.
+
+---
+
+## 284. Estuary UK: /ˈes.tʃu.ə.ri/ US: /ˈes.tʃu.er.i/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cửa sông, nơi sông gặp biển *(90%)*; vùng nước lợ ở cửa sông *(10%)*
+
+### Usage
+
+`Estuary` refers to the wide part of a river where it meets the sea and fresh water mixes with salt water.
+
+Common structures:
+
+* `river estuary`: cửa sông
+* `at/in an estuary`: ở cửa sông
+* `estuary ecosystem`: hệ sinh thái cửa sông
+
+### Examples
+
+1. **Many birds feed in the estuary at low tide.**
+   → Nhiều loài chim kiếm ăn ở cửa sông khi thủy triều xuống.
+
+2. **Pollution in an estuary can damage both river and marine life.**
+   → Ô nhiễm ở cửa sông có thể gây hại cho cả sinh vật sông và sinh vật biển.
+
+### Common collocations
+
+* **river estuary**: cửa sông
+* **estuary ecosystem**: hệ sinh thái cửa sông
+* **tidal estuary**: cửa sông chịu ảnh hưởng thủy triều
+
+### Word family
+
+* **estuary** /ˈes.tʃu.ə.ri/ *(noun)*: cửa sông  
+  *Example:* The estuary provides a habitat for fish and birds.  
+  → Cửa sông cung cấp môi trường sống cho cá và chim.
+
+* **estuarine** /ˈes.tʃu.ə.raɪn/ *(adjective)*: thuộc cửa sông  
+  *Example:* Estuarine wetlands are rich in biodiversity.  
+  → Các vùng đất ngập nước cửa sông rất giàu đa dạng sinh học.
+
+* **river mouth** /ˈrɪv.ər maʊθ/ *(noun phrase)*: cửa sông  
+  *Example:* Sediment often collects near the river mouth.  
+  → Trầm tích thường tích tụ gần cửa sông.
+
+### Notes
+
+An `estuary` is not just any river mouth; it usually involves mixing fresh water and seawater.
+
+---
+
+## 285. Feather /ˈfeð.ər/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** lông vũ/lông chim *(85%)*; trang trí hoặc phủ bằng lông *(10%)*; làm nhẹ/điều chỉnh nhẹ trong kỹ thuật *(5%)*
+
+### Usage
+
+`Feather` refers to one of the light soft parts covering a bird's body. It is often used in descriptions of animals and nature.
+
+Common structures:
+
+* `bird feather`: lông chim
+* `soft/colourful feathers`: lông mềm/nhiều màu
+* `be covered with feathers`: được phủ bằng lông vũ
+
+### Examples
+
+1. **The bird has bright feathers on its wings.**
+   → Con chim có lông sáng màu trên cánh.
+
+2. **Feathers help birds stay warm and fly efficiently.**
+   → Lông vũ giúp chim giữ ấm và bay hiệu quả.
+
+### Common collocations
+
+* **soft feathers**: lông vũ mềm
+* **colourful feathers**: lông nhiều màu
+* **bird feathers**: lông chim
+
+### Word family
+
+* **feather** /ˈfeð.ər/ *(noun/verb)*: lông vũ; phủ bằng lông  
+  *Example:* A feather floated down from the tree.  
+  → Một chiếc lông vũ bay xuống từ cái cây.
+
+* **feathery** /ˈfeð.ər.i/ *(adjective)*: mềm/nhẹ như lông vũ  
+  *Example:* The plant has feathery leaves.  
+  → Loài cây này có lá mềm nhẹ như lông vũ.
+
+* **feathered** /ˈfeð.əd/ *(adjective)*: có lông vũ  
+  *Example:* Feathered animals include birds and some prehistoric species.  
+  → Các loài động vật có lông vũ bao gồm chim và một số loài tiền sử.
+
+### Notes
+
+`Feather` is countable: `a feather`, `many feathers`. `Fur` is usually uncountable.
+
+---
+
+## 286. Forage UK: /ˈfɒr.ɪdʒ/ US: /ˈfɔːr.ɪdʒ/
+
+* **Part of speech:** intransitive verb; transitive verb; uncountable noun
+* **Vietnamese meaning:** kiếm ăn/tìm thức ăn trong tự nhiên *(70%)*; thức ăn thô xanh cho gia súc *(20%)*; tìm kiếm kỹ lưỡng *(10%)*
+
+### Usage
+
+`Forage` is often used for animals searching for food, or people collecting wild food.
+
+Common structures:
+
+* `forage for + food`: kiếm/tìm thức ăn
+* `forage in + place`: kiếm ăn ở nơi nào
+* `forage crops`: cây trồng làm thức ăn cho gia súc
+
+### Examples
+
+1. **Birds forage for insects among the leaves.**
+   → Chim kiếm côn trùng giữa các tán lá.
+
+2. **In the past, hunter-gatherers foraged for wild plants and berries.**
+   → Trong quá khứ, người săn bắt hái lượm tìm cây dại và quả mọng.
+
+### Common collocations
+
+* **forage for food**: kiếm thức ăn
+* **forage in the forest**: kiếm ăn trong rừng
+* **forage crops**: cây thức ăn gia súc
+
+### Word family
+
+* **forage** /ˈfɒr.ɪdʒ/ *(verb/noun)*: kiếm ăn; thức ăn thô xanh  
+  *Example:* Deer forage in open fields at dusk.  
+  → Hươu kiếm ăn trên các cánh đồng trống lúc hoàng hôn.
+
+* **forager** /ˈfɒr.ɪ.dʒər/ *(noun)*: người/loài kiếm ăn  
+  *Example:* Bees are important foragers in many ecosystems.  
+  → Ong là loài kiếm ăn quan trọng trong nhiều hệ sinh thái.
+
+* **foraging** /ˈfɒr.ɪ.dʒɪŋ/ *(noun/verb form)*: việc kiếm ăn/tìm thức ăn  
+  *Example:* Foraging teaches people about local plants.  
+  → Việc tìm kiếm thức ăn trong tự nhiên giúp con người hiểu về cây cối địa phương.
+
+### Notes
+
+`Forage` is different from simply `search`; it usually relates to finding food.
+
+---
+
+## 287. Fur /fɜːr/
+
+* **Part of speech:** uncountable noun; countable noun in clothing/product contexts
+* **Vietnamese meaning:** lông thú mềm và dày *(70%)*; da/lông thú dùng làm quần áo *(20%)*; áo khoác hoặc sản phẩm làm từ lông thú *(10%)*
+
+### Usage
+
+`Fur` refers to the soft thick hair that covers many animals. It can also refer to clothing or products made from animal fur.
+
+Common structures:
+
+* `soft/thick fur`: lông mềm/dày
+* `be covered in fur`: được phủ lông
+* `fur coat/trade`: áo khoác lông thú/ngành buôn bán lông thú
+
+### Examples
+
+1. **Polar animals often have thick fur to stay warm.**
+   → Động vật vùng cực thường có lông dày để giữ ấm.
+
+2. **Many people oppose the fur trade because of animal welfare concerns.**
+   → Nhiều người phản đối ngành buôn bán lông thú vì lo ngại về phúc lợi động vật.
+
+### Common collocations
+
+* **thick fur**: lông dày
+* **soft fur**: lông mềm
+* **fur trade**: ngành buôn bán lông thú
+
+### Word family
+
+* **fur** /fɜːr/ *(noun)*: lông thú; sản phẩm lông thú  
+  *Example:* The rabbit's fur is soft and warm.  
+  → Lông của con thỏ mềm và ấm.
+
+* **furry** /ˈfɜː.ri/ *(adjective)*: có lông, nhiều lông  
+  *Example:* The furry animal hid inside a burrow.  
+  → Con vật nhiều lông trốn trong một cái hang.
+
+* **furred** /fɜːd/ *(adjective)*: có lông phủ  
+  *Example:* The furred creature left tracks in the snow.  
+  → Sinh vật có lông để lại dấu chân trên tuyết.
+
+### Notes
+
+`Fur` is usually uncountable when talking about animal hair. Use `feathers` for birds, not `fur`.
