@@ -14614,3 +14614,101 @@ Common structures:
 ### Notes
 
 This phrase is more expressive than `throughout the process`. In formal IELTS Writing, use it carefully because it sounds more personal and conversational.
+
+---
+
+## 298. Glance /ɡlɑːns/
+
+* **Part of speech:** countable noun; intransitive verb
+* **Vietnamese meaning:** cái nhìn nhanh/thoáng qua *(55%)*; nhìn lướt qua *(40%)*; va chạm sượt qua *(5%)*
+
+### Usage
+
+`Glance` means to look at something quickly, often because you do not have much time or do not want to look carefully.
+
+Common structures:
+
+* `glance at + noun`: nhìn lướt qua cái gì
+* `take/have a glance at + noun`: nhìn nhanh qua cái gì
+* `at first glance`: thoạt nhìn, nhìn ban đầu
+
+### Examples
+
+1. **She glanced at her watch before entering the meeting room.**
+   → Cô ấy nhìn lướt qua đồng hồ trước khi vào phòng họp.
+
+2. **At first glance, the problem seems straightforward.**
+   → Thoạt nhìn, vấn đề có vẻ đơn giản.
+
+### Common collocations
+
+* **glance at a screen**: nhìn lướt qua màn hình
+* **take a quick glance**: nhìn nhanh
+* **at first glance**: thoạt nhìn
+
+### Word family
+
+* **glance** /ɡlɑːns/ *(noun/verb)*: cái nhìn nhanh; nhìn lướt qua  
+  *Example:* A quick glance at the itinerary showed that we had little free time.  
+  → Nhìn nhanh vào lịch trình cho thấy chúng tôi có rất ít thời gian rảnh.
+
+* **glancing** /ˈɡlɑːn.sɪŋ/ *(adjective/verb form)*: lướt qua; sượt qua  
+  *Example:* He gave the report only a glancing look.  
+  → Anh ấy chỉ nhìn lướt qua bản báo cáo.
+
+* **glanced** /ɡlɑːnst/ *(verb form)*: đã nhìn lướt qua  
+  *Example:* She glanced around the lobby before checking in.  
+  → Cô ấy nhìn lướt quanh sảnh trước khi làm thủ tục nhận phòng.
+
+### Notes
+
+`Glance` is similar to `glimpse`, but `glance` focuses on the action of looking quickly, while `glimpse` focuses on seeing something only briefly.
+
+---
+
+## 299. Hike /haɪk/
+
+* **Part of speech:** countable noun; intransitive verb; transitive verb
+* **Vietnamese meaning:** chuyến đi bộ đường dài/leo núi nhẹ *(45%)*; đi bộ đường dài *(35%)*; tăng mạnh giá, thuế hoặc lương *(20%)*
+
+### Usage
+
+`Hike` is common in travel and nature contexts. It can also mean a sharp increase in prices, taxes, wages, or fees.
+
+Common structures:
+
+* `go on a hike`: đi một chuyến đi bộ đường dài
+* `hike through/up + place`: đi bộ đường dài qua/lên nơi nào
+* `hike prices/taxes/fees`: tăng giá/thuế/phí mạnh
+
+### Examples
+
+1. **We went on a hike through the forest at dawn.**
+   → Chúng tôi đi bộ đường dài qua khu rừng lúc bình minh.
+
+2. **A sudden hike in tuition fees can put pressure on students.**
+   → Việc tăng học phí đột ngột có thể gây áp lực cho sinh viên.
+
+### Common collocations
+
+* **go on a hike**: đi bộ đường dài
+* **mountain hike**: chuyến đi bộ đường dài trên núi
+* **price hike**: sự tăng giá mạnh
+
+### Word family
+
+* **hike** /haɪk/ *(noun/verb)*: chuyến đi bộ đường dài; đi bộ đường dài; tăng mạnh  
+  *Example:* The scenic hike took us past a waterfall.  
+  → Chuyến đi bộ đường dài ngắm cảnh đưa chúng tôi đi qua một thác nước.
+
+* **hiker** /ˈhaɪ.kər/ *(noun)*: người đi bộ đường dài  
+  *Example:* Hikers should carry enough water in arid areas.  
+  → Người đi bộ đường dài nên mang đủ nước ở vùng khô cằn.
+
+* **hiking** /ˈhaɪ.kɪŋ/ *(noun/verb form)*: hoạt động đi bộ đường dài  
+  *Example:* Hiking is a healthy form of outdoor recreation.  
+  → Đi bộ đường dài là một hình thức giải trí ngoài trời lành mạnh.
+
+### Notes
+
+`Hike` can be physical (`go hiking`) or economic (`a price hike`). In British English, `walk` is often used for easier countryside routes, while `hike` suggests more effort.
