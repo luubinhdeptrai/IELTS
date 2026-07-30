@@ -14124,3 +14124,346 @@ Common structures:
 ### Notes
 
 `Fur` is usually uncountable when talking about animal hair. Use `feathers` for birds, not `fur`.
+
+---
+
+## 288. Dramatic /drəˈmæt.ɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** lớn, rõ rệt, gây ấn tượng mạnh *(55%)*; kịch tính, đầy cảm xúc *(30%)*; thuộc về kịch/sân khấu *(15%)*
+
+### Usage
+
+`Dramatic` is useful in IELTS Writing for describing a large or noticeable change. It can also describe events, performances, or behaviour that are emotional or exciting.
+
+Common structures:
+
+* `a dramatic increase/decrease/change`: sự tăng/giảm/thay đổi mạnh
+* `dramatic effect/impact`: tác động mạnh
+* `dramatic scene/performance`: cảnh/màn trình diễn kịch tính
+
+### Examples
+
+1. **There has been a dramatic increase in the use of digital technology.**
+   → Đã có sự gia tăng mạnh trong việc sử dụng công nghệ kỹ thuật số.
+
+2. **The film ended with a dramatic scene by the river.**
+   → Bộ phim kết thúc bằng một cảnh kịch tính bên dòng sông.
+
+### Common collocations
+
+* **dramatic increase**: sự tăng mạnh
+* **dramatic change**: sự thay đổi rõ rệt
+* **dramatic effect**: tác động mạnh
+
+### Word family
+
+* **dramatic** /drəˈmæt.ɪk/ *(adjective)*: lớn/rõ rệt; kịch tính  
+  *Example:* The new law led to a dramatic decline in plastic waste.  
+  → Luật mới dẫn đến sự sụt giảm mạnh về rác thải nhựa.
+
+* **drama** /ˈdrɑː.mə/ *(noun)*: kịch; tình huống kịch tính  
+  *Example:* Drama classes can improve students' confidence.  
+  → Các lớp kịch có thể cải thiện sự tự tin của học sinh.
+
+* **dramatically** /drəˈmæt.ɪ.kəl.i/ *(adverb)*: một cách mạnh mẽ/rõ rệt  
+  *Example:* Online learning has grown dramatically in recent years.  
+  → Học trực tuyến đã phát triển mạnh trong những năm gần đây.
+
+### Notes
+
+In IELTS Writing Task 1 and Task 2, `dramatic` often means `large and noticeable`, not necessarily emotional.
+
+---
+
+## 289. Frighten /ˈfraɪ.tən/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** làm ai sợ, khiến ai hoảng sợ *(85%)*; dọa cho ai làm hoặc không làm gì *(15%)*
+
+### Usage
+
+`Frighten` means to make someone feel afraid. It is often used with people, animals, sudden noises, risks, or warnings.
+
+Common structures:
+
+* `frighten someone`: làm ai sợ
+* `be frightened by/of + noun`: bị sợ bởi/sợ điều gì
+* `frighten someone into/out of + verb-ing`: dọa khiến ai làm/ngừng làm gì
+
+### Examples
+
+1. **Loud noises can frighten young children.**
+   → Tiếng ồn lớn có thể làm trẻ nhỏ sợ hãi.
+
+2. **Warnings about climate change should inform people, not simply frighten them.**
+   → Các cảnh báo về biến đổi khí hậu nên cung cấp thông tin cho mọi người, chứ không chỉ làm họ sợ.
+
+### Common collocations
+
+* **frighten children**: làm trẻ em sợ
+* **be frightened by noise**: bị sợ bởi tiếng ồn
+* **frighten someone into action**: dọa/thúc đẩy ai hành động
+
+### Word family
+
+* **frighten** /ˈfraɪ.tən/ *(verb)*: làm sợ  
+  *Example:* Sudden changes can frighten people who feel unprepared.  
+  → Những thay đổi bất ngờ có thể làm những người chưa chuẩn bị cảm thấy sợ.
+
+* **frightened** /ˈfraɪ.tənd/ *(adjective/verb form)*: sợ hãi  
+  *Example:* The frightened child held his mother's hand.  
+  → Đứa trẻ sợ hãi nắm tay mẹ.
+
+* **frightening** /ˈfraɪ.tən.ɪŋ/ *(adjective)*: đáng sợ  
+  *Example:* The storm was frightening for people living near the coast.  
+  → Cơn bão rất đáng sợ đối với những người sống gần bờ biển.
+
+### Notes
+
+`Frightened` describes the person who feels fear; `frightening` describes the thing that causes fear.
+
+---
+
+## 290. Adversity /ədˈvɜː.sə.ti/
+
+* **Part of speech:** uncountable noun; countable noun in specific cases
+* **Vietnamese meaning:** nghịch cảnh, khó khăn nghiêm trọng trong cuộc sống *(85%)*; một biến cố/hoàn cảnh khó khăn cụ thể *(15%)*
+
+### Usage
+
+`Adversity` is a formal and useful word for describing serious difficulties that test a person's strength, patience, or character.
+
+Common structures:
+
+* `face/overcome adversity`: đối mặt/vượt qua nghịch cảnh
+* `in the face of adversity`: khi đối mặt với nghịch cảnh
+* `adversity builds + quality`: nghịch cảnh xây dựng phẩm chất gì
+
+### Examples
+
+1. **Many successful people have overcome serious adversity.**
+   → Nhiều người thành công đã vượt qua nghịch cảnh nghiêm trọng.
+
+2. **Education can help children from disadvantaged backgrounds cope with adversity.**
+   → Giáo dục có thể giúp trẻ em từ hoàn cảnh khó khăn đối phó với nghịch cảnh.
+
+### Common collocations
+
+* **overcome adversity**: vượt qua nghịch cảnh
+* **face adversity**: đối mặt với nghịch cảnh
+* **in the face of adversity**: khi đối mặt với nghịch cảnh
+
+### Word family
+
+* **adversity** /ədˈvɜː.sə.ti/ *(noun)*: nghịch cảnh  
+  *Example:* Adversity can teach people resilience.  
+  → Nghịch cảnh có thể dạy con người sự kiên cường.
+
+* **adverse** /ˈæd.vɜːs/ *(adjective)*: bất lợi, tiêu cực  
+  *Example:* Pollution has adverse effects on public health.  
+  → Ô nhiễm có tác động bất lợi đến sức khỏe cộng đồng.
+
+* **adversely** /ˈæd.vɜːs.li/ *(adverb)*: một cách bất lợi/tiêu cực  
+  *Example:* Poor sleep can adversely affect academic performance.  
+  → Giấc ngủ kém có thể ảnh hưởng tiêu cực đến kết quả học tập.
+
+### Notes
+
+`Adversity` is usually uncountable. It is stronger and more formal than `difficulty`.
+
+---
+
+## 291. Mosque /mɒsk/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** nhà thờ Hồi giáo *(95%)*; nơi cầu nguyện của người Hồi giáo *(5%)*
+
+### Usage
+
+`Mosque` refers to a building where Muslims pray and gather for religious activities.
+
+Common structures:
+
+* `visit/go to a mosque`: thăm/đi đến nhà thờ Hồi giáo
+* `pray at/in a mosque`: cầu nguyện tại/trong nhà thờ Hồi giáo
+* `historic/local mosque`: nhà thờ Hồi giáo lịch sử/địa phương
+
+### Examples
+
+1. **The old mosque is one of the city's most important landmarks.**
+   → Nhà thờ Hồi giáo cổ là một trong những địa danh quan trọng nhất của thành phố.
+
+2. **Visitors should dress respectfully when entering a mosque.**
+   → Du khách nên ăn mặc lịch sự khi vào nhà thờ Hồi giáo.
+
+### Common collocations
+
+* **historic mosque**: nhà thờ Hồi giáo lịch sử
+* **local mosque**: nhà thờ Hồi giáo địa phương
+* **pray in a mosque**: cầu nguyện trong nhà thờ Hồi giáo
+
+### Word family
+
+* **mosque** /mɒsk/ *(noun)*: nhà thờ Hồi giáo  
+  *Example:* The mosque has a beautiful dome and courtyard.  
+  → Nhà thờ Hồi giáo có một mái vòm và sân trong rất đẹp.
+
+* **Muslim** /ˈmʊz.lɪm/ *(noun/adjective)*: người Hồi giáo; thuộc Hồi giáo  
+  *Example:* Muslims gather at the mosque for prayer.  
+  → Người Hồi giáo tụ họp tại nhà thờ Hồi giáo để cầu nguyện.
+
+* **Islamic** /ɪzˈlæm.ɪk/ *(adjective)*: thuộc Hồi giáo  
+  *Example:* Islamic architecture often includes intricate patterns.  
+  → Kiến trúc Hồi giáo thường có các hoa văn phức tạp.
+
+### Notes
+
+`Mosque` is a religious building. Be respectful when using vocabulary related to religion and culture.
+
+---
+
+## 292. Intricate /ˈɪn.trɪ.kət/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** phức tạp, có nhiều chi tiết nhỏ *(70%)*; tinh xảo, cầu kỳ *(30%)*
+
+### Usage
+
+`Intricate` describes designs, systems, arguments, or processes that have many small connected details.
+
+Common structures:
+
+* `intricate pattern/design`: hoa văn/thiết kế tinh xảo
+* `intricate system/process`: hệ thống/quy trình phức tạp
+* `intricate details`: các chi tiết phức tạp/tinh xảo
+
+### Examples
+
+1. **The mosque is decorated with intricate geometric patterns.**
+   → Nhà thờ Hồi giáo được trang trí bằng các hoa văn hình học tinh xảo.
+
+2. **The relationship between poverty and education is intricate.**
+   → Mối quan hệ giữa nghèo đói và giáo dục rất phức tạp.
+
+### Common collocations
+
+* **intricate design**: thiết kế tinh xảo
+* **intricate pattern**: hoa văn phức tạp/tinh xảo
+* **intricate relationship**: mối quan hệ phức tạp
+
+### Word family
+
+* **intricate** /ˈɪn.trɪ.kət/ *(adjective)*: phức tạp; tinh xảo  
+  *Example:* The old building has intricate carvings on its doors.  
+  → Tòa nhà cổ có các chi tiết chạm khắc tinh xảo trên cửa.
+
+* **intricately** /ˈɪn.trɪ.kət.li/ *(adverb)*: một cách phức tạp/tinh xảo  
+  *Example:* The statue was intricately carved from stone.  
+  → Bức tượng được chạm khắc tinh xảo từ đá.
+
+* **intricacy** /ˈɪn.trɪ.kə.si/ *(noun)*: sự phức tạp; chi tiết tinh xảo  
+  *Example:* The intricacy of the design impressed the visitors.  
+  → Sự tinh xảo của thiết kế đã gây ấn tượng với du khách.
+
+### Notes
+
+`Intricate` is not always negative. It can mean beautifully detailed, especially for art, architecture, and craft.
+
+---
+
+## 293. Grapple /ˈɡræp.əl/
+
+* **Part of speech:** intransitive verb; transitive verb; countable noun
+* **Vietnamese meaning:** vật lộn/cố xử lý vấn đề khó *(65%)*; túm lấy/vật nhau *(25%)*; dụng cụ móc/kẹp *(10%)*
+
+### Usage
+
+`Grapple` is often used figuratively to mean trying hard to deal with a difficult problem or idea.
+
+Common structures:
+
+* `grapple with + problem/issue`: vật lộn với vấn đề gì
+* `grapple with the question of + noun`: vật lộn với câu hỏi/vấn đề về điều gì
+* `grapple for control`: vật lộn để giành quyền kiểm soát
+
+### Examples
+
+1. **Many governments are grappling with the effects of an ageing population.**
+   → Nhiều chính phủ đang vật lộn với tác động của dân số già.
+
+2. **Students often grapple with complex grammar rules.**
+   → Học sinh thường vật lộn với các quy tắc ngữ pháp phức tạp.
+
+### Common collocations
+
+* **grapple with a problem**: vật lộn với một vấn đề
+* **grapple with an issue**: vật lộn với một vấn đề
+* **grapple with complexity**: vật lộn với sự phức tạp
+
+### Word family
+
+* **grapple** /ˈɡræp.əl/ *(verb/noun)*: vật lộn; cố xử lý  
+  *Example:* Cities must grapple with housing shortages.  
+  → Các thành phố phải vật lộn với tình trạng thiếu nhà ở.
+
+* **grappling** /ˈɡræp.lɪŋ/ *(noun/verb form)*: sự vật lộn; đang cố xử lý  
+  *Example:* Grappling with difficult ideas can improve critical thinking.  
+  → Việc vật lộn với các ý tưởng khó có thể cải thiện tư duy phản biện.
+
+* **grappled** /ˈɡræp.əld/ *(verb form)*: đã vật lộn/đã cố xử lý  
+  *Example:* The committee grappled with the problem for months.  
+  → Ủy ban đã vật lộn với vấn đề này trong nhiều tháng.
+
+### Notes
+
+The most useful pattern is `grapple with + problem/issue`. It is strong and natural for IELTS Writing.
+
+---
+
+## 294. Glimpse /ɡlɪmps/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** cái nhìn thoáng qua *(55%)*; sự hé lộ/thoáng thấy về điều gì *(30%)*; nhìn thoáng thấy *(15%)*
+
+### Usage
+
+`Glimpse` means a very quick look at something, or a brief chance to understand or see part of something.
+
+Common structures:
+
+* `catch/get a glimpse of + noun`: nhìn thoáng thấy điều gì
+* `offer/provide a glimpse into + noun`: cho thấy thoáng qua về điều gì
+* `glimpse + person/object`: nhìn thoáng thấy ai/cái gì
+
+### Examples
+
+1. **We caught a glimpse of the mountains through the clouds.**
+   → Chúng tôi nhìn thoáng thấy những ngọn núi qua các đám mây.
+
+2. **The documentary offers a glimpse into life in remote communities.**
+   → Bộ phim tài liệu cho thấy thoáng qua về cuộc sống ở các cộng đồng xa xôi.
+
+### Common collocations
+
+* **catch a glimpse of**: nhìn thoáng thấy
+* **brief glimpse**: cái nhìn thoáng qua ngắn ngủi
+* **glimpse into the future**: cái nhìn thoáng qua về tương lai
+
+### Word family
+
+* **glimpse** /ɡlɪmps/ *(noun/verb)*: cái nhìn thoáng qua; nhìn thoáng thấy  
+  *Example:* The visitor got a glimpse of the mosque's beautiful interior.  
+  → Du khách nhìn thoáng thấy nội thất đẹp của nhà thờ Hồi giáo.
+
+* **glimpsed** /ɡlɪmpst/ *(verb form)*: đã nhìn thoáng thấy  
+  *Example:* She glimpsed a small animal near the burrow.  
+  → Cô ấy nhìn thoáng thấy một con vật nhỏ gần cái hang.
+
+* **glimpsing** /ˈɡlɪmp.sɪŋ/ *(verb form)*: đang nhìn thoáng thấy  
+  *Example:* Glimpsing wildlife in the forest can be exciting.  
+  → Việc nhìn thoáng thấy động vật hoang dã trong rừng có thể rất thú vị.
+
+### Notes
+
+`Glimpse` is quicker and less complete than `look` or `view`. The common phrase is `catch a glimpse of`.
