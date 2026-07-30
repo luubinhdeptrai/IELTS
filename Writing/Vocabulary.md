@@ -14467,3 +14467,150 @@ Common structures:
 ### Notes
 
 `Glimpse` is quicker and less complete than `look` or `view`. The common phrase is `catch a glimpse of`.
+
+---
+
+## 295. Roar /rɔːr/
+
+* **Part of speech:** countable noun; intransitive verb; transitive verb
+* **Vietnamese meaning:** tiếng gầm lớn của động vật hoặc tiếng ồn mạnh *(55%)*; gầm/rống, tạo ra âm thanh lớn *(35%)*; cười/nói/hét rất to *(10%)*
+
+### Usage
+
+`Roar` is used for loud, deep sounds made by lions, engines, crowds, fire, wind, or waves. It can also describe a person speaking or laughing very loudly.
+
+Common structures:
+
+* `roar with laughter`: cười phá lên rất to
+* `the roar of + noun`: tiếng gầm/tiếng ồn lớn của cái gì
+* `roar past/through + place`: lao qua nơi nào với tiếng ồn lớn
+
+### Examples
+
+1. **We could hear the roar of the waves from our hotel room.**
+   → Chúng tôi có thể nghe tiếng gầm của sóng từ phòng khách sạn.
+
+2. **The crowd roared with excitement when the team scored.**
+   → Đám đông reo hò đầy phấn khích khi đội ghi bàn.
+
+### Common collocations
+
+* **the roar of the crowd**: tiếng reo hò lớn của đám đông
+* **roar with laughter**: cười phá lên
+* **engine roar**: tiếng gầm của động cơ
+
+### Word family
+
+* **roar** /rɔːr/ *(noun/verb)*: tiếng gầm; gầm/rống; reo/hét lớn  
+  *Example:* The lion's roar frightened the tourists.  
+  → Tiếng gầm của sư tử làm du khách sợ hãi.
+
+* **roaring** /ˈrɔː.rɪŋ/ *(adjective/verb form)*: gầm rú; rất lớn và ồn  
+  *Example:* The roaring fire kept the room warm.  
+  → Ngọn lửa cháy lớn giữ cho căn phòng ấm áp.
+
+* **roarer** /ˈrɔː.rər/ *(noun)*: người/con vật gầm hoặc la rất to  
+  *Example:* He is a roarer when he watches football.  
+  → Anh ấy là người la rất to khi xem bóng đá.
+
+### Notes
+
+`Roar` is stronger than `shout` or `sound`; it suggests a deep, powerful noise.
+
+---
+
+## 296. Kin /kɪn/
+
+* **Part of speech:** uncountable noun; plural noun
+* **Vietnamese meaning:** họ hàng, người thân trong gia đình *(80%)*; người cùng loại/cùng nguồn gốc *(20%)*
+
+### Usage
+
+`Kin` is a formal or literary word for family members or relatives. It appears in common phrases such as `next of kin`.
+
+Common structures:
+
+* `next of kin`: người thân gần nhất
+* `close kin`: họ hàng gần
+* `kinship ties`: mối quan hệ họ hàng/huyết thống
+
+### Examples
+
+1. **Hospitals may contact a patient's next of kin in an emergency.**
+   → Bệnh viện có thể liên hệ với người thân gần nhất của bệnh nhân trong trường hợp khẩn cấp.
+
+2. **Many people rely on their kin for emotional and financial support.**
+   → Nhiều người dựa vào họ hàng để được hỗ trợ tinh thần và tài chính.
+
+### Common collocations
+
+* **next of kin**: người thân gần nhất
+* **close kin**: họ hàng gần
+* **kinship ties**: mối quan hệ họ hàng
+
+### Word family
+
+* **kin** /kɪn/ *(noun)*: họ hàng, người thân  
+  *Example:* In many cultures, kin play an important role in childcare.  
+  → Trong nhiều nền văn hóa, họ hàng đóng vai trò quan trọng trong việc chăm sóc trẻ em.
+
+* **kinship** /ˈkɪn.ʃɪp/ *(noun)*: quan hệ họ hàng; cảm giác thân thuộc  
+  *Example:* Kinship ties can strengthen support within a community.  
+  → Mối quan hệ họ hàng có thể củng cố sự hỗ trợ trong cộng đồng.
+
+* **kindred** /ˈkɪn.drəd/ *(adjective/noun)*: có liên quan; người thân họ hàng  
+  *Example:* They felt a kindred connection because they shared similar experiences.  
+  → Họ cảm thấy một sự gắn kết thân thuộc vì có những trải nghiệm tương tự.
+
+### Notes
+
+`Kin` is less common than `relatives` in daily English. The phrase `next of kin` is very common in medical and legal contexts.
+
+---
+
+## 297. Every mile of the way /ˈev.ri maɪl əv ðə ˈweɪ/
+
+* **Part of speech:** idiom; adverb phrase
+* **Vietnamese meaning:** suốt cả chặng đường, trong toàn bộ quá trình *(70%)*; luôn bên cạnh/hỗ trợ từ đầu đến cuối *(30%)*
+
+### Usage
+
+`Every mile of the way` means throughout a journey or process. It can be literal for travel, but it is often figurative for support, effort, or progress.
+
+Common structures:
+
+* `support someone every mile of the way`: hỗ trợ ai suốt cả quá trình
+* `be with someone every mile of the way`: ở bên ai từ đầu đến cuối
+* `struggle/learn/grow every mile of the way`: vật lộn/học hỏi/trưởng thành trong suốt quá trình
+
+### Examples
+
+1. **My family supported me every mile of the way during my IELTS preparation.**
+   → Gia đình đã hỗ trợ tôi suốt cả quá trình ôn thi IELTS.
+
+2. **The hike was difficult, but the scenery was beautiful every mile of the way.**
+   → Chuyến đi bộ rất khó, nhưng phong cảnh đẹp suốt cả chặng đường.
+
+### Common collocations
+
+* **support someone every mile of the way**: hỗ trợ ai suốt cả quá trình
+* **be there every mile of the way**: luôn ở đó từ đầu đến cuối
+* **enjoy every mile of the way**: tận hưởng suốt cả chặng đường
+
+### Word family
+
+* **every mile of the way** /ˈev.ri maɪl əv ðə ˈweɪ/ *(idiom/adverb phrase)*: suốt cả chặng đường/quá trình  
+  *Example:* A good teacher guides learners every mile of the way.  
+  → Một giáo viên tốt hướng dẫn người học suốt cả quá trình.
+
+* **mile** /maɪl/ *(noun)*: dặm; một đoạn đường dài  
+  *Example:* The village is five miles from the nearest town.  
+  → Ngôi làng cách thị trấn gần nhất năm dặm.
+
+* **way** /weɪ/ *(noun)*: con đường; cách thức; quá trình  
+  *Example:* Consistent practice is the best way to improve writing.  
+  → Luyện tập đều đặn là cách tốt nhất để cải thiện kỹ năng viết.
+
+### Notes
+
+This phrase is more expressive than `throughout the process`. In formal IELTS Writing, use it carefully because it sounds more personal and conversational.
