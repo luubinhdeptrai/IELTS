@@ -29,9 +29,9 @@ Common structures:
 
 ### Synonyms
 
-* **transportation** *(noun)*: sự vận chuyển/giao thông; gần nghĩa nhất với danh từ `transit`
-* **passage** *(noun)*: sự đi qua/quá cảnh
-* **transfer** *(noun/verb)*: sự chuyển từ nơi hoặc phương tiện này sang nơi khác; chuyển
+* **transportation** /ˌtrænspərˈteɪʃən/ *(noun)*: sự vận chuyển/giao thông; gần nghĩa nhất với danh từ `transit`
+* **passage** /ˈpæsɪʤ/ *(noun)*: sự đi qua/quá cảnh
+* **transfer** /ˈtrænsfər/ *(noun/verb)*: sự chuyển từ nơi hoặc phương tiện này sang nơi khác; chuyển
 
 ### Word family
 
@@ -85,9 +85,9 @@ Common structures:
 
 ### Synonyms
 
-* **changeover** *(noun)*: sự chuyển đổi từ hệ thống này sang hệ thống khác
-* **shift** *(noun/verb)*: sự thay đổi/chuyển dịch, thường dần dần
-* **transformation** *(noun)*: sự biến đổi lớn và sâu sắc
+* **changeover** /ˈʧeɪnˌʤoʊvər/ *(noun)*: sự chuyển đổi từ hệ thống này sang hệ thống khác
+* **shift** /ʃɪft/ *(noun/verb)*: sự thay đổi/chuyển dịch, thường dần dần
+* **transformation** /ˌtrænsfərˈmeɪʃən/ *(noun)*: sự biến đổi lớn và sâu sắc
 
 ### Word family
 
@@ -141,9 +141,9 @@ Common structures:
 
 ### Synonyms
 
-* **relieve** *(verb)*: làm giảm đau, áp lực hoặc khó khăn
-* **ease** *(verb)*: làm dịu/làm bớt, thường tự nhiên hơn trong hội thoại
-* **lessen** *(verb)*: làm giảm mức độ hoặc cường độ
+* **relieve** /rɪˈliv/ *(verb)*: làm giảm đau, áp lực hoặc khó khăn
+* **ease** /iz/ *(verb)*: làm dịu/làm bớt, thường tự nhiên hơn trong hội thoại
+* **lessen** /ˈlɛsən/ *(verb)*: làm giảm mức độ hoặc cường độ
 
 ### Word family
 
@@ -197,9 +197,9 @@ Common structures:
 
 ### Synonyms
 
-* **relieve** *(verb)*: làm giảm đau hoặc lo lắng
-* **alleviate** *(verb)*: làm giảm vấn đề nghiêm trọng; trang trọng hơn
-* **facilitate** *(verb)*: tạo điều kiện/làm cho một quá trình dễ hơn
+* **relieve** /rɪˈliv/ *(verb)*: làm giảm đau hoặc lo lắng
+* **alleviate** /əˈliviˌeɪt/ *(verb)*: làm giảm vấn đề nghiêm trọng; trang trọng hơn
+* **facilitate** /fəˈsɪləˌteɪt/ *(verb)*: tạo điều kiện/làm cho một quá trình dễ hơn
 
 ### Word family
 
@@ -253,9 +253,9 @@ Common structures:
 
 ### Synonyms
 
-* **alleviate** *(verb)*: làm giảm bớt đau khổ hoặc vấn đề
-* **reduce** *(verb)*: làm giảm nói chung
-* **moderate** *(verb)*: làm cho bớt cực đoan hoặc dữ dội
+* **alleviate** /əˈliviˌeɪt/ *(verb)*: làm giảm bớt đau khổ hoặc vấn đề
+* **reduce** /rɪˈdus/ *(verb)*: làm giảm nói chung
+* **moderate** /ˈmɑdərˌeɪt/ *(verb)*: làm cho bớt cực đoan hoặc dữ dội
 
 ### Word family
 
@@ -309,9 +309,9 @@ Common structures:
 
 ### Synonyms
 
-* **disposable** *(adjective)*: dùng một lần rồi bỏ; từ gần nghĩa thông dụng nhất
-* **throwaway** *(adjective)*: dùng rồi bỏ; thân mật và thường mang sắc thái tiêu cực
-* **one-use** *(adjective)*: chỉ dùng một lần; ít phổ biến hơn `single-use`
+* **disposable** /dɪˈspoʊzəbəl/ *(adjective)*: dùng một lần rồi bỏ; từ gần nghĩa thông dụng nhất
+* **throwaway** /θˈroʊəˌweɪ/ *(adjective)*: dùng rồi bỏ; thân mật và thường mang sắc thái tiêu cực
+* **one-use** /ˌwʌn ˈjuːs/ *(adjective)*: chỉ dùng một lần; ít phổ biến hơn `single-use`
 
 ### Word family
 
@@ -365,9 +365,9 @@ Common structures:
 
 ### Synonyms
 
-* **occupational** *(adjective)*: thuộc nghề nghiệp/công việc
-* **job-related** *(adjective)*: liên quan trực tiếp đến công việc
-* **career-oriented** *(adjective)*: định hướng nghề nghiệp
+* **occupational** /ɑkjəˈpeɪʃənəl/ *(adjective)*: thuộc nghề nghiệp/công việc
+* **job-related** /ˌdʒɑːb rɪˈleɪ.tɪd/ *(adjective)*: liên quan trực tiếp đến công việc
+* **career-oriented** /kəˈrɪr ˌɔːr.i.en.tɪd/ *(adjective)*: định hướng nghề nghiệp
 
 ### Word family
 
@@ -421,9 +421,9 @@ Common structures:
 
 ### Synonyms
 
-* **instruction** *(noun)*: sự giảng dạy; gần nghĩa với `tuition` theo nghĩa dạy học
-* **teaching** *(noun)*: hoạt động giảng dạy
-* **course fees** *(plural noun)*: học phí khóa học; gần nghĩa với `tuition` trong tiếng Anh-Mỹ
+* **instruction** /ˌɪnˈstrəkʃən/ *(noun)*: sự giảng dạy; gần nghĩa với `tuition` theo nghĩa dạy học
+* **teaching** /ˈtiʧɪŋ/ *(noun)*: hoạt động giảng dạy
+* **course fees** /kɔrs fiz/ *(plural noun)*: học phí khóa học; gần nghĩa với `tuition` trong tiếng Anh-Mỹ
 
 ### Word family
 
@@ -477,9 +477,9 @@ Common structures:
 
 ### Synonyms
 
-* **means of support** *(noun phrase)*: phương tiện kiếm sống/nguồn nuôi sống
-* **living** *(noun)*: kế sinh nhai trong cụm `earn a living`
-* **income** *(noun)*: thu nhập; chỉ khía cạnh tiền bạc
+* **means of support** /minz əv səˈpɔrt/ *(noun phrase)*: phương tiện kiếm sống/nguồn nuôi sống
+* **living** /ˈlɪvɪŋ/ *(noun)*: kế sinh nhai trong cụm `earn a living`
+* **income** /ˈɪnˌkəm/ *(noun)*: thu nhập; chỉ khía cạnh tiền bạc
 
 ### Word family
 
@@ -533,9 +533,9 @@ Common structures:
 
 ### Synonyms
 
-* **water** *(verb)*: tưới nước; từ thông dụng hơn
-* **supply with water** *(verb phrase)*: cung cấp nước cho đất/cây
-* **sprinkle** *(verb)*: tưới/rắc một lượng nước nhỏ; nghĩa hẹp hơn
+* **water** /ˈwɔtər/ *(verb)*: tưới nước; từ thông dụng hơn
+* **supply with water** /səˈplaɪ wɪθ ˈwɔtər/ *(verb phrase)*: cung cấp nước cho đất/cây
+* **sprinkle** /ˈsprɪŋkəl/ *(verb)*: tưới/rắc một lượng nước nhỏ; nghĩa hẹp hơn
 
 ### Word family
 
@@ -589,9 +589,9 @@ Common structures:
 
 ### Synonyms
 
-* **overuse** *(noun)*: việc sử dụng quá mức
-* **excessive extraction** *(noun phrase)*: sự khai thác quá mức
-* **resource depletion** *(noun phrase)*: sự cạn kiệt tài nguyên; thường là hậu quả của overexploitation
+* **overuse** /ˌoʊvərˈjuz/ *(noun)*: việc sử dụng quá mức
+* **excessive extraction** /ɪkˈsɛsɪv ɛkˈstrækʃən/ *(noun phrase)*: sự khai thác quá mức
+* **resource depletion** /ˈrisɔrs dɪˈpliʃən/ *(noun phrase)*: sự cạn kiệt tài nguyên; thường là hậu quả của overexploitation
 
 ### Word family
 
@@ -645,9 +645,9 @@ Common structures:
 
 ### Synonyms
 
-* **memorization** *(noun)*: sự ghi nhớ; rộng hơn và có thể không máy móc
-* **mechanical repetition** *(noun phrase)*: sự lặp lại máy móc
-* **learning by heart** *(noun phrase)*: học thuộc lòng
+* **memorization** /ˌmem.ə.rəˈzeɪ.ʃən/ *(noun)*: sự ghi nhớ; rộng hơn và có thể không máy móc
+* **mechanical repetition** /məˈkænɪkəl ˌrɛpəˈtɪʃən/ *(noun phrase)*: sự lặp lại máy móc
+* **learning by heart** /ˈlərnɪŋ baɪ hɑrt/ *(noun phrase)*: học thuộc lòng
 
 ### Word family
 
@@ -701,9 +701,9 @@ Common structures:
 
 ### Synonyms
 
-* **leak** *(noun/verb)*: sự rò rỉ/rò ra, thường qua lỗ nhỏ
-* **overflow** *(verb/noun)*: tràn ra vì quá đầy
-* **pour accidentally** *(verb phrase)*: vô tình làm đổ chất lỏng
+* **leak** /lik/ *(noun/verb)*: sự rò rỉ/rò ra, thường qua lỗ nhỏ
+* **overflow** /ˌoʊvərˈfloʊ/ *(verb/noun)*: tràn ra vì quá đầy
+* **pour accidentally** /pɔr ˌæksəˈdɛnəli/ *(verb phrase)*: vô tình làm đổ chất lỏng
 
 ### Word family
 
@@ -757,9 +757,9 @@ Common structures:
 
 ### Synonyms
 
-* **foyer** *(noun)*: tiền sảnh của khách sạn/rạp hát
-* **entrance hall** *(noun phrase)*: sảnh ngay lối vào
-* **campaign** *(verb)*: vận động gây ảnh hưởng; gần nghĩa với động từ `lobby`
+* **foyer** /fɔɪər/ *(noun)*: tiền sảnh của khách sạn/rạp hát
+* **entrance hall** /ˈɛntrəns hɔl/ *(noun phrase)*: sảnh ngay lối vào
+* **campaign** /kæmˈpeɪn/ *(verb)*: vận động gây ảnh hưởng; gần nghĩa với động từ `lobby`
 
 ### Word family
 
@@ -813,9 +813,9 @@ Common structures:
 
 ### Synonyms
 
-* **assignments** *(plural noun)*: các bài tập được giao
-* **assessed work** *(noun phrase)*: bài làm được chấm điểm
-* **course assignments** *(plural noun)*: bài tập trong một khóa học
+* **assignments** /əˈsaɪnmənts/ *(plural noun)*: các bài tập được giao
+* **assessed work** /əˈsɛst wərk/ *(noun phrase)*: bài làm được chấm điểm
+* **course assignments** /kɔrs əˈsaɪnmənts/ *(plural noun)*: bài tập trong một khóa học
 
 ### Word family
 
@@ -869,9 +869,9 @@ Common structures:
 
 ### Synonyms
 
-* **worth** *(noun)*: giá trị hoặc sự xứng đáng
-* **value** *(noun)*: giá trị/lợi ích
-* **excellence** *(noun)*: sự xuất sắc; gần với nghĩa phẩm chất đáng khen
+* **worth** /wərθ/ *(noun)*: giá trị hoặc sự xứng đáng
+* **value** /ˈvælju/ *(noun)*: giá trị/lợi ích
+* **excellence** /ˈɛksələns/ *(noun)*: sự xuất sắc; gần với nghĩa phẩm chất đáng khen
 
 ### Word family
 
@@ -925,9 +925,9 @@ Common structures:
 
 ### Synonyms
 
-* **academic staff** *(plural noun)*: đội ngũ giảng viên
-* **department** *(noun)*: khoa/bộ môn trong trường
-* **ability** *(noun)*: năng lực; gần với nghĩa ít phổ biến của `faculty`
+* **academic staff** /ˌækəˈdɛmɪk stæf/ *(plural noun)*: đội ngũ giảng viên
+* **department** /dɪˈpɑrtmənt/ *(noun)*: khoa/bộ môn trong trường
+* **ability** /əˈbɪləˌti/ *(noun)*: năng lực; gần với nghĩa ít phổ biến của `faculty`
 
 ### Word family
 
@@ -981,9 +981,9 @@ Common structures:
 
 ### Synonyms
 
-* **abatement** *(noun)*: sự giảm bớt về cường độ
-* **improvement** *(noun)*: sự cải thiện; từ rộng hơn trong y khoa
-* **cancellation** *(noun)*: sự miễn/hủy khoản nợ hoặc hình phạt
+* **abatement** /əˈbeɪtmənt/ *(noun)*: sự giảm bớt về cường độ
+* **improvement** /ˌɪmˈpruvmənt/ *(noun)*: sự cải thiện; từ rộng hơn trong y khoa
+* **cancellation** /ˌkænsəˈleɪʃən/ *(noun)*: sự miễn/hủy khoản nợ hoặc hình phạt
 
 ### Word family
 
@@ -1037,9 +1037,9 @@ Common structures:
 
 ### Synonyms
 
-* **allowance** *(noun)*: khoản trợ cấp định kỳ
-* **grant** *(noun)*: khoản tài trợ cho mục đích cụ thể
-* **bursary** *(noun)*: học bổng/trợ cấp học tập, thường dựa trên nhu cầu tài chính
+* **allowance** /əˈlaʊəns/ *(noun)*: khoản trợ cấp định kỳ
+* **grant** /grænt/ *(noun)*: khoản tài trợ cho mục đích cụ thể
+* **bursary** /ˈbɝː.sɚ.i/ *(noun)*: học bổng/trợ cấp học tập, thường dựa trên nhu cầu tài chính
 
 ### Word family
 
@@ -1093,9 +1093,9 @@ Common structures:
 
 ### Synonyms
 
-* **outsider** *(noun)*: người/đội ít được kỳ vọng chiến thắng
-* **dark horse** *(noun phrase)*: đối thủ ít được biết đến nhưng có thể bất ngờ thành công
-* **disadvantaged competitor** *(noun phrase)*: đối thủ ở thế bất lợi
+* **outsider** /aʊtˈsaɪdər/ *(noun)*: người/đội ít được kỳ vọng chiến thắng
+* **dark horse** /dɑrk hɔrs/ *(noun phrase)*: đối thủ ít được biết đến nhưng có thể bất ngờ thành công
+* **disadvantaged competitor** /ˌdɪsədˈvænɪʤd kəmˈpɛtɪtər/ *(noun phrase)*: đối thủ ở thế bất lợi
 
 ### Word family
 
@@ -1149,9 +1149,9 @@ Common structures:
 
 ### Synonyms
 
-* **responsibility** *(noun)*: trách nhiệm
-* **answerability** *(noun)*: nghĩa vụ phải giải trình
-* **liability** *(noun)*: trách nhiệm, đặc biệt về pháp lý hoặc tài chính
+* **responsibility** /riˌspɑnsəˈbɪləti/ *(noun)*: trách nhiệm
+* **answerability** /ˌæn.sɚ.əˈbɪl.ə.ti/ *(noun)*: nghĩa vụ phải giải trình
+* **liability** /ˌlaɪəˈbɪlɪti/ *(noun)*: trách nhiệm, đặc biệt về pháp lý hoặc tài chính
 
 ### Word family
 
@@ -1205,9 +1205,9 @@ Common structures:
 
 ### Synonyms
 
-* **monitoring** *(noun)*: sự theo dõi liên tục
-* **observation** *(noun)*: sự quan sát
-* **scrutiny** *(noun)*: sự xem xét/theo dõi kỹ lưỡng
+* **monitoring** /ˈmɑnətərɪŋ/ *(noun)*: sự theo dõi liên tục
+* **observation** /ˌɑbzərˈveɪʃən/ *(noun)*: sự quan sát
+* **scrutiny** /ˈskrutəni/ *(noun)*: sự xem xét/theo dõi kỹ lưỡng
 
 ### Word family
 
@@ -1261,9 +1261,9 @@ Common structures:
 
 ### Synonyms
 
-* **discourage** *(verb)*: làm ai nản lòng/không muốn làm
-* **dissuade** *(verb)*: thuyết phục ai không làm gì
-* **prevent** *(verb)*: ngăn chặn hoàn toàn; mạnh hơn `deter`
+* **discourage** /dɪˈskərɪʤ/ *(verb)*: làm ai nản lòng/không muốn làm
+* **dissuade** /dɪsˈweɪd/ *(verb)*: thuyết phục ai không làm gì
+* **prevent** /prɪˈvɛnt/ *(verb)*: ngăn chặn hoàn toàn; mạnh hơn `deter`
 
 ### Word family
 
@@ -1317,9 +1317,9 @@ Common structures:
 
 ### Synonyms
 
-* **recidivism** *(noun)*: sự tái phạm; thuật ngữ pháp lý/xã hội học
-* **repeat offending** *(noun phrase)*: hành vi phạm tội lặp lại
-* **relapse into crime** *(noun phrase)*: quay lại con đường phạm tội
+* **recidivism** /rəˈsɪdɪˌvɪzəm/ *(noun)*: sự tái phạm; thuật ngữ pháp lý/xã hội học
+* **repeat offending** /rɪˈpit əˈfɛndɪŋ/ *(noun phrase)*: hành vi phạm tội lặp lại
+* **relapse into crime** /riˈlæps ˈɪntu kraɪm/ *(noun phrase)*: quay lại con đường phạm tội
 
 ### Word family
 
@@ -1373,9 +1373,9 @@ Common structures:
 
 ### Synonyms
 
-* **imprisonment** *(noun)*: sự bỏ tù
-* **confinement** *(noun)*: sự giam giữ/hạn chế tự do
-* **detention** *(noun)*: sự tạm giữ hoặc giam giữ
+* **imprisonment** /ˌɪmˈprɪzənmənt/ *(noun)*: sự bỏ tù
+* **confinement** /kənˈfaɪnmənt/ *(noun)*: sự giam giữ/hạn chế tự do
+* **detention** /dɪˈtɛnʃən/ *(noun)*: sự tạm giữ hoặc giam giữ
 
 ### Word family
 
@@ -1429,9 +1429,9 @@ Common structures:
 
 ### Synonyms
 
-* **fair sentence** *(noun phrase)*: bản án công bằng
-* **commensurate punishment** *(noun phrase)*: hình phạt tương xứng
-* **appropriate penalty** *(noun phrase)*: hình phạt phù hợp
+* **fair sentence** /fɛr ˈsɛntəns/ *(noun phrase)*: bản án công bằng
+* **commensurate punishment** /kəˈmɛnsərɪt ˈpənɪʃmənt/ *(noun phrase)*: hình phạt tương xứng
+* **appropriate penalty** /əˈproʊpriˌeɪt ˈpɛnəlti/ *(noun phrase)*: hình phạt phù hợp
 
 ### Word family
 
@@ -1485,9 +1485,9 @@ Common structures:
 
 ### Synonyms
 
-* **crime** *(noun)*: tội phạm/tội danh; thường nghiêm trọng hơn
-* **violation** *(noun)*: hành vi vi phạm luật hoặc quy tắc
-* **wrongdoing** *(noun)*: hành vi sai trái nói chung
+* **crime** /kraɪm/ *(noun)*: tội phạm/tội danh; thường nghiêm trọng hơn
+* **violation** /vaɪəˈleɪʃən/ *(noun)*: hành vi vi phạm luật hoặc quy tắc
+* **wrongdoing** /ˈrɔŋduɪŋ/ *(noun)*: hành vi sai trái nói chung
 
 ### Word family
 
@@ -1541,9 +1541,9 @@ Common structures:
 
 ### Synonyms
 
-* **cleaning agent** *(noun phrase)*: chất tẩy rửa
-* **cleanser** *(noun)*: chất làm sạch, thường dùng cho da hoặc bề mặt
-* **soap powder** *(noun phrase)*: bột giặt; nghĩa cụ thể hơn
+* **cleaning agent** /ˈklinɪŋ ˈeɪʤənt/ *(noun phrase)*: chất tẩy rửa
+* **cleanser** /ˈklɛnzər/ *(noun)*: chất làm sạch, thường dùng cho da hoặc bề mặt
+* **soap powder** /soʊp ˈpaʊdər/ *(noun phrase)*: bột giặt; nghĩa cụ thể hơn
 
 ### Word family
 
@@ -1597,9 +1597,9 @@ Common structures:
 
 ### Synonyms
 
-* **denounce** *(verb)*: công khai lên án
-* **censure** *(verb)*: chính thức chỉ trích mạnh
-* **sentence** *(verb)*: tuyên án; chỉ gần nghĩa trong ngữ cảnh pháp lý
+* **denounce** /dɪˈnaʊns/ *(verb)*: công khai lên án
+* **censure** /ˈsɛnʃər/ *(verb)*: chính thức chỉ trích mạnh
+* **sentence** /ˈsɛntəns/ *(verb)*: tuyên án; chỉ gần nghĩa trong ngữ cảnh pháp lý
 
 ### Word family
 
@@ -1653,9 +1653,9 @@ Common structures:
 
 ### Synonyms
 
-* **immaculate** *(adjective)*: hoàn toàn sạch sẽ/không tì vết
-* **unspoiled** *(adjective)*: chưa bị phá hỏng hoặc phát triển
-* **spotless** *(adjective)*: sạch không một vết bẩn
+* **immaculate** /ˌɪˈmækjulɪt/ *(adjective)*: hoàn toàn sạch sẽ/không tì vết
+* **unspoiled** /ənˈspɔɪld/ *(adjective)*: chưa bị phá hỏng hoặc phát triển
+* **spotless** /ˈspɑtləs/ *(adjective)*: sạch không một vết bẩn
 
 ### Word family
 
@@ -1709,9 +1709,9 @@ Common structures:
 
 ### Synonyms
 
-* **achieve** *(verb)*: đạt được nhờ nỗ lực
-* **reach** *(verb)*: đạt tới mức hoặc mục tiêu
-* **accomplish** *(verb)*: hoàn thành thành công
+* **achieve** /əˈʧiv/ *(verb)*: đạt được nhờ nỗ lực
+* **reach** /riʧ/ *(verb)*: đạt tới mức hoặc mục tiêu
+* **accomplish** /əˈkɑmplɪʃ/ *(verb)*: hoàn thành thành công
 
 ### Word family
 
@@ -1765,9 +1765,9 @@ Common structures:
 
 ### Synonyms
 
-* **decline** *(verb)*: từ chối lịch sự
-* **reject** *(verb)*: bác bỏ/không chấp nhận mạnh hơn
-* **waste** *(noun)*: chất thải; gần nghĩa với danh từ `refuse`
+* **decline** /dɪˈklaɪn/ *(verb)*: từ chối lịch sự
+* **reject** /ˈriʤɛkt/ *(verb)*: bác bỏ/không chấp nhận mạnh hơn
+* **waste** /weɪst/ *(noun)*: chất thải; gần nghĩa với danh từ `refuse`
 
 ### Word family
 
@@ -1821,9 +1821,9 @@ Common structures:
 
 ### Synonyms
 
-* **ubiquitous** *(adjective)*: có mặt khắp nơi; trang trọng
-* **ever-present** *(adjective)*: luôn hiện diện
-* **pervasive** *(adjective)*: lan tỏa và hiện diện rộng khắp
+* **ubiquitous** /juˈbɪkwɪtəs/ *(adjective)*: có mặt khắp nơi; trang trọng
+* **ever-present** /ˌev.ɚˈprez.ənt/ *(adjective)*: luôn hiện diện
+* **pervasive** /pərˈveɪsɪv/ *(adjective)*: lan tỏa và hiện diện rộng khắp
 
 ### Word family
 
@@ -1877,9 +1877,9 @@ Common structures:
 
 ### Synonyms
 
-* **distinguished** *(adjective)*: lỗi lạc và được kính trọng
-* **prominent** *(adjective)*: nổi bật, quan trọng
-* **renowned** *(adjective)*: nổi tiếng và được đánh giá cao
+* **distinguished** /dɪˈstɪŋgwɪʃt/ *(adjective)*: lỗi lạc và được kính trọng
+* **prominent** /ˈprɑmənənt/ *(adjective)*: nổi bật, quan trọng
+* **renowned** /rɪˈnaʊnd/ *(adjective)*: nổi tiếng và được đánh giá cao
 
 ### Word family
 
@@ -1933,9 +1933,9 @@ Common structures:
 
 ### Synonyms
 
-* **widespread** *(adjective)*: phổ biến/lan rộng
-* **prevalent** *(adjective)*: thịnh hành, thường gặp
-* **ubiquitous** *(adjective)*: dường như có mặt ở mọi nơi
+* **widespread** /ˈwaɪdˈsprɛd/ *(adjective)*: phổ biến/lan rộng
+* **prevalent** /ˈprɛvələnt/ *(adjective)*: thịnh hành, thường gặp
+* **ubiquitous** /juˈbɪkwɪtəs/ *(adjective)*: dường như có mặt ở mọi nơi
 
 ### Word family
 
@@ -1989,9 +1989,9 @@ Common structures:
 
 ### Synonyms
 
-* **futile** *(adjective)*: vô ích vì không thể tạo kết quả
-* **meaningless** *(adjective)*: vô nghĩa
-* **useless** *(adjective)*: không có ích hoặc không hoạt động hiệu quả
+* **futile** /fˈjutəl/ *(adjective)*: vô ích vì không thể tạo kết quả
+* **meaningless** /ˈminɪŋləs/ *(adjective)*: vô nghĩa
+* **useless** /ˈjusləs/ *(adjective)*: không có ích hoặc không hoạt động hiệu quả
 
 ### Word family
 
@@ -2045,9 +2045,9 @@ Common structures:
 
 ### Synonyms
 
-* **replant** *(verb)*: trồng lại
-* **restore vegetation** *(verb phrase)*: khôi phục thảm thực vật
-* **reforest** *(verb)*: trồng lại rừng; nghĩa hẹp hơn
+* **replant** /riˈplænt/ *(verb)*: trồng lại
+* **restore vegetation** /rɪˈstɔr ˌvɛʤəˈteɪʃən/ *(verb phrase)*: khôi phục thảm thực vật
+* **reforest** /riˈfɔrəst/ *(verb)*: trồng lại rừng; nghĩa hẹp hơn
 
 ### Word family
 
@@ -2101,9 +2101,9 @@ Common structures:
 
 ### Synonyms
 
-* **legally responsible** *(adjective phrase)*: chịu trách nhiệm pháp lý
-* **accountable** *(adjective)*: phải chịu trách nhiệm/giải trình
-* **likely** *(adjective)*: có khả năng; gần với nghĩa `liable to`
+* **legally responsible** /ˈligəli riˈspɑnsəbəl/ *(adjective phrase)*: chịu trách nhiệm pháp lý
+* **accountable** /əˈkaʊntəbəl/ *(adjective)*: phải chịu trách nhiệm/giải trình
+* **likely** /ˈlaɪkli/ *(adjective)*: có khả năng; gần với nghĩa `liable to`
 
 ### Word family
 
@@ -2157,9 +2157,9 @@ Common structures:
 
 ### Synonyms
 
-* **the majority of** *(phrase)*: phần lớn
-* **nearly all** *(phrase)*: gần như tất cả
-* **the greatest amount/number** *(phrase)*: lượng/số lượng lớn nhất
+* **the majority of** /ðə məˈʤɔrəti əv/ *(phrase)*: phần lớn
+* **nearly all** /ˈnɪrli ɔl/ *(phrase)*: gần như tất cả
+* **the greatest amount/number** /ðə ˈɡreɪ.tɪst əˈmaʊnt; ðə ˈɡreɪ.tɪst ˈnʌm.bɚ/ *(phrase)*: lượng/số lượng lớn nhất
 
 ### Word family
 
@@ -2213,9 +2213,9 @@ Common structures:
 
 ### Synonyms
 
-* **nearly** *(adverb)*: gần như; từ gần nghĩa nhất
-* **practically** *(adverb)*: hầu như, trên thực tế gần như
-* **just about** *(adverb phrase)*: gần như; thân mật
+* **nearly** /ˈnɪrli/ *(adverb)*: gần như; từ gần nghĩa nhất
+* **practically** /ˈpræktɪkəli/ *(adverb)*: hầu như, trên thực tế gần như
+* **just about** /ʤɪst əˈbaʊt/ *(adverb phrase)*: gần như; thân mật
 
 ### Word family
 
@@ -2269,9 +2269,9 @@ Common structures:
 
 ### Synonyms
 
-* **tag** *(noun/verb)*: nhãn; gắn nhãn
-* **mark** *(noun/verb)*: dấu/đánh dấu
-* **categorize** *(verb)*: phân loại; gần với nghĩa gán nhãn cho người/vật
+* **tag** /tæg/ *(noun/verb)*: nhãn; gắn nhãn
+* **mark** /mɑrk/ *(noun/verb)*: dấu/đánh dấu
+* **categorize** /ˈkætəgərˌaɪz/ *(verb)*: phân loại; gần với nghĩa gán nhãn cho người/vật
 
 ### Word family
 
@@ -2325,9 +2325,9 @@ Common structures:
 
 ### Synonyms
 
-* **generalization** *(noun)*: sự khái quát hóa, thường quá đơn giản
-* **typecast** *(verb)*: gán cho ai một kiểu vai trò cố định
-* **preconception** *(noun)*: định kiến có trước khi biết đầy đủ sự thật
+* **generalization** /ˌʤɛnərəlɪˈzeɪʃən/ *(noun)*: sự khái quát hóa, thường quá đơn giản
+* **typecast** /ˈtaɪpˌkæst/ *(verb)*: gán cho ai một kiểu vai trò cố định
+* **preconception** /prikənˈsɛpʃən/ *(noun)*: định kiến có trước khi biết đầy đủ sự thật
 
 ### Word family
 
@@ -2381,9 +2381,9 @@ Common structures:
 
 ### Synonyms
 
-* **charge** *(verb)*: buộc tội chính thức
-* **allege** *(verb)*: cáo buộc nhưng chưa chứng minh
-* **blame** *(verb)*: đổ lỗi; không nhất thiết là cáo buộc phạm pháp
+* **charge** /ʧɑrʤ/ *(verb)*: buộc tội chính thức
+* **allege** /əˈlɛʤ/ *(verb)*: cáo buộc nhưng chưa chứng minh
+* **blame** /bleɪm/ *(verb)*: đổ lỗi; không nhất thiết là cáo buộc phạm pháp
 
 ### Word family
 
@@ -2437,9 +2437,9 @@ Common structures:
 
 ### Synonyms
 
-* **severe** *(adjective)*: nghiêm trọng/dữ dội
-* **intense** *(adjective)*: mạnh về mức độ
-* **sharp** *(adjective)*: đau nhói hoặc góc nhọn; gần với một số nghĩa của `acute`
+* **severe** /səˈvɪr/ *(adjective)*: nghiêm trọng/dữ dội
+* **intense** /ˌɪnˈtɛns/ *(adjective)*: mạnh về mức độ
+* **sharp** /ʃɑrp/ *(adjective)*: đau nhói hoặc góc nhọn; gần với một số nghĩa của `acute`
 
 ### Word family
 
@@ -2493,9 +2493,9 @@ Common structures:
 
 ### Synonyms
 
-* **teenage years** *(noun phrase)*: những năm tuổi thiếu niên
-* **youth** *(noun)*: tuổi trẻ; rộng hơn
-* **puberty** *(noun)*: tuổi dậy thì; chỉ giai đoạn phát triển sinh học
+* **teenage years** /ˈtiˌneɪʤ jɪrz/ *(noun phrase)*: những năm tuổi thiếu niên
+* **youth** /juθ/ *(noun)*: tuổi trẻ; rộng hơn
+* **puberty** /ˈpjubərti/ *(noun)*: tuổi dậy thì; chỉ giai đoạn phát triển sinh học
 
 ### Word family
 
@@ -2549,9 +2549,9 @@ Common structures:
 
 ### Synonyms
 
-* **take up** *(phrasal verb)*: bắt đầu sử dụng/thực hiện
-* **embrace** *(verb)*: nhiệt tình chấp nhận ý tưởng/phương pháp
-* **take in** *(phrasal verb)*: nhận nuôi/chăm sóc; gần với nghĩa nhận con nuôi
+* **take up** /teɪk əp/ *(phrasal verb)*: bắt đầu sử dụng/thực hiện
+* **embrace** /ɪmˈbreɪs/ *(verb)*: nhiệt tình chấp nhận ý tưởng/phương pháp
+* **take in** /teɪk ɪn/ *(phrasal verb)*: nhận nuôi/chăm sóc; gần với nghĩa nhận con nuôi
 
 ### Word family
 
@@ -2605,9 +2605,9 @@ Common structures:
 
 ### Synonyms
 
-* **maturity** *(noun)*: sự trưởng thành
-* **adult life** *(noun phrase)*: cuộc sống trưởng thành
-* **coming of age** *(noun phrase)*: quá trình đạt tuổi trưởng thành
+* **maturity** /məˈʧʊrəti/ *(noun)*: sự trưởng thành
+* **adult life** /ˈædəlt laɪf/ *(noun phrase)*: cuộc sống trưởng thành
+* **coming of age** /ˈkəmɪŋ əv eɪʤ/ *(noun phrase)*: quá trình đạt tuổi trưởng thành
 
 ### Word family
 
@@ -2661,9 +2661,9 @@ Common structures:
 
 ### Synonyms
 
-* **connection** *(noun)*: sự kết nối/mối liên hệ
-* **tie** *(noun)*: mối ràng buộc, thường giữa người hoặc nhóm
-* **link** *(noun)*: mối liên kết
+* **connection** /kəˈnɛkʃən/ *(noun)*: sự kết nối/mối liên hệ
+* **tie** /taɪ/ *(noun)*: mối ràng buộc, thường giữa người hoặc nhóm
+* **link** /lɪŋk/ *(noun)*: mối liên kết
 
 ### Word family
 
@@ -2717,9 +2717,9 @@ Common structures:
 
 ### Synonyms
 
-* **create** *(verb)*: tạo ra; gần với nghĩa xây dựng
-* **form** *(verb)*: hình thành
-* **counterfeit** *(verb)*: làm giả tiền hoặc giấy tờ; gần với nghĩa làm giả của `forge`
+* **create** /kriˈeɪt/ *(verb)*: tạo ra; gần với nghĩa xây dựng
+* **form** /fɔrm/ *(verb)*: hình thành
+* **counterfeit** /ˈkaʊnərˌfɪt/ *(verb)*: làm giả tiền hoặc giấy tờ; gần với nghĩa làm giả của `forge`
 
 ### Word family
 
@@ -2773,9 +2773,9 @@ Common structures:
 
 ### Synonyms
 
-* **tight-knit** *(adjective)*: gắn bó chặt chẽ; biến thể gần nghĩa
-* **united** *(adjective)*: đoàn kết
-* **cohesive** *(adjective)*: gắn kết thành một khối
+* **tight-knit** /ˌtaɪt ˈnɪt/ *(adjective)*: gắn bó chặt chẽ; biến thể gần nghĩa
+* **united** /juˈnaɪtɪd/ *(adjective)*: đoàn kết
+* **cohesive** /koʊˈhisɪv/ *(adjective)*: gắn kết thành một khối
 
 ### Word family
 
@@ -2829,9 +2829,9 @@ Common structures:
 
 ### Synonyms
 
-* **withstand** *(verb)*: chịu đựng mà không bị hủy hoại
-* **tolerate** *(verb)*: chịu đựng/chấp nhận điều khó chịu
-* **last** *(verb)*: kéo dài; gần với nghĩa nội động từ của `endure`
+* **withstand** /wɪθˈstænd/ *(verb)*: chịu đựng mà không bị hủy hoại
+* **tolerate** /ˈtɑlərˌeɪt/ *(verb)*: chịu đựng/chấp nhận điều khó chịu
+* **last** /læst/ *(verb)*: kéo dài; gần với nghĩa nội động từ của `endure`
 
 ### Word family
 
@@ -2885,9 +2885,9 @@ Common structures:
 
 ### Synonyms
 
-* **paternity** *(noun)*: tư cách/quan hệ làm cha; trang trọng
-* **being a father** *(noun phrase)*: việc làm cha
-* **parenthood** *(noun)*: vai trò làm cha mẹ; rộng hơn
+* **paternity** /pəˈtərnɪti/ *(noun)*: tư cách/quan hệ làm cha; trang trọng
+* **being a father** /biɪŋ ə ˈfɑðər/ *(noun phrase)*: việc làm cha
+* **parenthood** /ˈpɛrənˌthʊd/ *(noun)*: vai trò làm cha mẹ; rộng hơn
 
 ### Word family
 
@@ -2941,9 +2941,9 @@ Common structures:
 
 ### Synonyms
 
-* **delight** *(noun)*: niềm vui lớn
-* **happiness** *(noun)*: hạnh phúc nói chung
-* **pleasure** *(noun)*: niềm vui/sự hài lòng
+* **delight** /dɪˈlaɪt/ *(noun)*: niềm vui lớn
+* **happiness** /ˈhæpinəs/ *(noun)*: hạnh phúc nói chung
+* **pleasure** /ˈplɛʒər/ *(noun)*: niềm vui/sự hài lòng
 
 ### Word family
 
@@ -2997,9 +2997,9 @@ Common structures:
 
 ### Synonyms
 
-* **motherly** *(adjective)*: có tính chăm sóc như người mẹ
-* **mothering** *(adjective)*: chăm sóc theo cách của mẹ
-* **parental** *(adjective)*: thuộc cha mẹ; rộng hơn `maternal`
+* **motherly** /ˈməðərli/ *(adjective)*: có tính chăm sóc như người mẹ
+* **mothering** /ˈməðərɪŋ/ *(adjective)*: chăm sóc theo cách của mẹ
+* **parental** /pərˈɛntəl/ *(adjective)*: thuộc cha mẹ; rộng hơn `maternal`
 
 ### Word family
 
@@ -3053,9 +3053,9 @@ Common structures:
 
 ### Synonyms
 
-* **maternity** *(noun)*: thiên chức/tình trạng làm mẹ; thường dùng trong y tế và việc làm
-* **being a mother** *(noun phrase)*: việc làm mẹ
-* **parenthood** *(noun)*: vai trò làm cha mẹ; rộng hơn
+* **maternity** /məˈtərnɪti/ *(noun)*: thiên chức/tình trạng làm mẹ; thường dùng trong y tế và việc làm
+* **being a mother** /biɪŋ ə ˈməðər/ *(noun phrase)*: việc làm mẹ
+* **parenthood** /ˈpɛrənˌthʊd/ *(noun)*: vai trò làm cha mẹ; rộng hơn
 
 ### Word family
 
@@ -3109,9 +3109,9 @@ Common structures:
 
 ### Synonyms
 
-* **relationship** *(noun)*: mối quan hệ
-* **connection** *(noun)*: mối liên hệ
-* **relative** *(noun)*: người họ hàng; gần với nghĩa chỉ người của `relation`
+* **relationship** /riˈleɪʃənˌʃɪp/ *(noun)*: mối quan hệ
+* **connection** /kəˈnɛkʃən/ *(noun)*: mối liên hệ
+* **relative** /ˈrɛlətɪv/ *(noun)*: người họ hàng; gần với nghĩa chỉ người của `relation`
 
 ### Word family
 
@@ -3165,9 +3165,9 @@ Common structures:
 
 ### Synonyms
 
-* **similarity** *(noun)*: sự tương đồng
-* **likeness** *(noun)*: sự giống nhau, nhất là ngoại hình
-* **correspondence** *(noun)*: sự tương ứng giữa hai thứ
+* **similarity** /ˌsɪməˈlɛrəti/ *(noun)*: sự tương đồng
+* **likeness** /ˈlaɪknəs/ *(noun)*: sự giống nhau, nhất là ngoại hình
+* **correspondence** /ˌkɔrəˈspɑndəns/ *(noun)*: sự tương ứng giữa hai thứ
 
 ### Word family
 
@@ -3221,9 +3221,9 @@ Common structures:
 
 ### Synonyms
 
-* **competition** *(noun)*: sự cạnh tranh; trung tính hơn
-* **antagonism** *(noun)*: sự đối địch
-* **contest** *(noun)*: cuộc cạnh tranh cụ thể
+* **competition** /ˌkɑmpəˈtɪʃən/ *(noun)*: sự cạnh tranh; trung tính hơn
+* **antagonism** /ænˈtægəˌnɪzəm/ *(noun)*: sự đối địch
+* **contest** /ˈkɑntɛst/ *(noun)*: cuộc cạnh tranh cụ thể
 
 ### Word family
 
@@ -3277,9 +3277,9 @@ Common structures:
 
 ### Synonyms
 
-* **disposition** *(noun)*: tính khí/khuynh hướng tự nhiên
-* **nature** *(noun)*: bản tính
-* **character** *(noun)*: tính cách nói chung
+* **disposition** /ˌdɪspəˈzɪʃən/ *(noun)*: tính khí/khuynh hướng tự nhiên
+* **nature** /ˈneɪʧər/ *(noun)*: bản tính
+* **character** /ˈkɛrɪktər/ *(noun)*: tính cách nói chung
 
 ### Word family
 
@@ -3333,9 +3333,9 @@ Common structures:
 
 ### Synonyms
 
-* **childhood** *(noun)*: thời thơ ấu; rộng hơn
-* **rearing** *(noun)*: sự nuôi dạy
-* **nurture** *(noun)*: sự chăm sóc và ảnh hưởng của môi trường
+* **childhood** /ˈʧaɪlˌdhʊd/ *(noun)*: thời thơ ấu; rộng hơn
+* **rearing** /ˈrɪrɪŋ/ *(noun)*: sự nuôi dạy
+* **nurture** /ˈnərʧər/ *(noun)*: sự chăm sóc và ảnh hưởng của môi trường
 
 ### Word family
 
@@ -3389,9 +3389,9 @@ Common structures:
 
 ### Synonyms
 
-* **unfriendly** *(adjective)*: không thân thiện
-* **antagonistic** *(adjective)*: đối địch/chống đối
-* **aggressive** *(adjective)*: hung hăng, sẵn sàng tấn công
+* **unfriendly** /ənˈfrɛndli/ *(adjective)*: không thân thiện
+* **antagonistic** /ænˌtægəˈnɪstɪk/ *(adjective)*: đối địch/chống đối
+* **aggressive** /əˈgrɛsɪv/ *(adjective)*: hung hăng, sẵn sàng tấn công
 
 ### Word family
 
@@ -3445,9 +3445,9 @@ Common structures:
 
 ### Synonyms
 
-* **ferocious** *(adjective)*: dữ tợn
-* **intense** *(adjective)*: mạnh mẽ/dữ dội
-* **strong** *(adjective)*: mạnh; từ rộng và nhẹ hơn
+* **ferocious** /fərˈoʊʃəs/ *(adjective)*: dữ tợn
+* **intense** /ˌɪnˈtɛns/ *(adjective)*: mạnh mẽ/dữ dội
+* **strong** /strɔŋ/ *(adjective)*: mạnh; từ rộng và nhẹ hơn
 
 ### Word family
 
@@ -3501,9 +3501,9 @@ Common structures:
 
 ### Synonyms
 
-* **strain** *(noun)*: sự căng thẳng trong quan hệ/tình huống
-* **stress** *(noun)*: áp lực tinh thần
-* **hostility** *(noun)*: sự thù địch; gần với nghĩa căng thẳng giữa các bên
+* **strain** /streɪn/ *(noun)*: sự căng thẳng trong quan hệ/tình huống
+* **stress** /strɛs/ *(noun)*: áp lực tinh thần
+* **hostility** /hɑˈstɪləti/ *(noun)*: sự thù địch; gần với nghĩa căng thẳng giữa các bên
 
 ### Word family
 
@@ -3556,9 +3556,9 @@ Common structures:
 
 ### Synonyms
 
-* **resist** *(verb)*: chống lại
-* **object to** *(phrasal verb)*: phản đối bằng lời/quan điểm
-* **be against** *(phrase)*: không ủng hộ
+* **resist** /rɪˈzɪst/ *(verb)*: chống lại
+* **object to** /ˈɑbʤɛkt tɪ/ *(phrasal verb)*: phản đối bằng lời/quan điểm
+* **be against** /bi əˈgɛnst/ *(phrase)*: không ủng hộ
 
 ### Word family
 
@@ -3611,9 +3611,9 @@ Common structures:
 
 ### Synonyms
 
-* **intuition** *(noun)*: trực giác hiểu biết không qua suy luận
-* **impulse** *(noun)*: thôi thúc hành động bất chợt
-* **innate tendency** *(noun phrase)*: khuynh hướng bẩm sinh
+* **intuition** /ˌɪntuˈɪʃən/ *(noun)*: trực giác hiểu biết không qua suy luận
+* **impulse** /ˌɪmˈpəls/ *(noun)*: thôi thúc hành động bất chợt
+* **innate tendency** /ˌɪˈneɪt ˈtɛndənsi/ *(noun phrase)*: khuynh hướng bẩm sinh
 
 ### Word family
 
@@ -3666,9 +3666,9 @@ Common structures:
 
 ### Synonyms
 
-* **fondness** *(noun)*: sự yêu mến
-* **love** *(noun)*: tình yêu; thường mạnh hơn
-* **warmth** *(noun)*: sự ấm áp/thân tình
+* **fondness** /ˈfɑndnəs/ *(noun)*: sự yêu mến
+* **love** /ləv/ *(noun)*: tình yêu; thường mạnh hơn
+* **warmth** /wɔrmθ/ *(noun)*: sự ấm áp/thân tình
 
 ### Word family
 
@@ -3721,9 +3721,9 @@ Common structures:
 
 ### Synonyms
 
-* **creep** *(verb)*: bò/di chuyển chậm và kín đáo
-* **move on all fours** *(verb phrase)*: di chuyển bằng cả tay và chân
-* **inch along** *(phrasal verb)*: nhích đi rất chậm
+* **creep** /krip/ *(verb)*: bò/di chuyển chậm và kín đáo
+* **move on all fours** /muv ɔn ɔl fɔrz/ *(verb phrase)*: di chuyển bằng cả tay và chân
+* **inch along** /ɪnʧ əˈlɔŋ/ *(phrasal verb)*: nhích đi rất chậm
 
 ### Word family
 
@@ -3776,9 +3776,9 @@ Common structures:
 
 ### Synonyms
 
-* **lenient** *(adjective)*: khoan dung, không nghiêm khắc
-* **permissive** *(adjective)*: cho phép quá nhiều tự do
-* **tolerant** *(adjective)*: chấp nhận hành vi/khác biệt
+* **lenient** /ˈlinjənt/ *(adjective)*: khoan dung, không nghiêm khắc
+* **permissive** /pərˈmɪsɪv/ *(adjective)*: cho phép quá nhiều tự do
+* **tolerant** /ˈtɑlərənt/ *(adjective)*: chấp nhận hành vi/khác biệt
 
 ### Word family
 
@@ -3831,9 +3831,9 @@ Common structures:
 
 ### Synonyms
 
-* **baby** *(noun)*: em bé; thông dụng hơn
-* **newborn** *(noun)*: trẻ sơ sinh mới sinh; nghĩa hẹp hơn
-* **young child** *(noun phrase)*: trẻ nhỏ; nghĩa rộng hơn
+* **baby** /ˈbeɪbi/ *(noun)*: em bé; thông dụng hơn
+* **newborn** /ˈnubɔrn/ *(noun)*: trẻ sơ sinh mới sinh; nghĩa hẹp hơn
+* **young child** /jəŋ ʧaɪld/ *(noun phrase)*: trẻ nhỏ; nghĩa rộng hơn
 
 ### Word family
 
@@ -3886,9 +3886,9 @@ Common structures:
 
 ### Synonyms
 
-* **imaginary** *(adjective)*: tưởng tượng, không có thật
-* **pretend** *(adjective/noun)*: giả vờ
-* **fantasy** *(noun)*: thế giới/câu chuyện tưởng tượng
+* **imaginary** /ˌɪˈmæʤəˌnɛri/ *(adjective)*: tưởng tượng, không có thật
+* **pretend** /priˈtɛnd/ *(adjective/noun)*: giả vờ
+* **fantasy** /ˈfænəsi/ *(noun)*: thế giới/câu chuyện tưởng tượng
 
 ### Word family
 
@@ -3941,9 +3941,9 @@ Common structures:
 
 ### Synonyms
 
-* **dissenter** *(noun)*: người bất đồng/chống đối
-* **insurgent** *(noun)*: người nổi dậy có tổ chức, thường có vũ trang
-* **revolt** *(verb)*: nổi dậy; gần với động từ `rebel`
+* **dissenter** /dɪˈsɛntər/ *(noun)*: người bất đồng/chống đối
+* **insurgent** /ˌɪnˈsərʤənt/ *(noun)*: người nổi dậy có tổ chức, thường có vũ trang
+* **revolt** /rɪˈvoʊlt/ *(verb)*: nổi dậy; gần với động từ `rebel`
 
 ### Word family
 
@@ -4000,9 +4000,9 @@ Common structures:
 
 ### Synonyms
 
-* **aware** *(adjective)*: nhận thức được
-* **awake** *(adjective)*: tỉnh, không bất tỉnh
-* **deliberate** *(adjective)*: có chủ ý; gần với nghĩa `conscious decision`
+* **aware** /əˈwɛr/ *(adjective)*: nhận thức được
+* **awake** /əˈweɪk/ *(adjective)*: tỉnh, không bất tỉnh
+* **deliberate** /dɪˈlɪbərˌeɪt/ *(adjective)*: có chủ ý; gần với nghĩa `conscious decision`
 
 ### Word family
 
@@ -4055,9 +4055,9 @@ Common structures:
 
 ### Synonyms
 
-* **embarrassed** *(adjective)*: ngượng ngùng
-* **awkward** *(adjective)*: không tự nhiên/khó xử
-* **insecure** *(adjective)*: thiếu tự tin
+* **embarrassed** /ɪmˈbɛrəst/ *(adjective)*: ngượng ngùng
+* **awkward** /ˈɔkwərd/ *(adjective)*: không tự nhiên/khó xử
+* **insecure** /ˈɪnsəkjər/ *(adjective)*: thiếu tự tin
 
 ### Word family
 
@@ -4110,9 +4110,9 @@ Common structures:
 
 ### Synonyms
 
-* **naturally** *(adverb)*: một cách tự nhiên
-* **impulsively** *(adverb)*: bốc đồng, không suy nghĩ trước
-* **unprompted** *(adjective/adverbial use)*: không cần ai gợi ý/thúc giục
+* **naturally** /ˈnæʧərəli/ *(adverb)*: một cách tự nhiên
+* **impulsively** /ˌɪmˈpəlsɪvli/ *(adverb)*: bốc đồng, không suy nghĩ trước
+* **unprompted** /ʌnˈprɑːmp.tɪd/ *(adjective/adverbial use)*: không cần ai gợi ý/thúc giục
 
 ### Word family
 
@@ -4165,9 +4165,9 @@ Common structures:
 
 ### Synonyms
 
-* **outburst** *(noun)*: cơn bộc phát cảm xúc
-* **fit** *(noun)*: cơn giận khóc la, nhất là ở trẻ
-* **meltdown** *(noun)*: cơn mất kiểm soát cảm xúc; thân mật
+* **outburst** /ˈaʊtˌbərst/ *(noun)*: cơn bộc phát cảm xúc
+* **fit** /fɪt/ *(noun)*: cơn giận khóc la, nhất là ở trẻ
+* **meltdown** /ˈmɛltˌdaʊn/ *(noun)*: cơn mất kiểm soát cảm xúc; thân mật
 
 ### Word family
 
@@ -4220,9 +4220,9 @@ Common structures:
 
 ### Synonyms
 
-* **young child** *(noun phrase)*: trẻ nhỏ
-* **little one** *(noun phrase)*: em bé/trẻ nhỏ; thân mật
-* **preschooler** *(noun)*: trẻ chưa đến tuổi đi học; thường lớn hơn toddler
+* **young child** /jəŋ ʧaɪld/ *(noun phrase)*: trẻ nhỏ
+* **little one** /ˈlɪtəl wən/ *(noun phrase)*: em bé/trẻ nhỏ; thân mật
+* **preschooler** /ˈpriˌskulər/ *(noun)*: trẻ chưa đến tuổi đi học; thường lớn hơn toddler
 
 ### Word family
 
@@ -4275,9 +4275,9 @@ Common structures:
 
 ### Synonyms
 
-* **guide** *(verb)*: hướng dẫn/dẫn đường
-* **direct** *(verb)*: điều hướng/chỉ đạo
-* **navigate** *(verb)*: điều khiển qua một tuyến đường
+* **guide** /gaɪd/ *(verb)*: hướng dẫn/dẫn đường
+* **direct** /dɪˈrɛkt/ *(verb)*: điều hướng/chỉ đạo
+* **navigate** /ˈnævəˌgeɪt/ *(verb)*: điều khiển qua một tuyến đường
 
 ### Word family
 
@@ -4330,9 +4330,9 @@ Common structures:
 
 ### Synonyms
 
-* **unmatched** *(adjective)*: không gì sánh bằng
-* **unequalled** *(adjective)*: vô song
-* **unprecedented** *(adjective)*: chưa từng có tiền lệ; không phải lúc nào cũng đồng nghĩa hoàn toàn
+* **unmatched** /ənˈmæʧt/ *(adjective)*: không gì sánh bằng
+* **unequalled** /ʌnˈiː.kwəld/ *(adjective)*: vô song
+* **unprecedented** /ənˈprɛsɪˌdɛntɪd/ *(adjective)*: chưa từng có tiền lệ; không phải lúc nào cũng đồng nghĩa hoàn toàn
 
 ### Word family
 
@@ -4385,9 +4385,9 @@ Common structures:
 
 ### Synonyms
 
-* **heartbreaking** *(adjective)*: đau lòng
-* **disastrous** *(adjective)*: thảm khốc
-* **catastrophic** *(adjective)*: gây hậu quả cực kỳ nghiêm trọng
+* **heartbreaking** /ˈhɑrtˌbreɪkɪŋ/ *(adjective)*: đau lòng
+* **disastrous** /dɪˈzæstrəs/ *(adjective)*: thảm khốc
+* **catastrophic** /ˌkætəˈstrɑfɪk/ *(adjective)*: gây hậu quả cực kỳ nghiêm trọng
 
 ### Word family
 
@@ -4440,9 +4440,9 @@ Common structures:
 
 ### Synonyms
 
-* **debris** *(noun)*: mảnh vụn sau tai nạn/phá hủy
-* **remains** *(plural noun)*: phần còn lại
-* **ruins** *(plural noun)*: tàn tích, thường của công trình
+* **debris** /dəˈbri/ *(noun)*: mảnh vụn sau tai nạn/phá hủy
+* **remains** /rɪˈmeɪnz/ *(plural noun)*: phần còn lại
+* **ruins** /ruɪnz/ *(plural noun)*: tàn tích, thường của công trình
 
 ### Word family
 
@@ -4495,9 +4495,9 @@ Common structures:
 
 ### Synonyms
 
-* **belly** *(noun)*: bụng; thân mật
-* **stomach area** *(noun phrase)*: vùng bụng; cách nói thông thường
-* **midsection** *(noun)*: phần giữa cơ thể
+* **belly** /ˈbɛli/ *(noun)*: bụng; thân mật
+* **stomach area** /ˈstəmək ˈɛriə/ *(noun phrase)*: vùng bụng; cách nói thông thường
+* **midsection** /ˈmɪdˌsɛkʃən/ *(noun)*: phần giữa cơ thể
 
 ### Word family
 
@@ -4550,9 +4550,9 @@ Common structures:
 
 ### Synonyms
 
-* **take turns** *(verb phrase)*: thay phiên nhau; gần với động từ
-* **switch** *(verb)*: đổi qua lại
-* **every other** *(determiner phrase)*: cách một; gần với tính từ `alternate`
+* **take turns** /teɪk tərnz/ *(verb phrase)*: thay phiên nhau; gần với động từ
+* **switch** /swɪʧ/ *(verb)*: đổi qua lại
+* **every other** /ˈɛvəri ˈəðər/ *(determiner phrase)*: cách một; gần với tính từ `alternate`
 
 ### Word family
 
@@ -4605,9 +4605,9 @@ Common structures:
 
 ### Synonyms
 
-* **body part** *(noun phrase)*: bộ phận cơ thể; cách giải thích nghĩa sinh học
-* **instrument** *(noun)*: nhạc cụ, gần với nghĩa đàn organ
-* **agency** *(noun)*: cơ quan/tổ chức; gần với nghĩa tổ chức
+* **body part** /ˈbɑdi pɑrt/ *(noun phrase)*: bộ phận cơ thể; cách giải thích nghĩa sinh học
+* **instrument** /ˈɪnstrəmənt/ *(noun)*: nhạc cụ, gần với nghĩa đàn organ
+* **agency** /ˈeɪʤənsi/ *(noun)*: cơ quan/tổ chức; gần với nghĩa tổ chức
 
 ### Word family
 
@@ -4660,9 +4660,9 @@ Common structures:
 
 ### Synonyms
 
-* **equipment** *(noun)*: thiết bị nói chung
-* **device** *(noun)*: một thiết bị cụ thể
-* **machinery** *(noun)*: máy móc, thường là hệ thống máy
+* **equipment** /ɪkˈwɪpmənt/ *(noun)*: thiết bị nói chung
+* **device** /dɪˈvaɪs/ *(noun)*: một thiết bị cụ thể
+* **machinery** /məˈʃinəri/ *(noun)*: máy móc, thường là hệ thống máy
 
 ### Word family
 
@@ -4715,9 +4715,9 @@ Common structures:
 
 ### Synonyms
 
-* **hunger** *(noun)*: cảm giác đói
-* **desire** *(noun)*: ham muốn nói chung
-* **craving** *(noun)*: sự thèm muốn mạnh
+* **hunger** /ˈhəŋgər/ *(noun)*: cảm giác đói
+* **desire** /dɪˈzaɪər/ *(noun)*: ham muốn nói chung
+* **craving** /ˈkreɪvɪŋ/ *(noun)*: sự thèm muốn mạnh
 
 ### Word family
 
@@ -4770,9 +4770,9 @@ Common structures:
 
 ### Synonyms
 
-* **suitable** *(adjective)*: phù hợp; gần với nghĩa thích hợp
-* **likely** *(adjective)*: có khả năng
-* **quick to learn** *(adjective phrase)*: tiếp thu nhanh; gần với nghĩa `apt pupil`
+* **suitable** /ˈsutəbəl/ *(adjective)*: phù hợp; gần với nghĩa thích hợp
+* **likely** /ˈlaɪkli/ *(adjective)*: có khả năng
+* **quick to learn** /kwɪk tɪ lərn/ *(adjective phrase)*: tiếp thu nhanh; gần với nghĩa `apt pupil`
 
 ### Word family
 
@@ -4825,9 +4825,9 @@ Common structures:
 
 ### Synonyms
 
-* **quickly** *(adverb)*: nhanh chóng
-* **energetically** *(adverb)*: đầy năng lượng
-* **promptly** *(adverb)*: ngay lập tức/đúng lúc
+* **quickly** /kˈwɪkli/ *(adverb)*: nhanh chóng
+* **energetically** /ˌɛnərˈʤɛtɪkli/ *(adverb)*: đầy năng lượng
+* **promptly** /ˈprɑmptli/ *(adverb)*: ngay lập tức/đúng lúc
 
 ### Word family
 
@@ -4880,9 +4880,9 @@ Common structures:
 
 ### Synonyms
 
-* **remedy** *(noun/verb)*: phương thuốc/biện pháp chữa
-* **heal** *(verb)*: chữa lành
-* **treatment** *(noun)*: phương pháp điều trị; không đảm bảo chữa khỏi
+* **remedy** /ˈrɛmədi/ *(noun/verb)*: phương thuốc/biện pháp chữa
+* **heal** /hil/ *(verb)*: chữa lành
+* **treatment** /ˈtritmənt/ *(noun)*: phương pháp điều trị; không đảm bảo chữa khỏi
 
 ### Word family
 
@@ -4935,9 +4935,9 @@ Common structures:
 
 ### Synonyms
 
-* **definite** *(adjective)*: rõ ràng/chắc chắn
-* **unambiguous** *(adjective)*: không mơ hồ
-* **straightforward** *(adjective)*: rõ ràng và dễ hiểu
+* **definite** /ˈdɛfənət/ *(adjective)*: rõ ràng/chắc chắn
+* **unambiguous** /ˌənæmˈbɪgjəwəs/ *(adjective)*: không mơ hồ
+* **straightforward** /ˈstreɪtˈfɔrwərd/ *(adjective)*: rõ ràng và dễ hiểu
 
 ### Word family
 
@@ -4990,9 +4990,9 @@ Common structures:
 
 ### Synonyms
 
-* **therefore** *(adverb)*: vì vậy
-* **as a result** *(adverb phrase)*: kết quả là
-* **thus** *(adverb)*: do đó; trang trọng
+* **therefore** /ˈðɛrˌfɔr/ *(adverb)*: vì vậy
+* **as a result** /ɛz ə rɪˈzəlt/ *(adverb phrase)*: kết quả là
+* **thus** /ðəs/ *(adverb)*: do đó; trang trọng
 
 ### Word family
 
@@ -5045,9 +5045,9 @@ Common structures:
 
 ### Synonyms
 
-* **disputed** *(adjective)*: bị tranh cãi
-* **contentious** *(adjective)*: dễ gây tranh cãi
-* **divisive** *(adjective)*: gây chia rẽ ý kiến
+* **disputed** /dɪˈspjutɪd/ *(adjective)*: bị tranh cãi
+* **contentious** /kənˈtɛnʃəs/ *(adjective)*: dễ gây tranh cãi
+* **divisive** /dɪˈvaɪsɪv/ *(adjective)*: gây chia rẽ ý kiến
 
 ### Word family
 
@@ -5100,9 +5100,9 @@ Common structures:
 
 ### Synonyms
 
-* **restrain** *(verb)*: kiềm chế
-* **limit** *(verb)*: giới hạn
-* **control** *(verb)*: kiểm soát
+* **restrain** /riˈstreɪn/ *(verb)*: kiềm chế
+* **limit** /ˈlɪmət/ *(verb)*: giới hạn
+* **control** /kənˈtroʊl/ *(verb)*: kiểm soát
 
 ### Word family
 
@@ -5155,9 +5155,9 @@ Common structures:
 
 ### Synonyms
 
-* **disabling** *(adjective)*: gây mất khả năng hoạt động
-* **weakening** *(adjective)*: làm suy yếu
-* **incapacitating** *(adjective)*: khiến không thể hoạt động bình thường
+* **disabling** /ˌdɪˈseɪblɪŋ/ *(adjective)*: gây mất khả năng hoạt động
+* **weakening** /ˈwikənɪŋ/ *(adjective)*: làm suy yếu
+* **incapacitating** /ˌɪnkəˈpæsɪˌteɪtɪŋ/ *(adjective)*: khiến không thể hoạt động bình thường
 
 ### Word family
 
@@ -5210,9 +5210,9 @@ Common structures:
 
 ### Synonyms
 
-* **cerebrovascular accident** *(noun phrase)*: tai biến mạch máu não; thuật ngữ y khoa
-* **caress** *(noun/verb)*: sự vuốt ve; gần với nghĩa chạm nhẹ
-* **hit** *(noun/verb)*: cú đánh/đánh; gần với một số nghĩa thể thao
+* **cerebrovascular accident** /səˌriː.broʊˈvæs.kjə.lɚ ˈæk.sə.dənt/ *(noun phrase)*: tai biến mạch máu não; thuật ngữ y khoa
+* **caress** /kərˈɛs/ *(noun/verb)*: sự vuốt ve; gần với nghĩa chạm nhẹ
+* **hit** /hɪt/ *(noun/verb)*: cú đánh/đánh; gần với một số nghĩa thể thao
 
 ### Word family
 
@@ -5265,9 +5265,9 @@ Common structures:
 
 ### Synonyms
 
-* **raised** *(adjective)*: được nâng lên/cao hơn
-* **increased** *(adjective)*: tăng lên
-* **heightened** *(adjective)*: tăng cường về mức độ
+* **raised** /reɪzd/ *(adjective)*: được nâng lên/cao hơn
+* **increased** /ˌɪnˈkrist/ *(adjective)*: tăng lên
+* **heightened** /ˈhaɪtənd/ *(adjective)*: tăng cường về mức độ
 
 ### Word family
 
@@ -5320,9 +5320,9 @@ Common structures:
 
 ### Synonyms
 
-* **sleeplessness** *(noun)*: tình trạng mất ngủ
-* **inability to sleep** *(noun phrase)*: không có khả năng ngủ
-* **sleep disorder** *(noun phrase)*: rối loạn giấc ngủ; nghĩa rộng hơn
+* **sleeplessness** /ˈsliːp.ləs.nəs/ *(noun)*: tình trạng mất ngủ
+* **inability to sleep** /ˌɪnəˈbɪlɪti tɪ slip/ *(noun phrase)*: không có khả năng ngủ
+* **sleep disorder** /slip dɪˈsɔrdər/ *(noun phrase)*: rối loạn giấc ngủ; nghĩa rộng hơn
 
 ### Word family
 
@@ -5375,9 +5375,9 @@ Common structures:
 
 ### Synonyms
 
-* **bend** *(verb)*: nghiêng/cúi
-* **rest against** *(verb phrase)*: tựa vào
-* **slim** *(adjective)*: gầy mảnh; gần với nghĩa hình thể
+* **bend** /bɛnd/ *(verb)*: nghiêng/cúi
+* **rest against** /rɛst əˈgɛnst/ *(verb phrase)*: tựa vào
+* **slim** /slɪm/ *(adjective)*: gầy mảnh; gần với nghĩa hình thể
 
 ### Word family
 
@@ -5430,9 +5430,9 @@ Common structures:
 
 ### Synonyms
 
-* **matrimonial** *(adjective)*: thuộc hôn nhân; trang trọng/pháp lý
-* **spousal** *(adjective)*: thuộc vợ hoặc chồng
-* **marriage-related** *(adjective)*: liên quan đến hôn nhân
+* **matrimonial** /ˌmætrəˈmoʊniəl/ *(adjective)*: thuộc hôn nhân; trang trọng/pháp lý
+* **spousal** /ˈspaʊzəl/ *(adjective)*: thuộc vợ hoặc chồng
+* **marriage-related** /ˈmer.ɪdʒ rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến hôn nhân
 
 ### Word family
 
@@ -5485,9 +5485,9 @@ Common structures:
 
 ### Synonyms
 
-* **beginning** *(noun)*: sự bắt đầu
-* **start** *(noun)*: lúc bắt đầu; thông dụng hơn
-* **emergence** *(noun)*: sự xuất hiện/bắt đầu trở nên rõ ràng
+* **beginning** /bɪˈgɪnɪŋ/ *(noun)*: sự bắt đầu
+* **start** /stɑrt/ *(noun)*: lúc bắt đầu; thông dụng hơn
+* **emergence** /ˈimərʤəns/ *(noun)*: sự xuất hiện/bắt đầu trở nên rõ ràng
 
 ### Word family
 
@@ -5540,9 +5540,9 @@ Common structures:
 
 ### Synonyms
 
-* **susceptibility** *(noun)*: tính dễ bị ảnh hưởng/mắc bệnh
-* **tendency** *(noun)*: khuynh hướng
-* **inclination** *(noun)*: thiên hướng/sự nghiêng về một hành vi
+* **susceptibility** /səˌsɛptəˈbɪləti/ *(noun)*: tính dễ bị ảnh hưởng/mắc bệnh
+* **tendency** /ˈtɛndənsi/ *(noun)*: khuynh hướng
+* **inclination** /ˌɪnkləˈneɪʃən/ *(noun)*: thiên hướng/sự nghiêng về một hành vi
 
 ### Word family
 
@@ -5595,9 +5595,9 @@ Common structures:
 
 ### Synonyms
 
-* **ancient** *(adjective)*: rất cổ xưa; rộng hơn `prehistoric`
-* **primeval** *(adjective)*: thuộc thời kỳ nguyên thủy xa xưa
-* **Stone Age** *(adjective/noun)*: thuộc Thời kỳ Đồ đá; chỉ một giai đoạn tiền sử cụ thể
+* **ancient** /ˈeɪnʧənt/ *(adjective)*: rất cổ xưa; rộng hơn `prehistoric`
+* **primeval** /praɪˈmivəl/ *(adjective)*: thuộc thời kỳ nguyên thủy xa xưa
+* **Stone Age** /stoʊn eɪʤ/ *(adjective/noun)*: thuộc Thời kỳ Đồ đá; chỉ một giai đoạn tiền sử cụ thể
 
 ### Word family
 
@@ -5650,9 +5650,9 @@ Common structures:
 
 ### Synonyms
 
-* **portion** *(noun)*: khẩu phần/phần thức ăn
-* **helping** *(noun)*: một phần thức ăn được lấy ra
-* **service** *(noun)*: phần/lần phục vụ; chỉ gần nghĩa trong một số ngữ cảnh
+* **portion** /ˈpɔrʃən/ *(noun)*: khẩu phần/phần thức ăn
+* **helping** /ˈhɛlpɪŋ/ *(noun)*: một phần thức ăn được lấy ra
+* **service** /ˈsərvɪs/ *(noun)*: phần/lần phục vụ; chỉ gần nghĩa trong một số ngữ cảnh
 
 ### Word family
 
@@ -5705,9 +5705,9 @@ Common structures:
 
 ### Synonyms
 
-* **miss a meal** *(verb phrase)*: bỏ lỡ một bữa ăn
-* **go without eating** *(verb phrase)*: không ăn trong một khoảng thời gian
-* **forgo a meal** *(verb phrase)*: chủ động không ăn một bữa; trang trọng hơn
+* **miss a meal** /mɪs ə mil/ *(verb phrase)*: bỏ lỡ một bữa ăn
+* **go without eating** /goʊ wɪˈθaʊt ˈitɪŋ/ *(verb phrase)*: không ăn trong một khoảng thời gian
+* **forgo a meal** /fɔrˈgoʊ ə mil/ *(verb phrase)*: chủ động không ăn một bữa; trang trọng hơn
 
 ### Word family
 
@@ -5760,9 +5760,9 @@ Common structures:
 
 ### Synonyms
 
-* **taking one's own life** *(noun phrase)*: việc tự kết thúc mạng sống; cách diễn đạt nhạy cảm và tôn trọng
-* **self-inflicted death** *(noun phrase)*: cái chết do chính người đó gây ra; cách nói trang trọng
-* **death by suicide** *(noun phrase)*: tử vong do tự sát; cách dùng trung tính trong y tế
+* **taking one's own life** /ˈteɪkɪŋ wənz oʊn laɪf/ *(noun phrase)*: việc tự kết thúc mạng sống; cách diễn đạt nhạy cảm và tôn trọng
+* **self-inflicted death** /ˌself.ɪnˈflɪk.tɪd ˈdeθ/ *(noun phrase)*: cái chết do chính người đó gây ra; cách nói trang trọng
+* **death by suicide** /dɛθ baɪ ˈsuɪˌsaɪd/ *(noun phrase)*: tử vong do tự sát; cách dùng trung tính trong y tế
 
 ### Word family
 
@@ -5815,9 +5815,9 @@ Common structures:
 
 ### Synonyms
 
-* **entice** *(verb)*: dụ dỗ bằng điều hấp dẫn
-* **lure** *(verb)*: nhử/dụ, thường có nguy cơ hoặc ý đồ
-* **persuade** *(verb)*: thuyết phục; không nhất thiết bằng sự hấp dẫn
+* **entice** /ɪnˈtaɪs/ *(verb)*: dụ dỗ bằng điều hấp dẫn
+* **lure** /lʊr/ *(verb)*: nhử/dụ, thường có nguy cơ hoặc ý đồ
+* **persuade** /pərsˈweɪd/ *(verb)*: thuyết phục; không nhất thiết bằng sự hấp dẫn
 
 ### Word family
 
@@ -5870,9 +5870,9 @@ Common structures:
 
 ### Synonyms
 
-* **graft** *(noun/verb)*: mô/bộ phận được ghép; ghép mô
-* **transfer** *(verb/noun)*: chuyển từ nơi này sang nơi khác; nghĩa rộng hơn
-* **implant** *(verb/noun)*: cấy vật hoặc mô vào cơ thể; không hoàn toàn giống `transplant`
+* **graft** /græft/ *(noun/verb)*: mô/bộ phận được ghép; ghép mô
+* **transfer** /ˈtrænsfər/ *(verb/noun)*: chuyển từ nơi này sang nơi khác; nghĩa rộng hơn
+* **implant** /ˌɪmˈplænt/ *(verb/noun)*: cấy vật hoặc mô vào cơ thể; không hoàn toàn giống `transplant`
 
 ### Word family
 
@@ -5925,9 +5925,9 @@ Common structures:
 
 ### Synonyms
 
-* **tap** *(verb/noun)*: vỗ/chạm nhẹ, thường nhanh
-* **stroke lightly** *(verb phrase)*: vuốt nhẹ
-* **give a light touch** *(verb phrase)*: chạm nhẹ
+* **tap** /tæp/ *(verb/noun)*: vỗ/chạm nhẹ, thường nhanh
+* **stroke lightly** /stroʊk ˈlaɪtli/ *(verb phrase)*: vuốt nhẹ
+* **give a light touch** /gɪv ə laɪt təʧ/ *(verb phrase)*: chạm nhẹ
 
 ### Word family
 
@@ -5980,9 +5980,9 @@ Common structures:
 
 ### Synonyms
 
-* **massage** *(verb)*: xoa bóp có chủ đích
-* **scrub** *(verb)*: chà mạnh để làm sạch
-* **chafe** *(verb)*: cọ xát gây kích ứng
+* **massage** /məˈsɑʒ/ *(verb)*: xoa bóp có chủ đích
+* **scrub** /skrəb/ *(verb)*: chà mạnh để làm sạch
+* **chafe** /ʧeɪf/ *(verb)*: cọ xát gây kích ứng
 
 ### Word family
 
@@ -6035,9 +6035,9 @@ Common structures:
 
 ### Synonyms
 
-* **light-headed** *(adjective)*: choáng váng, lâng lâng
-* **giddy** *(adjective)*: chóng mặt hoặc phấn khích
-* **vertiginous** *(adjective)*: gây/có cảm giác chóng mặt; trang trọng/y khoa
+* **light-headed** /ˌlaɪtˈhed.ɪd/ *(adjective)*: choáng váng, lâng lâng
+* **giddy** /ˈgɪdi/ *(adjective)*: chóng mặt hoặc phấn khích
+* **vertiginous** /vɝːˈtɪdʒ.ə.nəs/ *(adjective)*: gây/có cảm giác chóng mặt; trang trọng/y khoa
 
 ### Word family
 
@@ -6090,9 +6090,9 @@ Common structures:
 
 ### Synonyms
 
-* **lower-quality** *(adjective)*: có chất lượng thấp hơn
-* **subordinate** *(adjective)*: thấp hơn về cấp bậc
-* **worse** *(adjective)*: tệ hơn; thông dụng nhưng rộng hơn
+* **lower-quality** /ˌloʊ.ɚˈkwɑː.lə.ti/ *(adjective)*: có chất lượng thấp hơn
+* **subordinate** /səˈbɔrdəˌneɪt/ *(adjective)*: thấp hơn về cấp bậc
+* **worse** /wərs/ *(adjective)*: tệ hơn; thông dụng nhưng rộng hơn
 
 ### Word family
 
@@ -6145,9 +6145,9 @@ Common structures:
 
 ### Synonyms
 
-* **additional** *(adjective)*: thêm nữa
-* **more** *(determiner/adverb)*: nhiều hơn/thêm
-* **farther** *(adverb/adjective)*: xa hơn về khoảng cách; chỉ gần nghĩa với một số cách dùng của `further`
+* **additional** /əˈdɪʃənəl/ *(adjective)*: thêm nữa
+* **more** /mɔr/ *(determiner/adverb)*: nhiều hơn/thêm
+* **farther** /ˈfɑrðər/ *(adverb/adjective)*: xa hơn về khoảng cách; chỉ gần nghĩa với một số cách dùng của `further`
 
 ### Word family
 
@@ -6200,9 +6200,9 @@ Common structures:
 
 ### Synonyms
 
-* **reverberate** *(verb)*: vang vọng nhiều lần
-* **resound** *(verb)*: vang dội
-* **repeat** *(verb)*: lặp lại; gần với nghĩa ý tưởng/lời nói được nhắc lại
+* **reverberate** /rɪˈvərbərət/ *(verb)*: vang vọng nhiều lần
+* **resound** /ˌriˈzaʊnd/ *(verb)*: vang dội
+* **repeat** /rɪˈpit/ *(verb)*: lặp lại; gần với nghĩa ý tưởng/lời nói được nhắc lại
 
 ### Word family
 
@@ -6255,9 +6255,9 @@ Common structures:
 
 ### Synonyms
 
-* **intimidate** *(verb)*: đe dọa làm ai sợ
-* **harass** *(verb)*: quấy rối lặp đi lặp lại
-* **torment** *(verb)*: hành hạ về thể chất hoặc tinh thần
+* **intimidate** /ˌɪnˈtɪmɪˌdeɪt/ *(verb)*: đe dọa làm ai sợ
+* **harass** /həræs/ *(verb)*: quấy rối lặp đi lặp lại
+* **torment** /ˈtɔrˌmɛnt/ *(verb)*: hành hạ về thể chất hoặc tinh thần
 
 ### Word family
 
@@ -6310,9 +6310,9 @@ Common structures:
 
 ### Synonyms
 
-* **not guilty** *(adjective phrase)*: không có tội
-* **blameless** *(adjective)*: không đáng bị trách
-* **naive** *(adjective)*: ngây thơ, thiếu kinh nghiệm; gần với một nghĩa khác của `innocent`
+* **not guilty** /nɑt ˈgɪlti/ *(adjective phrase)*: không có tội
+* **blameless** /ˈbleɪmləs/ *(adjective)*: không đáng bị trách
+* **naive** /naɪiv/ *(adjective)*: ngây thơ, thiếu kinh nghiệm; gần với một nghĩa khác của `innocent`
 
 ### Word family
 
@@ -6365,9 +6365,9 @@ Common structures:
 
 ### Synonyms
 
-* **child genius** *(noun phrase)*: thần đồng
-* **wunderkind** *(noun)*: người trẻ tài năng xuất chúng
-* **gifted child** *(noun phrase)*: trẻ có năng khiếu; nghĩa rộng và nhẹ hơn
+* **child genius** /ʧaɪld ˈʤinjəs/ *(noun phrase)*: thần đồng
+* **wunderkind** /ˈwəndərˌkɪnd/ *(noun)*: người trẻ tài năng xuất chúng
+* **gifted child** /ˈgɪftɪd ʧaɪld/ *(noun phrase)*: trẻ có năng khiếu; nghĩa rộng và nhẹ hơn
 
 ### Word family
 
@@ -6420,9 +6420,9 @@ Common structures:
 
 ### Synonyms
 
-* **brilliance** *(noun)*: trí tuệ/tài năng xuất chúng
-* **mastermind** *(noun)*: người có trí tuệ lập kế hoạch xuất sắc
-* **highly intelligent person** *(noun phrase)*: người cực kỳ thông minh
+* **brilliance** /ˈbrɪljəns/ *(noun)*: trí tuệ/tài năng xuất chúng
+* **mastermind** /ˈmæstərˌmaɪnd/ *(noun)*: người có trí tuệ lập kế hoạch xuất sắc
+* **highly intelligent person** /ˈhaɪli ˌɪnˈtɛləʤənt ˈpərsən/ *(noun phrase)*: người cực kỳ thông minh
 
 ### Word family
 
@@ -6475,9 +6475,9 @@ Common structures:
 
 ### Synonyms
 
-* **event** *(noun)*: sự kiện/dịp
-* **instance** *(noun)*: lần/trường hợp cụ thể
-* **opportunity** *(noun)*: dịp/cơ hội thuận lợi
+* **event** /ɪˈvɛnt/ *(noun)*: sự kiện/dịp
+* **instance** /ˈɪnstəns/ *(noun)*: lần/trường hợp cụ thể
+* **opportunity** /ˌɑpərˈtunəti/ *(noun)*: dịp/cơ hội thuận lợi
 
 ### Word family
 
@@ -6530,9 +6530,9 @@ Common structures:
 
 ### Synonyms
 
-* **groove** *(noun)*: rãnh; gần với nghĩa vật lý
-* **routine** *(noun)*: lối mòn/thói quen lặp lại
-* **slump** *(noun)*: giai đoạn sa sút; gần với nghĩa bế tắc
+* **groove** /gruv/ *(noun)*: rãnh; gần với nghĩa vật lý
+* **routine** /ruˈtin/ *(noun)*: lối mòn/thói quen lặp lại
+* **slump** /sləmp/ *(noun)*: giai đoạn sa sút; gần với nghĩa bế tắc
 
 ### Word family
 
@@ -6585,9 +6585,9 @@ Common structures:
 
 ### Synonyms
 
-* **diminish** *(verb)*: giảm dần về cường độ
-* **pale** *(verb)*: nhạt màu
-* **disappear gradually** *(verb phrase)*: dần biến mất
+* **diminish** /dɪˈmɪnɪʃ/ *(verb)*: giảm dần về cường độ
+* **pale** /peɪl/ *(verb)*: nhạt màu
+* **disappear gradually** /ˌdɪsəˈpɪr ˈgræʤuəli/ *(verb phrase)*: dần biến mất
 
 ### Word family
 
@@ -6640,9 +6640,9 @@ Common structures:
 
 ### Synonyms
 
-* **pass quickly** *(verb phrase)*: trôi qua nhanh
-* **speed past** *(phrasal verb)*: lao/vút qua
-* **whiz by** *(phrasal verb)*: vụt qua rất nhanh; thân mật
+* **pass quickly** /pæs kˈwɪkli/ *(verb phrase)*: trôi qua nhanh
+* **speed past** /spid pæst/ *(phrasal verb)*: lao/vút qua
+* **whiz by** /wɪz baɪ/ *(phrasal verb)*: vụt qua rất nhanh; thân mật
 
 ### Word family
 
@@ -6695,9 +6695,9 @@ Common structures:
 
 ### Synonyms
 
-* **far more** *(phrase)*: nhiều hơn rất nhiều
-* **considerably more** *(phrase)*: nhiều hơn đáng kể; trang trọng
-* **a great deal more** *(phrase)*: nhiều hơn rất nhiều
+* **far more** /fɑr mɔr/ *(phrase)*: nhiều hơn rất nhiều
+* **considerably more** /kənˈsɪdərəbli mɔr/ *(phrase)*: nhiều hơn đáng kể; trang trọng
+* **a great deal more** /ə greɪt dil mɔr/ *(phrase)*: nhiều hơn rất nhiều
 
 ### Word family
 
@@ -6750,9 +6750,9 @@ Common structures:
 
 ### Synonyms
 
-* **reside** *(verb)*: cư trú; trang trọng
-* **live** *(verb)*: sống/cư trú; thông dụng
-* **linger on** *(phrasal verb)*: suy nghĩ dai dẳng về điều gì; gần với `dwell on`
+* **reside** /rɪˈzaɪd/ *(verb)*: cư trú; trang trọng
+* **live** /lɪv/ *(verb)*: sống/cư trú; thông dụng
+* **linger on** /ˈlɪŋər ɔn/ *(phrasal verb)*: suy nghĩ dai dẳng về điều gì; gần với `dwell on`
 
 ### Word family
 
@@ -6805,9 +6805,9 @@ Common structures:
 
 ### Synonyms
 
-* **geek** *(noun)*: người cực kỳ say mê lĩnh vực kỹ thuật/sở thích; thường tích cực hơn
-* **enthusiast** *(noun)*: người đam mê; trung tính
-* **intellectual** *(noun)*: người thiên về trí tuệ/học thuật; trang trọng và không mang sắc thái chế giễu
+* **geek** /gik/ *(noun)*: người cực kỳ say mê lĩnh vực kỹ thuật/sở thích; thường tích cực hơn
+* **enthusiast** /ɛnˈθuziˌæst/ *(noun)*: người đam mê; trung tính
+* **intellectual** /ˌɪnəˈlɛkʧuəl/ *(noun)*: người thiên về trí tuệ/học thuật; trang trọng và không mang sắc thái chế giễu
 
 ### Word family
 
@@ -6860,9 +6860,9 @@ Common structures:
 
 ### Synonyms
 
-* **better** *(adjective)*: tốt hơn
-* **higher-ranking** *(adjective)*: cấp bậc cao hơn
-* **excellent** *(adjective)*: xuất sắc; gần với nghĩa chất lượng rất cao
+* **better** /ˈbɛtər/ *(adjective)*: tốt hơn
+* **higher-ranking** /ˌhaɪ.ɚˈræŋ.kɪŋ/ *(adjective)*: cấp bậc cao hơn
+* **excellent** /ˈɛksələnt/ *(adjective)*: xuất sắc; gần với nghĩa chất lượng rất cao
 
 ### Word family
 
@@ -6915,9 +6915,9 @@ Common structures:
 
 ### Synonyms
 
-* **corridor** *(noun)*: hành lang; từ gần nghĩa nhất
-* **passage** *(noun)*: lối đi hẹp giữa các khu vực
-* **passageway** *(noun)*: lối/hành lang để đi qua
+* **corridor** /ˈkɔrɪdər/ *(noun)*: hành lang; từ gần nghĩa nhất
+* **passage** /ˈpæsɪʤ/ *(noun)*: lối đi hẹp giữa các khu vực
+* **passageway** /ˈpæsɪʤˌweɪ/ *(noun)*: lối/hành lang để đi qua
 
 ### Word family
 
@@ -6970,9 +6970,9 @@ Common structures:
 
 ### Synonyms
 
-* **nap** *(verb)*: ngủ một giấc ngắn
-* **have a short sleep** *(verb phrase)*: ngủ một lúc ngắn
-* **doze** *(verb)*: ngủ gật/ngủ chập chờn
+* **nap** /næp/ *(verb)*: ngủ một giấc ngắn
+* **have a short sleep** /hæv ə ʃɔrt slip/ *(verb phrase)*: ngủ một lúc ngắn
+* **doze** /doʊz/ *(verb)*: ngủ gật/ngủ chập chờn
 
 ### Word family
 
@@ -7025,9 +7025,9 @@ Common structures:
 
 ### Synonyms
 
-* **decay** *(verb/noun)*: mục rữa/phân hủy dần
-* **decompose** *(verb)*: phân hủy thành các thành phần
-* **spoil** *(verb)*: hỏng/thiu, thường dùng cho thực phẩm
+* **decay** /dɪˈkeɪ/ *(verb/noun)*: mục rữa/phân hủy dần
+* **decompose** /ˌdikəmˈpoʊz/ *(verb)*: phân hủy thành các thành phần
+* **spoil** /spɔɪl/ *(verb)*: hỏng/thiu, thường dùng cho thực phẩm
 
 ### Word family
 
@@ -7080,9 +7080,9 @@ Common structures:
 
 ### Synonyms
 
-* **stick** *(noun)*: cây gậy/thanh nhỏ
-* **pole** *(noun)*: cột/thanh dài
-* **bar** *(noun)*: thanh cứng bằng kim loại hoặc vật liệu khác
+* **stick** /stɪk/ *(noun)*: cây gậy/thanh nhỏ
+* **pole** /poʊl/ *(noun)*: cột/thanh dài
+* **bar** /bɑr/ *(noun)*: thanh cứng bằng kim loại hoặc vật liệu khác
 
 ### Word family
 
@@ -7135,9 +7135,9 @@ Common structures:
 
 ### Synonyms
 
-* **lure** *(noun)*: mồi nhử
-* **decoy** *(noun)*: vật/người dùng để đánh lạc hướng hoặc dụ
-* **enticement** *(noun)*: điều hấp dẫn dùng để lôi kéo
+* **lure** /lʊr/ *(noun)*: mồi nhử
+* **decoy** /dəˈkɔɪ/ *(noun)*: vật/người dùng để đánh lạc hướng hoặc dụ
+* **enticement** /ɪnˈtaɪsmənt/ *(noun)*: điều hấp dẫn dùng để lôi kéo
 
 ### Word family
 
@@ -7190,9 +7190,9 @@ Common structures:
 
 ### Synonyms
 
-* **cool box** *(noun)*: thùng giữ lạnh; cách gọi phổ biến ở Anh
-* **icebox** *(noun)*: thùng/tủ giữ lạnh bằng đá
-* **portable cooler** *(noun phrase)*: thùng giữ lạnh di động
+* **cool box** /kul bɑks/ *(noun)*: thùng giữ lạnh; cách gọi phổ biến ở Anh
+* **icebox** /ˈaɪsˌbɑks/ *(noun)*: thùng/tủ giữ lạnh bằng đá
+* **portable cooler** /ˈpɔrtəbəl ˈkulər/ *(noun phrase)*: thùng giữ lạnh di động
 
 ### Word family
 
@@ -7245,9 +7245,9 @@ Common structures:
 
 ### Synonyms
 
-* **trickle** *(verb)*: chảy nhỏ giọt; gần nghĩa với chất lỏng
-* **drool** *(verb)*: chảy nước dãi
-* **bounce** *(verb)*: làm bóng nảy; chỉ một phần nghĩa trong thể thao
+* **trickle** /ˈtrɪkəl/ *(verb)*: chảy nhỏ giọt; gần nghĩa với chất lỏng
+* **drool** /drul/ *(verb)*: chảy nước dãi
+* **bounce** /baʊns/ *(verb)*: làm bóng nảy; chỉ một phần nghĩa trong thể thao
 
 ### Word family
 
@@ -7300,9 +7300,9 @@ Common structures:
 
 ### Synonyms
 
-* **deal with** *(phrasal verb)*: xử lý/giải quyết
-* **confront** *(verb)*: đối mặt trực tiếp
-* **challenge** *(verb)*: thách thức/ngăn đối thủ; gần với nghĩa thể thao
+* **deal with** /dil wɪθ/ *(phrasal verb)*: xử lý/giải quyết
+* **confront** /kənˈfrənt/ *(verb)*: đối mặt trực tiếp
+* **challenge** /ˈʧælənʤ/ *(verb)*: thách thức/ngăn đối thủ; gần với nghĩa thể thao
 
 ### Word family
 
@@ -7355,9 +7355,9 @@ Common structures:
 
 ### Synonyms
 
-* **scraped** *(adjective)*: bị trầy do cọ xát
-* **scuffed** *(adjective)*: bị xước/mòn bề mặt
-* **marked** *(adjective)*: có dấu/vết; rộng hơn
+* **scraped** /skreɪpt/ *(adjective)*: bị trầy do cọ xát
+* **scuffed** /skəft/ *(adjective)*: bị xước/mòn bề mặt
+* **marked** /mɑrkt/ *(adjective)*: có dấu/vết; rộng hơn
 
 ### Word family
 
@@ -7410,9 +7410,9 @@ Common structures:
 
 ### Synonyms
 
-* **indented** *(adjective)*: bị lõm vào
-* **dinged** *(adjective)*: bị móp nhẹ; thân mật
-* **damaged** *(adjective)*: bị hư hại; rộng hơn
+* **indented** /ɪnˈden.tɪd/ *(adjective)*: bị lõm vào
+* **dinged** /dɪŋd/ *(adjective)*: bị móp nhẹ; thân mật
+* **damaged** /ˈdæmɪʤd/ *(adjective)*: bị hư hại; rộng hơn
 
 ### Word family
 
@@ -7465,9 +7465,9 @@ Common structures:
 
 ### Synonyms
 
-* **damaged** *(adjective)*: bị hư hỏng
-* **shattered** *(adjective)*: vỡ tan thành nhiều mảnh
-* **not working** *(adjective phrase)*: không hoạt động; gần với nghĩa thiết bị hỏng
+* **damaged** /ˈdæmɪʤd/ *(adjective)*: bị hư hỏng
+* **shattered** /ˈʃætərd/ *(adjective)*: vỡ tan thành nhiều mảnh
+* **not working** /nɑt ˈwərkɪŋ/ *(adjective phrase)*: không hoạt động; gần với nghĩa thiết bị hỏng
 
 ### Word family
 
@@ -7520,9 +7520,9 @@ Common structures:
 
 ### Synonyms
 
-* **nicked** *(adjective)*: bị sứt một mảnh nhỏ
-* **flaked** *(adjective)*: bị bong thành mảnh mỏng
-* **slightly damaged** *(adjective phrase)*: bị hư nhẹ
+* **nicked** /nɪkt/ *(adjective)*: bị sứt một mảnh nhỏ
+* **flaked** /fleɪkt/ *(adjective)*: bị bong thành mảnh mỏng
+* **slightly damaged** /sˈlaɪtli ˈdæmɪʤd/ *(adjective phrase)*: bị hư nhẹ
 
 ### Word family
 
@@ -7575,9 +7575,9 @@ Common structures:
 
 ### Synonyms
 
-* **split** *(adjective)*: bị tách/nứt
-* **fractured** *(adjective)*: bị gãy/nứt, thường trong y khoa/kỹ thuật
-* **fissured** *(adjective)*: có khe nứt; trang trọng
+* **split** /splɪt/ *(adjective)*: bị tách/nứt
+* **fractured** /ˈfrækʧərd/ *(adjective)*: bị gãy/nứt, thường trong y khoa/kỹ thuật
+* **fissured** /ˈfɪʃərd/ *(adjective)*: có khe nứt; trang trọng
 
 ### Word family
 
@@ -7630,9 +7630,9 @@ Common structures:
 
 ### Synonyms
 
-* **ripped** *(adjective)*: bị rách
-* **split** *(adjective)*: bị tách ra
-* **ragged** *(adjective)*: rách xơ xác/không đều
+* **ripped** /rɪpt/ *(adjective)*: bị rách
+* **split** /splɪt/ *(adjective)*: bị tách ra
+* **ragged** /ˈrægəd/ *(adjective)*: rách xơ xác/không đều
 
 ### Word family
 
@@ -7685,9 +7685,9 @@ Common structures:
 
 ### Synonyms
 
-* **curved** *(adjective)*: cong
-* **twisted** *(adjective)*: bị xoắn/vặn
-* **crooked** *(adjective)*: cong/vẹo, không thẳng
+* **curved** /kərvd/ *(adjective)*: cong
+* **twisted** /tˈwɪstɪd/ *(adjective)*: bị xoắn/vặn
+* **crooked** /ˈkrʊkəd/ *(adjective)*: cong/vẹo, không thẳng
 
 ### Word family
 
@@ -7740,9 +7740,9 @@ Common structures:
 
 ### Synonyms
 
-* **entertained** *(adjective)*: được giải trí/thấy thú vị
-* **pleased** *(adjective)*: hài lòng
-* **tickled** *(adjective)*: thích thú; thân mật
+* **entertained** /ˌɛnərˈteɪnd/ *(adjective)*: được giải trí/thấy thú vị
+* **pleased** /plizd/ *(adjective)*: hài lòng
+* **tickled** /ˈtɪkəld/ *(adjective)*: thích thú; thân mật
 
 ### Word family
 
@@ -7795,9 +7795,9 @@ Common structures:
 
 ### Synonyms
 
-* **social group** *(noun phrase)*: nhóm/tầng lớp xã hội
-* **background** *(noun)*: hoàn cảnh xuất thân
-* **occupation** *(noun)*: nghề nghiệp; chỉ một yếu tố của `walk of life`
+* **social group** /ˈsoʊʃəl grup/ *(noun phrase)*: nhóm/tầng lớp xã hội
+* **background** /ˈbækˌgraʊnd/ *(noun)*: hoàn cảnh xuất thân
+* **occupation** /ˌɑkjəˈpeɪʃən/ *(noun)*: nghề nghiệp; chỉ một yếu tố của `walk of life`
 
 ### Word family
 
@@ -7850,9 +7850,9 @@ Common structures:
 
 ### Synonyms
 
-* **lifestyle** *(noun)*: lối sống
-* **mode of living** *(noun phrase)*: cách thức sinh sống
-* **customary life** *(noun phrase)*: nếp sống quen thuộc
+* **lifestyle** /ˈlaɪfˌstaɪl/ *(noun)*: lối sống
+* **mode of living** /moʊd əv ˈlɪvɪŋ/ *(noun phrase)*: cách thức sinh sống
+* **customary life** /ˈkəstəˌmɛri laɪf/ *(noun phrase)*: nếp sống quen thuộc
 
 ### Word family
 
@@ -7905,9 +7905,9 @@ Common structures:
 
 ### Synonyms
 
-* **skill** *(noun)*: kỹ năng
-* **handicraft** *(noun)*: nghề/sản phẩm thủ công
-* **make** *(verb)*: làm/chế tạo; gần với động từ `craft`
+* **skill** /skɪl/ *(noun)*: kỹ năng
+* **handicraft** /ˈhændiˌkræft/ *(noun)*: nghề/sản phẩm thủ công
+* **make** /meɪk/ *(verb)*: làm/chế tạo; gần với động từ `craft`
 
 ### Word family
 
@@ -7960,9 +7960,9 @@ Common structures:
 
 ### Synonyms
 
-* **pleased** *(adjective)*: hài lòng/vui
-* **thrilled** *(adjective)*: vô cùng hào hứng
-* **overjoyed** *(adjective)*: vui mừng khôn xiết
+* **pleased** /plizd/ *(adjective)*: hài lòng/vui
+* **thrilled** /θrɪld/ *(adjective)*: vô cùng hào hứng
+* **overjoyed** /ˌoʊvərˈʤɔɪd/ *(adjective)*: vui mừng khôn xiết
 
 ### Word family
 
@@ -8015,9 +8015,9 @@ Common structures:
 
 ### Synonyms
 
-* **earn a living** *(verb phrase)*: kiếm sống; gần nghĩa nhất
-* **support oneself** *(verb phrase)*: tự nuôi sống bản thân
-* **make ends meet** *(idiom)*: kiếm đủ để trang trải; nhấn mạnh vừa đủ sống
+* **earn a living** /ərn ə ˈlɪvɪŋ/ *(verb phrase)*: kiếm sống; gần nghĩa nhất
+* **support oneself** /səˈpɔrt ˌwənˈsɛlf/ *(verb phrase)*: tự nuôi sống bản thân
+* **make ends meet** /meɪk ɛndz mit/ *(idiom)*: kiếm đủ để trang trải; nhấn mạnh vừa đủ sống
 
 ### Word family
 
@@ -8070,9 +8070,9 @@ Common structures:
 
 ### Synonyms
 
-* **fill** *(verb)*: chiếm đầy không gian/thời gian
-* **take up** *(phrasal verb)*: chiếm không gian hoặc thời gian
-* **inhabit** *(verb)*: cư trú trong một nơi
+* **fill** /fɪl/ *(verb)*: chiếm đầy không gian/thời gian
+* **take up** /teɪk əp/ *(phrasal verb)*: chiếm không gian hoặc thời gian
+* **inhabit** /ˌɪnˈhæbət/ *(verb)*: cư trú trong một nơi
 
 ### Word family
 
@@ -8125,9 +8125,9 @@ Common structures:
 
 ### Synonyms
 
-* **unique** *(adjective)*: độc nhất
-* **rare** *(adjective)*: hiếm có
-* **unrepeatable** *(adjective)*: không thể lặp lại
+* **unique** /juˈnik/ *(adjective)*: độc nhất
+* **rare** /rɛr/ *(adjective)*: hiếm có
+* **unrepeatable** /ˌʌn.rɪˈpiː.tə.bəl/ *(adjective)*: không thể lặp lại
 
 ### Word family
 
@@ -8180,9 +8180,9 @@ Common structures:
 
 ### Synonyms
 
-* **miss** *(verb)*: không nhận thấy
-* **ignore** *(verb)*: cố tình phớt lờ; mạnh hơn
-* **look out over** *(verb phrase)*: nhìn ra/bao quát; gần với nghĩa vị trí của `overlook`
+* **miss** /mɪs/ *(verb)*: không nhận thấy
+* **ignore** /ˌɪgˈnɔr/ *(verb)*: cố tình phớt lờ; mạnh hơn
+* **look out over** /lʊk aʊt ˈoʊvər/ *(verb phrase)*: nhìn ra/bao quát; gần với nghĩa vị trí của `overlook`
 
 ### Word family
 
@@ -8235,9 +8235,9 @@ Common structures:
 
 ### Synonyms
 
-* **leisure** *(noun)*: thời gian/hoạt động nhàn rỗi
-* **relaxation** *(noun)*: sự thư giãn
-* **pastime** *(noun)*: thú tiêu khiển
+* **leisure** /ˈlɛʒər/ *(noun)*: thời gian/hoạt động nhàn rỗi
+* **relaxation** /ˌrilækˈseɪʃən/ *(noun)*: sự thư giãn
+* **pastime** /ˈpæˌstaɪm/ *(noun)*: thú tiêu khiển
 
 ### Word family
 
@@ -8290,9 +8290,9 @@ Common structures:
 
 ### Synonyms
 
-* **adventurer** *(noun)*: người thích trải nghiệm mạo hiểm
-* **daredevil** *(noun)*: người liều lĩnh, thích nguy hiểm
-* **gambler** *(noun)*: người đánh cược/chấp nhận rủi ro; thường liên quan tiền hoặc kết quả không chắc chắn
+* **adventurer** /ədˈvɛnʧərər/ *(noun)*: người thích trải nghiệm mạo hiểm
+* **daredevil** /ˈdɛrˌdɛvəl/ *(noun)*: người liều lĩnh, thích nguy hiểm
+* **gambler** /ˈgæmblər/ *(noun)*: người đánh cược/chấp nhận rủi ro; thường liên quan tiền hoặc kết quả không chắc chắn
 
 ### Word family
 
@@ -8345,9 +8345,9 @@ Common structures:
 
 ### Synonyms
 
-* **living standard** *(noun phrase)*: mức sống; biến thể gần nghĩa
-* **material well-being** *(noun phrase)*: mức sung túc vật chất
-* **living conditions** *(plural noun)*: điều kiện sống; rộng hơn
+* **living standard** /ˈlɪvɪŋ ˈstændərd/ *(noun phrase)*: mức sống; biến thể gần nghĩa
+* **material well-being** /məˈtɪriəl ˌwɛlˈbiɪŋ/ *(noun phrase)*: mức sung túc vật chất
+* **living conditions** /ˈlɪvɪŋ kənˈdɪʃənz/ *(plural noun)*: điều kiện sống; rộng hơn
 
 ### Word family
 
@@ -8400,9 +8400,9 @@ Common structures:
 
 ### Synonyms
 
-* **possibility** *(noun)*: khả năng có thể xảy ra
-* **outlook** *(noun)*: triển vọng tương lai
-* **potential customer/candidate** *(noun phrase)*: khách hàng/ứng viên tiềm năng; gần với nghĩa chỉ người
+* **possibility** /ˌpɑsəˈbɪləˌti/ *(noun)*: khả năng có thể xảy ra
+* **outlook** /ˈaʊˌtlʊk/ *(noun)*: triển vọng tương lai
+* **potential customer/candidate** /pəˈten.ʃəl ˈkʌs.tə.mɚ; pəˈten.ʃəl ˈkæn.də.dət/ *(noun phrase)*: khách hàng/ứng viên tiềm năng; gần với nghĩa chỉ người
 
 ### Word family
 
@@ -8455,9 +8455,9 @@ Common structures:
 
 ### Synonyms
 
-* **determine** *(verb)*: xác định
-* **establish** *(verb)*: xác minh chắc chắn
-* **find out** *(phrasal verb)*: tìm ra; thông dụng hơn
+* **determine** /dɪˈtərmən/ *(verb)*: xác định
+* **establish** /ɪˈstæblɪʃ/ *(verb)*: xác minh chắc chắn
+* **find out** /faɪnd aʊt/ *(phrasal verb)*: tìm ra; thông dụng hơn
 
 ### Word family
 
@@ -8510,9 +8510,9 @@ Common structures:
 
 ### Synonyms
 
-* **go with** *(phrasal verb)*: đi cùng
-* **escort** *(verb)*: hộ tống/đưa đi cùng
-* **complement** *(verb)*: bổ sung và làm thứ khác tốt hơn; gần với nghĩa sự vật đi kèm
+* **go with** /goʊ wɪθ/ *(phrasal verb)*: đi cùng
+* **escort** /ˈɛskɔrt/ *(verb)*: hộ tống/đưa đi cùng
+* **complement** /ˈkɑmpləmənt/ *(verb)*: bổ sung và làm thứ khác tốt hơn; gần với nghĩa sự vật đi kèm
 
 ### Word family
 
@@ -8565,9 +8565,9 @@ Common structures:
 
 ### Synonyms
 
-* **intimidating** *(adjective)*: đáng sợ vì có vẻ khó
-* **formidable** *(adjective)*: rất khó/đáng gờm
-* **overwhelming** *(adjective)*: quá sức hoặc áp đảo
+* **intimidating** /ˌɪnˈtɪmɪˌdeɪtɪŋ/ *(adjective)*: đáng sợ vì có vẻ khó
+* **formidable** /ˌfɔrˈmɪdəbəl/ *(adjective)*: rất khó/đáng gờm
+* **overwhelming** /ˌoʊvərˈwɛlmɪŋ/ *(adjective)*: quá sức hoặc áp đảo
 
 ### Word family
 
@@ -8620,9 +8620,9 @@ Common structures:
 
 ### Synonyms
 
-* **thesis** *(noun)*: luận văn; ở một số hệ thống gần nghĩa nhất
-* **research paper** *(noun phrase)*: bài nghiên cứu; thường ngắn hơn dissertation
-* **doctoral study** *(noun phrase)*: công trình nghiên cứu tiến sĩ; chỉ đúng trong ngữ cảnh phù hợp
+* **thesis** /ˈθiˌsɪs/ *(noun)*: luận văn; ở một số hệ thống gần nghĩa nhất
+* **research paper** /ˈrisərʧ ˈpeɪpər/ *(noun phrase)*: bài nghiên cứu; thường ngắn hơn dissertation
+* **doctoral study** /ˈdɑktərəl ˈstədi/ *(noun phrase)*: công trình nghiên cứu tiến sĩ; chỉ đúng trong ngữ cảnh phù hợp
 
 ### Word family
 
@@ -8675,9 +8675,9 @@ Common structures:
 
 ### Synonyms
 
-* **reading disorder** *(noun phrase)*: rối loạn đọc; cách giải thích gần nghĩa
-* **specific learning difficulty** *(noun phrase)*: khó khăn học tập đặc thù; rộng hơn
-* **word-reading difficulty** *(noun phrase)*: khó khăn trong việc đọc từ
+* **reading disorder** /ˈrɛdɪŋ dɪˈsɔrdər/ *(noun phrase)*: rối loạn đọc; cách giải thích gần nghĩa
+* **specific learning difficulty** /spɪˈsɪfɪk ˈlərnɪŋ ˈdɪfɪˌkəlti/ *(noun phrase)*: khó khăn học tập đặc thù; rộng hơn
+* **word-reading difficulty** /ˈwɝːd ˌriː.dɪŋ ˈdɪf.ə.kəl.ti/ *(noun phrase)*: khó khăn trong việc đọc từ
 
 ### Word family
 
@@ -8730,9 +8730,9 @@ Common structures:
 
 ### Synonyms
 
-* **basic** *(adjective)*: cơ bản
-* **fundamental** *(adjective)*: nền tảng/thiết yếu
-* **primary** *(adjective)*: sơ cấp/ban đầu
+* **basic** /ˈbeɪsɪk/ *(adjective)*: cơ bản
+* **fundamental** /ˌfəndəˈmɛnəl/ *(adjective)*: nền tảng/thiết yếu
+* **primary** /ˈpraɪˌmɛri/ *(adjective)*: sơ cấp/ban đầu
 
 ### Word family
 
@@ -8785,9 +8785,9 @@ Common structures:
 
 ### Synonyms
 
-* **geologic** *(adjective)*: thuộc địa chất; biến thể gần nghĩa
-* **earth-science-related** *(adjective)*: liên quan đến khoa học Trái Đất
-* **geophysical** *(adjective)*: thuộc vật lý Trái Đất; nghĩa chuyên biệt hơn
+* **geologic** /ˌʤiəˈlɑʤɪk/ *(adjective)*: thuộc địa chất; biến thể gần nghĩa
+* **earth-science-related** /ˈɝːθ ˌsaɪ.əns rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến khoa học Trái Đất
+* **geophysical** /ˌʤioʊˈfɪzəkəl/ *(adjective)*: thuộc vật lý Trái Đất; nghĩa chuyên biệt hơn
 
 ### Word family
 
@@ -8840,9 +8840,9 @@ Common structures:
 
 ### Synonyms
 
-* **master's degree** *(noun phrase)*: bằng thạc sĩ
-* **postgraduate degree** *(noun phrase)*: bằng sau đại học; rộng hơn
-* **graduate degree** *(noun phrase)*: bằng cấp sau cử nhân, cách gọi phổ biến ở Mỹ
+* **master's degree** /ˈmæstərz dɪˈgri/ *(noun phrase)*: bằng thạc sĩ
+* **postgraduate degree** /ˌpoʊstˈɡrædʒ.u.ət dɪˈɡriː/ *(noun phrase)*: bằng sau đại học; rộng hơn
+* **graduate degree** /ˈgræʤəˌweɪt dɪˈgri/ *(noun phrase)*: bằng cấp sau cử nhân, cách gọi phổ biến ở Mỹ
 
 ### Word family
 
@@ -8895,9 +8895,9 @@ Common structures:
 
 ### Synonyms
 
-* **evidence-based** *(adjective)*: dựa trên bằng chứng
-* **observational** *(adjective)*: dựa trên quan sát
-* **experimental** *(adjective)*: dựa trên thí nghiệm; chỉ một loại bằng chứng thực nghiệm
+* **evidence-based** /ˈev.ə.dəns beɪst/ *(adjective)*: dựa trên bằng chứng
+* **observational** /ˌɑːb.zɚˈveɪ.ʃən.əl/ *(adjective)*: dựa trên quan sát
+* **experimental** /ɪkˌspɛrɪˈmɛntəl/ *(adjective)*: dựa trên thí nghiệm; chỉ một loại bằng chứng thực nghiệm
 
 ### Word family
 
@@ -8950,9 +8950,9 @@ Common structures:
 
 ### Synonyms
 
-* **simple** *(adjective)*: đơn giản
-* **clear** *(adjective)*: rõ ràng
-* **direct** *(adjective)*: thẳng thắn/không vòng vo
+* **simple** /ˈsɪmpəl/ *(adjective)*: đơn giản
+* **clear** /klɪr/ *(adjective)*: rõ ràng
+* **direct** /dɪˈrɛkt/ *(adjective)*: thẳng thắn/không vòng vo
 
 ### Word family
 
@@ -9005,9 +9005,9 @@ Common structures:
 
 ### Synonyms
 
-* **speculation** *(noun)*: sự suy đoán thiếu bằng chứng chắc chắn
-* **hypothesis** *(noun)*: giả thuyết có thể kiểm chứng
-* **guess** *(noun)*: phỏng đoán; thông dụng và kém trang trọng
+* **speculation** /ˌspɛkjəˈleɪʃən/ *(noun)*: sự suy đoán thiếu bằng chứng chắc chắn
+* **hypothesis** /haɪˈpɑθəsəs/ *(noun)*: giả thuyết có thể kiểm chứng
+* **guess** /gɛs/ *(noun)*: phỏng đoán; thông dụng và kém trang trọng
 
 ### Word family
 
@@ -9060,9 +9060,9 @@ Common structures:
 
 ### Synonyms
 
-* **implication** *(noun)*: hàm ý
-* **association** *(noun)*: sự liên tưởng
-* **undertone** *(noun)*: sắc thái ngầm
+* **implication** /ˌɪmpləˈkeɪʃən/ *(noun)*: hàm ý
+* **association** /əˌsoʊʃiˈeɪʃən/ *(noun)*: sự liên tưởng
+* **undertone** /ˈəndərˌtoʊn/ *(noun)*: sắc thái ngầm
 
 ### Word family
 
@@ -9115,9 +9115,9 @@ Common structures:
 
 ### Synonyms
 
-* **match** *(verb)*: tương ứng/phù hợp
-* **agree** *(verb)*: trùng khớp
-* **communicate** *(verb)*: liên lạc; gần với nghĩa trao đổi thư từ
+* **match** /mæʧ/ *(verb)*: tương ứng/phù hợp
+* **agree** /əˈgri/ *(verb)*: trùng khớp
+* **communicate** /kəmˈjunəˌkeɪt/ *(verb)*: liên lạc; gần với nghĩa trao đổi thư từ
 
 ### Word family
 
@@ -9170,9 +9170,9 @@ Common structures:
 
 ### Synonyms
 
-* **destroy** *(verb)*: phá hủy
-* **ruin** *(verb)*: làm hỏng hoàn toàn
-* **shatter** *(verb)*: làm suy sụp tinh thần; gần với nghĩa cảm xúc
+* **destroy** /dɪˈstrɔɪ/ *(verb)*: phá hủy
+* **ruin** /ruɪn/ *(verb)*: làm hỏng hoàn toàn
+* **shatter** /ˈʃætər/ *(verb)*: làm suy sụp tinh thần; gần với nghĩa cảm xúc
 
 ### Word family
 
@@ -9225,10 +9225,10 @@ Common structures:
 
 ### Synonyms
 
-* **close** *(adjective)*: thân thiết
-* **personal** *(adjective)*: riêng tư/cá nhân
-* **private** *(adjective)*: kín đáo, không công khai
-* **imply** *(verb)*: ngụ ý; gần với động từ `intimate`
+* **close** /kloʊz/ *(adjective)*: thân thiết
+* **personal** /ˈpərsɪnəl/ *(adjective)*: riêng tư/cá nhân
+* **private** /ˈpraɪvət/ *(adjective)*: kín đáo, không công khai
+* **imply** /ˌɪmˈplaɪ/ *(verb)*: ngụ ý; gần với động từ `intimate`
 
 ### Word family
 
@@ -9281,9 +9281,9 @@ Common structures:
 
 ### Synonyms
 
-* **persist** *(verb)*: kiên trì tiếp tục
-* **keep going** *(verb phrase)*: tiếp tục cố gắng
-* **press on** *(phrasal verb)*: tiếp tục bất chấp khó khăn
+* **persist** /pərˈsɪst/ *(verb)*: kiên trì tiếp tục
+* **keep going** /kip goʊɪŋ/ *(verb phrase)*: tiếp tục cố gắng
+* **press on** /prɛs ɔn/ *(phrasal verb)*: tiếp tục bất chấp khó khăn
 
 ### Word family
 
@@ -9336,9 +9336,9 @@ Common structures:
 
 ### Synonyms
 
-* **summarize** *(verb)*: tóm tắt
-* **review** *(verb)*: ôn/tổng kết lại
-* **sum up** *(phrasal verb)*: tóm lược
+* **summarize** /ˈsəmərˌaɪz/ *(verb)*: tóm tắt
+* **review** /ˌrivˈju/ *(verb)*: ôn/tổng kết lại
+* **sum up** /səm əp/ *(phrasal verb)*: tóm lược
 
 ### Word family
 
@@ -9391,9 +9391,9 @@ Common structures:
 
 ### Synonyms
 
-* **narrate** *(verb)*: kể lại có trình tự
-* **retell** *(verb)*: kể lại một câu chuyện/sự kiện
-* **describe** *(verb)*: mô tả; rộng hơn
+* **narrate** /ˈnɛˌreɪt/ *(verb)*: kể lại có trình tự
+* **retell** /riˈtɛl/ *(verb)*: kể lại một câu chuyện/sự kiện
+* **describe** /dɪˈskraɪb/ *(verb)*: mô tả; rộng hơn
 
 ### Word family
 
@@ -9446,9 +9446,9 @@ Common structures:
 
 ### Synonyms
 
-* **connect** *(verb)*: kết nối/liên hệ
-* **associate** *(verb)*: liên kết trong suy nghĩ
-* **identify with** *(phrasal verb)*: đồng cảm/thấy mình giống ai
+* **connect** /kəˈnɛkt/ *(verb)*: kết nối/liên hệ
+* **associate** /əˈsoʊʃiˌeɪt/ *(verb)*: liên kết trong suy nghĩ
+* **identify with** /aɪˈdɛntəˌfaɪ wɪθ/ *(phrasal verb)*: đồng cảm/thấy mình giống ai
 
 ### Word family
 
@@ -9501,9 +9501,9 @@ Common structures:
 
 ### Synonyms
 
-* **mean** *(verb)*: có nghĩa là
-* **indicate** *(verb)*: chỉ ra/dấu hiệu cho thấy
-* **represent** *(verb)*: đại diện/biểu thị
+* **mean** /min/ *(verb)*: có nghĩa là
+* **indicate** /ˈɪndəˌkeɪt/ *(verb)*: chỉ ra/dấu hiệu cho thấy
+* **represent** /ˌrɛprɪˈzɛnt/ *(verb)*: đại diện/biểu thị
 
 ### Word family
 
@@ -9556,9 +9556,9 @@ Common structures:
 
 ### Synonyms
 
-* **stammer** *(verb/noun)*: nói lắp; gần nghĩa nhất
-* **falter** *(verb)*: nói ngập ngừng do thiếu tự tin/cảm xúc
-* **speak haltingly** *(verb phrase)*: nói đứt quãng
+* **stammer** /ˈstæmər/ *(verb/noun)*: nói lắp; gần nghĩa nhất
+* **falter** /ˈfɔltər/ *(verb)*: nói ngập ngừng do thiếu tự tin/cảm xúc
+* **speak haltingly** /spik ˈhɔltɪŋli/ *(verb phrase)*: nói đứt quãng
 
 ### Word family
 
@@ -9611,9 +9611,9 @@ Common structures:
 
 ### Synonyms
 
-* **tank ship** *(noun phrase)*: tàu chở chất lỏng trong bồn
-* **tank truck** *(noun phrase)*: xe bồn
-* **bulk carrier** *(noun)*: tàu chở hàng rời; loại tàu khác nhưng có chức năng vận tải tương tự
+* **tank ship** /tæŋk ʃɪp/ *(noun phrase)*: tàu chở chất lỏng trong bồn
+* **tank truck** /tæŋk trək/ *(noun phrase)*: xe bồn
+* **bulk carrier** /bəlk ˈkɛriər/ *(noun)*: tàu chở hàng rời; loại tàu khác nhưng có chức năng vận tải tương tự
 
 ### Word family
 
@@ -9666,9 +9666,9 @@ Common structures:
 
 ### Synonyms
 
-* **articulate** *(verb)*: diễn đạt rõ bằng lời
-* **express in words** *(verb phrase)*: diễn đạt thành lời
-* **put into words** *(verb phrase)*: nói thành lời
+* **articulate** /ɑrˈtɪkjəˌleɪt/ *(verb)*: diễn đạt rõ bằng lời
+* **express in words** /ɪkˈsprɛs ɪn wərdz/ *(verb phrase)*: diễn đạt thành lời
+* **put into words** /pʊt ˈɪntu wərdz/ *(verb phrase)*: nói thành lời
 
 ### Word family
 
@@ -9721,9 +9721,9 @@ Common structures:
 
 ### Synonyms
 
-* **provide food for** *(verb phrase)*: cung cấp thức ăn cho
-* **accommodate** *(verb)*: đáp ứng nhu cầu
-* **serve** *(verb)*: phục vụ
+* **provide food for** /prəˈvaɪd fud fər/ *(verb phrase)*: cung cấp thức ăn cho
+* **accommodate** /əˈkɑməˌdeɪt/ *(verb)*: đáp ứng nhu cầu
+* **serve** /sərv/ *(verb)*: phục vụ
 
 ### Word family
 
@@ -9776,9 +9776,9 @@ Common structures:
 
 ### Synonyms
 
-* **international** *(adjective)*: mang tính quốc tế
-* **multicultural** *(adjective)*: đa văn hóa
-* **worldly** *(adjective)*: từng trải và hiểu nhiều nền văn hóa
+* **international** /ˌɪnərˈnæʃənɑl/ *(adjective)*: mang tính quốc tế
+* **multicultural** /ˌməltiˈkəlʧərəl/ *(adjective)*: đa văn hóa
+* **worldly** /ˈwərldli/ *(adjective)*: từng trải và hiểu nhiều nền văn hóa
 
 ### Word family
 
@@ -9831,9 +9831,9 @@ Common structures:
 
 ### Synonyms
 
-* **crunchy** *(adjective)*: giòn khi nhai
-* **fresh** *(adjective)*: tươi/mát
-* **sharp** *(adjective)*: rõ, sắc nét; gần với nghĩa âm thanh/hình ảnh
+* **crunchy** /ˈkrənʧi/ *(adjective)*: giòn khi nhai
+* **fresh** /frɛʃ/ *(adjective)*: tươi/mát
+* **sharp** /ʃɑrp/ *(adjective)*: rõ, sắc nét; gần với nghĩa âm thanh/hình ảnh
 
 ### Word family
 
@@ -9886,9 +9886,9 @@ Common structures:
 
 ### Synonyms
 
-* **perfectly clear** *(adjective phrase)*: hoàn toàn rõ ràng
-* **unambiguous** *(adjective)*: không mơ hồ
-* **obvious** *(adjective)*: hiển nhiên
+* **perfectly clear** /ˈpərfəktli klɪr/ *(adjective phrase)*: hoàn toàn rõ ràng
+* **unambiguous** /ˌənæmˈbɪgjəwəs/ *(adjective)*: không mơ hồ
+* **obvious** /ˈɑbviəs/ *(adjective)*: hiển nhiên
 
 ### Word family
 
@@ -9941,9 +9941,9 @@ Common structures:
 
 ### Synonyms
 
-* **disadvantage** *(noun)*: bất lợi
-* **drawback** *(noun)*: nhược điểm
-* **negative aspect** *(noun phrase)*: mặt tiêu cực
+* **disadvantage** /ˌdɪsədˈvænɪʤ/ *(noun)*: bất lợi
+* **drawback** /ˈdrɔˌbæk/ *(noun)*: nhược điểm
+* **negative aspect** /ˈnɛgətɪv ˈæˌspɛkt/ *(noun phrase)*: mặt tiêu cực
 
 ### Word family
 
@@ -9996,9 +9996,9 @@ Common structures:
 
 ### Synonyms
 
-* **sustainable tourism** *(noun phrase)*: du lịch bền vững; rộng hơn
-* **green tourism** *(noun phrase)*: du lịch thân thiện với môi trường
-* **nature-based tourism** *(noun phrase)*: du lịch dựa vào thiên nhiên
+* **sustainable tourism** /səˈsteɪnəbəl ˈtʊˌrɪzəm/ *(noun phrase)*: du lịch bền vững; rộng hơn
+* **green tourism** /grin ˈtʊˌrɪzəm/ *(noun phrase)*: du lịch thân thiện với môi trường
+* **nature-based tourism** /ˈneɪ.tʃɚ beɪst ˈtʊr.ɪ.zəm/ *(noun phrase)*: du lịch dựa vào thiên nhiên
 
 ### Word family
 
@@ -10051,9 +10051,9 @@ Common structures:
 
 ### Synonyms
 
-* **appeal** *(noun)*: sức hấp dẫn
-* **attractiveness** *(noun)*: sự hấp dẫn
-* **enchant** *(verb)*: làm mê hoặc; gần với động từ `charm`
+* **appeal** /əˈpil/ *(noun)*: sức hấp dẫn
+* **attractiveness** /əˈtræktɪvnəs/ *(noun)*: sự hấp dẫn
+* **enchant** /ɛnˈʧænt/ *(verb)*: làm mê hoặc; gần với động từ `charm`
 
 ### Word family
 
@@ -10106,9 +10106,9 @@ Common structures:
 
 ### Synonyms
 
-* **boat** *(noun)*: thuyền/tàu; rộng hơn
-* **shuttle boat** *(noun phrase)*: tàu chạy qua lại trên tuyến ngắn
-* **transport** *(verb)*: vận chuyển; gần với động từ `ferry`
+* **boat** /boʊt/ *(noun)*: thuyền/tàu; rộng hơn
+* **shuttle boat** /ˈʃətəl boʊt/ *(noun phrase)*: tàu chạy qua lại trên tuyến ngắn
+* **transport** /ˈtrænspɔrt/ *(verb)*: vận chuyển; gần với động từ `ferry`
 
 ### Word family
 
@@ -10161,9 +10161,9 @@ Common structures:
 
 ### Synonyms
 
-* **water feature** *(noun phrase)*: công trình trang trí bằng nước
-* **spring** *(noun)*: suối/mạch nước tự nhiên
-* **source** *(noun)*: nguồn; gần với nghĩa bóng
+* **water feature** /ˈwɔtər ˈfiʧər/ *(noun phrase)*: công trình trang trí bằng nước
+* **spring** /spərɪŋ/ *(noun)*: suối/mạch nước tự nhiên
+* **source** /sɔrs/ *(noun)*: nguồn; gần với nghĩa bóng
 
 ### Word family
 
@@ -10216,9 +10216,9 @@ Common structures:
 
 ### Synonyms
 
-* **bitterness** *(noun)*: sự cay đắng/oán giận
-* **indignation** *(noun)*: sự phẫn nộ vì bất công
-* **grievance** *(noun)*: nỗi bất bình/lý do để oán trách
+* **bitterness** /ˈbɪtərnəs/ *(noun)*: sự cay đắng/oán giận
+* **indignation** /ˌɪndɪgˈneɪʃən/ *(noun)*: sự phẫn nộ vì bất công
+* **grievance** /ˈgrivəns/ *(noun)*: nỗi bất bình/lý do để oán trách
 
 ### Word family
 
@@ -10271,9 +10271,9 @@ Common structures:
 
 ### Synonyms
 
-* **beforehand** *(adverb)*: từ trước
-* **ahead of time** *(adverb phrase)*: sớm hơn thời điểm cần thiết
-* **previously** *(adverb)*: trước đó; không phải lúc nào cũng hàm ý chuẩn bị
+* **beforehand** /bɪˈfɔˌrhænd/ *(adverb)*: từ trước
+* **ahead of time** /əˈhɛd əv taɪm/ *(adverb phrase)*: sớm hơn thời điểm cần thiết
+* **previously** /ˈpriviəsli/ *(adverb)*: trước đó; không phải lúc nào cũng hàm ý chuẩn bị
 
 ### Word family
 
@@ -10326,9 +10326,9 @@ Common structures:
 
 ### Synonyms
 
-* **travel plan** *(noun phrase)*: kế hoạch chuyến đi
-* **schedule** *(noun)*: lịch trình thời gian
-* **route** *(noun)*: tuyến đường; chỉ một phần của itinerary
+* **travel plan** /ˈtrævəl plæn/ *(noun phrase)*: kế hoạch chuyến đi
+* **schedule** /ˈskɛʤʊl/ *(noun)*: lịch trình thời gian
+* **route** /rut/ *(noun)*: tuyến đường; chỉ một phần của itinerary
 
 ### Word family
 
@@ -10381,9 +10381,9 @@ Common structures:
 
 ### Synonyms
 
-* **adjacent** *(adjective)*: liền kề
-* **nearby** *(adjective)*: ở gần
-* **bordering** *(adjective)*: giáp ranh
+* **adjacent** /əˈʤeɪsənt/ *(adjective)*: liền kề
+* **nearby** /ˈnɪrˈbaɪ/ *(adjective)*: ở gần
+* **bordering** /ˈbɔrdərɪŋ/ *(adjective)*: giáp ranh
 
 ### Word family
 
@@ -10436,9 +10436,9 @@ Common structures:
 
 ### Synonyms
 
-* **picturesque** *(adjective)*: đẹp như tranh
-* **charming** *(adjective)*: duyên dáng/hấp dẫn
-* **old-fashioned** *(adjective)*: cổ xưa; có thể tích cực hoặc tiêu cực tùy ngữ cảnh
+* **picturesque** /ˈpɪkʧərəsk/ *(adjective)*: đẹp như tranh
+* **charming** /ˈʧɑrmɪŋ/ *(adjective)*: duyên dáng/hấp dẫn
+* **old-fashioned** /ˌoʊldˈfæʃənd/ *(adjective)*: cổ xưa; có thể tích cực hoặc tiêu cực tùy ngữ cảnh
 
 ### Word family
 
@@ -10491,9 +10491,9 @@ Common structures:
 
 ### Synonyms
 
-* **landscape** *(noun)*: phong cảnh/địa hình nhìn thấy
-* **views** *(plural noun)*: cảnh nhìn từ một vị trí
-* **surroundings** *(plural noun)*: khung cảnh/môi trường xung quanh
+* **landscape** /ˈlænˌskeɪp/ *(noun)*: phong cảnh/địa hình nhìn thấy
+* **views** /vjuz/ *(plural noun)*: cảnh nhìn từ một vị trí
+* **surroundings** /sərˈaʊndɪŋz/ *(plural noun)*: khung cảnh/môi trường xung quanh
 
 ### Word family
 
@@ -10546,9 +10546,9 @@ Common structures:
 
 ### Synonyms
 
-* **picturesque** *(adjective)*: đẹp như tranh
-* **beautiful** *(adjective)*: đẹp; rộng hơn
-* **panoramic** *(adjective)*: có tầm nhìn toàn cảnh
+* **picturesque** /ˈpɪkʧərəsk/ *(adjective)*: đẹp như tranh
+* **beautiful** /ˈbjutəfəl/ *(adjective)*: đẹp; rộng hơn
+* **panoramic** /ˌpænərˈæmɪk/ *(adjective)*: có tầm nhìn toàn cảnh
 
 ### Word family
 
@@ -10601,9 +10601,9 @@ Common structures:
 
 ### Synonyms
 
-* **underwater breathing equipment** *(noun phrase)*: thiết bị thở dưới nước; cách giải thích gần nghĩa
-* **diving gear** *(noun phrase)*: thiết bị lặn; rộng hơn
-* **self-contained breathing apparatus** *(noun phrase)*: thiết bị thở độc lập; dạng đầy đủ của ý niệm SCUBA
+* **underwater breathing equipment** /ˈəndərˌwɔtər ˈbriðɪŋ ɪkˈwɪpmənt/ *(noun phrase)*: thiết bị thở dưới nước; cách giải thích gần nghĩa
+* **diving gear** /ˈdaɪvɪŋ gɪr/ *(noun phrase)*: thiết bị lặn; rộng hơn
+* **self-contained breathing apparatus** /ˈsɛlfkənˈteɪnd ˈbriðɪŋ ˌæpərˈætəs/ *(noun phrase)*: thiết bị thở độc lập; dạng đầy đủ của ý niệm SCUBA
 
 ### Word family
 
@@ -10656,9 +10656,9 @@ Common structures:
 
 ### Synonyms
 
-* **drowsy** *(adjective)*: buồn ngủ, lơ mơ
-* **tired** *(adjective)*: mệt; rộng hơn
-* **somnolent** *(adjective)*: buồn ngủ; trang trọng/y khoa
+* **drowsy** /ˈdraʊzi/ *(adjective)*: buồn ngủ, lơ mơ
+* **tired** /taɪərd/ *(adjective)*: mệt; rộng hơn
+* **somnolent** /ˈsɑmnələnt/ *(adjective)*: buồn ngủ; trang trọng/y khoa
 
 ### Word family
 
@@ -10711,9 +10711,9 @@ Common structures:
 
 ### Synonyms
 
-* **snorkel swimming** *(noun phrase)*: bơi dùng ống thở
-* **surface diving** *(noun phrase)*: lặn/bơi gần mặt nước
-* **underwater sightseeing** *(noun phrase)*: ngắm cảnh dưới nước; mô tả hoạt động
+* **snorkel swimming** /sˈnɔrkəl sˈwɪmɪŋ/ *(noun phrase)*: bơi dùng ống thở
+* **surface diving** /ˈsərfəs ˈdaɪvɪŋ/ *(noun phrase)*: lặn/bơi gần mặt nước
+* **underwater sightseeing** /ˈəndərˌwɔtər ˈsaɪtˈsiɪŋ/ *(noun phrase)*: ngắm cảnh dưới nước; mô tả hoạt động
 
 ### Word family
 
@@ -10766,9 +10766,9 @@ Common structures:
 
 ### Synonyms
 
-* **sculpture** *(noun)*: tác phẩm điêu khắc; rộng hơn
-* **monument** *(noun)*: tượng đài/công trình tưởng niệm
-* **figure** *(noun)*: hình tượng người hoặc vật được tạo hình
+* **sculpture** /ˈskəlpʧər/ *(noun)*: tác phẩm điêu khắc; rộng hơn
+* **monument** /ˈmɑnjəmənt/ *(noun)*: tượng đài/công trình tưởng niệm
+* **figure** /ˈfɪgjər/ *(noun)*: hình tượng người hoặc vật được tạo hình
 
 ### Word family
 
@@ -10821,9 +10821,9 @@ Common structures:
 
 ### Synonyms
 
-* **extend** *(verb)*: kéo dài/mở rộng
-* **lengthen** *(verb)*: làm dài hơn
-* **span** *(verb)*: kéo dài từ điểm này đến điểm khác
+* **extend** /ɪkˈstɛnd/ *(verb)*: kéo dài/mở rộng
+* **lengthen** /ˈlɛŋθən/ *(verb)*: làm dài hơn
+* **span** /spæn/ *(verb)*: kéo dài từ điểm này đến điểm khác
 
 ### Word family
 
@@ -10876,9 +10876,9 @@ Common structures:
 
 ### Synonyms
 
-* **ride the waves** *(verb phrase)*: lướt sóng
-* **browse** *(verb)*: lướt Internet; gần với nghĩa công nghệ
-* **wave riding** *(noun phrase)*: hoạt động cưỡi/lướt trên sóng
+* **ride the waves** /raɪd ðə weɪvz/ *(verb phrase)*: lướt sóng
+* **browse** /braʊz/ *(verb)*: lướt Internet; gần với nghĩa công nghệ
+* **wave riding** /weɪv ˈraɪdɪŋ/ *(noun phrase)*: hoạt động cưỡi/lướt trên sóng
 
 ### Word family
 
@@ -10931,9 +10931,9 @@ Common structures:
 
 ### Synonyms
 
-* **dangerous** *(adjective)*: nguy hiểm
-* **hazardous** *(adjective)*: đầy rủi ro; trang trọng
-* **deceptive** *(adjective)*: lừa dối/không đáng tin; gần với nghĩa phản trắc
+* **dangerous** /ˈdeɪnʤərəs/ *(adjective)*: nguy hiểm
+* **hazardous** /ˈhæzərdəs/ *(adjective)*: đầy rủi ro; trang trọng
+* **deceptive** /dɪˈsɛptɪv/ *(adjective)*: lừa dối/không đáng tin; gần với nghĩa phản trắc
 
 ### Word family
 
@@ -10986,9 +10986,9 @@ Common structures:
 
 ### Synonyms
 
-* **channel** *(noun)*: rãnh/máng dài
-* **basin** *(noun)*: chậu/lòng trũng
-* **low point** *(noun phrase)*: điểm thấp nhất; gần với nghĩa biểu đồ/kinh tế
+* **channel** /ˈʧænəl/ *(noun)*: rãnh/máng dài
+* **basin** /ˈbeɪsən/ *(noun)*: chậu/lòng trũng
+* **low point** /loʊ pɔɪnt/ *(noun phrase)*: điểm thấp nhất; gần với nghĩa biểu đồ/kinh tế
 
 ### Word family
 
@@ -11041,9 +11041,9 @@ Common structures:
 
 ### Synonyms
 
-* **twisting** *(adjective)*: ngoằn ngoèo/xoắn
-* **curving** *(adjective)*: uốn cong
-* **meandering** *(adjective)*: quanh co, uốn lượn
+* **twisting** /tˈwɪstɪŋ/ *(adjective)*: ngoằn ngoèo/xoắn
+* **curving** /ˈkərvɪŋ/ *(adjective)*: uốn cong
+* **meandering** /miˈændərɪŋ/ *(adjective)*: quanh co, uốn lượn
 
 ### Word family
 
@@ -11096,9 +11096,9 @@ Common structures:
 
 ### Synonyms
 
-* **hectare** *(noun)*: hecta; đơn vị diện tích khác, bằng khoảng 2,47 mẫu Anh
-* **land unit** *(noun phrase)*: đơn vị đo đất; cách giải thích rộng
-* **0.405 hectare** *(measurement)*: khoảng 0,405 hecta; giá trị tương đương một acre
+* **hectare** /ˈhɛkˌtɑr/ *(noun)*: hecta; đơn vị diện tích khác, bằng khoảng 2,47 mẫu Anh
+* **land unit** /lænd ˈjunɪt/ *(noun phrase)*: đơn vị đo đất; cách giải thích rộng
+* **0.405 hectare** /ˈzɪr.oʊ pɔɪnt fɔːr oʊ faɪv ˈhek.ter/ *(measurement)*: khoảng 0,405 hecta; giá trị tương đương một acre
 
 ### Word family
 
@@ -11151,9 +11151,9 @@ Common structures:
 
 ### Synonyms
 
-* **needle therapy** *(noun phrase)*: liệu pháp dùng kim; cách giải thích gần nghĩa
-* **therapeutic needling** *(noun phrase)*: phương pháp châm kim trị liệu
-* **traditional Chinese medicine treatment** *(noun phrase)*: phương pháp điều trị y học cổ truyền Trung Hoa; rộng hơn
+* **needle therapy** /ˈnidəl ˈθɛrəpi/ *(noun phrase)*: liệu pháp dùng kim; cách giải thích gần nghĩa
+* **therapeutic needling** /ˌθɛrəˈpjutɪk ˈnidlɪŋ/ *(noun phrase)*: phương pháp châm kim trị liệu
+* **traditional Chinese medicine treatment** /trəˈdɪʃənəl ʧaɪˈniz ˈmɛdəsən ˈtritmənt/ *(noun phrase)*: phương pháp điều trị y học cổ truyền Trung Hoa; rộng hơn
 
 ### Word family
 
@@ -11206,9 +11206,9 @@ Common structures:
 
 ### Synonyms
 
-* **non-digital** *(adjective)*: không phải kỹ thuật số
-* **continuous** *(adjective)*: liên tục; gần với nghĩa tín hiệu analogue
-* **counterpart** *(noun)*: vật/người tương ứng; gần với nghĩa danh từ chỉ thứ tương tự
+* **non-digital** /ˌnɑːnˈdɪdʒ.ə.təl/ *(adjective)*: không phải kỹ thuật số
+* **continuous** /kənˈtɪnjuəs/ *(adjective)*: liên tục; gần với nghĩa tín hiệu analogue
+* **counterpart** /ˈkaʊntərˌpɑrt/ *(noun)*: vật/người tương ứng; gần với nghĩa danh từ chỉ thứ tương tự
 
 ### Word family
 
@@ -11261,9 +11261,9 @@ Common structures:
 
 ### Synonyms
 
-* **wonder** *(noun)*: sự kinh ngạc/ngưỡng mộ
-* **amazement** *(noun)*: sự kinh ngạc mạnh
-* **reverence** *(noun)*: lòng kính sợ/tôn kính sâu sắc
+* **wonder** /ˈwəndər/ *(noun)*: sự kinh ngạc/ngưỡng mộ
+* **amazement** /əˈmeɪzmənt/ *(noun)*: sự kinh ngạc mạnh
+* **reverence** /ˈrɛvərəns/ *(noun)*: lòng kính sợ/tôn kính sâu sắc
 
 ### Word family
 
@@ -11316,9 +11316,9 @@ Common structures:
 
 ### Synonyms
 
-* **infertile** *(adjective)*: không màu mỡ/không sinh sản được
-* **sterile** *(adjective)*: vô sinh/không có sự sống
-* **desolate** *(adjective)*: hoang vắng, tiêu điều
+* **infertile** /ˌɪnˈfərtəl/ *(adjective)*: không màu mỡ/không sinh sản được
+* **sterile** /ˈstɛrəl/ *(adjective)*: vô sinh/không có sự sống
+* **desolate** /ˈdɛzələt/ *(adjective)*: hoang vắng, tiêu điều
 
 ### Word family
 
@@ -11371,9 +11371,9 @@ Common structures:
 
 ### Synonyms
 
-* **barrier** *(noun)*: vật cản/rào chắn
-* **blockade** *(noun)*: sự phong tỏa nhằm ngăn đi lại hoặc tiếp tế
-* **roadblock** *(noun)*: chướng ngại/chốt chặn trên đường
+* **barrier** /ˈbɛriər/ *(noun)*: vật cản/rào chắn
+* **blockade** /ˌblɑˈkeɪd/ *(noun)*: sự phong tỏa nhằm ngăn đi lại hoặc tiếp tế
+* **roadblock** /ˈroʊdˌblɑk/ *(noun)*: chướng ngại/chốt chặn trên đường
 
 ### Word family
 
@@ -11426,9 +11426,9 @@ Common structures:
 
 ### Synonyms
 
-* **excellent** *(adjective)*: xuất sắc
-* **intelligent** *(adjective)*: thông minh; gần với nghĩa chỉ người/ý tưởng
-* **bright** *(adjective)*: sáng hoặc thông minh; gần với hai nghĩa phổ biến
+* **excellent** /ˈɛksələnt/ *(adjective)*: xuất sắc
+* **intelligent** /ˌɪnˈtɛləʤənt/ *(adjective)*: thông minh; gần với nghĩa chỉ người/ý tưởng
+* **bright** /braɪt/ *(adjective)*: sáng hoặc thông minh; gần với hai nghĩa phổ biến
 
 ### Word family
 
@@ -11481,9 +11481,9 @@ Common structures:
 
 ### Synonyms
 
-* **waterway** *(noun)*: đường thủy
-* **channel** *(noun)*: kênh/luồng dẫn nước
-* **ditch** *(noun)*: mương nhỏ; thường nhỏ và đơn giản hơn canal
+* **waterway** /ˈwɔtərˌweɪ/ *(noun)*: đường thủy
+* **channel** /ˈʧænəl/ *(noun)*: kênh/luồng dẫn nước
+* **ditch** /dɪʧ/ *(noun)*: mương nhỏ; thường nhỏ và đơn giản hơn canal
 
 ### Word family
 
@@ -11536,9 +11536,9 @@ Common structures:
 
 ### Synonyms
 
-* **pill** *(noun)*: viên thuốc; gần với nghĩa viên nang
-* **pod** *(noun)*: vỏ/kén chứa hạt hoặc vật
-* **compartment** *(noun)*: khoang kín; gần với nghĩa khoang tàu/vũ trụ
+* **pill** /pɪl/ *(noun)*: viên thuốc; gần với nghĩa viên nang
+* **pod** /pɑd/ *(noun)*: vỏ/kén chứa hạt hoặc vật
+* **compartment** /kəmˈpɑrtmənt/ *(noun)*: khoang kín; gần với nghĩa khoang tàu/vũ trụ
 
 ### Word family
 
@@ -11591,9 +11591,9 @@ Common structures:
 
 ### Synonyms
 
-* **cut** *(verb)*: cắt/khắc; rộng hơn
-* **sculpt** *(verb)*: điêu khắc tạo hình
-* **engrave** *(verb)*: khắc chữ/hình lên bề mặt
+* **cut** /kət/ *(verb)*: cắt/khắc; rộng hơn
+* **sculpt** /skəlpt/ *(verb)*: điêu khắc tạo hình
+* **engrave** /ɪnˈgreɪv/ *(verb)*: khắc chữ/hình lên bề mặt
 
 ### Word family
 
@@ -11646,9 +11646,9 @@ Common structures:
 
 ### Synonyms
 
-* **writing chalk** *(noun phrase)*: phấn viết
-* **calcium carbonate** *(noun)*: canxi cacbonat; thành phần chính của đá phấn
-* **limestone** *(noun)*: đá vôi; loại đá liên quan nhưng không hoàn toàn đồng nghĩa
+* **writing chalk** /ˈraɪtɪŋ ʧɔk/ *(noun phrase)*: phấn viết
+* **calcium carbonate** /ˈkælsiəm ˈkɑrbəˌneɪt/ *(noun)*: canxi cacbonat; thành phần chính của đá phấn
+* **limestone** /ˈlaɪmˌstoʊn/ *(noun)*: đá vôi; loại đá liên quan nhưng không hoàn toàn đồng nghĩa
 
 ### Word family
 
@@ -11701,9 +11701,9 @@ Common structures:
 
 ### Synonyms
 
-* **decrease** *(noun/verb)*: sự giảm/giảm
-* **fall** *(noun/verb)*: sự sụt giảm/giảm
-* **refuse** *(verb)*: từ chối; gần với nghĩa động từ khác của `decline`
+* **decrease** /ˈdiˌkris/ *(noun/verb)*: sự giảm/giảm
+* **fall** /fɔl/ *(noun/verb)*: sự sụt giảm/giảm
+* **refuse** /ˈrɛfˌjuz/ *(verb)*: từ chối; gần với nghĩa động từ khác của `decline`
 
 ### Word family
 
@@ -11756,9 +11756,9 @@ Common structures:
 
 ### Synonyms
 
-* **destroy** *(verb)*: phá hủy
-* **tear down** *(phrasal verb)*: phá dỡ công trình
-* **raze** *(verb)*: san phẳng/phá hủy hoàn toàn
+* **destroy** /dɪˈstrɔɪ/ *(verb)*: phá hủy
+* **tear down** /tɪr daʊn/ *(phrasal verb)*: phá dỡ công trình
+* **raze** /reɪz/ *(verb)*: san phẳng/phá hủy hoàn toàn
 
 ### Word family
 
@@ -11811,9 +11811,9 @@ Common structures:
 
 ### Synonyms
 
-* **tooth-related** *(adjective)*: liên quan đến răng
-* **oral** *(adjective)*: thuộc miệng; rộng hơn `dental`
-* **odontological** *(adjective)*: thuộc nha khoa; thuật ngữ chuyên môn hiếm
+* **tooth-related** /ˈtuːθ rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến răng
+* **oral** /ˈɔrəl/ *(adjective)*: thuộc miệng; rộng hơn `dental`
+* **odontological** /oʊˌdɑːn.təˈlɑː.dʒɪ.kəl/ *(adjective)*: thuộc nha khoa; thuật ngữ chuyên môn hiếm
 
 ### Word family
 
@@ -11866,9 +11866,9 @@ Common structures:
 
 ### Synonyms
 
-* **dental medicine** *(noun phrase)*: ngành y khoa về răng miệng
-* **oral healthcare** *(noun phrase)*: chăm sóc sức khỏe răng miệng
-* **dental practice** *(noun phrase)*: nghề/hoạt động nha khoa
+* **dental medicine** /ˈdɛntəl ˈmɛdəsən/ *(noun phrase)*: ngành y khoa về răng miệng
+* **oral healthcare** /ˈɔrəl ˈhɛlθˌkɛr/ *(noun phrase)*: chăm sóc sức khỏe răng miệng
+* **dental practice** /ˈdɛntəl ˈpræktɪs/ *(noun phrase)*: nghề/hoạt động nha khoa
 
 ### Word family
 
@@ -11921,9 +11921,9 @@ Common structures:
 
 ### Synonyms
 
-* **electronic** *(adjective)*: điện tử; thường gần nghĩa trong công nghệ
-* **computerized** *(adjective)*: được máy tính hóa
-* **numerical** *(adjective)*: thuộc số; gần với nghĩa kỹ thuật của digital
+* **electronic** /ˌɪˌlɛkˈtrɑnɪk/ *(adjective)*: điện tử; thường gần nghĩa trong công nghệ
+* **computerized** /kəmˈpjutərˌaɪzd/ *(adjective)*: được máy tính hóa
+* **numerical** /nuˈmɛrɪkəl/ *(adjective)*: thuộc số; gần với nghĩa kỹ thuật của digital
 
 ### Word family
 
@@ -11976,9 +11976,9 @@ Common structures:
 
 ### Synonyms
 
-* **trench** *(noun)*: rãnh/hào sâu
-* **drain** *(noun)*: rãnh/cống thoát nước
-* **abandon** *(verb)*: từ bỏ; gần với động từ `ditch`
+* **trench** /trɛnʧ/ *(noun)*: rãnh/hào sâu
+* **drain** /dreɪn/ *(noun)*: rãnh/cống thoát nước
+* **abandon** /əˈbændən/ *(verb)*: từ bỏ; gần với động từ `ditch`
 
 ### Word family
 
@@ -12031,9 +12031,9 @@ Common structures:
 
 ### Synonyms
 
-* **twilight** *(noun)*: chạng vạng
-* **nightfall** *(noun)*: lúc màn đêm buông xuống
-* **sundown** *(noun)*: lúc mặt trời lặn
+* **twilight** /tˈwaɪˌlaɪt/ *(noun)*: chạng vạng
+* **nightfall** /ˈnaɪtˌfɔl/ *(noun)*: lúc màn đêm buông xuống
+* **sundown** /ˈsənˌdaʊn/ *(noun)*: lúc mặt trời lặn
 
 ### Word family
 
@@ -12086,9 +12086,9 @@ Common structures:
 
 ### Synonyms
 
-* **huge** *(adjective)*: khổng lồ
-* **immense** *(adjective)*: vô cùng lớn
-* **vast** *(adjective)*: rộng/lớn mênh mông
+* **huge** /juʤ/ *(adjective)*: khổng lồ
+* **immense** /ˌɪˈmɛns/ *(adjective)*: vô cùng lớn
+* **vast** /væst/ *(adjective)*: rộng/lớn mênh mông
 
 ### Word family
 
@@ -12141,9 +12141,9 @@ Common structures:
 
 ### Synonyms
 
-* **build** *(verb)*: xây dựng
-* **construct** *(verb)*: xây dựng/lắp dựng; trang trọng
-* **upright** *(adjective)*: thẳng đứng; gần với tính từ `erect`
+* **build** /bɪld/ *(verb)*: xây dựng
+* **construct** /ˈkɑnstrəkt/ *(verb)*: xây dựng/lắp dựng; trang trọng
+* **upright** /ˈəˌpraɪt/ *(adjective)*: thẳng đứng; gần với tính từ `erect`
 
 ### Word family
 
@@ -12196,9 +12196,9 @@ Common structures:
 
 ### Synonyms
 
-* **show off** *(phrasal verb)*: khoe khoang
-* **display ostentatiously** *(verb phrase)*: phô bày một cách khoa trương
-* **parade** *(verb)*: phô trương cho người khác thấy
+* **show off** /ʃoʊ ɔf/ *(phrasal verb)*: khoe khoang
+* **display ostentatiously** /dɪˈspleɪ ˌɑstənˈteɪʃəsli/ *(verb phrase)*: phô bày một cách khoa trương
+* **parade** /pəreɪd/ *(verb)*: phô trương cho người khác thấy
 
 ### Word family
 
@@ -12251,9 +12251,9 @@ Common structures:
 
 ### Synonyms
 
-* **leaves** *(plural noun)*: lá cây
-* **greenery** *(noun)*: cây lá xanh
-* **vegetation** *(noun)*: thảm thực vật; rộng hơn foliage
+* **leaves** /livz/ *(plural noun)*: lá cây
+* **greenery** /ˈgrinəri/ *(noun)*: cây lá xanh
+* **vegetation** /ˌvɛʤəˈteɪʃən/ *(noun)*: thảm thực vật; rộng hơn foliage
 
 ### Word family
 
@@ -12306,9 +12306,9 @@ Common structures:
 
 ### Synonyms
 
-* **leading edge** *(noun phrase)*: vị trí tiên phong
-* **front line** *(noun phrase)*: tuyến đầu
-* **vanguard** *(noun)*: nhóm/vị trí dẫn đầu một xu hướng
+* **leading edge** /ˈlidɪŋ ɛʤ/ *(noun phrase)*: vị trí tiên phong
+* **front line** /frənt laɪn/ *(noun phrase)*: tuyến đầu
+* **vanguard** /ˈvænˌgɑrd/ *(noun)*: nhóm/vị trí dẫn đầu một xu hướng
 
 ### Word family
 
@@ -12361,9 +12361,9 @@ Common structures:
 
 ### Synonyms
 
-* **previously** *(adverb)*: trước đây
-* **once** *(adverb)*: đã từng
-* **in the past** *(adverb phrase)*: trong quá khứ
+* **previously** /ˈpriviəsli/ *(adverb)*: trước đây
+* **once** /wəns/ *(adverb)*: đã từng
+* **in the past** /ɪn ðə pæst/ *(adverb phrase)*: trong quá khứ
 
 ### Word family
 
@@ -12416,9 +12416,9 @@ Common structures:
 
 ### Synonyms
 
-* **break** *(noun/verb)*: chỗ gãy/làm gãy
-* **crack** *(noun/verb)*: vết nứt/làm nứt
-* **fissure** *(noun)*: khe nứt hẹp
+* **break** /breɪk/ *(noun/verb)*: chỗ gãy/làm gãy
+* **crack** /kræk/ *(noun/verb)*: vết nứt/làm nứt
+* **fissure** /ˈfɪʃər/ *(noun)*: khe nứt hẹp
 
 ### Word family
 
@@ -12471,9 +12471,9 @@ Common structures:
 
 ### Synonyms
 
-* **hysteria** *(noun)*: trạng thái kích động/hoảng loạn tập thể
-* **craze** *(noun)*: cơn sốt say mê
-* **agitation** *(noun)*: sự kích động, bồn chồn
+* **hysteria** /hɪˈstɛriə/ *(noun)*: trạng thái kích động/hoảng loạn tập thể
+* **craze** /kreɪz/ *(noun)*: cơn sốt say mê
+* **agitation** /ˌæʤəˈteɪʃən/ *(noun)*: sự kích động, bồn chồn
 
 ### Word family
 
@@ -12526,9 +12526,9 @@ Common structures:
 
 ### Synonyms
 
-* **stare** *(noun/verb)*: nhìn chằm chằm; thường mạnh hoặc bất lịch sự hơn
-* **look fixedly** *(verb phrase)*: nhìn cố định
-* **contemplate** *(verb)*: ngắm/suy ngẫm; chỉ gần nghĩa trong ngữ cảnh trầm tư
+* **stare** /stɛr/ *(noun/verb)*: nhìn chằm chằm; thường mạnh hoặc bất lịch sự hơn
+* **look fixedly** /ˌlʊk ˈfɪk.sɪd.li/ *(verb phrase)*: nhìn cố định
+* **contemplate** /ˈkɑntəmˌpleɪt/ *(verb)*: ngắm/suy ngẫm; chỉ gần nghĩa trong ngữ cảnh trầm tư
 
 ### Word family
 
@@ -12581,9 +12581,9 @@ Common structures:
 
 ### Synonyms
 
-* **yield to** *(phrasal verb)*: nhường/chịu thua
-* **make room for** *(verb phrase)*: nhường chỗ cho
-* **be replaced by** *(verb phrase)*: bị thay thế bởi
+* **yield to** /jild tɪ/ *(phrasal verb)*: nhường/chịu thua
+* **make room for** /meɪk rum fər/ *(verb phrase)*: nhường chỗ cho
+* **be replaced by** /bi ˌriˈpleɪst baɪ/ *(verb phrase)*: bị thay thế bởi
 
 ### Word family
 
@@ -12636,9 +12636,9 @@ Common structures:
 
 ### Synonyms
 
-* **plant** *(noun)*: thực vật; rộng hơn
-* **medicinal plant** *(noun phrase)*: cây thuốc
-* **seasoning plant** *(noun phrase)*: cây dùng làm gia vị
+* **plant** /plænt/ *(noun)*: thực vật; rộng hơn
+* **medicinal plant** /məˈdɪsənəl plænt/ *(noun phrase)*: cây thuốc
+* **seasoning plant** /ˈsizənɪŋ plænt/ *(noun phrase)*: cây dùng làm gia vị
 
 ### Word family
 
@@ -12691,9 +12691,9 @@ Common structures:
 
 ### Synonyms
 
-* **empty** *(adjective)*: rỗng
-* **sunken** *(adjective)*: lõm/hóp vào
-* **cavity** *(noun)*: khoang rỗng; gần với danh từ `hollow`
+* **empty** /ˈɛmti/ *(adjective)*: rỗng
+* **sunken** /ˈsəŋkən/ *(adjective)*: lõm/hóp vào
+* **cavity** /ˈkævəti/ *(noun)*: khoang rỗng; gần với danh từ `hollow`
 
 ### Word family
 
@@ -12746,9 +12746,9 @@ Common structures:
 
 ### Synonyms
 
-* **forager** *(noun)*: người tìm kiếm thức ăn trong tự nhiên
-* **nomadic forager** *(noun phrase)*: người kiếm ăn du cư
-* **prehistoric forager** *(noun phrase)*: người săn bắt-hái lượm thời tiền sử
+* **forager** /ˈfɔːr.ɪ.dʒɚ/ *(noun)*: người tìm kiếm thức ăn trong tự nhiên
+* **nomadic forager** /noʊˈmæd.ɪk ˈfɔːr.ɪ.dʒɚ/ *(noun phrase)*: người kiếm ăn du cư
+* **prehistoric forager** /ˌpriː.hɪˈstɔːr.ɪk ˈfɔːr.ɪ.dʒɚ/ *(noun phrase)*: người săn bắt-hái lượm thời tiền sử
 
 ### Word family
 
@@ -12801,9 +12801,9 @@ Common structures:
 
 ### Synonyms
 
-* **impending** *(adjective)*: sắp xảy ra, thường mang tính đe dọa
-* **forthcoming** *(adjective)*: sắp đến/xảy ra
-* **near** *(adjective)*: gần kề về thời gian
+* **impending** /ˌɪmˈpɛndɪŋ/ *(adjective)*: sắp xảy ra, thường mang tính đe dọa
+* **forthcoming** /ˈfɔrθˈkəmɪŋ/ *(adjective)*: sắp đến/xảy ra
+* **near** /nɪr/ *(adjective)*: gần kề về thời gian
 
 ### Word family
 
@@ -12856,9 +12856,9 @@ Common structures:
 
 ### Synonyms
 
-* **guesthouse** *(noun)*: nhà nghỉ nhỏ
-* **lodge** *(noun)*: nhà nghỉ, thường ở vùng du lịch/tự nhiên
-* **tavern** *(noun)*: quán trọ/quán rượu truyền thống; không hoàn toàn giống inn hiện đại
+* **guesthouse** /ˈgɛˌsthaʊs/ *(noun)*: nhà nghỉ nhỏ
+* **lodge** /lɑʤ/ *(noun)*: nhà nghỉ, thường ở vùng du lịch/tự nhiên
+* **tavern** /ˈtævərn/ *(noun)*: quán trọ/quán rượu truyền thống; không hoàn toàn giống inn hiện đại
 
 ### Word family
 
@@ -12911,9 +12911,9 @@ Common structures:
 
 ### Synonyms
 
-* **hotelier** *(noun)*: người kinh doanh/quản lý khách sạn
-* **host** *(noun)*: chủ nhà/người đón tiếp
-* **proprietor** *(noun)*: chủ cơ sở kinh doanh
+* **hotelier** /hoʊˈtɛljər/ *(noun)*: người kinh doanh/quản lý khách sạn
+* **host** /hoʊst/ *(noun)*: chủ nhà/người đón tiếp
+* **proprietor** /prəˈpraɪətər/ *(noun)*: chủ cơ sở kinh doanh
 
 ### Word family
 
@@ -12966,9 +12966,9 @@ Common structures:
 
 ### Synonyms
 
-* **monument** *(noun)*: đài/công trình tưởng niệm
-* **tribute** *(noun)*: hành động/tác phẩm tôn vinh
-* **remembrance** *(noun)*: sự tưởng nhớ
+* **monument** /ˈmɑnjəmənt/ *(noun)*: đài/công trình tưởng niệm
+* **tribute** /ˈtrɪbjut/ *(noun)*: hành động/tác phẩm tôn vinh
+* **remembrance** /riˈmɛmbrəns/ *(noun)*: sự tưởng nhớ
 
 ### Word family
 
@@ -13021,9 +13021,9 @@ Common structures:
 
 ### Synonyms
 
-* **medicine** *(noun)*: thuốc; từ thông dụng
-* **drug** *(noun)*: dược phẩm/thuốc
-* **treatment** *(noun)*: phương pháp điều trị; rộng hơn medication
+* **medicine** /ˈmɛdəsən/ *(noun)*: thuốc; từ thông dụng
+* **drug** /drəg/ *(noun)*: dược phẩm/thuốc
+* **treatment** /ˈtritmənt/ *(noun)*: phương pháp điều trị; rộng hơn medication
 
 ### Word family
 
@@ -13076,9 +13076,9 @@ Common structures:
 
 ### Synonyms
 
-* **a thousand years** *(noun phrase)*: một nghìn năm
-* **thousand-year period** *(noun phrase)*: giai đoạn một nghìn năm
-* **millenary** *(noun/adjective)*: thiên niên kỷ/thuộc nghìn năm; hiếm và trang trọng
+* **a thousand years** /ə ˈθaʊzənd jɪrz/ *(noun phrase)*: một nghìn năm
+* **thousand-year period** /ˌθaʊ.zənd jɪr ˈpɪr.i.əd/ *(noun phrase)*: giai đoạn một nghìn năm
+* **millenary** /mɪˈlen.ər.i/ *(noun/adjective)*: thiên niên kỷ/thuộc nghìn năm; hiếm và trang trọng
 
 ### Word family
 
@@ -13131,9 +13131,9 @@ Common structures:
 
 ### Synonyms
 
-* **projectile** *(noun)*: vật được phóng/bắn đi
-* **rocket** *(noun)*: tên lửa dùng động cơ rocket; có thể không có hệ dẫn đường
-* **guided weapon** *(noun phrase)*: vũ khí có điều khiển
+* **projectile** /prɑˈʤɛktəl/ *(noun)*: vật được phóng/bắn đi
+* **rocket** /ˈrɑkət/ *(noun)*: tên lửa dùng động cơ rocket; có thể không có hệ dẫn đường
+* **guided weapon** /ˈgaɪdɪd ˈwɛpən/ *(noun phrase)*: vũ khí có điều khiển
 
 ### Word family
 
@@ -13186,9 +13186,9 @@ Common structures:
 
 ### Synonyms
 
-* **longing for the past** *(noun phrase)*: nỗi nhớ quá khứ
-* **wistfulness** *(noun)*: nỗi bâng khuâng tiếc nuối
-* **homesickness** *(noun)*: nỗi nhớ nhà; chỉ một loại cảm xúc gần với nostalgia
+* **longing for the past** /ˈlɔŋɪŋ fər ðə pæst/ *(noun phrase)*: nỗi nhớ quá khứ
+* **wistfulness** /ˈwɪstfəlnəs/ *(noun)*: nỗi bâng khuâng tiếc nuối
+* **homesickness** /ˈhoʊmˌsɪknəs/ *(noun)*: nỗi nhớ nhà; chỉ một loại cảm xúc gần với nostalgia
 
 ### Word family
 
@@ -13241,9 +13241,9 @@ Common structures:
 
 ### Synonyms
 
-* **spoken** *(adjective)*: bằng lời nói
-* **verbal** *(adjective)*: bằng lời
-* **mouth-related** *(adjective)*: liên quan đến miệng; gần với nghĩa y khoa
+* **spoken** /ˈspoʊkən/ *(adjective)*: bằng lời nói
+* **verbal** /ˈvərbəl/ *(adjective)*: bằng lời
+* **mouth-related** /ˈmaʊθ rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến miệng; gần với nghĩa y khoa
 
 ### Word family
 
@@ -13296,9 +13296,9 @@ Common structures:
 
 ### Synonyms
 
-* **grazing land** *(noun phrase)*: đất chăn thả
-* **pasture** *(noun)*: đồng cỏ chăn gia súc
-* **grassland** *(noun)*: vùng đồng cỏ; rộng hơn
+* **grazing land** /ˈgreɪzɪŋ lænd/ *(noun phrase)*: đất chăn thả
+* **pasture** /ˈpæsʧər/ *(noun)*: đồng cỏ chăn gia súc
+* **grassland** /ˈgræsˌlænd/ *(noun)*: vùng đồng cỏ; rộng hơn
 
 ### Word family
 
@@ -13351,9 +13351,9 @@ Common structures:
 
 ### Synonyms
 
-* **doctor** *(noun)*: bác sĩ; thông dụng hơn
-* **medical practitioner** *(noun phrase)*: người hành nghề y
-* **clinician** *(noun)*: chuyên gia y tế trực tiếp điều trị bệnh nhân; rộng hơn
+* **doctor** /ˈdɔktər/ *(noun)*: bác sĩ; thông dụng hơn
+* **medical practitioner** /ˈmɛdɪkəl prækˈtɪʃənər/ *(noun phrase)*: người hành nghề y
+* **clinician** /klɪˈnɪʃən/ *(noun)*: chuyên gia y tế trực tiếp điều trị bệnh nhân; rộng hơn
 
 ### Word family
 
@@ -13406,9 +13406,9 @@ Common structures:
 
 ### Synonyms
 
-* **conifer** *(noun)*: cây lá kim; rộng hơn cây thông
-* **pine tree** *(noun phrase)*: cây thông
-* **yearn** *(verb)*: khao khát; gần với động từ `pine`
+* **conifer** /ˈkɑnəfər/ *(noun)*: cây lá kim; rộng hơn cây thông
+* **pine tree** /paɪn tri/ *(noun phrase)*: cây thông
+* **yearn** /jərn/ *(verb)*: khao khát; gần với động từ `pine`
 
 ### Word family
 
@@ -13461,9 +13461,9 @@ Common structures:
 
 ### Synonyms
 
-* **epidemic** *(noun)*: dịch bệnh lan rộng
-* **pestilence** *(noun)*: dịch bệnh chết người; văn chương/trang trọng
-* **afflict** *(verb)*: gây đau khổ/bệnh tật; gần với động từ `plague`
+* **epidemic** /ˌɛpɪˈdɛmɪk/ *(noun)*: dịch bệnh lan rộng
+* **pestilence** /ˈpɛstələns/ *(noun)*: dịch bệnh chết người; văn chương/trang trọng
+* **afflict** /əˈflɪkt/ *(verb)*: gây đau khổ/bệnh tật; gần với động từ `plague`
 
 ### Word family
 
@@ -13516,9 +13516,9 @@ Common structures:
 
 ### Synonyms
 
-* **post** *(noun)*: cột
-* **rod** *(noun)*: thanh dài, thường mảnh
-* **stake** *(noun)*: cọc đóng xuống đất
+* **post** /poʊst/ *(noun)*: cột
+* **rod** /rɑd/ *(noun)*: thanh dài, thường mảnh
+* **stake** /steɪk/ *(noun)*: cọc đóng xuống đất
 
 ### Word family
 
@@ -13571,9 +13571,9 @@ Common structures:
 
 ### Synonyms
 
-* **come before** *(phrasal verb)*: đến/xảy ra trước
-* **go ahead of** *(verb phrase)*: đi trước
-* **predate** *(verb)*: có trước về thời gian
+* **come before** /kəm ˌbiˈfɔr/ *(phrasal verb)*: đến/xảy ra trước
+* **go ahead of** /goʊ əˈhɛd əv/ *(verb phrase)*: đi trước
+* **predate** /ˈpriˈdeɪt/ *(verb)*: có trước về thời gian
 
 ### Word family
 
@@ -13626,9 +13626,9 @@ Common structures:
 
 ### Synonyms
 
-* **precede** *(verb)*: xảy ra/có trước
-* **antedate** *(verb)*: có niên đại sớm hơn; trang trọng
-* **exist before** *(verb phrase)*: tồn tại trước
+* **precede** /prɪˈsid/ *(verb)*: xảy ra/có trước
+* **antedate** /ˈæn.ti.deɪt/ *(verb)*: có niên đại sớm hơn; trang trọng
+* **exist before** /ɪgˈzɪst ˌbiˈfɔr/ *(verb phrase)*: tồn tại trước
 
 ### Word family
 
@@ -13681,9 +13681,9 @@ Common structures:
 
 ### Synonyms
 
-* **timeliness** *(noun)*: tính đúng lúc/đúng giờ
-* **promptness** *(noun)*: sự nhanh chóng và đúng giờ
-* **being on time** *(noun phrase)*: việc đúng giờ
+* **timeliness** /ˈtaɪmlinəs/ *(noun)*: tính đúng lúc/đúng giờ
+* **promptness** /ˈprɑːmpt.nəs/ *(noun)*: sự nhanh chóng và đúng giờ
+* **being on time** /biɪŋ ɔn taɪm/ *(noun phrase)*: việc đúng giờ
 
 ### Word family
 
@@ -13736,9 +13736,9 @@ Common structures:
 
 ### Synonyms
 
-* **pierce** *(verb)*: đâm xuyên
-* **perforate** *(verb)*: tạo lỗ xuyên qua
-* **hole** *(noun)*: lỗ thủng; gần với danh từ `puncture`
+* **pierce** /pɪrs/ *(verb)*: đâm xuyên
+* **perforate** /ˈpərfərˌeɪt/ *(verb)*: tạo lỗ xuyên qua
+* **hole** /hoʊl/ *(noun)*: lỗ thủng; gần với danh từ `puncture`
 
 ### Word family
 
@@ -13791,10 +13791,10 @@ Common structures:
 
 ### Synonyms
 
-* **mail** *(noun/verb)*: thư/bưu phẩm; gửi thư, gần với nghĩa bưu chính
-* **position** *(noun)*: vị trí/chức vụ
-* **pole** *(noun)*: cột
-* **publish** *(verb)*: đăng nội dung, gần với động từ trực tuyến
+* **mail** /meɪl/ *(noun/verb)*: thư/bưu phẩm; gửi thư, gần với nghĩa bưu chính
+* **position** /pəˈzɪʃən/ *(noun)*: vị trí/chức vụ
+* **pole** /poʊl/ *(noun)*: cột
+* **publish** /ˈpəblɪʃ/ *(verb)*: đăng nội dung, gần với động từ trực tuyến
 
 ### Word family
 
@@ -13847,9 +13847,9 @@ Common structures:
 
 ### Synonyms
 
-* **cure** *(noun)*: phương pháp chữa khỏi
-* **treatment** *(noun)*: phương pháp điều trị
-* **solution** *(noun)*: giải pháp; gần với nghĩa xử lý vấn đề
+* **cure** /kjʊr/ *(noun)*: phương pháp chữa khỏi
+* **treatment** /ˈtritmənt/ *(noun)*: phương pháp điều trị
+* **solution** /səˈluʃən/ *(noun)*: giải pháp; gần với nghĩa xử lý vấn đề
 
 ### Word family
 
@@ -13902,9 +13902,9 @@ Common structures:
 
 ### Synonyms
 
-* **fastener** *(noun)*: vật dùng để siết/gắn, gần với danh từ
-* **twist** *(verb)*: vặn/xoắn
-* **turn** *(verb)*: xoay; gần với thao tác vặn vít
+* **fastener** /ˈfæsənər/ *(noun)*: vật dùng để siết/gắn, gần với danh từ
+* **twist** /twɪst/ *(verb)*: vặn/xoắn
+* **turn** /tərn/ *(verb)*: xoay; gần với thao tác vặn vít
 
 ### Word family
 
@@ -13957,9 +13957,9 @@ Common structures:
 
 ### Synonyms
 
-* **screw-driving tool** *(noun phrase)*: dụng cụ vặn vít
-* **driver** *(noun)*: đầu/dụng cụ vặn trong ngữ cảnh kỹ thuật
-* **powered screwdriver** *(noun phrase)*: máy vặn vít; loại cụ thể
+* **screw-driving tool** /ˈskruː ˌdraɪ.vɪŋ tuːl/ *(noun phrase)*: dụng cụ vặn vít
+* **driver** /ˈdraɪvər/ *(noun)*: đầu/dụng cụ vặn trong ngữ cảnh kỹ thuật
+* **powered screwdriver** /paʊərd ˈskruˌdraɪvər/ *(noun phrase)*: máy vặn vít; loại cụ thể
 
 ### Word family
 
@@ -14012,9 +14012,9 @@ Common structures:
 
 ### Synonyms
 
-* **drawing** *(noun)*: hình vẽ
-* **outline** *(noun)*: bản phác thảo ý chính
-* **draft** *(noun)*: bản nháp
+* **drawing** /drɔɪŋ/ *(noun)*: hình vẽ
+* **outline** /ˈaʊˌtlaɪn/ *(noun)*: bản phác thảo ý chính
+* **draft** /dræft/ *(noun)*: bản nháp
 
 ### Word family
 
@@ -14067,9 +14067,9 @@ Common structures:
 
 ### Synonyms
 
-* **cranium** *(noun)*: hộp sọ; thuật ngữ giải phẫu
-* **head bone** *(noun phrase)*: xương đầu; cách giải thích đơn giản
-* **braincase** *(noun)*: phần hộp sọ chứa não
+* **cranium** /ˈkreɪˌniəm/ *(noun)*: hộp sọ; thuật ngữ giải phẫu
+* **head bone** /hɛd boʊn/ *(noun phrase)*: xương đầu; cách giải thích đơn giản
+* **braincase** /ˈbreɪn.keɪs/ *(noun)*: phần hộp sọ chứa não
 
 ### Word family
 
@@ -14122,9 +14122,9 @@ Common structures:
 
 ### Synonyms
 
-* **painful** *(adjective)*: đau
-* **tender** *(adjective)*: đau khi chạm vào
-* **wound** *(noun)*: vết thương; gần với danh từ `sore`
+* **painful** /ˈpeɪnfəl/ *(adjective)*: đau
+* **tender** /ˈtɛndər/ *(adjective)*: đau khi chạm vào
+* **wound** /wund/ *(noun)*: vết thương; gần với danh từ `sore`
 
 ### Word family
 
@@ -14177,9 +14177,9 @@ Common structures:
 
 ### Synonyms
 
-* **extend** *(verb)*: kéo dài từ điểm này đến điểm khác
-* **cover** *(verb)*: bao phủ/kéo dài qua
-* **duration** *(noun)*: khoảng thời gian; gần với danh từ chỉ độ dài thời gian
+* **extend** /ɪkˈstɛnd/ *(verb)*: kéo dài từ điểm này đến điểm khác
+* **cover** /ˈkəvər/ *(verb)*: bao phủ/kéo dài qua
+* **duration** /ˈdʊˈreɪʃən/ *(noun)*: khoảng thời gian; gần với danh từ chỉ độ dài thời gian
 
 ### Word family
 
@@ -14232,10 +14232,10 @@ Common structures:
 
 ### Synonyms
 
-* **extra** *(adjective/noun)*: thêm/dự phòng
-* **reserve** *(adjective/noun)*: dự trữ
-* **free** *(adjective)*: rảnh/trống; gần với `spare time`
-* **save** *(verb)*: tha/giữ lại; gần với động từ `spare`
+* **extra** /ˈɛkstrə/ *(adjective/noun)*: thêm/dự phòng
+* **reserve** /rɪˈzərv/ *(adjective/noun)*: dự trữ
+* **free** /fri/ *(adjective)*: rảnh/trống; gần với `spare time`
+* **save** /seɪv/ *(verb)*: tha/giữ lại; gần với động từ `spare`
 
 ### Word family
 
@@ -14288,9 +14288,9 @@ Common structures:
 
 ### Synonyms
 
-* **sequence** *(noun)*: chuỗi theo thứ tự
-* **series** *(noun)*: loạt sự việc/vật
-* **inheritance** *(noun)*: sự kế vị/thừa kế; gần với nghĩa quyền lực chuyển tiếp
+* **sequence** /ˈsikwəns/ *(noun)*: chuỗi theo thứ tự
+* **series** /ˈsɪriz/ *(noun)*: loạt sự việc/vật
+* **inheritance** /ˌɪnˈhɛrətəns/ *(noun)*: sự kế vị/thừa kế; gần với nghĩa quyền lực chuyển tiếp
 
 ### Word family
 
@@ -14343,9 +14343,9 @@ Common structures:
 
 ### Synonyms
 
-* **excellent** *(adjective)*: xuất sắc
-* **outstanding** *(adjective)*: nổi bật, vượt trội
-* **magnificent** *(adjective)*: tuyệt vời/lộng lẫy
+* **excellent** /ˈɛksələnt/ *(adjective)*: xuất sắc
+* **outstanding** /ˌaʊtˈstændɪŋ/ *(adjective)*: nổi bật, vượt trội
+* **magnificent** /mægˈnɪfɪsənt/ *(adjective)*: tuyệt vời/lộng lẫy
 
 ### Word family
 
@@ -14398,9 +14398,9 @@ Common structures:
 
 ### Synonyms
 
-* **wire communication** *(noun phrase)*: liên lạc qua dây điện
-* **telegram system** *(noun phrase)*: hệ thống điện tín
-* **electrical signalling** *(noun phrase)*: truyền tín hiệu điện; cách giải thích rộng
+* **wire communication** /waɪər kəmˌjunəˈkeɪʃən/ *(noun phrase)*: liên lạc qua dây điện
+* **telegram system** /ˈtɛləˌgræm ˈsɪstəm/ *(noun phrase)*: hệ thống điện tín
+* **electrical signalling** /ɪˈlɛktrɪkəl ˈsɪgnəlɪŋ/ *(noun phrase)*: truyền tín hiệu điện; cách giải thích rộng
 
 ### Word family
 
@@ -14453,9 +14453,9 @@ Common structures:
 
 ### Synonyms
 
-* **small branch** *(noun phrase)*: cành nhỏ
-* **sprig** *(noun)*: nhánh nhỏ có lá/hoa
-* **shoot** *(noun)*: chồi non; nghĩa liên quan nhưng hẹp hơn
+* **small branch** /smɔl brænʧ/ *(noun phrase)*: cành nhỏ
+* **sprig** /sprɪɡ/ *(noun)*: nhánh nhỏ có lá/hoa
+* **shoot** /ʃut/ *(noun)*: chồi non; nghĩa liên quan nhưng hẹp hơn
 
 ### Word family
 
@@ -14508,9 +14508,9 @@ Common structures:
 
 ### Synonyms
 
-* **carry out** *(phrasal verb)*: thực hiện
-* **take on** *(phrasal verb)*: nhận đảm trách
-* **embark on** *(phrasal verb)*: bắt đầu một nhiệm vụ/dự án lớn
+* **carry out** /ˈkɛri aʊt/ *(phrasal verb)*: thực hiện
+* **take on** /teɪk ɔn/ *(phrasal verb)*: nhận đảm trách
+* **embark on** /ɪmˈbɑrk ɔn/ *(phrasal verb)*: bắt đầu một nhiệm vụ/dự án lớn
 
 ### Word family
 
@@ -14563,9 +14563,9 @@ Common structures:
 
 ### Synonyms
 
-* **excavate** *(verb)*: đào lên, thường trong khảo cổ
-* **uncover** *(verb)*: làm lộ ra/phát hiện
-* **discover** *(verb)*: khám phá; rộng hơn
+* **excavate** /ˈɛkskəˌveɪt/ *(verb)*: đào lên, thường trong khảo cổ
+* **uncover** /ənˈkəvər/ *(verb)*: làm lộ ra/phát hiện
+* **discover** /dɪˈskəvər/ *(verb)*: khám phá; rộng hơn
 
 ### Word family
 
@@ -14618,9 +14618,9 @@ Common structures:
 
 ### Synonyms
 
-* **deterioration** *(noun)*: sự xuống cấp
-* **damage from use** *(noun phrase)*: hư hại do sử dụng
-* **depreciation** *(noun)*: sự hao mòn/giảm giá trị; gần trong ngữ cảnh tài sản
+* **deterioration** /dɪˈtɪriərˌeɪʃən/ *(noun)*: sự xuống cấp
+* **damage from use** /ˈdæmɪʤ frəm juz/ *(noun phrase)*: hư hại do sử dụng
+* **depreciation** /dɪˌpriʃiˈeɪʃən/ *(noun)*: sự hao mòn/giảm giá trị; gần trong ngữ cảnh tài sản
 
 ### Word family
 
@@ -14673,9 +14673,9 @@ Common structures:
 
 ### Synonyms
 
-* **erode** *(verb)*: bào mòn
-* **abrade** *(verb)*: làm mòn do cọ xát; kỹ thuật hơn
-* **rub away** *(phrasal verb)*: cọ xát làm mòn/mất dần
+* **erode** /ˈiroʊd/ *(verb)*: bào mòn
+* **abrade** /əˈbreɪd/ *(verb)*: làm mòn do cọ xát; kỹ thuật hơn
+* **rub away** /rəb əˈweɪ/ *(phrasal verb)*: cọ xát làm mòn/mất dần
 
 ### Word family
 
@@ -14728,9 +14728,9 @@ Common structures:
 
 ### Synonyms
 
-* **dry** *(adjective)*: khô
-* **parched** *(adjective)*: khô cằn vì thiếu nước
-* **waterless** *(adjective)*: không có nước
+* **dry** /draɪ/ *(adjective)*: khô
+* **parched** /pɑrʧt/ *(adjective)*: khô cằn vì thiếu nước
+* **waterless** /ˈwɔː.tɚ.ləs/ *(adjective)*: không có nước
 
 ### Word family
 
@@ -14783,9 +14783,9 @@ Common structures:
 
 ### Synonyms
 
-* **bill** *(noun)*: mỏ chim; thường dùng cho mỏ dẹt
-* **rostrum** *(noun)*: mỏ/phần nhô ra; thuật ngữ khoa học
-* **bird's mouth** *(noun phrase)*: miệng chim; cách giải thích đơn giản
+* **bill** /bɪl/ *(noun)*: mỏ chim; thường dùng cho mỏ dẹt
+* **rostrum** /ˈrɑstrəm/ *(noun)*: mỏ/phần nhô ra; thuật ngữ khoa học
+* **bird's mouth** /bərdz maʊθ/ *(noun phrase)*: miệng chim; cách giải thích đơn giản
 
 ### Word family
 
@@ -14838,9 +14838,9 @@ Common structures:
 
 ### Synonyms
 
-* **large outdoor fire** *(noun phrase)*: đống lửa lớn ngoài trời
-* **open-air fire** *(noun phrase)*: lửa đốt ngoài trời
-* **blaze** *(noun)*: ngọn lửa lớn; rộng hơn
+* **large outdoor fire** /lɑrʤ ˈaʊtˌdɔr faɪər/ *(noun phrase)*: đống lửa lớn ngoài trời
+* **open-air fire** /ˌoʊ.pənˈer ˈfaɪr/ *(noun phrase)*: lửa đốt ngoài trời
+* **blaze** /bleɪz/ *(noun)*: ngọn lửa lớn; rộng hơn
 
 ### Word family
 
@@ -14893,9 +14893,9 @@ Common structures:
 
 ### Synonyms
 
-* **tunnel** *(noun)*: đường hầm
-* **hole** *(noun)*: hang/lỗ; rộng hơn
-* **dig** *(verb)*: đào; gần với động từ `burrow`
+* **tunnel** /ˈtənəl/ *(noun)*: đường hầm
+* **hole** /hoʊl/ *(noun)*: hang/lỗ; rộng hơn
+* **dig** /dɪg/ *(verb)*: đào; gần với động từ `burrow`
 
 ### Word family
 
@@ -14948,9 +14948,9 @@ Common structures:
 
 ### Synonyms
 
-* **talon** *(noun)*: móng vuốt sắc của chim săn mồi
-* **nail** *(noun)*: móng; rộng hơn
-* **scratch** *(verb)*: cào xước; gần với động từ `claw`
+* **talon** /ˈtælən/ *(noun)*: móng vuốt sắc của chim săn mồi
+* **nail** /neɪl/ *(noun)*: móng; rộng hơn
+* **scratch** /skræʧ/ *(verb)*: cào xước; gần với động từ `claw`
 
 ### Word family
 
@@ -15003,10 +15003,10 @@ Common structures:
 
 ### Synonyms
 
-* **carry out** *(verb)*: tiến hành
-* **manage** *(verb)*: quản lý/điều hành
-* **lead** *(verb)*: chỉ huy/dẫn dắt
-* **behaviour** *(noun)*: hành vi; gần với danh từ `conduct`
+* **carry out** /ˈkɛri aʊt/ *(verb)*: tiến hành
+* **manage** /ˈmænɪʤ/ *(verb)*: quản lý/điều hành
+* **lead** /lɛd/ *(verb)*: chỉ huy/dẫn dắt
+* **behaviour** /bɪˈheɪvjər/ *(noun)*: hành vi; gần với danh từ `conduct`
 
 ### Word family
 
@@ -15059,9 +15059,9 @@ Common structures:
 
 ### Synonyms
 
-* **director** *(noun)*: người chỉ huy dàn nhạc; gần với nghĩa âm nhạc
-* **leader** *(noun)*: người dẫn dắt; rộng hơn
-* **electrical carrier** *(noun phrase)*: vật dẫn điện; cách giải thích nghĩa kỹ thuật
+* **director** /dɪˈrɛktər/ *(noun)*: người chỉ huy dàn nhạc; gần với nghĩa âm nhạc
+* **leader** /ˈlidər/ *(noun)*: người dẫn dắt; rộng hơn
+* **electrical carrier** /ɪˈlɛktrɪkəl ˈkɛriər/ *(noun phrase)*: vật dẫn điện; cách giải thích nghĩa kỹ thuật
 
 ### Word family
 
@@ -15114,10 +15114,10 @@ Common structures:
 
 ### Synonyms
 
-* **worktop** *(noun)*: mặt bàn làm việc/bếp
-* **service desk** *(noun phrase)*: quầy phục vụ
-* **oppose** *(verb)*: chống lại; gần với động từ
-* **response** *(noun)*: phản ứng/đòn đáp trả
+* **worktop** /ˈwɝːk.tɑːp/ *(noun)*: mặt bàn làm việc/bếp
+* **service desk** /ˈsərvɪs dɛsk/ *(noun phrase)*: quầy phục vụ
+* **oppose** /əˈpoʊz/ *(verb)*: chống lại; gần với động từ
+* **response** /rɪˈspɑns/ *(noun)*: phản ứng/đòn đáp trả
 
 ### Word family
 
@@ -15170,9 +15170,9 @@ Common structures:
 
 ### Synonyms
 
-* **crack** *(noun)*: vết nứt
-* **fissure** *(noun)*: khe nứt dài/hẹp
-* **cleft** *(noun)*: khe chẻ/khe nứt
+* **crack** /kræk/ *(noun)*: vết nứt
+* **fissure** /ˈfɪʃər/ *(noun)*: khe nứt dài/hẹp
+* **cleft** /klɛft/ *(noun)*: khe chẻ/khe nứt
 
 ### Word family
 
@@ -15225,9 +15225,9 @@ Common structures:
 
 ### Synonyms
 
-* **infer** *(verb)*: suy ra từ bằng chứng
-* **conclude** *(verb)*: đi đến kết luận
-* **reason** *(verb)*: suy luận có logic
+* **infer** /ˌɪnˈfər/ *(verb)*: suy ra từ bằng chứng
+* **conclude** /kənˈklud/ *(verb)*: đi đến kết luận
+* **reason** /ˈrizən/ *(verb)*: suy luận có logic
 
 ### Word family
 
@@ -15280,9 +15280,9 @@ Common structures:
 
 ### Synonyms
 
-* **taste** *(noun)*: vị
-* **savour** *(noun)*: hương vị đặc trưng
-* **essence** *(noun)*: bản chất/sắc thái chính; gần với nghĩa bóng
+* **taste** /teɪst/ *(noun)*: vị
+* **savour** /ˈseɪ.vɚ/ *(noun)*: hương vị đặc trưng
+* **essence** /ˈɛsəns/ *(noun)*: bản chất/sắc thái chính; gần với nghĩa bóng
 
 ### Word family
 
@@ -15335,9 +15335,9 @@ Common structures:
 
 ### Synonyms
 
-* **support** *(noun/verb)*: sự ủng hộ/ủng hộ
-* **preference** *(noun)*: sự ưu tiên/yêu thích hơn
-* **kindness** *(noun)*: lòng tốt; gần với nghĩa một việc giúp đỡ
+* **support** /səˈpɔrt/ *(noun/verb)*: sự ủng hộ/ủng hộ
+* **preference** /ˈprɛfərəns/ *(noun)*: sự ưu tiên/yêu thích hơn
+* **kindness** /ˈkaɪndnəs/ *(noun)*: lòng tốt; gần với nghĩa một việc giúp đỡ
 
 ### Word family
 
@@ -15390,9 +15390,9 @@ Common structures:
 
 ### Synonyms
 
-* **lair** *(noun)*: hang ổ của thú
-* **burrow** *(noun)*: hang do động vật đào
-* **hideout** *(noun)*: nơi ẩn náu bí mật
+* **lair** /lɛr/ *(noun)*: hang ổ của thú
+* **burrow** /bəroʊ/ *(noun)*: hang do động vật đào
+* **hideout** /ˈhaɪˌdaʊt/ *(noun)*: nơi ẩn náu bí mật
 
 ### Word family
 
@@ -15445,9 +15445,9 @@ Common structures:
 
 ### Synonyms
 
-* **catastrophic** *(adjective)*: thảm khốc
-* **devastating** *(adjective)*: tàn phá nghiêm trọng
-* **calamitous** *(adjective)*: gây tai họa lớn; trang trọng
+* **catastrophic** /ˌkætəˈstrɑfɪk/ *(adjective)*: thảm khốc
+* **devastating** /ˈdɛvəˌsteɪtɪŋ/ *(adjective)*: tàn phá nghiêm trọng
+* **calamitous** /kəˈlæmətəs/ *(adjective)*: gây tai họa lớn; trang trọng
 
 ### Word family
 
@@ -15500,9 +15500,9 @@ Common structures:
 
 ### Synonyms
 
-* **threatened** *(adjective)*: bị đe dọa
-* **at risk** *(adjective phrase)*: có nguy cơ
-* **vulnerable** *(adjective)*: dễ bị tổn hại; mức nguy cấp có thể nhẹ hơn trong phân loại bảo tồn
+* **threatened** /θˈrɛtənd/ *(adjective)*: bị đe dọa
+* **at risk** /æt rɪsk/ *(adjective phrase)*: có nguy cơ
+* **vulnerable** /ˈvəlnərəbəl/ *(adjective)*: dễ bị tổn hại; mức nguy cấp có thể nhẹ hơn trong phân loại bảo tồn
 
 ### Word family
 
@@ -15555,9 +15555,9 @@ Common structures:
 
 ### Synonyms
 
-* **zero latitude** *(noun phrase)*: vĩ tuyến 0 độ
-* **equatorial line** *(noun phrase)*: đường xích đạo
-* **great circle** *(noun phrase)*: vòng tròn lớn quanh Trái Đất; nghĩa rộng hơn
+* **zero latitude** /ˈziroʊ ˈlætəˌtud/ *(noun phrase)*: vĩ tuyến 0 độ
+* **equatorial line** /ˌikwəˈtɔriəl laɪn/ *(noun phrase)*: đường xích đạo
+* **great circle** /greɪt ˈsərkəl/ *(noun phrase)*: vòng tròn lớn quanh Trái Đất; nghĩa rộng hơn
 
 ### Word family
 
@@ -15610,9 +15610,9 @@ Common structures:
 
 ### Synonyms
 
-* **eliminate** *(verb)*: loại bỏ hoàn toàn
-* **wipe out** *(phrasal verb)*: xóa sổ
-* **exterminate** *(verb)*: tiêu diệt hoàn toàn sinh vật gây hại
+* **eliminate** /ɪˈlɪməˌneɪt/ *(verb)*: loại bỏ hoàn toàn
+* **wipe out** /waɪp aʊt/ *(phrasal verb)*: xóa sổ
+* **exterminate** /ɪkˈstərməˌneɪt/ *(verb)*: tiêu diệt hoàn toàn sinh vật gây hại
 
 ### Word family
 
@@ -15665,9 +15665,9 @@ Common structures:
 
 ### Synonyms
 
-* **river mouth** *(noun phrase)*: cửa sông; rộng hơn vì không phải cửa sông nào cũng là estuary
-* **tidal inlet** *(noun phrase)*: vịnh nhỏ chịu ảnh hưởng thủy triều
-* **coastal inlet** *(noun phrase)*: vùng nước ăn sâu vào bờ
+* **river mouth** /ˈrɪvər maʊθ/ *(noun phrase)*: cửa sông; rộng hơn vì không phải cửa sông nào cũng là estuary
+* **tidal inlet** /ˈtaɪdəl ˈɪnˌlɛt/ *(noun phrase)*: vịnh nhỏ chịu ảnh hưởng thủy triều
+* **coastal inlet** /ˈkoʊstəl ˈɪnˌlɛt/ *(noun phrase)*: vùng nước ăn sâu vào bờ
 
 ### Word family
 
@@ -15720,9 +15720,9 @@ Common structures:
 
 ### Synonyms
 
-* **plume** *(noun)*: lông vũ lớn/trang trí
-* **quill** *(noun)*: lông ống lớn
-* **down** *(noun)*: lông tơ mềm
+* **plume** /plum/ *(noun)*: lông vũ lớn/trang trí
+* **quill** /kwɪl/ *(noun)*: lông ống lớn
+* **down** /daʊn/ *(noun)*: lông tơ mềm
 
 ### Word family
 
@@ -15775,9 +15775,9 @@ Common structures:
 
 ### Synonyms
 
-* **search for food** *(verb phrase)*: tìm kiếm thức ăn
-* **scavenge** *(verb)*: nhặt/tìm thức ăn từ đồ bỏ hoặc xác
-* **browse** *(verb)*: ăn lá/chồi cây; dùng cho một số động vật
+* **search for food** /sərʧ fər fud/ *(verb phrase)*: tìm kiếm thức ăn
+* **scavenge** /ˈskævənʤ/ *(verb)*: nhặt/tìm thức ăn từ đồ bỏ hoặc xác
+* **browse** /braʊz/ *(verb)*: ăn lá/chồi cây; dùng cho một số động vật
 
 ### Word family
 
@@ -15830,9 +15830,9 @@ Common structures:
 
 ### Synonyms
 
-* **animal coat** *(noun phrase)*: bộ lông động vật
-* **pelt** *(noun)*: bộ da có lông
-* **hair** *(noun)*: lông/tóc; rộng hơn
+* **animal coat** /ˈænəməl koʊt/ *(noun phrase)*: bộ lông động vật
+* **pelt** /pɛlt/ *(noun)*: bộ da có lông
+* **hair** /hɛr/ *(noun)*: lông/tóc; rộng hơn
 
 ### Word family
 
@@ -15885,9 +15885,9 @@ Common structures:
 
 ### Synonyms
 
-* **striking** *(adjective)*: nổi bật/gây ấn tượng mạnh
-* **theatrical** *(adjective)*: cường điệu như sân khấu
-* **sudden and great** *(adjective phrase)*: đột ngột và lớn; gần với nghĩa thay đổi
+* **striking** /ˈstraɪkɪŋ/ *(adjective)*: nổi bật/gây ấn tượng mạnh
+* **theatrical** /θiˈætrɪkəl/ *(adjective)*: cường điệu như sân khấu
+* **sudden and great** /ˈsədən ənd greɪt/ *(adjective phrase)*: đột ngột và lớn; gần với nghĩa thay đổi
 
 ### Word family
 
@@ -15940,9 +15940,9 @@ Common structures:
 
 ### Synonyms
 
-* **scare** *(verb)*: làm sợ
-* **alarm** *(verb)*: làm hoảng sợ/lo ngại
-* **terrify** *(verb)*: làm kinh hoàng; mạnh hơn
+* **scare** /skɛr/ *(verb)*: làm sợ
+* **alarm** /əˈlɑrm/ *(verb)*: làm hoảng sợ/lo ngại
+* **terrify** /ˈtɛrəˌfaɪ/ *(verb)*: làm kinh hoàng; mạnh hơn
 
 ### Word family
 
@@ -15995,9 +15995,9 @@ Common structures:
 
 ### Synonyms
 
-* **hardship** *(noun)*: gian khổ
-* **misfortune** *(noun)*: điều không may
-* **difficulty** *(noun)*: khó khăn; rộng và nhẹ hơn
+* **hardship** /ˈhɑrdʃɪp/ *(noun)*: gian khổ
+* **misfortune** /mɪsˈfɔrʧən/ *(noun)*: điều không may
+* **difficulty** /ˈdɪfɪˌkəlti/ *(noun)*: khó khăn; rộng và nhẹ hơn
 
 ### Word family
 
@@ -16050,9 +16050,9 @@ Common structures:
 
 ### Synonyms
 
-* **masjid** *(noun)*: thánh đường Hồi giáo; từ vay mượn trong tiếng Ả Rập
-* **Islamic place of worship** *(noun phrase)*: nơi thờ phượng của người Hồi giáo
-* **Muslim prayer hall** *(noun phrase)*: phòng/nơi cầu nguyện của người Hồi giáo; có thể nhỏ hơn mosque
+* **masjid** /mæsdʒɪd/ *(noun)*: thánh đường Hồi giáo; từ vay mượn trong tiếng Ả Rập
+* **Islamic place of worship** /ˌɪzˈlɑmɪk pleɪs əv ˈwərʃɪp/ *(noun phrase)*: nơi thờ phượng của người Hồi giáo
+* **Muslim prayer hall** /ˈməzlɪm prɛr hɔl/ *(noun phrase)*: phòng/nơi cầu nguyện của người Hồi giáo; có thể nhỏ hơn mosque
 
 ### Word family
 
@@ -16105,9 +16105,9 @@ Common structures:
 
 ### Synonyms
 
-* **complex** *(adjective)*: phức tạp
-* **elaborate** *(adjective)*: cầu kỳ, nhiều chi tiết
-* **detailed** *(adjective)*: chi tiết
+* **complex** /ˈkɑmplɛks/ *(adjective)*: phức tạp
+* **elaborate** /ɪˈlæbərˌeɪt/ *(adjective)*: cầu kỳ, nhiều chi tiết
+* **detailed** /dɪˈteɪld/ *(adjective)*: chi tiết
 
 ### Word family
 
@@ -16160,9 +16160,9 @@ Common structures:
 
 ### Synonyms
 
-* **struggle with** *(phrasal verb)*: vật lộn với
-* **wrestle with** *(phrasal verb)*: đấu tranh để xử lý/hiểu
-* **deal with** *(phrasal verb)*: giải quyết; trung tính hơn
+* **struggle with** /ˈstrəgəl wɪθ/ *(phrasal verb)*: vật lộn với
+* **wrestle with** /ˈrɛsəl wɪθ/ *(phrasal verb)*: đấu tranh để xử lý/hiểu
+* **deal with** /dil wɪθ/ *(phrasal verb)*: giải quyết; trung tính hơn
 
 ### Word family
 
@@ -16215,9 +16215,9 @@ Common structures:
 
 ### Synonyms
 
-* **brief look** *(noun phrase)*: cái nhìn thoáng qua
-* **sight** *(noun)*: khoảnh khắc nhìn thấy
-* **peek** *(noun)*: cái nhìn nhanh, thường kín đáo
+* **brief look** /brif lʊk/ *(noun phrase)*: cái nhìn thoáng qua
+* **sight** /saɪt/ *(noun)*: khoảnh khắc nhìn thấy
+* **peek** /pik/ *(noun)*: cái nhìn nhanh, thường kín đáo
 
 ### Word family
 
@@ -16270,9 +16270,9 @@ Common structures:
 
 ### Synonyms
 
-* **bellow** *(verb/noun)*: gầm/rống rất to
-* **thunder** *(verb)*: vang ầm như sấm
-* **growl** *(verb/noun)*: gầm gừ thấp; nhẹ và hẹp hơn roar
+* **bellow** /ˈbɛloʊ/ *(verb/noun)*: gầm/rống rất to
+* **thunder** /ˈθəndər/ *(verb)*: vang ầm như sấm
+* **growl** /graʊl/ *(verb/noun)*: gầm gừ thấp; nhẹ và hẹp hơn roar
 
 ### Word family
 
@@ -16325,9 +16325,9 @@ Common structures:
 
 ### Synonyms
 
-* **relatives** *(plural noun)*: họ hàng; thông dụng hơn
-* **family** *(noun)*: gia đình/người thân
-* **kindred** *(noun)*: họ hàng/người cùng nguồn gốc; văn chương
+* **relatives** /ˈrɛlətɪvz/ *(plural noun)*: họ hàng; thông dụng hơn
+* **family** /ˈfæməli/ *(noun)*: gia đình/người thân
+* **kindred** /ˈkɪndrɪd/ *(noun)*: họ hàng/người cùng nguồn gốc; văn chương
 
 ### Word family
 
@@ -16380,9 +16380,9 @@ Common structures:
 
 ### Synonyms
 
-* **all the way** *(adverb phrase)*: suốt chặng đường/quá trình
-* **throughout** *(preposition/adverb)*: xuyên suốt
-* **at every stage** *(adverb phrase)*: ở mọi giai đoạn
+* **all the way** /ɔl ðə weɪ/ *(adverb phrase)*: suốt chặng đường/quá trình
+* **throughout** /θruaʊt/ *(preposition/adverb)*: xuyên suốt
+* **at every stage** /æt ˈɛvəri steɪʤ/ *(adverb phrase)*: ở mọi giai đoạn
 
 ### Word family
 
@@ -16435,9 +16435,9 @@ Common structures:
 
 ### Synonyms
 
-* **quick look** *(noun phrase)*: cái nhìn nhanh
-* **peek** *(noun/verb)*: nhìn nhanh, thường kín đáo
-* **glimpse** *(noun/verb)*: thoáng thấy; nhấn mạnh việc chỉ thấy trong chốc lát
+* **quick look** /kwɪk lʊk/ *(noun phrase)*: cái nhìn nhanh
+* **peek** /pik/ *(noun/verb)*: nhìn nhanh, thường kín đáo
+* **glimpse** /glɪmps/ *(noun/verb)*: thoáng thấy; nhấn mạnh việc chỉ thấy trong chốc lát
 
 ### Word family
 
@@ -16490,10 +16490,10 @@ Common structures:
 
 ### Synonyms
 
-* **trek** *(noun/verb)*: chuyến đi bộ dài và khó
-* **long walk** *(noun phrase)*: chuyến đi bộ dài
-* **rise** *(noun)*: sự tăng lên; gần với nghĩa `price hike`
-* **surge** *(noun)*: sự tăng vọt
+* **trek** /trɛk/ *(noun/verb)*: chuyến đi bộ dài và khó
+* **long walk** /lɔŋ wɔk/ *(noun phrase)*: chuyến đi bộ dài
+* **rise** /raɪz/ *(noun)*: sự tăng lên; gần với nghĩa `price hike`
+* **surge** /sərʤ/ *(noun)*: sự tăng vọt
 
 ### Word family
 
