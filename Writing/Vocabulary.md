@@ -14712,3 +14712,1220 @@ Common structures:
 ### Notes
 
 `Hike` can be physical (`go hiking`) or economic (`a price hike`). In British English, `walk` is often used for easier countryside routes, while `hike` suggests more effort.
+
+---
+
+## 300. Grief /ɡriːf/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** nỗi đau buồn sâu sắc, đặc biệt do mất người thân *(85%)*; sự phiền toái/rắc rối trong cụm `give someone grief` *(15%)*
+
+### Usage
+
+`Grief` is deep emotional pain, especially after a death or major loss. It is normally uncountable, so say `feel grief`, not `a grief`. In informal English, `give someone grief` means to criticize, annoy, or cause trouble for that person.
+
+Common structures:
+
+* `feel/experience grief`: cảm thấy/trải qua nỗi đau buồn
+* `grief over/at + loss/event`: nỗi đau buồn vì một mất mát/sự việc
+* `give someone grief`: làm phiền, chỉ trích hoặc gây khó dễ cho ai
+
+### Examples
+
+1. **She received counselling to help her cope with grief after her husband's death.**
+   → Cô ấy được tư vấn tâm lý để đối phó với nỗi đau sau khi chồng qua đời.
+
+2. **Losing a loved one can cause intense grief that takes time to process.**
+   → Mất đi một người thân yêu có thể gây ra nỗi đau sâu sắc và cần thời gian để vượt qua.
+
+### Common collocations
+
+* **profound grief**: nỗi đau buồn sâu sắc
+* **cope with grief**: đối phó với nỗi đau mất mát
+* **a period of grief**: một giai đoạn đau buồn
+
+### Synonyms
+
+* **sorrow** /ˈsɒr.əʊ/ *(noun)*: nỗi buồn; rộng hơn và thường nhẹ hơn `grief`
+* **anguish** /ˈæŋ.ɡwɪʃ/ *(noun)*: nỗi đau khổ cực độ về tinh thần hoặc thể chất
+* **heartache** /ˈhɑːt.eɪk/ *(noun)*: nỗi đau lòng, thường do mất mát hoặc tình cảm
+
+### Word family
+
+* **grief** /ɡriːf/ *(noun)*: nỗi đau buồn sâu sắc  
+  *Example:* Grief can affect both mental and physical health.  
+  → Nỗi đau buồn có thể ảnh hưởng đến cả sức khỏe tinh thần và thể chất.
+
+* **grieve** /ɡriːv/ *(verb)*: đau buồn, thương tiếc  
+  *Example:* Families need time and privacy to grieve.  
+  → Các gia đình cần thời gian và sự riêng tư để đau buồn.
+
+* **grieving** /ˈɡriː.vɪŋ/ *(adjective/verb form)*: đang đau buồn, chịu tang  
+  *Example:* The community supported the grieving family.  
+  → Cộng đồng đã hỗ trợ gia đình đang chịu tang.
+
+### Notes
+
+`Grief` is the emotional pain itself, while `mourning` is the process or public expression of sorrow after a death. `Grief` is usually uncountable.
+
+---
+
+## 301. Conservative family UK /kənˈsɜː.və.tɪv ˈfæm.əl.i/ US /kənˈsɝː.və.t̬ɪv ˈfæm.əl.i/
+
+* **Part of speech:** noun phrase; `family` is a countable collective noun
+* **Vietnamese meaning:** gia đình bảo thủ/truyền thống, coi trọng các giá trị và chuẩn mực lâu đời *(100%)*
+
+### Usage
+
+A `conservative family` generally follows traditional social, religious, cultural, or gender values and may be cautious about change. The phrase can be neutral or critical depending on context; avoid assuming that every member holds identical views.
+
+Common structures:
+
+* `come from a conservative family`: xuất thân từ một gia đình bảo thủ/truyền thống
+* `be raised in a conservative family`: được nuôi dạy trong một gia đình bảo thủ
+* `a socially/religiously conservative family`: một gia đình bảo thủ về xã hội/tôn giáo
+
+### Examples
+
+1. **She grew up in a conservative family that placed great importance on tradition.**
+   → Cô ấy lớn lên trong một gia đình bảo thủ rất coi trọng truyền thống.
+
+2. **People from conservative families may face pressure to follow conventional career paths.**
+   → Những người đến từ các gia đình bảo thủ có thể chịu áp lực phải theo đuổi các con đường nghề nghiệp truyền thống.
+
+### Common collocations
+
+* **come from a conservative family**: xuất thân từ một gia đình bảo thủ
+* **traditional family values**: các giá trị gia đình truyền thống
+* **strict family expectations**: những kỳ vọng nghiêm khắc của gia đình
+
+### Synonyms
+
+* **traditional family** /trəˈdɪʃ.ən.əl ˈfæm.əl.i/ *(noun phrase)*: gia đình coi trọng truyền thống; trung tính hơn `conservative family`
+* **conventional household** /kənˈven.ʃən.əl ˈhaʊs.həʊld/ *(noun phrase)*: hộ gia đình theo các chuẩn mực thông thường
+* **traditionalist family** /trəˈdɪʃ.ən.əl.ɪst ˈfæm.əl.i/ *(noun phrase)*: gia đình có quan điểm kiên định ủng hộ truyền thống
+
+### Word family
+
+* **conservative** /kənˈsɜː.və.tɪv/ *(adjective/noun)*: bảo thủ; người bảo thủ  
+  *Example:* Her parents hold conservative views on marriage.  
+  → Cha mẹ cô ấy có quan điểm bảo thủ về hôn nhân.
+
+* **conservatism** /kənˈsɜː.və.tɪ.zəm/ *(uncountable noun)*: chủ nghĩa/tư tưởng bảo thủ  
+  *Example:* Social conservatism remains influential in some communities.  
+  → Tư tưởng bảo thủ xã hội vẫn có ảnh hưởng trong một số cộng đồng.
+
+* **conservatively** /kənˈsɜː.və.tɪv.li/ *(adverb)*: theo cách bảo thủ, kín đáo hoặc thận trọng  
+  *Example:* He was raised conservatively and taught to respect tradition.  
+  → Anh ấy được nuôi dạy theo lối bảo thủ và được dạy phải tôn trọng truyền thống.
+
+### Notes
+
+`Conservative` can describe social or political views, but it can also mean cautious and resistant to change. `Traditional family` often sounds less judgmental.
+
+---
+
+## 302. Somehow /ˈsʌm.haʊ/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** bằng cách nào đó, không rõ bằng cách nào *(70%)*; vì lý do nào đó, không hiểu sao *(30%)*
+
+### Usage
+
+`Somehow` shows that the method or reason is unknown, unclear, or surprising. It can appear at the beginning, middle, or end of a clause.
+
+Common structures:
+
+* `somehow manage to + verb`: bằng cách nào đó vẫn xoay xở làm được việc gì
+* `somehow + clause`: không hiểu sao/bằng cách nào đó mà...
+* `somehow or other`: bằng cách này hay cách khác
+
+### Examples
+
+1. **Despite the limited budget, the team somehow completed the project on time.**
+   → Mặc dù ngân sách hạn chế, bằng cách nào đó nhóm vẫn hoàn thành dự án đúng hạn.
+
+2. **Somehow, I knew that she was telling the truth.**
+   → Không hiểu sao tôi biết cô ấy đang nói thật.
+
+### Common collocations
+
+* **somehow manage**: bằng cách nào đó xoay xở được
+* **somehow survive**: bằng cách nào đó sống sót/vượt qua
+* **somehow or other**: bằng cách này hay cách khác
+
+### Synonyms
+
+* **in some way** /ɪn sʌm weɪ/ *(adverb phrase)*: bằng một cách nào đó
+* **by some means** /baɪ sʌm miːnz/ *(adverb phrase)*: bằng một phương tiện/cách thức nào đó
+* **for some reason** /fɔː sʌm ˈriː.zən/ *(adverb phrase)*: vì một lý do nào đó; chỉ tương đương với nghĩa chỉ nguyên nhân
+
+### Word family
+
+* **somehow** /ˈsʌm.haʊ/ *(adverb)*: bằng cách nào đó; không hiểu sao  
+  *Example:* We somehow found our way back before dark.  
+  → Bằng cách nào đó chúng tôi đã tìm được đường về trước khi trời tối.
+
+* **somewhere** /ˈsʌm.weər/ *(adverb/pronoun)*: ở đâu đó  
+  *Example:* I left my keys somewhere in the house.  
+  → Tôi đã để chìa khóa ở đâu đó trong nhà.
+
+* **somewhat** /ˈsʌm.wɒt/ *(adverb)*: hơi, phần nào  
+  *Example:* The instructions were somewhat confusing.  
+  → Các hướng dẫn hơi khó hiểu.
+
+### Notes
+
+Use `somehow` for an unknown method or reason. Use `somewhat` to mean `to some degree`; the two words are not interchangeable.
+
+---
+
+## 303. Rib cage /ˈrɪb ˌkeɪdʒ/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** lồng ngực, khung xương sườn bảo vệ tim và phổi *(100%)*
+
+### Usage
+
+The standard spelling is `rib cage`, normally written as two words. It refers to the curved framework of ribs and related bones around the chest.
+
+Common structures:
+
+* `injure/fracture the rib cage`: làm bị thương/gãy vùng lồng ngực
+* `inside/beneath the rib cage`: bên trong/bên dưới lồng ngực
+* `protect the rib cage`: bảo vệ lồng ngực
+
+### Examples
+
+1. **The rib cage protects vital organs such as the heart and lungs.**
+   → Lồng ngực bảo vệ các cơ quan quan trọng như tim và phổi.
+
+2. **He felt a sharp pain beneath his rib cage after the accident.**
+   → Anh ấy cảm thấy một cơn đau nhói bên dưới lồng ngực sau tai nạn.
+
+### Common collocations
+
+* **rib cage injury**: chấn thương lồng ngực
+* **beneath the rib cage**: bên dưới lồng ngực
+* **expand the rib cage**: làm lồng ngực nở ra
+
+### Synonyms
+
+* **thoracic cage** /θəˈræs.ɪk ˌkeɪdʒ/ *(countable noun phrase)*: lồng ngực; thuật ngữ giải phẫu chính xác hơn
+* **chest framework** /tʃest ˈfreɪm.wɜːk/ *(noun phrase)*: khung xương vùng ngực; cách mô tả, không phải thuật ngữ thông dụng
+
+### Word family
+
+* **rib** /rɪb/ *(countable noun)*: xương sườn  
+  *Example:* She fractured a rib in the fall.  
+  → Cô ấy bị gãy một xương sườn trong cú ngã.
+
+* **ribbed** /rɪbd/ *(adjective)*: có gân/sườn nổi; có cấu trúc giống xương sườn  
+  *Example:* The ribbed fabric stretches easily.  
+  → Loại vải có gân này co giãn dễ dàng.
+
+* **rib cage** /ˈrɪb ˌkeɪdʒ/ *(noun phrase)*: lồng ngực  
+  *Example:* Deep breathing causes the rib cage to expand.  
+  → Hít thở sâu làm lồng ngực nở ra.
+
+### Notes
+
+The user's spelling `ribcage` is understandable, but dictionaries and edited English normally use the two-word form `rib cage`.
+
+---
+
+## 304. Spinal cord UK /ˈspaɪ.nəl ˌkɔːd/ US /ˈspaɪ.nəl ˌkɔːrd/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** tủy sống, bó mô thần kinh truyền tín hiệu giữa não và cơ thể *(100%)*
+
+### Usage
+
+The `spinal cord` is part of the central nervous system and runs through the spine. Damage to it can affect movement, sensation, and organ function.
+
+Common structures:
+
+* `damage/injure the spinal cord`: làm tổn thương tủy sống
+* `a spinal cord injury`: chấn thương tủy sống
+* `the brain and spinal cord`: não và tủy sống
+
+### Examples
+
+1. **A severe spinal cord injury can result in permanent paralysis.**
+   → Chấn thương tủy sống nghiêm trọng có thể dẫn đến liệt vĩnh viễn.
+
+2. **The spinal cord carries messages between the brain and the rest of the body.**
+   → Tủy sống truyền tín hiệu giữa não và phần còn lại của cơ thể.
+
+### Common collocations
+
+* **spinal cord injury**: chấn thương tủy sống
+* **spinal cord damage**: tổn thương tủy sống
+* **spinal cord compression**: chèn ép tủy sống
+
+### Synonyms
+
+There is no common exact synonym for `spinal cord`. In medical context, `cord` may be used after the full term has already been established, but `spine` is **not** a synonym because it refers to the bones surrounding the spinal cord.
+
+### Word family
+
+* **spine** /spaɪn/ *(countable noun)*: cột sống; sống lưng  
+  *Example:* The scan revealed damage to her lower spine.  
+  → Kết quả chụp cho thấy phần dưới cột sống của cô ấy bị tổn thương.
+
+* **spinal** /ˈspaɪ.nəl/ *(adjective)*: thuộc cột sống hoặc tủy sống  
+  *Example:* The patient requires spinal surgery.  
+  → Bệnh nhân cần phẫu thuật cột sống.
+
+* **spinal cord** /ˈspaɪ.nəl ˌkɔːd/ *(noun phrase)*: tủy sống  
+  *Example:* The spinal cord is protected by the vertebrae.  
+  → Tủy sống được bảo vệ bởi các đốt sống.
+
+### Notes
+
+Do not confuse `spinal cord` (tủy sống) with `spine/backbone` (cột sống) or `bone marrow` (tủy xương).
+
+---
+
+## 305. Housewife /ˈhaʊs.waɪf/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người vợ nội trợ, phụ nữ chủ yếu chăm sóc gia đình và không làm công việc hưởng lương bên ngoài *(100%)*
+
+### Usage
+
+`Housewife` specifically refers to a married woman who manages the home. It remains common, but `homemaker` is often preferred because it is more neutral and does not define the person only by marital status or gender.
+
+Common structures:
+
+* `be/work as a housewife`: là/làm công việc nội trợ
+* `a full-time housewife`: người vợ nội trợ toàn thời gian
+* `a housewife with + number + children`: một người vợ nội trợ có ... con
+
+### Examples
+
+1. **After leaving her job, she became a full-time housewife and cared for her children.**
+   → Sau khi nghỉ việc, cô ấy trở thành người nội trợ toàn thời gian và chăm sóc các con.
+
+2. **Many housewives perform demanding unpaid work within the home.**
+   → Nhiều người vợ nội trợ đảm nhận công việc không lương vất vả trong gia đình.
+
+### Common collocations
+
+* **full-time housewife**: người vợ nội trợ toàn thời gian
+* **stay-at-home housewife**: người vợ ở nhà làm nội trợ
+* **housewife and mother**: người vợ nội trợ đồng thời là người mẹ
+
+### Synonyms
+
+* **homemaker** /ˈhəʊmˌmeɪ.kər/ *(countable noun)*: người chăm lo gia đình; trung tính về giới và tình trạng hôn nhân hơn
+* **stay-at-home wife** /ˌsteɪ.ət.həʊm ˈwaɪf/ *(countable noun phrase)*: người vợ ở nhà thay vì làm việc bên ngoài
+* **stay-at-home parent** /ˌsteɪ.ət.həʊm ˈpeə.rənt/ *(countable noun phrase)*: cha hoặc mẹ ở nhà chăm con; nghĩa rộng hơn
+
+### Word family
+
+* **housewife** /ˈhaʊs.waɪf/ *(noun)*: người vợ nội trợ  
+  *Example:* The survey included both employed women and housewives.  
+  → Cuộc khảo sát bao gồm cả phụ nữ có việc làm và những người vợ nội trợ.
+
+* **housewives** /ˈhaʊs.waɪvz/ *(plural noun)*: những người vợ nội trợ  
+  *Example:* Some housewives start online businesses from home.  
+  → Một số người vợ nội trợ bắt đầu kinh doanh trực tuyến tại nhà.
+
+* **housework** /ˈhaʊs.wɜːk/ *(uncountable noun)*: việc nhà  
+  *Example:* Household members should share the housework fairly.  
+  → Các thành viên trong gia đình nên chia sẻ việc nhà một cách công bằng.
+
+### Notes
+
+`Housewife` is not necessarily offensive, but it can sound traditional. Use `homemaker` when gender or marital status is unimportant. The irregular plural is `housewives`, not `housewifes`.
+
+---
+
+## 306. Breadwinner /ˈbredˌwɪn.ər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người kiếm thu nhập chính để nuôi gia đình *(100%)*
+
+### Usage
+
+A `breadwinner` is the person whose earnings provide most or all of a household's financial support. A family can have one main breadwinner or multiple breadwinners.
+
+Common structures:
+
+* `become/be the breadwinner`: trở thành/là người kiếm thu nhập chính
+* `the sole/main/primary breadwinner`: người kiếm thu nhập duy nhất/chính
+* `breadwinner for/in a family`: người trụ cột kinh tế của một gia đình
+
+### Examples
+
+1. **After his father became ill, he became the family's main breadwinner.**
+   → Sau khi cha anh ấy bị bệnh, anh ấy trở thành trụ cột kinh tế chính của gia đình.
+
+2. **In many households, both parents are breadwinners.**
+   → Trong nhiều hộ gia đình, cả cha và mẹ đều là người kiếm thu nhập nuôi gia đình.
+
+### Common collocations
+
+* **main breadwinner**: người kiếm thu nhập chính
+* **sole breadwinner**: người kiếm thu nhập duy nhất
+* **family breadwinner**: trụ cột kinh tế của gia đình
+
+### Synonyms
+
+* **provider** /prəˈvaɪ.dər/ *(countable noun)*: người chu cấp; nghĩa rộng hơn vì sự chu cấp không nhất thiết chỉ là tiền
+* **wage earner** /ˈweɪdʒ ˌɜː.nər/ *(countable noun)*: người kiếm tiền công/tiền lương
+* **primary earner** /ˌpraɪ.mər.i ˈɜː.nər/ *(countable noun phrase)*: người có thu nhập chính trong hộ gia đình
+
+### Word family
+
+* **breadwinner** /ˈbredˌwɪn.ər/ *(noun)*: người kiếm thu nhập chính  
+  *Example:* Losing the household's breadwinner can cause severe financial hardship.  
+  → Việc mất đi người kiếm thu nhập chính có thể gây khó khăn tài chính nghiêm trọng.
+
+* **breadwinning** /ˈbredˌwɪn.ɪŋ/ *(adjective/noun)*: liên quan đến việc kiếm thu nhập nuôi gia đình  
+  *Example:* Breadwinning responsibilities are increasingly shared between partners.  
+  → Trách nhiệm kiếm thu nhập nuôi gia đình ngày càng được chia sẻ giữa hai người bạn đời.
+
+* **earner** /ˈɜː.nər/ *(countable noun)*: người có thu nhập  
+  *Example:* Low earners may struggle with rising living costs.  
+  → Những người có thu nhập thấp có thể chật vật với chi phí sinh hoạt gia tăng.
+
+### Notes
+
+`Breadwinner` is gender-neutral. `Bread` here figuratively means money or the basic means of supporting a family.
+
+---
+
+## 307. The sooner the better /ðə ˈsuː.nər ðə ˈbet.ər/
+
+* **Part of speech:** idiom; comparative correlative phrase
+* **Vietnamese meaning:** càng sớm càng tốt *(100%)*
+
+### Usage
+
+`The sooner the better` means that doing something earlier will produce a better result. It can stand alone or follow a statement about an action.
+
+Common structures:
+
+* `The sooner, the better.`: càng sớm càng tốt
+* `The sooner + subject + verb, the better.`: chủ ngữ làm việc gì càng sớm thì càng tốt
+* `the sooner A happens, the better for B`: A xảy ra càng sớm thì càng tốt cho B
+
+### Examples
+
+1. **We need to treat the infection, and the sooner the better.**
+   → Chúng ta cần điều trị tình trạng nhiễm trùng, và càng sớm càng tốt.
+
+2. **The sooner governments invest in clean energy, the better the outcome will be.**
+   → Chính phủ đầu tư vào năng lượng sạch càng sớm thì kết quả sẽ càng tốt.
+
+### Common collocations
+
+* **start the sooner the better**: bắt đầu càng sớm càng tốt
+* **leave the sooner the better**: rời đi càng sớm càng tốt
+* **seek treatment the sooner the better**: tìm cách điều trị càng sớm càng tốt
+
+### Synonyms
+
+* **as soon as possible** /əz ˌsuːn əz ˈpɒs.ə.bəl/ *(adverb phrase)*: sớm nhất có thể; nhấn mạnh sự khẩn trương
+* **sooner rather than later** /ˈsuː.nər ˌrɑː.ðən ˈleɪ.tər/ *(idiom)*: nên sớm thay vì để muộn
+* **without delay** /wɪˌðaʊt dɪˈleɪ/ *(adverb phrase)*: không trì hoãn; trang trọng hơn
+
+### Word family
+
+* **soon** /suːn/ *(adverb)*: sớm, chẳng bao lâu nữa  
+  *Example:* The doctor will see you soon.  
+  → Bác sĩ sẽ khám cho bạn sớm thôi.
+
+* **sooner** /ˈsuː.nər/ *(comparative adverb)*: sớm hơn  
+  *Example:* Early intervention helps patients recover sooner.  
+  → Can thiệp sớm giúp bệnh nhân hồi phục sớm hơn.
+
+* **soonest** /ˈsuː.nɪst/ *(superlative adverb)*: sớm nhất  
+  *Example:* Monday is the soonest I can attend the appointment.  
+  → Thứ Hai là thời điểm sớm nhất tôi có thể đến cuộc hẹn.
+
+### Notes
+
+This phrase follows the pattern `the + comparative, the + comparative`, as in `The more you practise, the better you become`.
+
+---
+
+## 308. Ulcer /ˈʌl.sər/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** vết loét hở trên da hoặc niêm mạc *(55%)*; loét dạ dày hoặc tá tràng *(45%)*
+
+### Usage
+
+An `ulcer` is an open sore that heals slowly. It may occur on the skin, in the mouth, or inside the digestive system. `Peptic ulcer` is the medical term covering stomach and duodenal ulcers.
+
+Common structures:
+
+* `develop/suffer from an ulcer`: bị/phát triển một vết loét
+* `an ulcer in/on + body part`: một vết loét ở/trên bộ phận cơ thể
+* `treat/heal an ulcer`: điều trị/làm lành vết loét
+
+### Examples
+
+1. **The doctor prescribed medication to treat the stomach ulcer.**
+   → Bác sĩ kê thuốc để điều trị vết loét dạ dày.
+
+2. **People who are bedridden may develop pressure ulcers without proper care.**
+   → Người nằm liệt giường có thể bị loét do tì đè nếu không được chăm sóc đúng cách.
+
+### Common collocations
+
+* **stomach ulcer**: loét dạ dày
+* **mouth ulcer**: loét miệng/nhiệt miệng
+* **pressure ulcer**: loét do tì đè
+
+### Synonyms
+
+* **sore** /sɔːr/ *(countable noun)*: vết đau/loét; từ thông dụng và rộng hơn
+* **lesion** /ˈliː.ʒən/ *(countable noun)*: vùng mô bị tổn thương; thuật ngữ y khoa rộng hơn
+* **open sore** /ˌəʊ.pən ˈsɔːr/ *(countable noun phrase)*: vết thương hở; cách giải thích gần nghĩa
+
+### Word family
+
+* **ulcer** /ˈʌl.sər/ *(noun)*: vết loét  
+  *Example:* Persistent abdominal pain may be a sign of an ulcer.  
+  → Đau bụng dai dẳng có thể là dấu hiệu của một vết loét.
+
+* **ulcerate** /ˈʌl.sə.reɪt/ *(transitive/intransitive verb)*: làm loét; trở nên lở loét  
+  *Example:* Untreated wounds can ulcerate over time.  
+  → Những vết thương không được điều trị có thể trở nên lở loét theo thời gian.
+
+* **ulcerated** /ˈʌl.sə.reɪ.tɪd/ *(adjective)*: bị lở loét  
+  *Example:* The nurse carefully cleaned the ulcerated skin.  
+  → Y tá cẩn thận làm sạch vùng da bị lở loét.
+
+### Notes
+
+An `ulcer` is countable: `an ulcer`, `two ulcers`. Not every stomach pain is an ulcer, so avoid using the word without a medical diagnosis in health-related claims.
+
+---
+
+## 309. Mold US /moʊld/; Mould UK /məʊld/
+
+* **Part of speech:** uncountable/countable noun; transitive verb
+* **Vietnamese meaning:** nấm mốc *(45%)*; khuôn dùng để tạo hình *(30%)*; tạo hình, uốn nắn hoặc định hình *(25%)*
+
+### Usage
+
+`Mold` is the standard American spelling; British English uses `mould`. As a noun, it can mean fungus or a shaped container. As a verb, it means to shape a material or influence a person's character and development.
+
+Common structures:
+
+* `mold grows on + surface`: nấm mốc phát triển trên bề mặt
+* `pour something into a mold`: đổ thứ gì vào khuôn
+* `mold A into B`: nhào nặn/định hình A thành B
+
+### Examples
+
+1. **Poor ventilation allowed mold to grow on the bedroom wall.**
+   → Hệ thống thông gió kém khiến nấm mốc phát triển trên tường phòng ngủ.
+
+2. **Early experiences can mold a child's personality.**
+   → Những trải nghiệm ban đầu có thể định hình tính cách của một đứa trẻ.
+
+### Common collocations
+
+* **black mold**: nấm mốc đen
+* **cake/plaster mold**: khuôn bánh/khuôn thạch cao
+* **mold someone's character**: định hình tính cách của ai
+
+### Synonyms
+
+* **fungus** /ˈfʌŋ.ɡəs/ *(countable/uncountable noun)*: nấm; thuật ngữ sinh học rộng hơn `mold`
+* **mildew** /ˈmɪl.djuː/ *(uncountable noun)*: một loại nấm mốc mỏng thường xuất hiện trên bề mặt ẩm
+* **shape** /ʃeɪp/ *(transitive verb)*: tạo hình, định hình; gần nghĩa với động từ `mold`
+* **form** /fɔːm/ *(transitive verb)*: hình thành/tạo thành; nghĩa rộng hơn
+
+### Word family
+
+* **mold** /moʊld/ *(noun/verb, US spelling)*: nấm mốc; khuôn; tạo hình  
+  *Example:* Teachers can help mold students into independent thinkers.  
+  → Giáo viên có thể giúp định hình học sinh thành những người tư duy độc lập.
+
+* **moldy** /ˈmoʊl.di/ *(adjective)*: bị mốc  
+  *Example:* We threw away the moldy bread.  
+  → Chúng tôi đã vứt bỏ chiếc bánh mì bị mốc.
+
+* **molding** /ˈmoʊl.dɪŋ/ *(noun/verb form, US spelling)*: quá trình tạo khuôn; đường gờ trang trí; đang tạo hình  
+  *Example:* The factory uses heat when molding plastic parts.  
+  → Nhà máy sử dụng nhiệt khi đúc các bộ phận bằng nhựa.
+
+### Notes
+
+Use `mold/moldy/molding` in American English and `mould/mouldy/moulding` in British English. Do not confuse `mold` with `mole`, which can mean a small animal or a dark spot on the skin.
+
+---
+
+## 310. Renal /ˈriː.nəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc thận, liên quan đến chức năng hoặc bệnh lý của thận *(100%)*
+
+### Usage
+
+`Renal` is a formal medical adjective meaning related to the kidneys. In everyday English, `kidney` is often used before another noun instead, as in `kidney disease`.
+
+Common structures:
+
+* `renal disease/failure`: bệnh/suy thận
+* `renal function`: chức năng thận
+* `renal transplant`: ca ghép thận
+
+### Examples
+
+1. **Regular blood tests are used to monitor the patient's renal function.**
+   → Xét nghiệm máu định kỳ được dùng để theo dõi chức năng thận của bệnh nhân.
+
+2. **Severe dehydration can contribute to acute renal failure.**
+   → Mất nước nghiêm trọng có thể góp phần gây suy thận cấp.
+
+### Common collocations
+
+* **renal failure**: suy thận
+* **renal function**: chức năng thận
+* **renal disease**: bệnh thận
+
+### Synonyms
+
+* **kidney-related** /ˈkɪd.ni rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến thận; dễ hiểu hơn trong tiếng Anh thông thường
+* **nephric** /ˈnef.rɪk/ *(adjective)*: thuộc thận; thuật ngữ kỹ thuật hiếm hơn `renal`
+
+### Word family
+
+* **renal** /ˈriː.nəl/ *(adjective)*: thuộc thận  
+  *Example:* The specialist treats patients with chronic renal disease.  
+  → Bác sĩ chuyên khoa điều trị các bệnh nhân mắc bệnh thận mãn tính.
+
+* **kidney** /ˈkɪd.ni/ *(countable noun)*: quả thận  
+  *Example:* Each kidney filters waste products from the blood.  
+  → Mỗi quả thận lọc các chất thải khỏi máu.
+
+* **nephrology** /neˈfrɒl.ə.dʒi/ *(uncountable noun)*: chuyên ngành thận học  
+  *Example:* She works in the hospital's nephrology department.  
+  → Cô ấy làm việc tại khoa thận học của bệnh viện.
+
+### Notes
+
+`Renal` and `kidney` can often modify the same medical noun (`renal disease` and `kidney disease`), but `renal` is more formal and technical.
+
+---
+
+## 311. Bowel /ˈbaʊ.əl/
+
+* **Part of speech:** countable noun; commonly used in the plural `bowels`
+* **Vietnamese meaning:** ruột, đặc biệt là ruột già *(55%)*; chức năng đại tiện/việc đi tiêu *(35%)*; phần sâu nhất bên trong một nơi trong cách dùng văn chương *(10%)*
+
+### Usage
+
+In medical English, `bowel` refers to the intestine, especially the large intestine. It also appears in phrases about digestion and defecation, such as `bowel movement`. The plural `bowels` can refer to the intestines or, figuratively, the deepest interior of a place.
+
+Common structures:
+
+* `a bowel movement`: một lần đi tiêu/đại tiện
+* `bowel disease/cancer`: bệnh/ung thư đường ruột
+* `the bowels of + place`: phần sâu nhất bên trong một nơi
+
+### Examples
+
+1. **The patient reported abdominal pain and changes in bowel habits.**
+   → Bệnh nhân cho biết bị đau bụng và có thay đổi trong thói quen đại tiện.
+
+2. **A diet rich in fibre can support healthy bowel function.**
+   → Chế độ ăn giàu chất xơ có thể hỗ trợ chức năng đường ruột khỏe mạnh.
+
+### Common collocations
+
+* **bowel movement**: việc/lần đi tiêu
+* **bowel function**: chức năng đường ruột
+* **bowel cancer**: ung thư ruột
+
+### Synonyms
+
+* **intestine** /ɪnˈtes.tɪn/ *(countable noun)*: ruột; thuật ngữ giải phẫu trung tính và chính xác
+* **gut** /ɡʌt/ *(countable noun)*: ruột/đường tiêu hóa; thông dụng và thân mật hơn
+* **colon** /ˈkəʊ.lən/ *(countable noun)*: đại tràng; chỉ một phần cụ thể của ruột già, không phải từ đồng nghĩa hoàn toàn
+
+### Word family
+
+* **bowel** /ˈbaʊ.əl/ *(noun)*: ruột; chức năng đại tiện  
+  *Example:* The disease can affect normal bowel function.  
+  → Căn bệnh này có thể ảnh hưởng đến chức năng đường ruột bình thường.
+
+* **bowels** /ˈbaʊ.əlz/ *(plural noun)*: ruột; phần sâu bên trong  
+  *Example:* The miners worked deep in the bowels of the earth.  
+  → Những người thợ mỏ làm việc sâu trong lòng đất.
+
+* **bowel-related** /ˈbaʊ.əl rɪˌleɪ.tɪd/ *(adjective)*: liên quan đến đường ruột  
+  *Example:* The clinic provides advice on bowel-related conditions.  
+  → Phòng khám cung cấp tư vấn về các bệnh liên quan đến đường ruột.
+
+### Notes
+
+`Bowel` is a normal medical word but may sound more clinical than `gut`. Do not confuse `bowel` /ˈbaʊ.əl/ with `bowl` /bəʊl/ (cái bát).
+
+---
+
+## 312. Vertebrae UK /ˈvɜː.tɪ.breɪ/ US /ˈvɝː.t̬ə.breɪ/
+
+* **Part of speech:** plural countable noun; plural of `vertebra`
+* **Vietnamese meaning:** các đốt sống, những xương riêng lẻ tạo thành cột sống *(100%)*
+
+### Usage
+
+`Vertebrae` is plural. One bone is `a vertebra`; two or more are `vertebrae`. The vertebrae surround and protect the spinal cord.
+
+Common structures:
+
+* `a fractured/damaged vertebra`: một đốt sống bị gãy/tổn thương
+* `the cervical/thoracic/lumbar vertebrae`: các đốt sống cổ/ngực/thắt lưng
+* `between the vertebrae`: giữa các đốt sống
+
+### Examples
+
+1. **Discs between the vertebrae help the spine move and absorb pressure.**
+   → Các đĩa đệm giữa những đốt sống giúp cột sống chuyển động và hấp thụ áp lực.
+
+2. **The scan showed fractures in two of her lumbar vertebrae.**
+   → Kết quả chụp cho thấy hai đốt sống thắt lưng của cô ấy bị gãy.
+
+### Common collocations
+
+* **cervical vertebrae**: các đốt sống cổ
+* **lumbar vertebrae**: các đốt sống thắt lưng
+* **fractured vertebrae**: các đốt sống bị gãy
+
+### Synonyms
+
+* **spinal bones** /ˈspaɪ.nəl bəʊnz/ *(plural noun phrase)*: các xương cột sống; cách giải thích dễ hiểu
+* **backbone bones** /ˈbæk.bəʊn bəʊnz/ *(plural noun phrase)*: các xương tạo nên cột sống; cách nói mô tả, không phải thuật ngữ y khoa chuẩn
+
+### Word family
+
+* **vertebra** /ˈvɜː.tɪ.brə/ *(singular countable noun)*: một đốt sống  
+  *Example:* One vertebra was damaged in the accident.  
+  → Một đốt sống đã bị tổn thương trong vụ tai nạn.
+
+* **vertebrae** /ˈvɜː.tɪ.breɪ/ *(plural noun)*: các đốt sống  
+  *Example:* Humans normally have seven cervical vertebrae.  
+  → Con người thường có bảy đốt sống cổ.
+
+* **vertebral** /ˈvɜː.tɪ.brəl/ *(adjective)*: thuộc đốt sống/cột sống  
+  *Example:* The vertebral column protects the spinal cord.  
+  → Cột sống bảo vệ tủy sống.
+
+### Notes
+
+The singular-plural pair is irregular: `one vertebra`, `two vertebrae`. `Vertebrae` is not the whole spine; it refers to the individual bones that form it.
+
+---
+
+## 313. Far-flung /ˌfɑːˈflʌŋ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** xa xôi, cách rất xa một trung tâm hoặc nơi quen thuộc *(70%)*; phân bố rộng khắp trên một khu vực lớn *(30%)*
+
+### Usage
+
+`Far-flung` is used before a noun to describe remote places or people and things spread over a wide area. It is especially common with `regions`, `villages`, `communities`, and `corners of the world`.
+
+Common structures:
+
+* `a far-flung village/region`: một ngôi làng/vùng xa xôi
+* `far-flung communities`: các cộng đồng ở rải rác xa xôi
+* `the far-flung corners of + place`: những nơi xa xôi hẻo lánh của một khu vực
+
+### Examples
+
+1. **Mobile clinics provide healthcare to far-flung rural communities.**
+   → Các phòng khám lưu động cung cấp dịch vụ y tế cho những cộng đồng nông thôn xa xôi.
+
+2. **The company has offices in far-flung corners of the world.**
+   → Công ty có văn phòng tại những nơi xa xôi trên khắp thế giới.
+
+### Common collocations
+
+* **far-flung region**: vùng xa xôi
+* **far-flung community**: cộng đồng ở nơi xa xôi
+* **far-flung corner of the world**: nơi xa xôi trên thế giới
+
+### Synonyms
+
+* **remote** /rɪˈməʊt/ *(adjective)*: xa xôi, hẻo lánh; từ thông dụng nhất cho địa điểm khó tiếp cận
+* **distant** /ˈdɪs.tənt/ *(adjective)*: ở xa; trung tính và rộng hơn
+* **widespread** /ˈwaɪd.spred/ *(adjective)*: lan rộng/phân bố rộng; gần với nghĩa thứ hai nhưng không nhất thiết xa xôi
+
+### Word family
+
+* **far** /fɑːr/ *(adverb/adjective)*: xa  
+  *Example:* The nearest hospital is far from the village.  
+  → Bệnh viện gần nhất nằm xa ngôi làng.
+
+* **farther** /ˈfɑː.ðər/ *(comparative adverb/adjective)*: xa hơn về khoảng cách vật lý  
+  *Example:* Some students travel farther than others to reach school.  
+  → Một số học sinh đi xa hơn những em khác để đến trường.
+
+* **far-flung** /ˌfɑːˈflʌŋ/ *(adjective)*: xa xôi; rải rác rộng khắp  
+  *Example:* Internet access connects learners in far-flung areas.  
+  → Truy cập Internet kết nối người học ở các khu vực xa xôi.
+
+### Notes
+
+`Far-flung` normally comes before a noun. Use `remote` when emphasizing isolation or difficulty of access, and `far-flung` when emphasizing great distance or wide geographical spread.
+
+---
+
+## 314. Topple UK /ˈtɒp.əl/ US /ˈtɑː.pəl/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** đổ/ngã hoặc làm cho thứ gì đổ ngã *(60%)*; lật đổ chính phủ, nhà lãnh đạo hoặc hệ thống quyền lực *(40%)*
+
+### Usage
+
+`Topple` describes losing balance and falling, or causing something to fall. Figuratively, it means removing a powerful person or government from power.
+
+Common structures:
+
+* `topple over/from + place`: đổ nhào/ngã khỏi một nơi
+* `topple something`: làm đổ thứ gì
+* `topple a government/regime/leader`: lật đổ chính phủ/chế độ/nhà lãnh đạo
+
+### Examples
+
+1. **Strong winds toppled several trees during the storm.**
+   → Gió mạnh đã làm đổ vài cây trong cơn bão.
+
+2. **Mass protests eventually toppled the authoritarian regime.**
+   → Các cuộc biểu tình quy mô lớn cuối cùng đã lật đổ chế độ độc tài.
+
+### Common collocations
+
+* **topple over**: đổ nhào
+* **topple a statue**: kéo/làm đổ một bức tượng
+* **topple a regime**: lật đổ một chế độ
+
+### Synonyms
+
+* **fall over** /ˌfɔːl ˈəʊ.vər/ *(phrasal verb)*: ngã/đổ; chỉ nghĩa nội động từ thông dụng
+* **knock over** /ˌnɒk ˈəʊ.vər/ *(phrasal verb)*: làm đổ; thường dùng cho đồ vật
+* **overthrow** /ˌəʊ.vəˈθrəʊ/ *(transitive verb)*: lật đổ chính quyền hoặc người cầm quyền
+* **bring down** /ˌbrɪŋ ˈdaʊn/ *(phrasal verb)*: hạ bệ/làm sụp đổ; rộng và ít trang trọng hơn
+
+### Word family
+
+* **topple** /ˈtɒp.əl/ *(verb)*: đổ, làm đổ; lật đổ  
+  *Example:* The damaged wall could topple without warning.  
+  → Bức tường bị hư hỏng có thể đổ xuống mà không báo trước.
+
+* **toppled** /ˈtɒp.əld/ *(adjective/verb form)*: bị/đã làm đổ hoặc lật đổ  
+  *Example:* Workers removed the toppled trees from the road.  
+  → Công nhân đã dọn những cây bị đổ khỏi đường.
+
+* **toppling** /ˈtɒp.lɪŋ/ *(adjective/verb form)*: đang đổ/lật đổ  
+  *Example:* The toppling structure posed a danger to pedestrians.  
+  → Công trình đang đổ gây nguy hiểm cho người đi bộ.
+
+### Notes
+
+`Topple` can be transitive (`The wind toppled the tree`) or intransitive (`The tree toppled`). `Overthrow` is usually reserved for political power.
+
+---
+
+## 315. Dreadful /ˈdred.fəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** rất tệ, khủng khiếp *(70%)*; gây sợ hãi hoặc đau khổ *(20%)*; rất nghiêm trọng/nặng nề để nhấn mạnh *(10%)*
+
+### Usage
+
+`Dreadful` is a strong negative adjective for something extremely bad, unpleasant, or frightening. It is common in British English and can describe experiences, weather, mistakes, pain, or news.
+
+Common structures:
+
+* `a dreadful experience/mistake`: một trải nghiệm/sai lầm khủng khiếp
+* `feel/look dreadful`: cảm thấy/trông rất tệ
+* `dreadful news/weather/pain`: tin khủng khiếp/thời tiết rất tệ/cơn đau dữ dội
+
+### Examples
+
+1. **The family lived in dreadful conditions without clean water or sanitation.**
+   → Gia đình sống trong điều kiện khủng khiếp, không có nước sạch hay hệ thống vệ sinh.
+
+2. **I felt dreadful after staying awake all night.**
+   → Tôi cảm thấy vô cùng tệ sau khi thức cả đêm.
+
+### Common collocations
+
+* **dreadful conditions**: điều kiện khủng khiếp
+* **dreadful mistake**: sai lầm nghiêm trọng
+* **dreadful news**: tin khủng khiếp
+
+### Synonyms
+
+* **terrible** /ˈter.ə.bəl/ *(adjective)*: rất tệ/khủng khiếp; từ thông dụng và gần nghĩa nhất
+* **awful** /ˈɔː.fəl/ *(adjective)*: tồi tệ, khó chịu; rất phổ biến trong hội thoại
+* **appalling** /əˈpɔː.lɪŋ/ *(adjective)*: tệ đến mức gây sốc hoặc phẫn nộ
+* **horrific** /həˈrɪf.ɪk/ *(adjective)*: kinh hoàng; mạnh hơn và thường liên quan đến thảm họa/bạo lực
+
+### Word family
+
+* **dread** /dred/ *(uncountable noun/transitive verb)*: nỗi sợ hãi; rất sợ điều sắp xảy ra  
+  *Example:* Many patients dread going to the dentist.  
+  → Nhiều bệnh nhân rất sợ phải đi nha sĩ.
+
+* **dreadful** /ˈdred.fəl/ *(adjective)*: khủng khiếp, rất tệ  
+  *Example:* The accident had dreadful consequences for the community.  
+  → Vụ tai nạn gây ra những hậu quả khủng khiếp cho cộng đồng.
+
+* **dreadfully** /ˈdred.fəl.i/ *(adverb)*: một cách khủng khiếp; cực kỳ  
+  *Example:* The building was dreadfully overcrowded.  
+  → Tòa nhà đông đúc quá mức một cách khủng khiếp.
+
+### Notes
+
+`Dreadful` is stronger than `bad`. In formal writing, choose a more precise adjective such as `harmful`, `severe`, or `inadequate` when possible.
+
+---
+
+## 316. Deform UK /dɪˈfɔːm/ US /dɪˈfɔːrm/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** làm biến dạng hoặc trở nên biến dạng về hình dạng/cấu trúc *(85%)*; làm sai lệch, bóp méo một đặc điểm hoặc hệ thống *(15%)*
+
+### Usage
+
+`Deform` means to change the natural shape of something, usually in a damaging or undesirable way. It is used in medicine, engineering, materials science, and figurative descriptions.
+
+Common structures:
+
+* `deform something`: làm biến dạng thứ gì
+* `become/be deformed by + force/heat`: bị biến dạng do lực/nhiệt
+* `deform the shape/structure of + noun`: làm biến dạng hình dạng/cấu trúc của thứ gì
+
+### Examples
+
+1. **Extreme heat can deform plastic components.**
+   → Nhiệt độ cực cao có thể làm biến dạng các bộ phận bằng nhựa.
+
+2. **The disease gradually deformed the joints in his hands.**
+   → Căn bệnh dần làm biến dạng các khớp ở bàn tay ông ấy.
+
+### Common collocations
+
+* **deform under pressure**: biến dạng dưới áp lực
+* **deform the structure**: làm biến dạng cấu trúc
+* **permanently deformed**: bị biến dạng vĩnh viễn
+
+### Synonyms
+
+* **distort** /dɪˈstɔːt/ *(transitive verb)*: làm méo/bóp méo hình dạng, âm thanh hoặc sự thật
+* **disfigure** /dɪsˈfɪɡ.ər/ *(transitive verb)*: làm biến dạng hoặc làm xấu ngoại hình nghiêm trọng
+* **warp** /wɔːp/ *(transitive/intransitive verb)*: làm cong vênh hoặc trở nên cong vênh, thường do nhiệt/ẩm
+
+### Word family
+
+* **deform** /dɪˈfɔːm/ *(verb)*: làm biến dạng; trở nên biến dạng  
+  *Example:* Heavy loads may deform the metal frame.  
+  → Tải trọng nặng có thể làm biến dạng khung kim loại.
+
+* **deformed** /dɪˈfɔːmd/ *(adjective/verb form)*: bị biến dạng  
+  *Example:* The deformed part must be replaced.  
+  → Bộ phận bị biến dạng phải được thay thế.
+
+* **deformation** /ˌdiː.fɔːˈmeɪ.ʃən/ *(countable/uncountable noun)*: sự biến dạng; chỗ biến dạng  
+  *Example:* Engineers measured the deformation of the bridge under load.  
+  → Các kỹ sư đo độ biến dạng của cây cầu khi chịu tải.
+
+### Notes
+
+`Deform` focuses on an abnormal change in shape. `Disfigure` usually concerns visible damage to appearance, while `distort` can also apply to facts, images, and sounds.
+
+---
+
+## 317. Distress /dɪˈstres/
+
+* **Part of speech:** uncountable noun; transitive verb; noun modifier in compounds
+* **Vietnamese meaning:** sự đau khổ, lo âu hoặc buồn bã nghiêm trọng *(45%)*; tình trạng nguy hiểm và cần trợ giúp khẩn cấp *(25%)*; làm ai đau khổ/lo lắng *(30%)*
+
+### Usage
+
+As a noun, `distress` is severe emotional suffering or a dangerous situation. As a verb, it means to make someone very upset or worried. It is common in medical, psychological, emergency, and formal contexts.
+
+Common structures:
+
+* `cause/be in emotional distress`: gây/ở trong trạng thái đau khổ tinh thần
+* `a ship/person in distress`: tàu/người đang gặp nguy hiểm
+* `be distressed by/at + noun`: đau khổ/lo lắng vì điều gì
+
+### Examples
+
+1. **The news caused considerable distress to the victim's family.**
+   → Tin tức đó gây đau khổ đáng kể cho gia đình nạn nhân.
+
+2. **Rescue teams responded to a distress call from the fishing boat.**
+   → Các đội cứu hộ đã phản hồi tín hiệu cấp cứu từ chiếc thuyền đánh cá.
+
+### Common collocations
+
+* **emotional distress**: đau khổ tinh thần
+* **in severe distress**: trong tình trạng đau khổ/nguy hiểm nghiêm trọng
+* **distress signal/call**: tín hiệu/cuộc gọi cấp cứu
+
+### Synonyms
+
+* **anguish** /ˈæŋ.ɡwɪʃ/ *(uncountable noun)*: nỗi đau khổ cực độ
+* **suffering** /ˈsʌf.ər.ɪŋ/ *(uncountable noun)*: sự đau đớn/khổ sở nói chung
+* **upset** /ˈʌp.set/ *(uncountable noun/adjective)*: trạng thái buồn hoặc lo; nhẹ và thông dụng hơn
+* **alarm** /əˈlɑːm/ *(uncountable noun/transitive verb)*: sự hoảng sợ/cảnh báo; gần nghĩa khi có nguy hiểm
+
+### Word family
+
+* **distress** /dɪˈstres/ *(noun/verb)*: sự đau khổ/nguy hiểm; làm đau khổ  
+  *Example:* Financial insecurity can cause significant distress.  
+  → Sự bất ổn tài chính có thể gây ra đau khổ đáng kể.
+
+* **distressed** /dɪˈstrest/ *(adjective)*: đau khổ, lo lắng; gặp khó khăn nghiêm trọng  
+  *Example:* The child appeared distressed and asked for her mother.  
+  → Đứa trẻ có vẻ đau khổ và hỏi tìm mẹ.
+
+* **distressing** /dɪˈstres.ɪŋ/ *(adjective)*: gây đau khổ hoặc lo lắng  
+  *Example:* Witnessing the accident was deeply distressing.  
+  → Việc chứng kiến tai nạn vô cùng đau lòng.
+
+### Notes
+
+`Distress` is stronger and more formal than `sadness` or `worry`. In emergency language, `in distress` means being in immediate danger or urgently needing help.
+
+---
+
+## 318. Bedridden /ˈbedˌrɪd.ən/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** nằm liệt giường hoặc buộc phải ở trên giường do bệnh tật, chấn thương hay tuổi già *(100%)*
+
+### Usage
+
+`Bedridden` describes someone who cannot leave bed because of illness, injury, disability, or weakness. It often suggests a serious or long-lasting condition.
+
+Common structures:
+
+* `become/be bedridden`: trở nên/bị nằm liệt giường
+* `bedridden with/by + illness`: nằm liệt giường vì bệnh
+* `a bedridden patient/person`: bệnh nhân/người nằm liệt giường
+
+### Examples
+
+1. **After the stroke, he was bedridden for several months.**
+   → Sau cơn đột quỵ, ông ấy phải nằm liệt giường trong vài tháng.
+
+2. **Bedridden patients need regular movement to reduce the risk of pressure ulcers.**
+   → Bệnh nhân nằm liệt giường cần được thay đổi tư thế thường xuyên để giảm nguy cơ loét do tì đè.
+
+### Common collocations
+
+* **bedridden patient**: bệnh nhân nằm liệt giường
+* **become bedridden**: trở nên nằm liệt giường
+* **chronically bedridden**: nằm liệt giường trong thời gian dài do bệnh mãn tính
+
+### Synonyms
+
+* **bedbound** /ˈbed.baʊnd/ *(adjective)*: không thể rời khỏi giường; thuật ngữ trung tính và trực tiếp
+* **confined to bed** /kənˌfaɪnd tə ˈbed/ *(adjective phrase)*: buộc phải nằm trên giường
+* **laid up** /ˌleɪd ˈʌp/ *(adjective phrase)*: phải nghỉ/ngừng hoạt động do bệnh hoặc chấn thương; thân mật và thường tạm thời hơn
+
+### Word family
+
+* **bedridden** /ˈbedˌrɪd.ən/ *(adjective)*: nằm liệt giường  
+  *Example:* Volunteers deliver meals to elderly people who are bedridden.  
+  → Các tình nguyện viên giao thức ăn cho những người cao tuổi nằm liệt giường.
+
+* **bedbound** /ˈbed.baʊnd/ *(adjective)*: không thể rời giường  
+  *Example:* The physiotherapist designed exercises for bedbound patients.  
+  → Chuyên gia vật lý trị liệu thiết kế các bài tập cho bệnh nhân không thể rời giường.
+
+* **bed rest** /ˈbed ˌrest/ *(uncountable noun phrase)*: chế độ nghỉ ngơi tại giường  
+  *Example:* The doctor recommended two days of bed rest.  
+  → Bác sĩ khuyên nghỉ ngơi tại giường trong hai ngày.
+
+### Notes
+
+`Bedridden` is stronger than `on bed rest`. Someone on bed rest may still be able to get up, whereas a bedridden person generally cannot.
+
+---
+
+## 319. Crib /krɪb/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** giường nhỏ có thành chắn cho em bé, đặc biệt trong tiếng Anh-Mỹ *(60%)*; tờ ghi chú ngắn/tài liệu giúp nhớ hoặc gian lận *(15%)*; sao chép hoặc đạo văn *(15%)*; máng cho gia súc ăn *(10%)*
+
+### Usage
+
+In American English, a `crib` is a baby's small bed with high sides; British English usually uses `cot`. Informally, a `crib sheet` is a compact set of notes. As a verb, `crib` means to copy dishonestly or plagiarize.
+
+Common structures:
+
+* `put a baby in the crib`: đặt em bé vào nôi/giường cũi
+* `a crib sheet/note`: tờ ghi chú tóm tắt/phao thi
+* `crib from/copy from + source`: sao chép từ một nguồn
+
+### Examples
+
+1. **The baby slept safely in a crib beside her parents' bed.**
+   → Em bé ngủ an toàn trong chiếc giường cũi bên cạnh giường của cha mẹ.
+
+2. **The student was accused of cribbing material from an online article.**
+   → Sinh viên bị buộc tội sao chép tài liệu từ một bài viết trực tuyến.
+
+### Common collocations
+
+* **baby crib**: giường cũi cho em bé
+* **crib sheet**: tờ ghi chú tóm tắt; phao thi
+* **crib from a source**: sao chép từ một nguồn
+
+### Synonyms
+
+* **cot** /kɒt/ *(countable noun, UK)*: giường nhỏ có thành chắn cho em bé
+* **cradle** /ˈkreɪ.dəl/ *(countable noun)*: nôi em bé, thường có thể đung đưa; không hoàn toàn giống `crib`
+* **copy** /ˈkɒp.i/ *(verb)*: sao chép; rộng và trung tính hơn động từ `crib`
+* **plagiarize** /ˈpleɪ.dʒər.aɪz/ *(verb)*: đạo văn; trang trọng và chính xác hơn trong học thuật
+
+### Word family
+
+* **crib** /krɪb/ *(noun/verb)*: giường cũi; tờ ghi chú; sao chép  
+  *Example:* They bought a crib before the baby was born.  
+  → Họ mua một chiếc giường cũi trước khi em bé chào đời.
+
+* **cribbing** /ˈkrɪb.ɪŋ/ *(noun/verb form)*: hành vi sao chép/gian lận; đang sao chép  
+  *Example:* The university treats cribbing as academic misconduct.  
+  → Trường đại học xem việc sao chép là hành vi sai phạm học thuật.
+
+* **cribbed** /krɪbd/ *(verb form)*: đã sao chép/đạo lại  
+  *Example:* Several passages were cribbed from another report.  
+  → Một số đoạn văn đã bị sao chép từ một báo cáo khác.
+
+### Notes
+
+For a baby's bed, use `crib` in American English and `cot` in British English. `Crib` as a home is American slang and is less useful for formal study.
+
+---
+
+## 320. Beg /beɡ/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** van xin, khẩn cầu ai làm hoặc cho điều gì *(60%)*; xin tiền hoặc thức ăn vì nghèo khó *(25%)*; thực hiện động tác chồm lên xin ăn ở động vật *(10%)*; mặc nhiên giả định điều cần chứng minh trong cụm `beg the question` *(5%)*
+
+### Usage
+
+`Beg` is much stronger than `ask` and often suggests desperation, humility, or an urgent need. It can take an object, an infinitive, or a prepositional phrase.
+
+Common structures:
+
+* `beg someone to + verb`: van xin ai làm gì
+* `beg for + noun`: cầu xin thứ gì
+* `beg someone for + noun`: cầu xin ai cho thứ gì
+* `beg to differ`: xin phép không đồng ý
+
+### Examples
+
+1. **The injured man begged the rescuers not to leave him alone.**
+   → Người đàn ông bị thương van xin đội cứu hộ đừng để anh ấy một mình.
+
+2. **Children should not be forced to beg for food on the streets.**
+   → Trẻ em không nên bị buộc phải xin thức ăn trên đường phố.
+
+### Common collocations
+
+* **beg for mercy**: cầu xin lòng thương xót
+* **beg someone to stay**: van xin ai ở lại
+* **beg on the streets**: ăn xin trên đường phố
+
+### Synonyms
+
+* **plead** /pliːd/ *(transitive/intransitive verb)*: khẩn khoản, cầu xin; thường dùng trong tình huống nghiêm trọng hoặc pháp lý
+* **implore** /ɪmˈplɔːr/ *(transitive verb)*: khẩn cầu tha thiết; trang trọng và mạnh
+* **beseech** /bɪˈsiːtʃ/ *(transitive verb)*: van nài; mang tính văn chương/trang trọng
+* **ask for** /ˈɑːsk fɔːr/ *(verb phrase)*: yêu cầu/xin; trung tính và nhẹ hơn nhiều
+
+### Word family
+
+* **beg** /beɡ/ *(verb)*: van xin; ăn xin  
+  *Example:* He refused to beg for special treatment.  
+  → Anh ấy từ chối cầu xin sự đối xử đặc biệt.
+
+* **beggar** /ˈbeɡ.ər/ *(countable noun)*: người ăn xin  
+  *Example:* The charity provides food and shelter to homeless people and beggars.  
+  → Tổ chức từ thiện cung cấp thức ăn và nơi trú ẩn cho người vô gia cư và người ăn xin.
+
+* **begging** /ˈbeɡ.ɪŋ/ *(uncountable noun/adjective/verb form)*: việc cầu xin/ăn xin; khẩn cầu  
+  *Example:* Authorities should address the causes of child begging.  
+  → Chính quyền nên giải quyết các nguyên nhân của tình trạng trẻ em ăn xin.
+
+### Notes
+
+Use `beg someone to do something`, not `beg someone do something`. In formal logic, `beg the question` means assuming that a claim is true instead of proving it; it does not traditionally mean `raise the question`.
+
+---
+
+## 321. Mercy UK /ˈmɜː.si/ US /ˈmɝː.si/
+
+* **Part of speech:** uncountable noun; occasionally countable in fixed expressions
+* **Vietnamese meaning:** lòng thương xót, sự khoan dung hoặc tha thứ đối với người yếu thế/có lỗi *(75%)*; điều may mắn nhỏ làm giảm bớt khó khăn trong cụm `a mercy/small mercies` *(15%)*; trạng thái bị người hoặc lực lượng khác hoàn toàn chi phối trong `at the mercy of` *(10%)*
+
+### Usage
+
+`Mercy` is compassion or forgiveness shown when someone has the power to punish or harm. It commonly appears in the fixed expressions `have mercy on`, `show mercy`, and `at the mercy of`.
+
+Common structures:
+
+* `show/have mercy on + someone`: thể hiện/có lòng thương xót đối với ai
+* `beg/plead for mercy`: cầu xin lòng thương xót
+* `at the mercy of + person/force`: hoàn toàn chịu sự chi phối của người/lực lượng nào
+
+### Examples
+
+1. **The prisoner begged for mercy, but the commander ignored him.**
+   → Người tù cầu xin lòng thương xót, nhưng viên chỉ huy phớt lờ anh ta.
+
+2. **Without reliable irrigation, farmers are at the mercy of unpredictable rainfall.**
+   → Nếu không có hệ thống tưới tiêu đáng tin cậy, nông dân hoàn toàn phụ thuộc vào lượng mưa thất thường.
+
+### Common collocations
+
+* **show mercy**: thể hiện lòng thương xót/khoan dung
+* **beg for mercy**: cầu xin lòng thương xót
+* **at the mercy of**: hoàn toàn chịu sự chi phối của
+
+### Synonyms
+
+* **compassion** /kəmˈpæʃ.ən/ *(uncountable noun)*: lòng trắc ẩn trước nỗi đau của người khác
+* **clemency** /ˈklem.ən.si/ *(uncountable noun)*: sự khoan hồng, đặc biệt trong hình phạt pháp lý
+* **leniency** /ˈliː.ni.ən.si/ *(uncountable noun)*: sự nương nhẹ trong việc áp dụng quy tắc hoặc hình phạt
+* **pity** /ˈpɪt.i/ *(uncountable noun)*: lòng thương hại; có thể mang sắc thái kẻ trên nhìn xuống
+
+### Word family
+
+* **mercy** /ˈmɜː.si/ *(noun)*: lòng thương xót, sự khoan dung  
+  *Example:* The judge showed mercy because it was the offender's first offence.  
+  → Thẩm phán đã khoan dung vì đây là lần phạm tội đầu tiên của người đó.
+
+* **merciful** /ˈmɜː.sɪ.fəl/ *(adjective)*: nhân từ, khoan dung  
+  *Example:* The defeated soldiers hoped for merciful treatment.  
+  → Những người lính bại trận hy vọng được đối xử khoan dung.
+
+* **merciless** /ˈmɜː.sɪ.ləs/ *(adjective)*: tàn nhẫn, không thương xót  
+  *Example:* The civilians suffered under a merciless regime.  
+  → Dân thường phải chịu đau khổ dưới một chế độ tàn nhẫn.
+
+* **mercifully** /ˈmɜː.sɪ.fəl.i/ *(adverb)*: một cách nhân từ; may thay  
+  *Example:* Mercifully, no one was seriously injured in the crash.  
+  → May thay, không ai bị thương nghiêm trọng trong vụ va chạm.
+
+### Notes
+
+`Mercy` is normally uncountable: say `show mercy`, not `show a mercy`. The phrase `at the mercy of` does not mean receiving kindness; it means having no control or protection against someone or something.
