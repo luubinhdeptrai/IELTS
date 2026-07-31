@@ -17729,3 +17729,116 @@ Common structures:
 ### Notes
 
 `Mercy` is normally uncountable: say `show mercy`, not `show a mercy`. The phrase `at the mercy of` does not mean receiving kindness; it means having no control or protection against someone or something.
+
+---
+
+## 322. The point is /ðə ˈpɔɪnt ɪz/
+
+* **Part of speech:** discourse marker; clause-opening phrase
+* **Vietnamese meaning:** vấn đề cốt lõi là, điều quan trọng là *(80%)*; ý tôi muốn nói là *(20%)*
+
+### Usage
+
+`The point is` introduces the central idea, strongest reason, or conclusion that the speaker wants the listener to understand. It is often followed by `that + clause`, although `that` is frequently omitted in speech.
+
+Common structures:
+
+* `the point is (that) + clause`: vấn đề/điều cốt lõi là...
+* `but the point is + clause`: nhưng điều quan trọng là...
+* `the main point is + noun/clause`: ý chính là...
+
+### Examples
+
+1. **The point is that public transport must be affordable as well as reliable.**
+   → Điều cốt lõi là giao thông công cộng phải có giá phải chăng cũng như đáng tin cậy.
+
+2. **I may not agree with every detail, but the point is that we need to act now.**
+   → Tôi có thể không đồng ý với mọi chi tiết, nhưng điều quan trọng là chúng ta cần hành động ngay.
+
+### Common collocations
+
+* **the point is that**: vấn đề/điều cốt lõi là
+* **but the point is**: nhưng điều quan trọng là
+* **the main point is**: ý chính là
+
+### Synonyms
+
+* **the thing is** /ðə ˈθɪŋ ɪz/ *(discourse marker)*: vấn đề là; tự nhiên và thân mật hơn trong hội thoại
+* **the fact is** /ðə ˈfækt ɪz/ *(discourse marker)*: thực tế là; nhấn mạnh điều được xem là sự thật
+* **what matters is** /wɒt ˈmæt.əz ɪz/ *(clause-opening phrase)*: điều quan trọng là
+* **the key point is** /ðə ˌkiː ˈpɔɪnt ɪz/ *(clause-opening phrase)*: điểm mấu chốt là; rõ ràng và phù hợp với văn phong học thuật
+
+### Word family
+
+* **point** /pɔɪnt/ *(countable noun/transitive verb)*: điểm, ý chính; chỉ ra  
+  *Example:* The report raises an important point about social inequality.  
+  → Báo cáo nêu lên một điểm quan trọng về bất bình đẳng xã hội.
+
+* **pointed** /ˈpɔɪn.tɪd/ *(adjective)*: nhọn; thẳng thắn và có chủ ý  
+  *Example:* The interviewer asked a pointed question about government spending.  
+  → Người phỏng vấn đặt một câu hỏi thẳng thắn về chi tiêu chính phủ.
+
+* **pointless** /ˈpɔɪnt.ləs/ *(adjective)*: vô nghĩa, không có ích  
+  *Example:* It is pointless to introduce a law that cannot be enforced.  
+  → Việc ban hành một đạo luật không thể được thực thi là vô ích.
+
+### Notes
+
+`The point is` highlights the main argument. `The thing is` performs a similar function but is more conversational and often introduces a problem or explanation. In formal IELTS Writing, `the key point is that` or a direct statement may sound more academic.
+
+---
+
+## 323. Be likely /biː ˈlaɪ.kli/
+
+* **Part of speech:** adjective phrase; `likely` is an adjective
+* **Vietnamese meaning:** có khả năng xảy ra hoặc có khả năng làm gì *(85%)*; có xu hướng làm gì trong một tình huống nhất định *(15%)*
+
+### Usage
+
+`Be likely` expresses probability. The most useful pattern is `subject + be likely to + base verb`. You can also use the impersonal structure `It is likely that + clause`.
+
+Common structures:
+
+* `subject + be likely to + base verb`: chủ ngữ có khả năng sẽ làm gì
+* `it is likely that + clause`: có khả năng là...
+* `be more/less/most likely to + verb`: có khả năng cao hơn/thấp hơn/cao nhất sẽ làm gì
+* `be highly/very likely`: rất có khả năng
+
+### Examples
+
+1. **Students from disadvantaged families are more likely to leave school early.**
+   → Học sinh thuộc các gia đình có hoàn cảnh khó khăn có khả năng nghỉ học sớm cao hơn.
+
+2. **It is likely that remote work will remain common in the future.**
+   → Có khả năng làm việc từ xa sẽ vẫn phổ biến trong tương lai.
+
+### Common collocations
+
+* **be highly likely**: rất có khả năng
+* **be more likely to**: có khả năng cao hơn sẽ
+* **be likely to happen**: có khả năng xảy ra
+
+### Synonyms
+
+* **be expected to** /bi ɪkˈspek.tɪd tuː/ *(adjective phrase)*: được dự đoán/kỳ vọng sẽ; có thể dựa trên dự báo hoặc kỳ vọng
+* **probably will** /ˈprɒb.ə.bli wɪl/ *(adverb and auxiliary phrase)*: có lẽ sẽ; diễn đạt cùng ý bằng trạng từ
+* **be apt to** /bi ˈæpt tuː/ *(adjective phrase)*: có xu hướng/dễ làm gì; thường nói về hành vi lặp lại
+* **stand a good chance of** /stænd ə ˌɡʊd ˈtʃɑːns əv/ *(verb phrase)*: có cơ hội/khả năng khá cao làm điều gì
+
+### Word family
+
+* **likely** /ˈlaɪ.kli/ *(adjective/adverb)*: có khả năng; có lẽ  
+  *Example:* Higher fuel prices are likely to affect low-income households most.  
+  → Giá nhiên liệu cao hơn có khả năng ảnh hưởng nhiều nhất đến các hộ thu nhập thấp.
+
+* **likelihood** /ˈlaɪ.kli.hʊd/ *(countable/uncountable noun)*: khả năng xảy ra  
+  *Example:* Regular exercise can reduce the likelihood of heart disease.  
+  → Tập thể dục thường xuyên có thể làm giảm khả năng mắc bệnh tim.
+
+* **unlikely** /ʌnˈlaɪ.kli/ *(adjective)*: khó có khả năng xảy ra, không chắc sẽ  
+  *Example:* The policy is unlikely to succeed without adequate funding.  
+  → Chính sách này khó có khả năng thành công nếu không có đủ kinh phí.
+
+### Notes
+
+Use `He is likely to come` or `He will probably come`. Do not say `He is likely come`. In standard British English, avoid using `likely` directly before a main verb as in `He likely comes`; this adverbial use is more common in North American English.
