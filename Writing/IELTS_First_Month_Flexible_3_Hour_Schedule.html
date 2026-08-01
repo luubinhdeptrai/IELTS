@@ -1,0 +1,901 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flexible IELTS Month 1 Schedule</title>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --surface: #ffffff;
+      --surface-soft: #f8fafc;
+      --text: #172033;
+      --muted: #667085;
+      --line: #dfe6ef;
+      --accent: #4f46e5;
+      --speaking: #7c3aed;
+      --writing: #2563eb;
+      --reading: #059669;
+      --listening: #ea580c;
+      --morning: #f59e0b;
+      --evening: #4338ca;
+      --shadow: 0 16px 42px rgba(31, 41, 55, 0.08);
+    }
+
+    * { box-sizing: border-box; }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      margin: 0;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(79, 70, 229, .11), transparent 32rem),
+        radial-gradient(circle at top right, rgba(5, 150, 105, .07), transparent 28rem),
+        var(--bg);
+      line-height: 1.55;
+    }
+
+    .page {
+      width: min(1180px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 34px 0 56px;
+    }
+
+    .card {
+      background: rgba(255,255,255,.96);
+      border: 1px solid var(--line);
+      border-radius: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .hero {
+      display: grid;
+      grid-template-columns: 1.35fr .85fr;
+      gap: 22px;
+      margin-bottom: 22px;
+    }
+
+    .hero-main { padding: 34px; }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: #eef2ff;
+      color: #4338ca;
+      font-size: .78rem;
+      font-weight: 900;
+      letter-spacing: .06em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 16px 0 12px;
+      font-size: clamp(2rem, 5vw, 3.45rem);
+      line-height: 1.06;
+      letter-spacing: -.045em;
+    }
+
+    .lead {
+      margin: 0;
+      max-width: 760px;
+      color: var(--muted);
+      font-size: 1.03rem;
+    }
+
+    .hero-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 24px;
+    }
+
+    .tag {
+      padding: 9px 12px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: var(--surface-soft);
+      font-size: .9rem;
+      font-weight: 800;
+    }
+
+    .allocation {
+      padding: 26px;
+      display: grid;
+      place-items: center;
+      text-align: center;
+    }
+
+    .donut {
+      width: 192px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      display: grid;
+      place-items: center;
+      position: relative;
+      background: conic-gradient(
+        var(--speaking) 0 29.76%,
+        var(--writing) 29.76% 59.52%,
+        var(--reading) 59.52% 84.52%,
+        var(--listening) 84.52% 100%
+      );
+      margin-bottom: 18px;
+    }
+
+    .donut::after {
+      content: "";
+      position: absolute;
+      width: 116px;
+      aspect-ratio: 1;
+      border-radius: 50%;
+      background: white;
+    }
+
+    .donut-label {
+      position: relative;
+      z-index: 1;
+      font-size: 1.2rem;
+      font-weight: 950;
+      line-height: 1.1;
+    }
+
+    .donut-label small {
+      display: block;
+      margin-top: 5px;
+      color: var(--muted);
+      font-size: .72rem;
+      font-weight: 800;
+    }
+
+    .legend {
+      width: 100%;
+      display: grid;
+      gap: 8px;
+      text-align: left;
+    }
+
+    .legend-row {
+      display: grid;
+      grid-template-columns: 12px 1fr auto;
+      gap: 9px;
+      align-items: center;
+      font-size: .9rem;
+    }
+
+    .dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+
+    .section {
+      padding: 26px;
+      margin-bottom: 22px;
+    }
+
+    .section h2 {
+      margin: 0 0 8px;
+      font-size: 1.45rem;
+      letter-spacing: -.025em;
+    }
+
+    .section-intro {
+      margin: 0 0 20px;
+      color: var(--muted);
+    }
+
+    .rules {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 14px;
+    }
+
+    .rule {
+      padding: 17px;
+      border: 1px solid var(--line);
+      border-radius: 16px;
+      background: linear-gradient(180deg, #fff, #f8fafc);
+    }
+
+    .rule strong {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .rule p {
+      margin: 0;
+      color: var(--muted);
+      font-size: .91rem;
+    }
+
+    .week {
+      display: grid;
+      gap: 18px;
+    }
+
+    .day {
+      overflow: hidden;
+    }
+
+    .day-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 19px 22px;
+      border-bottom: 1px solid var(--line);
+      background: linear-gradient(90deg, #fff, #f7f9fd);
+    }
+
+    .day-name {
+      margin: 0;
+      font-size: 1.2rem;
+    }
+
+    .day-focus {
+      margin-top: 3px;
+      color: var(--muted);
+      font-size: .87rem;
+    }
+
+    .daily-total {
+      padding: 8px 12px;
+      border-radius: 999px;
+      color: white;
+      background: #111827;
+      white-space: nowrap;
+      font-size: .78rem;
+      font-weight: 900;
+    }
+
+    .blocks {
+      padding: 18px 22px 22px;
+      display: grid;
+      grid-template-columns: 2fr 1fr;
+      gap: 14px;
+    }
+
+    .block {
+      border: 1px solid var(--line);
+      border-radius: 17px;
+      overflow: hidden;
+      background: white;
+    }
+
+    .block-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 12px 14px;
+      font-weight: 900;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .block-title.morning { background: #fffbeb; color: #92400e; }
+    .block-title.evening { background: #eef2ff; color: #3730a3; }
+
+    .block-time {
+      font-size: .78rem;
+      font-weight: 850;
+      opacity: .82;
+    }
+
+    .session {
+      display: grid;
+      grid-template-columns: 118px 1fr auto;
+      gap: 13px;
+      align-items: start;
+      padding: 14px;
+      border-bottom: 1px solid #edf1f6;
+    }
+
+    .session:last-child { border-bottom: 0; }
+
+    .skill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-weight: 950;
+    }
+
+    .skill::before {
+      content: "";
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background: currentColor;
+      flex: 0 0 auto;
+    }
+
+    .speaking { color: var(--speaking); }
+    .writing { color: var(--writing); }
+    .reading { color: var(--reading); }
+    .listening { color: var(--listening); }
+
+    .task {
+      color: #344054;
+      font-size: .93rem;
+    }
+
+    .minutes {
+      color: var(--muted);
+      white-space: nowrap;
+      font-size: .84rem;
+      font-weight: 900;
+    }
+
+    .progress-panel {
+      margin-top: 24px;
+      padding-top: 22px;
+      border-top: 1px solid var(--line);
+    }
+
+    .progress-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      margin-bottom: 9px;
+      font-weight: 900;
+    }
+
+    .progress {
+      height: 13px;
+      border-radius: 999px;
+      overflow: hidden;
+      background: #e7edf5;
+    }
+
+    .progress-bar {
+      width: 0;
+      height: 100%;
+      background: linear-gradient(90deg, #4f46e5, #7c3aed);
+      transition: width .25s ease;
+    }
+
+    .checks {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .check {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 9px 12px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      background: white;
+      font-size: .89rem;
+      cursor: pointer;
+      user-select: none;
+    }
+
+    .check input { accent-color: var(--accent); }
+
+    .note {
+      margin-top: 22px;
+      padding: 16px 18px;
+      border-left: 4px solid var(--accent);
+      border-radius: 12px;
+      background: #f5f3ff;
+      color: #4338ca;
+      font-size: .92rem;
+    }
+
+    .footer {
+      text-align: center;
+      color: var(--muted);
+      font-size: .88rem;
+      margin-top: 25px;
+    }
+
+    @media (max-width: 900px) {
+      .hero { grid-template-columns: 1fr; }
+      .rules { grid-template-columns: 1fr; }
+      .blocks { grid-template-columns: 1fr; }
+    }
+
+    @media (max-width: 580px) {
+      .page {
+        width: min(100% - 20px, 1180px);
+        padding-top: 18px;
+      }
+
+      .hero-main, .allocation, .section { padding: 20px; }
+
+      .day-head {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .session {
+        grid-template-columns: 1fr auto;
+      }
+
+      .task {
+        grid-column: 1 / -1;
+      }
+    }
+
+    @media print {
+      body { background: white; }
+      .card { box-shadow: none; }
+      .progress-panel { display: none; }
+      .page { width: 100%; }
+      .day { break-inside: avoid; }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="page">
+    <section class="hero">
+      <article class="card hero-main">
+        <span class="eyebrow">IELTS · Month 1 · Flexible Mode</span>
+        <h1>Flexible 3-Hour Daily Study Plan</h1>
+        <p class="lead">
+          You no longer need to study for three continuous hours. Each day is divided into a
+          high-focus morning block and a lighter evening block, while the total still equals three hours.
+        </p>
+        <div class="hero-tags">
+          <span class="tag">3 hours per day</span>
+          <span class="tag">2 hours morning + 1 hour evening</span>
+          <span class="tag">Speaking + Writing ≈ 60%</span>
+          <span class="tag">Monday–Sunday</span>
+        </div>
+      </article>
+
+      <aside class="card allocation">
+        <div class="donut" aria-label="Weekly IELTS skill allocation">
+          <div class="donut-label">21 hours<small>weekly total</small></div>
+        </div>
+
+        <div class="legend">
+          <div class="legend-row">
+            <span class="dot" style="background:var(--speaking)"></span>
+            <span>Speaking</span>
+            <strong>6 h 15 m</strong>
+          </div>
+          <div class="legend-row">
+            <span class="dot" style="background:var(--writing)"></span>
+            <span>Writing</span>
+            <strong>6 h 15 m</strong>
+          </div>
+          <div class="legend-row">
+            <span class="dot" style="background:var(--reading)"></span>
+            <span>Reading</span>
+            <strong>5 h 15 m</strong>
+          </div>
+          <div class="legend-row">
+            <span class="dot" style="background:var(--listening)"></span>
+            <span>Listening</span>
+            <strong>3 h 15 m</strong>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="card section">
+      <h2>How this flexible plan works</h2>
+      <p class="section-intro">
+        Suggested times are only examples. You may move the morning block earlier or later and move
+        the evening block to the final hour of your day. Keep the order of difficulty whenever possible.
+      </p>
+
+      <div class="rules">
+        <div class="rule">
+          <strong>Morning: demanding work</strong>
+          <p>Timed writing, active speaking, detailed correction, and difficult reading tasks go here.</p>
+        </div>
+        <div class="rule">
+          <strong>Evening: lighter work</strong>
+          <p>Listening, shadowing, vocabulary review, error-log review, and relaxed reading go here.</p>
+        </div>
+        <div class="rule">
+          <strong>Daily target: exactly 180 minutes</strong>
+          <p>You can pause between activities. The two blocks do not need to be connected.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="card section">
+      <h2>Monday–Sunday schedule</h2>
+      <p class="section-intro">
+        Default split: <strong>06:30–08:30</strong> and <strong>21:00–22:00</strong>.
+        Adjust both windows to fit your real routine.
+      </p>
+
+      <div class="week">
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Monday</h3>
+              <div class="day-focus">Start the week with analytical writing and focused reading.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 06:30–08:30</span>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Task 2: plan, write, and revise one essay. Focus on thesis, topic sentences, grammar, and cohesion.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Complete one timed passage and record why each wrong answer was wrong.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Replay a short section, check the transcript, and note useful phrases.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Give a relaxed spoken summary of the essay topic without strict timing.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Tuesday</h3>
+              <div class="day-focus">Use fresh morning energy for active speaking.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 06:30–08:30</span>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Practise Parts 2 and 3, record answers, identify pauses, and repeat improved versions.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Do close reading: sentence structure, references, paraphrases, and keywords.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Listen once for meaning and once for detail, then shadow selected sentences.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Review five weak sentences and rewrite them more naturally.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Wednesday</h3>
+              <div class="day-focus">Combine Task 1 writing with controlled speaking practice.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 06:30–08:30</span>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Task 1: analyse the visual, write a full response, and improve the overview and comparisons.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Part 1 speed practice and one Part 2 cue card with self-correction.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Review vocabulary in context and collect useful paraphrases from one passage.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Use NotebookLM or an IELTS recording for relaxed listening and transcript checking.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Thursday</h3>
+              <div class="day-focus">A speaking-heavy morning followed by light input at night.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 06:30–08:30</span>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Complete a mock speaking test, review pronunciation, and repeat weak answers.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Practise introductions, conclusions, topic sentences, or one recurring grammar weakness.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Complete one short listening section and shadow the most useful lines.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Read an article without timing and summarize its main idea mentally.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Friday</h3>
+              <div class="day-focus">Timed writing and reading before a lighter evening review.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 06:30–08:30</span>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Write a timed Task 2 essay and correct it with your personal error checklist.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Complete one timed passage and locate exact evidence for every answer.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Retell the essay argument aloud and answer two related Part 3 questions.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Listen to a familiar topic and focus on connected speech and pronunciation.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Saturday</h3>
+              <div class="day-focus">Longer speaking practice with lighter consolidation at night.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 07:30–09:30</span>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Full mock test, recording review, pronunciation drills, and improved second attempts.</div>
+                <div class="minutes">75 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Read one article and identify its structure, argument, and useful expressions.</div>
+                <div class="minutes">45 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 21:00–22:00</span>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Rewrite weak sentences from the week and save useful sentence patterns.</div>
+                <div class="minutes">30 min</div>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Listen for enjoyment, then write down five phrases you understood clearly.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="card day">
+          <header class="day-head">
+            <div>
+              <h3 class="day-name">Sunday</h3>
+              <div class="day-focus">Balanced consolidation and a lower-pressure end to the week.</div>
+            </div>
+            <span class="daily-total">180 minutes</span>
+          </header>
+          <div class="blocks">
+            <section class="block">
+              <div class="block-title morning">
+                <span>☀ Morning · High focus</span>
+                <span class="block-time">Example: 08:00–10:00</span>
+              </div>
+              <div class="session">
+                <div class="skill writing">Writing</div>
+                <div class="task">Review the weekly error log and rewrite the most important mistakes correctly.</div>
+                <div class="minutes">45 min</div>
+              </div>
+              <div class="session">
+                <div class="skill speaking">Speaking</div>
+                <div class="task">Give a weekly reflection and reuse vocabulary learned during the week.</div>
+                <div class="minutes">45 min</div>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Review difficult question types and the paraphrases that caused mistakes.</div>
+                <div class="minutes">30 min</div>
+              </div>
+            </section>
+
+            <section class="block">
+              <div class="block-title evening">
+                <span>🌙 Evening · Lower pressure</span>
+                <span class="block-time">Example: 20:30–21:30</span>
+              </div>
+              <div class="session">
+                <div class="skill reading">Reading</div>
+                <div class="task">Read something interesting without timing and focus on overall meaning.</div>
+                <div class="minutes">45 min</div>
+              </div>
+              <div class="session">
+                <div class="skill listening">Listening</div>
+                <div class="task">Use NotebookLM for relaxed listening and finish the week without heavy testing.</div>
+                <div class="minutes">15 min</div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+      </div>
+
+      <div class="progress-panel">
+        <div class="progress-top">
+          <span>Weekly completion</span>
+          <span id="progressText">0 / 14 blocks</span>
+        </div>
+        <div class="progress">
+          <div class="progress-bar" id="progressBar"></div>
+        </div>
+        <div class="checks" id="checks"></div>
+      </div>
+
+      <div class="note">
+        <strong>Flexibility rule:</strong> On a busy day, you may split the morning block into two smaller
+        sessions, but keep demanding tasks earlier and complete the remaining lighter work near the end of the day.
+        The daily total should still reach 180 minutes.
+      </div>
+    </section>
+
+    <p class="footer">
+      Month 1 objective: build consistency first, then increase difficulty gradually without sacrificing recovery.
+    </p>
+  </main>
+
+  <script>
+    const blocks = [
+      "Mon morning", "Mon evening",
+      "Tue morning", "Tue evening",
+      "Wed morning", "Wed evening",
+      "Thu morning", "Thu evening",
+      "Fri morning", "Fri evening",
+      "Sat morning", "Sat evening",
+      "Sun morning", "Sun evening"
+    ];
+
+    const checks = document.getElementById("checks");
+    const progressBar = document.getElementById("progressBar");
+    const progressText = document.getElementById("progressText");
+    const storageKey = "ieltsFlexibleMonth1Progress";
+    const saved = JSON.parse(localStorage.getItem(storageKey) || "[]");
+
+    blocks.forEach((label, index) => {
+      const item = document.createElement("label");
+      item.className = "check";
+      item.innerHTML = `<input class="block-check" type="checkbox" ${saved[index] ? "checked" : ""}> ${label}`;
+      checks.appendChild(item);
+    });
+
+    function updateProgress() {
+      const inputs = [...document.querySelectorAll(".block-check")];
+      const complete = inputs.filter(input => input.checked).length;
+      progressBar.style.width = `${(complete / inputs.length) * 100}%`;
+      progressText.textContent = `${complete} / ${inputs.length} blocks`;
+      localStorage.setItem(storageKey, JSON.stringify(inputs.map(input => input.checked)));
+    }
+
+    document.querySelectorAll(".block-check").forEach(input => {
+      input.addEventListener("change", updateProgress);
+    });
+
+    updateProgress();
+  </script>
+</body>
+</html>
