@@ -17842,3 +17842,172 @@ Common structures:
 ### Notes
 
 Use `He is likely to come` or `He will probably come`. Do not say `He is likely come`. In standard British English, avoid using `likely` directly before a main verb as in `He likely comes`; this adverbial use is more common in North American English.
+
+---
+
+## 324. Be the same as /biː ðə ˈseɪm æz/
+
+* **Part of speech:** linking-verb phrase; adjective phrase
+* **Vietnamese meaning:** giống hệt, y như, không khác với *(80%)*; tương đương với về giá trị, đặc điểm hoặc tác dụng *(20%)*
+
+### Usage
+
+`Be the same as` is used to say that two people, things, quantities, or situations are identical or equal in a particular way. The article `the` is normally required before `same`.
+
+Common structures:
+
+* `A + be the same as + B`: A giống/tương đương với B
+* `A + be exactly the same as + B`: A giống hệt B
+* `A + be not the same as + B`: A không giống/không phải là một với B
+* `A + be roughly/almost the same as + B`: A gần như xấp xỉ/giống B
+
+### Examples
+
+1. **Working from home is not the same as working in an office.**
+   → Làm việc tại nhà không giống với làm việc trong văn phòng.
+
+2. **The tuition fee this year is the same as last year's.**
+   → Học phí năm nay bằng với học phí năm ngoái.
+
+### Common collocations
+
+* **exactly the same as**: giống hệt với
+* **roughly the same as**: gần giống/xấp xỉ bằng
+* **not quite the same as**: không hoàn toàn giống với
+
+### Synonyms
+
+* **be identical to** /bi aɪˈden.tɪ.kəl tuː/ *(adjective phrase)*: giống hệt với; nhấn mạnh không có sự khác biệt
+* **be equivalent to** /bi ɪˈkwɪv.əl.ənt tuː/ *(adjective phrase)*: tương đương với về giá trị, ý nghĩa hoặc tác dụng
+* **be no different from** /bi nəʊ ˈdɪf.ər.ənt frəm/ *(adjective phrase)*: không khác với
+* **match** /mætʃ/ *(transitive/intransitive verb)*: giống, tương xứng hoặc khớp với
+
+### Word family
+
+* **same** /seɪm/ *(adjective/pronoun/adverb)*: giống nhau; cùng một  
+  *Example:* Both proposals have the same objective.  
+  → Cả hai đề xuất đều có cùng một mục tiêu.
+
+* **sameness** /ˈseɪm.nəs/ *(uncountable noun)*: sự giống nhau, tính đồng nhất  
+  *Example:* Too much sameness can make urban architecture feel monotonous.  
+  → Quá nhiều sự đồng nhất có thể khiến kiến trúc đô thị trở nên đơn điệu.
+
+* **selfsame** /ˈself.seɪm/ *(adjective)*: chính cùng một, đúng y như vậy  
+  *Example:* They returned to the selfsame place ten years later.  
+  → Mười năm sau, họ quay lại chính nơi đó.
+
+### Notes
+
+The natural form is `be the same as`, not `be same as` and not `be the same with`. Compare: `My answer is the same as yours.` Before a noun, `same` still normally takes `the` (`the same answer`), although compounds such as `same-day delivery` do not.
+
+---
+
+## 325. These days /ðiːz ˈdeɪz/
+
+* **Part of speech:** adverb phrase; time expression
+* **Vietnamese meaning:** ngày nay, dạo này, trong thời gian hiện tại *(100%)*
+
+### Usage
+
+`These days` refers to the present period, often in contrast with how things were in the past. It is common in both speaking and writing and can appear at the beginning or end of a clause.
+
+Common structures:
+
+* `These days, + clause`: ngày nay/dạo này, ...
+* `subject + present simple + these days`: ngày nay chủ ngữ thường làm gì
+* `subject + be + verb-ing + these days`: dạo này chủ ngữ đang làm gì
+
+### Examples
+
+1. **These days, many people use mobile apps to manage their finances.**
+   → Ngày nay, nhiều người sử dụng ứng dụng di động để quản lý tài chính.
+
+2. **I don't watch much television these days.**
+   → Dạo này tôi không xem truyền hình nhiều.
+
+### Common collocations
+
+* **especially these days**: đặc biệt là ngày nay
+* **not much these days**: dạo này không nhiều
+* **busy these days**: dạo này bận rộn
+
+### Synonyms
+
+* **nowadays** /ˈnaʊ.ə.deɪz/ *(adverb)*: ngày nay; gần nghĩa nhất và hơi phù hợp với văn viết hơn
+* **currently** /ˈkʌr.ənt.li/ *(adverb)*: hiện tại, vào đúng thời điểm này; thường nói về tình trạng tạm thời hoặc cụ thể
+* **at present** /ət ˈprez.ənt/ *(adverb phrase)*: hiện nay; trang trọng hơn
+* **lately** /ˈleɪt.li/ *(adverb)*: gần đây, dạo gần đây; thường dùng với thì hiện tại hoàn thành và không hoàn toàn đồng nghĩa
+
+### Word family
+
+* **day** /deɪ/ *(countable noun)*: ngày  
+  *Example:* The average working day lasts about eight hours.  
+  → Một ngày làm việc trung bình kéo dài khoảng tám giờ.
+
+* **daily** /ˈdeɪ.li/ *(adjective/adverb/noun)*: hằng ngày; mỗi ngày; báo hằng ngày  
+  *Example:* Daily practice can improve speaking fluency.  
+  → Việc luyện tập hằng ngày có thể cải thiện độ trôi chảy khi nói.
+
+* **nowadays** /ˈnaʊ.ə.deɪz/ *(adverb)*: ngày nay  
+  *Example:* Nowadays, students can access lectures online.  
+  → Ngày nay, sinh viên có thể truy cập các bài giảng trực tuyến.
+
+### Notes
+
+`These days` often suggests a comparison with the past: `People shop online more these days.` `Currently` usually focuses on a specific present situation: `The store is currently closed.` Do not say `in these days` when you mean `nowadays`.
+
+---
+
+## 326. No longer UK /nəʊ ˈlɒŋ.ɡər/ US /noʊ ˈlɑːŋ.ɡɚ/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** không còn nữa, một tình trạng hoặc hành động từng đúng nhưng nay đã chấm dứt *(100%)*
+
+### Usage
+
+`No longer` says that something happened or was true in the past but has now stopped or changed. It normally comes before a main verb but after the verb `be`.
+
+Common structures:
+
+* `subject + no longer + main verb`: chủ ngữ không còn làm gì nữa
+* `subject + be + no longer + adjective/noun`: chủ ngữ không còn ở trạng thái/là điều gì nữa
+* `no longer be able to + verb`: không còn có thể làm gì nữa
+
+### Examples
+
+1. **Many consumers no longer carry cash because digital payments are widely accepted.**
+   → Nhiều người tiêu dùng không còn mang tiền mặt vì thanh toán điện tử được chấp nhận rộng rãi.
+
+2. **The old factory is no longer in operation.**
+   → Nhà máy cũ không còn hoạt động nữa.
+
+### Common collocations
+
+* **no longer available**: không còn có sẵn
+* **no longer necessary**: không còn cần thiết
+* **no longer able to**: không còn có thể
+
+### Synonyms
+
+* **not anymore** /nɒt ˌen.iˈmɔːr/ *(adverb phrase)*: không còn nữa; rất phổ biến trong hội thoại và thường đứng cuối câu
+* **not any longer** /nɒt ˌen.i ˈlɒŋ.ɡər/ *(adverb phrase)*: không còn nữa; thường đứng cuối câu
+* **have ceased to** /hæv ˈsiːst tuː/ *(verb phrase)*: đã ngừng làm gì; trang trọng hơn
+* **be over** /bi ˈəʊ.vər/ *(adjective phrase)*: đã kết thúc; chỉ dùng khi nói một sự kiện hoặc giai đoạn đã chấm dứt
+
+### Word family
+
+* **long** /lɒŋ/ *(adjective/adverb)*: dài, lâu  
+  *Example:* The recovery process may take a long time.  
+  → Quá trình hồi phục có thể mất nhiều thời gian.
+
+* **longer** /ˈlɒŋ.ɡər/ *(comparative adjective/adverb)*: dài hơn, lâu hơn  
+  *Example:* People are living longer because of improvements in healthcare.  
+  → Con người đang sống lâu hơn nhờ những cải thiện trong chăm sóc sức khỏe.
+
+* **length** /leŋθ/ *(countable/uncountable noun)*: chiều dài; khoảng thời gian  
+  *Example:* The length of the course depends on the learner's level.  
+  → Thời lượng khóa học phụ thuộc vào trình độ của người học.
+
+### Notes
+
+Place `no longer` before a main verb (`She no longer works here`) but after `be` (`She is no longer employed here`). `Anymore` normally goes at the end of a negative sentence: `She doesn't work here anymore.` Avoid the double negative `She doesn't no longer work here`.
