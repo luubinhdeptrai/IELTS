@@ -586,3 +586,459 @@ Fill each blank with `ever`, `never`, `hardly ever`, or `ever since`.
 4. `I started exercising last year and have exercised regularly ever since.`
 
 ---
+
+## 2. Of vs In After Superlatives
+
+### 2.1 Grammar Category
+
+* **Grammar point:** choosing `of` or `in` after a superlative
+* **Category:** superlative structure; prepositional complement
+* **Core contrast:** `of` selects one member from an explicit set; `in` places the comparison inside a location, organization, field, or period.
+* **Register:** both structures are neutral and common in speaking and writing.
+
+### 2.2 Direct Answer
+
+The natural sentence for comparing three specific days is:
+
+✅ `It's the hottest of the three days.`  
+**Vietnamese:** Đây là ngày nóng nhất trong ba ngày đó.
+
+An even clearer version is:
+
+✅ `Today is the hottest of the three days.`  
+**Vietnamese:** Hôm nay là ngày nóng nhất trong ba ngày đó.
+
+Here, `of the three days` gives us a **closed, clearly counted set**:
+
+* day 1
+* day 2
+* day 3
+
+One of those three days is hotter than the other two. We therefore use `of` to mean **among the members of that specific set**.
+
+`It's the hottest in three days` does not normally mean exactly the same thing. The phrase `in three days` is usually understood as a time expression meaning **three days from now**, or it may describe a three-day time window when context makes that meaning clear. It does not directly present `three days` as three individual choices.
+
+### 2.3 Pattern 1: Superlative + Of + Explicit Group
+
+**Pattern:**
+
+`the + superlative + (noun) + of + the/these/those/possessive + plural group`
+
+**Meaning:**
+
+Use `of` when choosing one person or thing from a **specific and limited group whose members can be counted individually**.
+
+Common group expressions include:
+
+* `of the three days`: trong ba ngày đó
+* `of these options`: trong số những lựa chọn này
+* `of all the students`: trong tất cả học sinh
+* `of my three brothers`: trong ba người anh/em trai của tôi
+* `of them all`: trong tất cả bọn họ/chúng
+
+**Examples:**
+
+1. `Today is the hottest of the three days.`  
+   **Vietnamese:** Hôm nay là ngày nóng nhất trong ba ngày đó.
+
+2. `This is the cheapest of the four options.`  
+   **Vietnamese:** Đây là lựa chọn rẻ nhất trong bốn lựa chọn.
+
+3. `Lan is the most experienced of all the candidates.`  
+   **Vietnamese:** Lan là người có kinh nghiệm nhất trong tất cả các ứng viên.
+
+4. `Which of these routes is the shortest?`  
+   **Vietnamese:** Tuyến đường nào ngắn nhất trong số những tuyến này?
+
+**Why `the` is useful in the original sentence:**
+
+`The three days` refers to three days already known or already mentioned. Without a determiner, `of three days` may be possible in a special context, but it does not clearly identify the particular set.
+
+Less clear:
+
+△ `It's the hottest of three days.`  
+**Vietnamese intended meaning:** Đây là ngày nóng nhất trong ba ngày.
+
+Clear and natural:
+
+✅ `It's the hottest of the three days.`  
+**Vietnamese:** Đây là ngày nóng nhất trong ba ngày đó.
+
+### 2.4 Pattern 2: Superlative + In + Place, Group, or Field
+
+**Pattern:**
+
+`the + superlative + noun + in + singular place/group/field`
+
+**Meaning:**
+
+Use `in` when defining the **area, organization, category, or field inside which the comparison is true**. The noun after `in` is often singular and represents a whole domain rather than a list of individual members.
+
+Common scope expressions include:
+
+* `in the class`: trong lớp
+* `in the team`: trong đội (common in British English; American English often uses `on the team`)
+* `in the city`: trong thành phố
+* `in the world`: trên thế giới
+* `in the industry`: trong ngành
+* `in this category`: trong hạng mục này
+
+**Examples:**
+
+1. `Mia is the tallest student in the class.`  
+   **Vietnamese:** Mia là học sinh cao nhất trong lớp.
+
+2. `This is the busiest restaurant in the neighborhood.`  
+   **Vietnamese:** Đây là nhà hàng đông khách nhất trong khu phố.
+
+3. `He is one of the most respected doctors in the field.`  
+   **Vietnamese:** Ông ấy là một trong những bác sĩ được kính trọng nhất trong lĩnh vực này.
+
+4. `Mount Everest is the highest mountain in the world.`  
+   **Vietnamese:** Núi Everest là ngọn núi cao nhất thế giới.
+
+**Key idea:**
+
+`In the class` treats the class as one organization or environment. If you explicitly count the students, use `of`:
+
+* `She is the tallest student in the class.`  
+  **Vietnamese:** Cô ấy là học sinh cao nhất trong lớp.
+
+* `She is the tallest of the thirty students.`  
+  **Vietnamese:** Cô ấy cao nhất trong số ba mươi học sinh.
+
+### 2.5 Time Expressions: Of the Three Days vs In Three Days
+
+Time expressions require special attention because both `of` and `in` can be grammatical, but they organize the comparison differently.
+
+#### A. Of + Specific Set of Days
+
+**Pattern:**
+
+`the + superlative + of + the + number + days`
+
+Use this when the days are treated as individual members of one known set.
+
+**Examples:**
+
+1. `Tuesday was the coldest of the three days.`  
+   **Vietnamese:** Thứ Ba là ngày lạnh nhất trong ba ngày đó.
+
+2. `The second day was the most tiring of the entire trip.`  
+   **Vietnamese:** Ngày thứ hai là ngày mệt nhất trong toàn bộ chuyến đi.
+
+#### B. In + Explicit Time Window
+
+**Pattern:**
+
+`the + superlative + noun + in + the last/past + period`
+
+Use this when the comparison is located within a continuous time window.
+
+**Examples:**
+
+1. `Today is the hottest day in the last three days.`  
+   **Vietnamese:** Hôm nay là ngày nóng nhất trong ba ngày vừa qua.
+
+2. `This is the busiest week we've had in six months.`  
+   **Vietnamese:** Đây là tuần bận rộn nhất của chúng tôi trong sáu tháng qua.
+
+3. `It is the hottest it has been in three days.`  
+   **Vietnamese:** Đây là mức nóng nhất trong ba ngày qua.
+
+In the third example, `in three days` means **during the most recent three-day period**. The structure `the hottest it has been` makes that meaning clear.
+
+#### C. In Three Days = Three Days From Now
+
+Without a superlative comparison, `in three days` commonly means **sau ba ngày nữa**.
+
+**Examples:**
+
+1. `The weather will be hot in three days.`  
+   **Vietnamese:** Thời tiết sẽ nóng sau ba ngày nữa.
+
+2. `The course starts in three days.`  
+   **Vietnamese:** Khóa học sẽ bắt đầu sau ba ngày nữa.
+
+This future-time meaning is one reason `It's the hottest in three days` can sound unclear without context.
+
+### 2.6 Comparing the Main Sentences
+
+| Sentence | Meaning | Vietnamese | Naturalness |
+| -------- | ------- | ---------- | ----------- |
+| `It's the hottest of the three days.` | It is hotter than the other two specific days. | Đây là ngày nóng nhất trong ba ngày đó. | Natural and clear. |
+| `It's the hottest of three days.` | It is the hottest among a set of three days, but the set is not clearly identified. | Đây là ngày nóng nhất trong một nhóm ba ngày chưa được xác định rõ. | Possible in special context, but usually less natural. |
+| `It's the hottest in three days.` | It may mean the highest temperature during a three-day window, but the wording is context-dependent and can sound incomplete. | Đây là mức nóng nhất trong ba ngày, nhưng nghĩa phụ thuộc vào ngữ cảnh. | Possible, but ambiguous without context. |
+| `It's the hottest it has been in three days.` | The temperature is now higher than at any other time in the last three days. | Đây là mức nóng nhất trong ba ngày qua. | Natural and clear. |
+| `It will be hot in three days.` | The weather will be hot three days from now. | Trời sẽ nóng sau ba ngày nữa. | Natural, but it is not a superlative comparison. |
+
+**Vietnamese summary:**
+
+* `of the three days` = **trong số ba ngày cụ thể đó**.
+* `in the last three days` = **trong khoảng thời gian ba ngày vừa qua**.
+* `in three days` with a future verb = **sau ba ngày nữa**.
+
+### 2.7 Of vs In With Time Periods
+
+English also has conventional combinations that should be learned as chunks.
+
+#### Common Uses of Of
+
+* `the best day of my life`: ngày tuyệt vời nhất đời tôi
+* `the hottest month of the year`: tháng nóng nhất trong năm
+* `the busiest day of the week`: ngày bận rộn nhất trong tuần
+* `the most important event of the decade`: sự kiện quan trọng nhất thập kỷ
+
+**Examples:**
+
+1. `Graduation was one of the proudest days of my life.`  
+   **Vietnamese:** Ngày tốt nghiệp là một trong những ngày đáng tự hào nhất đời tôi.
+
+2. `July is usually the hottest month of the year.`  
+   **Vietnamese:** Tháng Bảy thường là tháng nóng nhất trong năm.
+
+#### Common Uses of In
+
+* `the highest temperature in 2025`: nhiệt độ cao nhất trong năm 2025
+* `the biggest increase in a decade`: mức tăng lớn nhất trong một thập kỷ
+* `the best performance in recent years`: màn trình diễn tốt nhất trong những năm gần đây
+* `the coldest night in living memory`: đêm lạnh nhất trong ký ức của những người còn sống
+
+**Examples:**
+
+1. `The city recorded its highest temperature in 2025.`  
+   **Vietnamese:** Thành phố ghi nhận mức nhiệt cao nhất trong năm 2025.
+
+2. `This was the company's strongest performance in a decade.`  
+   **Vietnamese:** Đây là kết quả hoạt động tốt nhất của công ty trong một thập kỷ.
+
+**Important note:**
+
+There is no rule saying that every time expression must use only `of` or only `in`. The choice depends on meaning and common collocation:
+
+* `of` often presents an item as belonging to a set or period.
+* `in` often places a record, event, or comparison within a time span.
+
+### 2.8 Word Position
+
+#### With Of
+
+`subject + be + the + superlative + (noun) + of + explicit plural group`
+
+1. `This route is the shortest of the four.`  
+   **Vietnamese:** Tuyến đường này ngắn nhất trong bốn tuyến.
+
+2. `She is the youngest of my cousins.`  
+   **Vietnamese:** Cô ấy nhỏ tuổi nhất trong số các anh chị em họ của tôi.
+
+The noun after the superlative can be omitted when it is already understood:
+
+* `This is the cheapest option of the four options.` — grammatically possible but repetitive.
+* `This is the cheapest of the four.` — shorter and more natural.
+
+**Vietnamese:** Đây là lựa chọn rẻ nhất trong bốn lựa chọn.
+
+#### With In
+
+`subject + be + the + superlative + noun + in + scope/place/field`
+
+1. `She is the fastest runner in the club.`  
+   **Vietnamese:** Cô ấy là người chạy nhanh nhất trong câu lạc bộ.
+
+2. `It is the oldest building in the city.`  
+   **Vietnamese:** Đó là tòa nhà cổ nhất trong thành phố.
+
+### 2.9 Comparison With Among
+
+`Among` can also mean `in the middle of a group`, but after a superlative, `of` is usually more concise and idiomatic for a small, fixed, explicitly counted set.
+
+1. `She is the tallest of the three sisters.`  
+   **Vietnamese:** Cô ấy cao nhất trong ba chị em.
+
+2. `She is the tallest among the three sisters.`  
+   **Vietnamese:** Cô ấy cao nhất trong ba chị em.
+
+Both are grammatical, but the first sentence is generally more natural.
+
+`Among` is useful when discussing membership in a broader or less neatly counted group:
+
+3. `This issue is among the most serious problems facing the city.`  
+   **Vietnamese:** Vấn đề này nằm trong số những vấn đề nghiêm trọng nhất mà thành phố đang đối mặt.
+
+### 2.10 Formal and Informal Usage
+
+Both `of` and `in` after superlatives are neutral. The main difference is precision, not formality.
+
+* In conversation, the compared noun is often omitted when understood: `She's the tallest of the three.`
+* In formal writing, name the comparison group clearly: `the highest rate among the four regions` or `the highest rate in the country`.
+* Avoid ambiguous time expressions in IELTS Writing. Prefer `in the last three years`, `during the three-day period`, or `of the three years shown`.
+* `The best ever` is conversational and emphatic; a defined comparison such as `the best of the three proposals` is more precise.
+
+### 2.11 Common Mistakes
+
+#### Mistake 1: Using In Before a Counted Group
+
+❌ `She is the tallest in the three girls.`
+
+✅ `She is the tallest of the three girls.`
+
+**Explanation:** `The three girls` is an explicit set of three individual people, so use `of`.
+
+#### Mistake 2: Using Of Before a Place or Organization
+
+❌ `He is the best player of the team.`
+
+✅ `He is the best player on the team.` *(American English)*
+
+✅ `He is the best player in the team.` *(British English)*
+
+✅ `He is the best of the twelve players on the team.`
+
+**Explanation:** Với `team`, tiếng Anh-Mỹ thường dùng `on the team`, còn tiếng Anh-Anh thường dùng `in the team`. Use `of` when comparing an explicit plural set such as `the twelve players`.
+
+#### Mistake 3: Omitting The From a Specific Counted Set
+
+△ `It's the hottest of three days.`
+
+✅ `It's the hottest of the three days.`
+
+**Explanation:** Add `the` when both speakers know which three days are being compared.
+
+#### Mistake 4: Creating an Ambiguous Time Phrase
+
+△ `It's the hottest in three days.`
+
+✅ `It's the hottest of the three days.`
+
+✅ `It's the hottest it has been in three days.`
+
+**Explanation:** The first correction compares three specific days. The second compares the current temperature with temperatures during the last three days.
+
+#### Mistake 5: Using a Double Superlative
+
+❌ `This is the most hottest day of the week.`
+
+✅ `This is the hottest day of the week.`
+
+**Explanation:** `Hottest` already contains the superlative ending `-est`, so do not add `most`.
+
+#### Mistake 6: Omitting The Before a Superlative
+
+❌ `Monday was hottest of the three days.`
+
+✅ `Monday was the hottest of the three days.`
+
+**Explanation:** A superlative normally takes `the` when identifying one member as the highest or lowest in a group.
+
+#### Mistake 7: Using Of After One of the
+
+❌ `It is one of the safest city in the country.`
+
+✅ `It is one of the safest cities in the country.`
+
+**Explanation:** After `one of the + superlative`, use a plural noun: `one of the safest cities`.
+
+### 2.12 Quick Summary
+
+| Structure | Use | Example | Vietnamese |
+| --------- | --- | ------- | ---------- |
+| `the + superlative + of + explicit plural set` | Select one member from a known, countable group | `the tallest of the three` | cao nhất trong ba người/vật đó |
+| `the + superlative + noun + in + place/group` | Compare within a location or organization | `the tallest student in the class` | học sinh cao nhất trong lớp |
+| `the + superlative + noun + in + time span` | Locate a record within a period | `the highest rate in ten years` | tỷ lệ cao nhất trong mười năm |
+| `the + superlative + noun + of + period` | Select an item belonging to a period | `the hottest month of the year` | tháng nóng nhất trong năm |
+| `in + amount of time` | Say when a future event will happen | `The course starts in three days.` | Khóa học bắt đầu sau ba ngày nữa. |
+
+### 2.13 Practice Exercises
+
+#### Exercise A: Choose Of or In
+
+1. She is the youngest _______ the four sisters.
+2. This is the most popular cafe _______ the neighborhood.
+3. Friday was the busiest _______ the three days.
+4. He is the fastest runner _______ the school.
+5. July was the hottest month _______ the year.
+6. This is the largest increase _______ five years.
+7. Which is the cheapest _______ these laptops?
+8. It is one of the oldest temples _______ the country.
+
+#### Exercise B: Choose the Intended Meaning
+
+1. `Tuesday is the hottest of the three days.` means:
+   - A. Tuesday will arrive after three days.
+   - B. Tuesday is hotter than the other two identified days.
+
+2. `The course starts in three days.` means:
+   - A. The course starts three days from now.
+   - B. The course is the best of three courses.
+
+3. `It is the hottest it has been in three days.` means:
+   - A. The current temperature is the highest during the recent three-day period.
+   - B. The weather will become hottest three days from now.
+
+#### Exercise C: Correct the Errors
+
+1. `Mai is the tallest in the five students.`
+2. `This is the most cheapest option.`
+3. `He is best player of the team.`
+4. `Sunday was hottest of the three days.`
+5. `This is one of the busiest restaurant in the city.`
+6. `It is the highest of the world.`
+
+#### Exercise D: Vietnamese to English
+
+1. Hôm nay là ngày nóng nhất trong ba ngày đó.
+2. Cô ấy là học sinh chăm chỉ nhất trong lớp.
+3. Đây là lựa chọn tốt nhất trong bốn lựa chọn.
+4. Đây là mức giá cao nhất trong năm năm qua.
+5. Cuộc họp sẽ diễn ra sau ba ngày nữa.
+6. Tháng Tám là tháng bận rộn nhất trong năm.
+
+### 2.14 Answer Key
+
+#### Exercise A
+
+1. `of` — `the four sisters` is an explicit counted set.
+2. `in` — `the neighborhood` is a place.
+3. `of` — the sentence compares three identified days.
+4. `in` — `the school` is an organization or environment.
+5. `of` — `the hottest month of the year` is the conventional part-to-period structure.
+6. `in` — the increase is located within a five-year time span.
+7. `of` — `these laptops` is a specific plural set.
+8. `in` — `the country` is a geographical area.
+
+#### Exercise B
+
+1. **B.** It compares Tuesday with the other two days.
+2. **A.** `In three days` tells us when the course will start.
+3. **A.** The structure compares the current temperature with the recent three-day period.
+
+#### Exercise C
+
+1. `Mai is the tallest of the five students.`  
+   Use `of` before an explicit counted set.
+
+2. `This is the cheapest option.`  
+   Do not combine `most` with an `-est` superlative.
+
+3. `He is the best player on the team.`  
+   Add `the`; American English normally uses `on the team` (British English: `in the team`).
+
+4. `Sunday was the hottest of the three days.`  
+   Add `the` before the superlative.
+
+5. `This is one of the busiest restaurants in the city.`  
+   Use a plural noun after `one of the + superlative`.
+
+6. `It is the highest mountain in the world.`  
+   Use `in` for the scope `the world`, and include the understood noun for clarity.
+
+#### Exercise D
+
+1. `Today is the hottest of the three days.`
+2. `She is the hardest-working student in the class.`
+3. `This is the best of the four options.`
+4. `This is the highest price in five years.`
+5. `The meeting will take place in three days.`
+6. `August is the busiest month of the year.`
+
+---
