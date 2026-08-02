@@ -21565,3 +21565,64 @@ Common structures:
 ### Notes
 
 `On purpose` and `purposely` mean intentionally. `Purposefully` often means with clear determination: `She walked purposefully into the room.` The opposite of `on purpose` is `by accident`.
+
+---
+
+## 390. Case /keɪs/
+
+* **Part of speech:** countable noun; transitive verb *(rare/informal in this sense)*
+* **Vietnamese meaning:** trường hợp, tình huống hoặc ví dụ cụ thể *(35%)*; sự thật hoặc hoàn cảnh đang được nói đến, thường trong `be the case` *(25%)*; vụ án, vụ kiện hoặc vụ việc cần điều tra *(15%)*; hộp, vỏ hoặc bao bảo vệ *(15%)*; lập luận hoặc tập hợp lý do ủng hộ điều gì *(10%)*
+
+### Usage
+
+As a countable noun, `case` commonly means a particular situation, example, legal matter, container, or set of supporting arguments. In `the case`, it often refers to the true situation. The verb `case` is much less common and informally means to examine a place before committing a crime.
+
+Common structures:
+
+* `in this/that case`: trong trường hợp này/đó; nếu vậy
+* `in case + clause`: phòng khi một việc có thể xảy ra
+* `in case of + noun`: trong trường hợp có điều gì xảy ra
+* `be the case`: là sự thật; đúng là tình hình như vậy
+* `make a case for/against + noun or V-ing`: đưa ra lập luận ủng hộ/phản đối điều gì
+* `a case of + disease/problem`: một ca bệnh hoặc một trường hợp gặp vấn đề
+
+### Examples
+
+1. **Take an umbrella in case it rains later.**
+   → Hãy mang theo ô phòng khi lát nữa trời mưa.
+
+2. **Researchers have made a strong case for investing in early childhood education.**
+   → Các nhà nghiên cứu đã đưa ra những lập luận thuyết phục ủng hộ việc đầu tư vào giáo dục mầm non.
+
+### Common collocations
+
+* **in any case**: dù sao đi nữa; trong bất kỳ trường hợp nào
+* **case study**: nghiên cứu tình huống
+* **court case**: vụ kiện, vụ án tại tòa
+* **a strong case for**: lập luận vững chắc ủng hộ điều gì
+* **in case of emergency**: trong trường hợp khẩn cấp
+
+### Synonyms
+
+* **instance** /ˈɪn.stəns/ *(countable noun)*: trường hợp, ví dụ cụ thể
+* **situation** /ˌsɪtʃ.uˈeɪ.ʃən/ *(countable noun)*: tình huống, hoàn cảnh
+* **lawsuit** UK /ˈlɔː.suːt/ US /ˈlɑː.suːt/ *(countable noun)*: vụ kiện *(chỉ nghĩa pháp lý)*
+* **container** /kənˈteɪ.nər/ *(countable noun)*: vật chứa, hộp đựng *(chỉ nghĩa vật chứa)*
+
+### Word family
+
+* **case** /keɪs/ *(countable noun; transitive verb)*: trường hợp, vụ việc, hộp; khảo sát một địa điểm để chuẩn bị phạm tội  
+  *Example:* The police are investigating several similar cases.  
+  → Cảnh sát đang điều tra một số vụ việc tương tự.
+
+* **casing** /ˈkeɪ.sɪŋ/ *(countable/uncountable noun)*: lớp vỏ hoặc vỏ bọc bảo vệ  
+  *Example:* The phone's metal casing protects its internal components.  
+  → Vỏ kim loại của điện thoại bảo vệ các bộ phận bên trong.
+
+* **encase** /ɪnˈkeɪs/ *(transitive verb)*: bọc hoặc bao kín trong một lớp bảo vệ  
+  *Example:* The fragile device is encased in protective plastic.  
+  → Thiết bị dễ vỡ được bọc trong lớp nhựa bảo vệ.
+
+### Notes
+
+`In case` expresses a precaution: `Take water in case you get thirsty.` By contrast, `if` states a condition: `Drink the water if you get thirsty.` Use `in case of + noun`, not `in case of + clause`: `in case of fire` but `in case a fire starts`. `Case` is countable in its main meanings: `a case`, `two cases`. In technical writing, `uppercase` and `lowercase` refer to capital and small letters.
