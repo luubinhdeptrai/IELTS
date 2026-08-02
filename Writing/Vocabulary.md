@@ -18418,3 +18418,844 @@ Common structures:
 ### Notes
 
 `Be short of something` means not having enough: `We are short of time.` `Fall short of something` means failing to reach it: `The results fell short of expectations.` Do not confuse `short of` with `short for`: `App` is short for `application`.
+
+
+---
+
+## 334. Ashamed of /əˈʃeɪmd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** xấu hổ vì hành động hoặc đặc điểm của bản thân *(70%)*; ngượng hoặc hổ thẹn về ai/cái gì có liên quan đến mình *(20%)*; không muốn thừa nhận điều gì vì xấu hổ *(10%)*
+
+### Usage
+
+`Be ashamed of` expresses shame, embarrassment, or regret. The requested form `ashame of` is incorrect because the adjective is `ashamed`, not `ashame`.
+
+Common structures:
+
+* `be ashamed of + noun/pronoun`: xấu hổ về ai/cái gì
+* `be ashamed of + verb-ing`: xấu hổ vì đã làm gì
+* `be ashamed of oneself`: cảm thấy xấu hổ về bản thân
+* `be ashamed to + verb`: xấu hổ hoặc ngại phải làm/thừa nhận điều gì
+
+### Examples
+
+1. **He was ashamed of copying another student's work.**
+   → Cậu ấy xấu hổ vì đã sao chép bài của một học sinh khác.
+
+2. **No child should be made to feel ashamed of their family background.**
+   → Không đứa trẻ nào nên bị khiến cảm thấy xấu hổ về hoàn cảnh gia đình của mình.
+
+### Common collocations
+
+* **deeply ashamed of**: vô cùng xấu hổ về
+* **ashamed of oneself**: xấu hổ về bản thân
+* **feel ashamed of**: cảm thấy xấu hổ về
+
+### Synonyms
+
+* **embarrassed about** UK /ɪmˈbær.əst əˈbaʊt/ US /ɪmˈber.əst əˈbaʊt/ *(adjective phrase)*: ngượng ngùng về; thường nhẹ hơn
+* **guilty about** /ˈɡɪl.ti əˈbaʊt/ *(adjective phrase)*: cảm thấy có lỗi về hành động của mình
+* **mortified by** UK /ˈmɔː.tɪ.faɪd baɪ/ US /ˈmɔːr.t̬ə.faɪd baɪ/ *(adjective phrase)*: vô cùng xấu hổ hoặc bẽ mặt
+
+### Word family
+
+* **shame** /ʃeɪm/ *(uncountable noun/transitive verb)*: sự xấu hổ; làm ai xấu hổ  
+  *Example:* Public humiliation can cause lasting shame.  
+  → Sự làm nhục công khai có thể gây ra nỗi xấu hổ kéo dài.
+
+* **ashamed** /əˈʃeɪmd/ *(adjective)*: xấu hổ, hổ thẹn  
+  *Example:* She felt ashamed after speaking rudely to her colleague.  
+  → Cô ấy cảm thấy xấu hổ sau khi nói chuyện thô lỗ với đồng nghiệp.
+
+* **shameful** /ˈʃeɪm.fəl/ *(adjective)*: đáng xấu hổ  
+  *Example:* The report exposed the shameful treatment of migrant workers.  
+  → Báo cáo phơi bày cách đối xử đáng xấu hổ với lao động nhập cư.
+
+### Notes
+
+Say `ashamed of`, not `ashame of`. Compare `ashamed of doing something` with `ashamed to do something`: the first looks back at an action, while the second emphasizes embarrassment or reluctance about performing or admitting it.
+
+---
+
+## 335. Afraid of /əˈfreɪd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** sợ một người, sự vật hoặc tình huống *(65%)*; lo ngại điều xấu có thể xảy ra *(25%)*; ngại làm gì vì sợ hậu quả *(10%)*
+
+### Usage
+
+`Be afraid of` is the most common neutral expression for fear. It can be followed by a noun, pronoun, or `verb-ing`; use `afraid that + clause` for a complete feared situation.
+
+Common structures:
+
+* `be afraid of + noun/pronoun`: sợ ai/cái gì
+* `be afraid of + verb-ing`: sợ việc làm gì hoặc sợ điều gì xảy ra
+* `be afraid that + clause`: lo sợ rằng...
+* `be afraid to + verb`: không dám làm gì vì sợ
+
+### Examples
+
+1. **Some older people are afraid of using online banking.**
+   → Một số người lớn tuổi sợ sử dụng ngân hàng trực tuyến.
+
+2. **The farmers are afraid that the drought will continue.**
+   → Nông dân lo sợ rằng hạn hán sẽ tiếp diễn.
+
+### Common collocations
+
+* **afraid of heights**: sợ độ cao
+* **afraid of making mistakes**: sợ mắc lỗi
+* **too afraid to act**: quá sợ nên không dám hành động
+
+### Synonyms
+
+* **frightened of** /ˈfraɪ.tənd əv/ *(adjective phrase)*: sợ hãi; thường diễn tả phản ứng cảm xúc rõ hơn
+* **scared of** UK /ˈskeəd əv/ US /ˈskerd əv/ *(adjective phrase)*: sợ; thân mật hơn
+* **fearful of** UK /ˈfɪə.fəl əv/ US /ˈfɪr.fəl əv/ *(adjective phrase)*: lo sợ; trang trọng hơn
+
+### Word family
+
+* **fear** UK /fɪər/ US /fɪr/ *(noun/verb)*: nỗi sợ; sợ hãi  
+  *Example:* Fear of failure can prevent people from taking useful risks.  
+  → Nỗi sợ thất bại có thể ngăn mọi người chấp nhận những rủi ro có ích.
+
+* **fearful** UK /ˈfɪə.fəl/ US /ˈfɪr.fəl/ *(adjective)*: lo sợ  
+  *Example:* Residents were fearful that the river would flood again.  
+  → Cư dân lo sợ rằng con sông sẽ lại gây ngập lụt.
+
+* **fearless** UK /ˈfɪə.ləs/ US /ˈfɪr.ləs/ *(adjective)*: không sợ hãi, gan dạ  
+  *Example:* The fearless journalist continued investigating the case.  
+  → Nhà báo gan dạ tiếp tục điều tra vụ việc.
+
+### Notes
+
+Compare `afraid of flying` (fear of the activity generally) with `afraid to fly` (too frightened or reluctant to do it in a particular situation). `I am afraid...` can also politely introduce bad news, but that is a different structure.
+
+---
+
+## 336. Confident of UK /ˈkɒn.fɪ.dənt əv/ US /ˈkɑːn.fə.dənt əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** tin chắc sẽ đạt được một kết quả *(65%)*; tin vào khả năng thành công của bản thân hoặc người khác *(35%)*
+
+### Usage
+
+`Be confident of` commonly appears before a noun or `verb-ing`, especially in `confident of success` and `confident of doing something`. `Confident about` introduces a topic, while `confident in` emphasizes trust in a person or ability.
+
+Common structures:
+
+* `be confident of + noun`: tin chắc sẽ có/đạt được điều gì
+* `be confident of + verb-ing`: tin chắc sẽ làm được gì
+* `be confident that + clause`: tin chắc rằng...
+* `be confident in + person/ability`: tin tưởng vào người/khả năng nào
+
+### Examples
+
+1. **The research team is confident of completing the trial on time.**
+   → Nhóm nghiên cứu tin chắc sẽ hoàn thành thử nghiệm đúng hạn.
+
+2. **After months of practice, she felt confident of success in the interview.**
+   → Sau nhiều tháng luyện tập, cô ấy tin tưởng sẽ thành công trong cuộc phỏng vấn.
+
+### Common collocations
+
+* **confident of success**: tin chắc sẽ thành công
+* **confident of winning**: tin chắc sẽ chiến thắng
+* **reasonably confident of**: khá tin chắc về
+
+### Synonyms
+
+* **certain of** UK /ˈsɜː.tən əv/ US /ˈsɝː.tən əv/ *(adjective phrase)*: chắc chắn về
+* **sure of** UK /ˈʃɔːr əv/ US /ˈʃʊr əv/ *(adjective phrase)*: tin chắc về; phổ biến trong hội thoại
+* **assured of** UK /əˈʃɔːd əv/ US /əˈʃʊrd əv/ *(adjective phrase)*: được bảo đảm hoặc tin chắc về; trang trọng hơn
+
+### Word family
+
+* **confidence** UK /ˈkɒn.fɪ.dəns/ US /ˈkɑːn.fə.dəns/ *(uncountable noun)*: sự tự tin, niềm tin chắc chắn  
+  *Example:* Regular speaking practice can build confidence.  
+  → Luyện nói thường xuyên có thể xây dựng sự tự tin.
+
+* **confident** UK /ˈkɒn.fɪ.dənt/ US /ˈkɑːn.fə.dənt/ *(adjective)*: tự tin, tin chắc  
+  *Example:* The candidate sounded confident during the presentation.  
+  → Ứng viên nghe có vẻ tự tin trong bài thuyết trình.
+
+* **confidently** UK /ˈkɒn.fɪ.dənt.li/ US /ˈkɑːn.fə.dənt.li/ *(adverb)*: một cách tự tin  
+  *Example:* She answered the technical questions confidently.  
+  → Cô ấy trả lời các câu hỏi kỹ thuật một cách tự tin.
+
+### Notes
+
+Use `confident of success/doing something`, `confident about the future`, and `confident in someone's ability`. Do not use `confident to do` in place of these standard patterns.
+
+---
+
+## 337. Full of /ˈfʊl əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** chứa đầy hoặc có nhiều người/vật *(45%)*; tràn đầy cảm xúc, năng lượng hoặc phẩm chất *(35%)*; nói hoặc thể hiện rất nhiều điều gì *(20%)*
+
+### Usage
+
+`Be full of` describes a container, place, person, or situation containing a large amount of something. The following noun may be concrete (`water`) or abstract (`hope`, `energy`, `contradictions`).
+
+Common structures:
+
+* `be full of + plural/countable noun`: đầy nhiều người/vật
+* `be full of + uncountable noun`: tràn đầy một chất/cảm xúc/phẩm chất
+* `a place full of + noun`: một nơi đầy...
+* `be filled with + noun`: được lấp đầy/tràn ngập bởi...
+
+### Examples
+
+1. **The lecture hall was full of students waiting for the guest speaker.**
+   → Giảng đường đầy sinh viên đang chờ diễn giả khách mời.
+
+2. **Her proposal is full of practical ideas for reducing waste.**
+   → Đề xuất của cô ấy chứa đầy những ý tưởng thiết thực để giảm rác thải.
+
+### Common collocations
+
+* **full of energy**: tràn đầy năng lượng
+* **full of confidence**: tràn đầy tự tin
+* **full of useful information**: chứa đầy thông tin hữu ích
+
+### Synonyms
+
+* **filled with** /ˈfɪld wɪð/ *(adjective phrase)*: được lấp đầy hoặc tràn ngập bởi
+* **packed with** /ˈpækt wɪð/ *(adjective phrase)*: chứa rất nhiều; thường nhấn mạnh mật độ
+* **rich in** /ˈrɪtʃ ɪn/ *(adjective phrase)*: giàu, có nhiều chất hoặc đặc điểm có lợi
+
+### Word family
+
+* **fill** /fɪl/ *(transitive/intransitive verb)*: làm đầy, lấp đầy  
+  *Example:* Volunteers filled the boxes with emergency supplies.  
+  → Các tình nguyện viên chất đầy nhu yếu phẩm khẩn cấp vào những chiếc hộp.
+
+* **full** /fʊl/ *(adjective)*: đầy, no, trọn vẹn  
+  *Example:* The hospital is operating at full capacity.  
+  → Bệnh viện đang hoạt động hết công suất.
+
+* **fully** /ˈfʊl.i/ *(adverb)*: hoàn toàn, đầy đủ  
+  *Example:* Applicants must be fully informed about the course fees.  
+  → Ứng viên phải được thông báo đầy đủ về học phí khóa học.
+
+### Notes
+
+Use `full of`, not `full with`, for the ordinary state: `The room is full of people.` The passive `filled with` is also natural: `The room is filled with people.` Do not confuse `full` with `fulfil`, which means accomplish or satisfy.
+
+---
+
+## 338. Hopeful of UK /ˈhəʊp.fəl əv/ US /ˈhoʊp.fəl əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** hy vọng sẽ đạt được một kết quả mong muốn *(70%)*; lạc quan về khả năng điều tốt xảy ra *(30%)*
+
+### Usage
+
+`Be hopeful of` is followed by a noun or `verb-ing` and is especially common in British English. `Hopeful about` and `hopeful that + clause` are often more natural when discussing a broader situation.
+
+Common structures:
+
+* `be hopeful of + noun`: hy vọng đạt được điều gì
+* `be hopeful of + verb-ing`: hy vọng sẽ làm được gì
+* `be hopeful about + noun`: lạc quan về một vấn đề
+* `be hopeful that + clause`: hy vọng rằng...
+
+### Examples
+
+1. **The charity is hopeful of reaching its fundraising target by Friday.**
+   → Tổ chức từ thiện hy vọng sẽ đạt mục tiêu gây quỹ trước thứ Sáu.
+
+2. **Scientists are hopeful that the treatment will reduce serious symptoms.**
+   → Các nhà khoa học hy vọng phương pháp điều trị sẽ làm giảm các triệu chứng nghiêm trọng.
+
+### Common collocations
+
+* **hopeful of success**: hy vọng thành công
+* **hopeful of securing funding**: hy vọng giành được tài trợ
+* **remain hopeful about**: vẫn lạc quan về
+
+### Synonyms
+
+* **optimistic about** UK /ˌɒp.tɪˈmɪs.tɪk əˈbaʊt/ US /ˌɑːp.təˈmɪs.tɪk əˈbaʊt/ *(adjective phrase)*: lạc quan về
+* **confident of** UK /ˈkɒn.fɪ.dənt əv/ US /ˈkɑːn.fə.dənt əv/ *(adjective phrase)*: tin chắc về; mạnh hơn `hopeful of`
+* **encouraged by** UK /ɪnˈkʌr.ɪdʒd baɪ/ US /ɪnˈkɝː.ɪdʒd baɪ/ *(adjective phrase)*: cảm thấy có hy vọng nhờ dấu hiệu tích cực
+
+### Word family
+
+* **hope** UK /həʊp/ US /hoʊp/ *(noun/verb)*: hy vọng; hy vọng  
+  *Example:* Many families hope that food prices will stabilize.  
+  → Nhiều gia đình hy vọng giá thực phẩm sẽ ổn định.
+
+* **hopeful** UK /ˈhəʊp.fəl/ US /ˈhoʊp.fəl/ *(adjective)*: đầy hy vọng, lạc quan  
+  *Example:* Early results provide a hopeful sign for patients.  
+  → Kết quả ban đầu mang lại một dấu hiệu đầy hy vọng cho bệnh nhân.
+
+* **hopefully** UK /ˈhəʊp.fəl.i/ US /ˈhoʊp.fəl.i/ *(adverb)*: một cách đầy hy vọng; hy vọng là  
+  *Example:* Hopefully, the new bus route will reduce congestion.  
+  → Hy vọng tuyến xe buýt mới sẽ làm giảm ùn tắc.
+
+### Notes
+
+`Hopeful of` does not mean certain: it expresses a positive expectation. In American English and in many everyday contexts, `hopeful about` or `hopeful that` is more common than `hopeful of`.
+
+---
+
+## 339. Suspicious of /səˈspɪʃ.əs əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** nghi ngờ ai không trung thực hoặc có ý đồ xấu *(65%)*; nghi ngờ một sự vật, lời giải thích hoặc tình huống không đúng như vẻ ngoài *(35%)*
+
+### Usage
+
+`Be suspicious of` expresses distrust or a belief that something may be dishonest, harmful, or wrong. It does not mean that wrongdoing has already been proved.
+
+Common structures:
+
+* `be suspicious of + person/group`: nghi ngờ ai/nhóm nào
+* `be suspicious of + noun/pronoun`: nghi ngờ một vật/lời giải thích
+* `be suspicious that + clause`: nghi rằng...
+* `become/grow suspicious of`: dần trở nên nghi ngờ
+
+### Examples
+
+1. **Consumers should be suspicious of websites that request unnecessary personal data.**
+   → Người tiêu dùng nên nghi ngờ những trang web yêu cầu dữ liệu cá nhân không cần thiết.
+
+2. **The police became suspicious of his inconsistent explanation.**
+   → Cảnh sát bắt đầu nghi ngờ lời giải thích thiếu nhất quán của anh ta.
+
+### Common collocations
+
+* **suspicious of someone's motives**: nghi ngờ động cơ của ai
+* **highly suspicious of**: rất nghi ngờ
+* **grow suspicious of**: dần trở nên nghi ngờ
+
+### Synonyms
+
+* **distrustful of** /dɪsˈtrʌst.fəl əv/ *(adjective phrase)*: không tin tưởng
+* **wary of** UK /ˈweə.ri əv/ US /ˈwer.i əv/ *(adjective phrase)*: thận trọng vì nghi ngờ hoặc nhận thấy rủi ro
+* **doubtful about** /ˈdaʊt.fəl əˈbaʊt/ *(adjective phrase)*: không tin chắc một điều là đúng hoặc sẽ thành công
+
+### Word family
+
+* **suspect** /səˈspekt/ *(transitive verb)*: nghi ngờ  
+  *Example:* Investigators suspect that the records were altered.  
+  → Các điều tra viên nghi ngờ rằng hồ sơ đã bị chỉnh sửa.
+
+* **suspicion** /səˈspɪʃ.ən/ *(countable/uncountable noun)*: sự nghi ngờ  
+  *Example:* The unusual payment raised suspicion among auditors.  
+  → Khoản thanh toán bất thường làm các kiểm toán viên nảy sinh nghi ngờ.
+
+* **suspicious** /səˈspɪʃ.əs/ *(adjective)*: đáng ngờ; hay nghi ngờ  
+  *Example:* Staff reported a suspicious package near the entrance.  
+  → Nhân viên báo cáo một gói đồ đáng ngờ gần lối vào.
+
+### Notes
+
+Being `suspicious of someone` means not trusting them. Something `suspicious` gives a reason for doubt. Use evidence carefully: suspicion is not proof.
+
+---
+
+## 340. Proud of /ˈpraʊd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** tự hào về thành tựu hoặc phẩm chất của bản thân/người khác *(70%)*; hài lòng và trân trọng mối liên hệ, nguồn gốc hoặc đóng góp *(25%)*; quá kiêu hãnh để làm gì trong cấu trúc liên quan *(5%)*
+
+### Usage
+
+`Be proud of` expresses pleasure, satisfaction, or self-respect connected with a person, achievement, quality, or identity. It is usually positive; `too proud to` can suggest excessive pride.
+
+Common structures:
+
+* `be proud of + person/noun`: tự hào về ai/cái gì
+* `be proud of + verb-ing`: tự hào vì đã làm gì
+* `be proud that + clause`: tự hào rằng...
+* `be too proud to + verb`: quá kiêu hãnh nên không chịu làm gì
+
+### Examples
+
+1. **The volunteers were proud of rebuilding the community library.**
+   → Các tình nguyện viên tự hào vì đã xây dựng lại thư viện cộng đồng.
+
+2. **She is proud of the progress her students have made.**
+   → Cô ấy tự hào về sự tiến bộ mà học sinh của mình đã đạt được.
+
+### Common collocations
+
+* **deeply proud of**: vô cùng tự hào về
+* **proud of one's achievements**: tự hào về thành tựu của mình
+* **make someone proud**: khiến ai tự hào
+
+### Synonyms
+
+* **pleased with** /ˈpliːzd wɪð/ *(adjective phrase)*: hài lòng với
+* **take pride in** /teɪk ˈpraɪd ɪn/ *(verb phrase)*: tự hào và coi trọng
+* **satisfied with** /ˈsæt.ɪs.faɪd wɪð/ *(adjective phrase)*: hài lòng với kết quả
+
+### Word family
+
+* **pride** /praɪd/ *(uncountable noun/transitive verb)*: niềm tự hào; tự hào về  
+  *Example:* Graduates took pride in their contribution to the project.  
+  → Các sinh viên tốt nghiệp tự hào về đóng góp của mình cho dự án.
+
+* **proud** /praʊd/ *(adjective)*: tự hào, hãnh diện  
+  *Example:* She was proud to represent her school in the competition.  
+  → Cô ấy tự hào được đại diện trường trong cuộc thi.
+
+* **proudly** /ˈpraʊd.li/ *(adverb)*: một cách tự hào  
+  *Example:* The artisan proudly displayed her handmade baskets.  
+  → Người nghệ nhân tự hào trưng bày những chiếc giỏ làm bằng tay.
+
+### Notes
+
+Use `proud of`, not `proud with`. Follow it with a noun, pronoun, or `verb-ing`: `proud of her`, `proud of the result`, and `proud of helping`.
+
+---
+
+## 341. Aware of UK /əˈweər əv/ US /əˈwer əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** biết hoặc nhận thức được một sự thật, vấn đề hay tình huống *(85%)*; nhận thấy một âm thanh, cảm giác hoặc sự hiện diện *(15%)*
+
+### Usage
+
+`Be aware of` means having knowledge or noticing something. It is common in daily English, technical guidance, and academic discussion, especially when describing risks and consequences.
+
+Common structures:
+
+* `be aware of + noun/pronoun`: nhận thức được điều gì
+* `be aware of + verb-ing`: nhận thức được việc làm gì hoặc điều gì đang xảy ra
+* `be aware that + clause`: nhận thức rằng...
+* `make someone aware of`: làm cho ai nhận thức được
+
+### Examples
+
+1. **Users should be aware of the privacy risks associated with free apps.**
+   → Người dùng nên nhận thức được các rủi ro về quyền riêng tư liên quan đến ứng dụng miễn phí.
+
+2. **I suddenly became aware of someone standing behind me.**
+   → Tôi đột nhiên nhận thấy có người đang đứng phía sau mình.
+
+### Common collocations
+
+* **fully aware of**: nhận thức đầy đủ về
+* **become aware of**: bắt đầu nhận ra
+* **raise awareness of**: nâng cao nhận thức về
+
+### Synonyms
+
+* **conscious of** UK /ˈkɒn.ʃəs əv/ US /ˈkɑːn.ʃəs əv/ *(adjective phrase)*: ý thức rõ về
+* **mindful of** /ˈmaɪnd.fəl əv/ *(adjective phrase)*: lưu tâm đến và cân nhắc
+* **informed about** UK /ɪnˈfɔːmd əˈbaʊt/ US /ɪnˈfɔːrmd əˈbaʊt/ *(adjective phrase)*: được cung cấp thông tin về
+
+### Word family
+
+* **awareness** UK /əˈweə.nəs/ US /əˈwer.nəs/ *(uncountable noun)*: sự nhận thức  
+  *Example:* Public campaigns can increase awareness of mental health.  
+  → Các chiến dịch công cộng có thể nâng cao nhận thức về sức khỏe tinh thần.
+
+* **aware** UK /əˈweər/ US /əˈwer/ *(adjective)*: nhận thức, biết rõ  
+  *Example:* Most residents are aware that water supplies are limited.  
+  → Phần lớn cư dân biết rằng nguồn cung cấp nước có hạn.
+
+* **unaware** UK /ˌʌn.əˈweər/ US /ˌʌn.əˈwer/ *(adjective)*: không biết, không nhận thức  
+  *Example:* The customer was unaware of the additional fee.  
+  → Khách hàng không biết về khoản phí bổ sung.
+
+### Notes
+
+`Aware` is not normally used directly before a noun; say `people who are aware`, not `aware people`. Use `aware of + noun` or `aware that + clause`.
+
+---
+
+## 342. Conscious of UK /ˈkɒn.ʃəs əv/ US /ˈkɑːn.ʃəs əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** ý thức hoặc nhận thức rõ về điều gì *(65%)*; để ý đến tác động, hình ảnh hoặc hành vi của bản thân *(25%)*; cảm nhận rõ một sự hiện diện hoặc cảm giác *(10%)*
+
+### Usage
+
+`Be conscious of` is close to `be aware of` but often suggests active, careful, or heightened awareness. It commonly describes attention to cost, appearance, social effects, or one's own behavior.
+
+Common structures:
+
+* `be conscious of + noun/pronoun`: ý thức rõ về điều gì
+* `be conscious of + verb-ing`: ý thức về việc làm gì
+* `be conscious that + clause`: ý thức rằng...
+* `become increasingly conscious of`: ngày càng ý thức rõ về
+
+### Examples
+
+1. **Companies are increasingly conscious of their environmental impact.**
+   → Các công ty ngày càng ý thức rõ hơn về tác động môi trường của mình.
+
+2. **He was conscious of speaking too quickly during the interview.**
+   → Anh ấy ý thức được rằng mình nói quá nhanh trong cuộc phỏng vấn.
+
+### Common collocations
+
+* **fully conscious of**: hoàn toàn ý thức về
+* **increasingly conscious of**: ngày càng ý thức về
+* **painfully conscious of**: nhận thức rõ đến mức khó chịu về
+
+### Synonyms
+
+* **aware of** UK /əˈweər əv/ US /əˈwer əv/ *(adjective phrase)*: nhận thức được; trung tính hơn
+* **mindful of** /ˈmaɪnd.fəl əv/ *(adjective phrase)*: lưu tâm đến khi hành động
+* **alert to** UK /əˈlɜːt tuː/ US /əˈlɝːt tuː/ *(adjective phrase)*: cảnh giác và nhanh chóng nhận thấy
+
+### Word family
+
+* **consciousness** UK /ˈkɒn.ʃəs.nəs/ US /ˈkɑːn.ʃəs.nəs/ *(uncountable noun)*: ý thức; trạng thái tỉnh táo  
+  *Example:* The campaign increased public consciousness of plastic waste.  
+  → Chiến dịch nâng cao ý thức cộng đồng về rác thải nhựa.
+
+* **conscious** UK /ˈkɒn.ʃəs/ US /ˈkɑːn.ʃəs/ *(adjective)*: tỉnh táo; có ý thức  
+  *Example:* The patient remained conscious after the accident.  
+  → Bệnh nhân vẫn tỉnh táo sau tai nạn.
+
+* **consciously** UK /ˈkɒn.ʃəs.li/ US /ˈkɑːn.ʃəs.li/ *(adverb)*: một cách có ý thức, có chủ đích  
+  *Example:* She consciously reduced her use of single-use plastic.  
+  → Cô ấy chủ động giảm việc sử dụng nhựa dùng một lần.
+
+### Notes
+
+`Aware of` is the broad neutral choice; `conscious of` often emphasizes deliberate or strong awareness. Do not confuse `conscious` with `conscientious`, which means careful and responsible.
+
+---
+
+## 343. Capable of /ˈkeɪ.pə.bəl əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** có khả năng hoặc năng lực làm gì *(70%)*; có thể thực hiện một hành vi, thường là điều đáng ngạc nhiên hoặc tiêu cực *(20%)*; có đủ công suất/chức năng để làm gì *(10%)*
+
+### Usage
+
+`Be capable of` describes ability, potential, or capacity. It is followed by a noun or `verb-ing`, never by a bare infinitive or `to`-infinitive in this structure.
+
+Common structures:
+
+* `be capable of + noun`: có khả năng/năng lực về điều gì
+* `be capable of + verb-ing`: có khả năng làm gì
+* `be perfectly/fully capable of`: hoàn toàn có khả năng
+* `a system capable of + verb-ing`: một hệ thống có khả năng làm gì
+
+### Examples
+
+1. **The new system is capable of processing thousands of requests per minute.**
+   → Hệ thống mới có khả năng xử lý hàng nghìn yêu cầu mỗi phút.
+
+2. **With appropriate support, most students are capable of making steady progress.**
+   → Với sự hỗ trợ phù hợp, phần lớn học sinh có khả năng tiến bộ đều đặn.
+
+### Common collocations
+
+* **capable of doing something**: có khả năng làm gì
+* **fully capable of**: hoàn toàn có khả năng
+* **capable of independent work**: có khả năng làm việc độc lập
+
+### Synonyms
+
+* **able to** /ˈeɪ.bəl tuː/ *(adjective phrase)*: có thể làm gì; theo sau bởi động từ nguyên mẫu
+* **competent at** /ˈkɒm.pɪ.tənt æt/ *(adjective phrase)*: có năng lực, thành thạo về
+* **equipped to** /ɪˈkwɪpt tuː/ *(adjective phrase)*: có đủ kỹ năng hoặc nguồn lực để
+
+### Word family
+
+* **capability** /ˌkeɪ.pəˈbɪl.ə.ti/ *(countable/uncountable noun)*: khả năng, năng lực  
+  *Example:* The software has the capability to detect unusual activity.  
+  → Phần mềm có khả năng phát hiện hoạt động bất thường.
+
+* **capable** /ˈkeɪ.pə.bəl/ *(adjective)*: có năng lực, có khả năng  
+  *Example:* She is a capable manager who remains calm under pressure.  
+  → Cô ấy là một quản lý có năng lực và luôn bình tĩnh dưới áp lực.
+
+* **capably** /ˈkeɪ.pə.bli/ *(adverb)*: một cách có năng lực  
+  *Example:* The new employee handled the difficult customer capably.  
+  → Nhân viên mới xử lý vị khách khó tính một cách thành thạo.
+
+### Notes
+
+Say `capable of doing`, not `capable to do`. Compare `She is capable of solving it` with `She is able to solve it`. `Capable of` often emphasizes general ability or potential.
+
+---
+
+## 344. Guilty of /ˈɡɪl.ti əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** bị kết luận hoặc thừa nhận đã phạm tội *(60%)*; có trách nhiệm về một hành động sai trái hoặc thói quen xấu *(40%)*
+
+### Usage
+
+`Be guilty of` identifies an offence, wrongdoing, or undesirable behavior for which someone is responsible. In legal contexts, guilt should be established by evidence and a proper process.
+
+Common structures:
+
+* `be found guilty of + offence`: bị kết luận có tội về hành vi phạm tội
+* `plead guilty to + offence`: nhận tội; lưu ý dùng `to` sau `plead`
+* `be guilty of + noun/verb-ing`: có lỗi vì điều gì/làm gì
+* `feel guilty about + noun/verb-ing`: cảm thấy có lỗi về điều gì
+
+### Examples
+
+1. **The company was found guilty of violating workplace safety laws.**
+   → Công ty bị kết luận có tội vì vi phạm luật an toàn lao động.
+
+2. **I was guilty of judging the proposal before reading it carefully.**
+   → Tôi đã có lỗi vì đánh giá đề xuất trước khi đọc kỹ.
+
+### Common collocations
+
+* **found guilty of**: bị kết luận có tội về
+* **guilty of an offence**: phạm một tội/hành vi vi phạm
+* **guilty of negligence**: có lỗi vì sơ suất
+
+### Synonyms
+
+* **responsible for** /rɪˈspɒn.sə.bəl fɔːr/ *(adjective phrase)*: chịu trách nhiệm về; trung tính hơn
+* **culpable for** /ˈkʌl.pə.bəl fɔːr/ *(adjective phrase)*: đáng bị trách cứ về; trang trọng/pháp lý
+* **at fault for** UK /æt ˈfɒlt fɔːr/ US /æt ˈfɑːlt fɔːr/ *(adjective phrase)*: có lỗi, chịu trách nhiệm về
+
+### Word family
+
+* **guilt** /ɡɪlt/ *(uncountable noun)*: cảm giác tội lỗi; sự có tội  
+  *Example:* Survivors sometimes experience guilt even when they did nothing wrong.  
+  → Người sống sót đôi khi cảm thấy tội lỗi dù họ không làm gì sai.
+
+* **guilty** /ˈɡɪl.ti/ *(adjective)*: có tội; cảm thấy có lỗi  
+  *Example:* The court found the defendant guilty.  
+  → Tòa án kết luận bị cáo có tội.
+
+* **guiltily** /ˈɡɪl.təl.i/ *(adverb)*: một cách có vẻ tội lỗi  
+  *Example:* He looked guiltily at the broken window.  
+  → Cậu ấy nhìn chiếc cửa sổ vỡ với vẻ có lỗi.
+
+### Notes
+
+Use `guilty of a crime/doing something`, but `feel guilty about something`. After `plead guilty`, use `to`: `She pleaded guilty to fraud`, not `guilty of fraud` in that specific pattern.
+
+---
+
+## 345. Joyful (about/at/over) /ˈdʒɔɪ.fəl/
+
+* **Part of speech:** adjective phrase; `joyful` is an adjective
+* **Vietnamese meaning:** vô cùng vui mừng về một sự kiện hoặc tin tốt *(70%)*; tràn đầy niềm vui *(30%)*
+
+### Usage
+
+The requested phrase `joyful of` is not a natural standard-English collocation. Use `joyful about`, `joyful at`, or `joyful over` for the cause of happiness, or use `filled with joy`.
+
+Common structures:
+
+* `be joyful about + noun`: vui mừng về điều gì
+* `be joyful at + news/event`: vui mừng trước tin tức/sự kiện
+* `be joyful over + achievement`: vui mừng về một thành tựu
+* `be joyful that + clause`: vui mừng rằng...
+
+### Examples
+
+1. **The family was joyful at the news that their daughter had recovered.**
+   → Gia đình vô cùng vui mừng trước tin con gái đã hồi phục.
+
+2. **Residents were joyful about the reopening of the community center.**
+   → Cư dân rất vui mừng về việc trung tâm cộng đồng mở cửa trở lại.
+
+### Common collocations
+
+* **joyful at the news**: vui mừng trước tin tức
+* **joyful about the result**: vui mừng về kết quả
+* **a joyful occasion**: một dịp vui mừng
+
+### Synonyms
+
+* **delighted about** /dɪˈlaɪ.tɪd əˈbaʊt/ *(adjective phrase)*: rất vui về
+* **overjoyed at** /ˌəʊ.vəˈdʒɔɪd æt/ *(adjective phrase)*: vui sướng tột độ trước
+* **happy about** /ˈhæp.i əˈbaʊt/ *(adjective phrase)*: vui về; trung tính và phổ biến hơn
+
+### Word family
+
+* **joy** /dʒɔɪ/ *(countable/uncountable noun)*: niềm vui  
+  *Example:* The children's safe return brought great joy to their families.  
+  → Việc bọn trẻ trở về an toàn mang lại niềm vui lớn cho gia đình.
+
+* **joyful** /ˈdʒɔɪ.fəl/ *(adjective)*: vui mừng, tràn đầy niềm vui  
+  *Example:* Graduation was a joyful occasion for the whole family.  
+  → Lễ tốt nghiệp là một dịp vui mừng đối với cả gia đình.
+
+* **joyfully** /ˈdʒɔɪ.fəl.i/ *(adverb)*: một cách vui mừng  
+  *Example:* The children laughed joyfully as they opened their gifts.  
+  → Bọn trẻ cười vui sướng khi mở quà.
+
+### Notes
+
+Avoid `joyful of`. Choose the preposition according to the context: `joyful at the news`, `joyful about the change`, or `joyful over the victory`. In everyday speech, `happy about` and `delighted with` are more common.
+
+---
+
+## 346. Frightened of /ˈfraɪ.tənd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** sợ hãi một người, sự vật hoặc tình huống *(85%)*; lo sợ điều gì có thể xảy ra *(15%)*
+
+### Usage
+
+`Be frightened of` describes fear and is close to `be afraid of`. It often emphasizes an emotional reaction and is less extreme than `be terrified of`.
+
+Common structures:
+
+* `be frightened of + noun/pronoun`: sợ ai/cái gì
+* `be frightened of + verb-ing`: sợ việc làm gì/điều gì xảy ra
+* `be frightened that + clause`: lo sợ rằng...
+* `be too frightened to + verb`: quá sợ nên không dám làm gì
+
+### Examples
+
+1. **Some children are frightened of dogs after a negative experience.**
+   → Một số trẻ sợ chó sau một trải nghiệm tiêu cực.
+
+2. **She was too frightened to report the threatening messages at first.**
+   → Ban đầu cô ấy quá sợ nên không dám báo cáo những tin nhắn đe dọa.
+
+### Common collocations
+
+* **frightened of the dark**: sợ bóng tối
+* **frightened of being alone**: sợ ở một mình
+* **visibly frightened**: sợ hãi thấy rõ
+
+### Synonyms
+
+* **afraid of** /əˈfreɪd əv/ *(adjective phrase)*: sợ; trung tính và phổ biến nhất
+* **scared of** UK /ˈskeəd əv/ US /ˈskerd əv/ *(adjective phrase)*: sợ; thân mật hơn
+* **terrified of** /ˈter.ə.faɪd əv/ *(adjective phrase)*: cực kỳ sợ hãi; mạnh hơn
+
+### Word family
+
+* **fright** /fraɪt/ *(countable/uncountable noun)*: nỗi sợ hãi đột ngột  
+  *Example:* The sudden alarm gave everyone a fright.  
+  → Tiếng chuông báo động bất ngờ làm mọi người giật mình sợ hãi.
+
+* **frighten** /ˈfraɪ.tən/ *(transitive verb)*: làm ai sợ  
+  *Example:* Graphic images may frighten young viewers.  
+  → Những hình ảnh ghê sợ có thể làm người xem nhỏ tuổi sợ hãi.
+
+* **frightening** /ˈfraɪ.tən.ɪŋ/ *(adjective)*: gây sợ hãi  
+  *Example:* The loss of control was a frightening experience.  
+  → Việc mất kiểm soát là một trải nghiệm đáng sợ.
+
+### Notes
+
+`Frightened` describes the person who feels fear; `frightening` describes its cause: `The child was frightened by the frightening noise.` Use `frightened of + noun/verb-ing`.
+
+---
+
+## 347. Scared of UK /ˈskeəd əv/ US /ˈskerd əv/
+
+* **Part of speech:** informal adjective phrase
+* **Vietnamese meaning:** sợ ai/cái gì *(80%)*; lo lắng hoặc ngại làm gì vì sợ hậu quả *(20%)*
+
+### Usage
+
+`Be scared of` is a very common conversational alternative to `be afraid of`. It is natural in speaking but may be less suitable than `afraid of` or a precise description in formal academic writing.
+
+Common structures:
+
+* `be scared of + noun/pronoun`: sợ ai/cái gì
+* `be scared of + verb-ing`: sợ việc làm gì hoặc điều gì xảy ra
+* `be scared that + clause`: lo sợ rằng...
+* `be scared to + verb`: sợ nên không dám làm gì
+
+### Examples
+
+1. **He is scared of making mistakes when speaking English.**
+   → Anh ấy sợ mắc lỗi khi nói tiếng Anh.
+
+2. **I was scared to open the email because I expected bad news.**
+   → Tôi sợ mở email vì nghĩ rằng sẽ nhận tin xấu.
+
+### Common collocations
+
+* **scared of failure**: sợ thất bại
+* **scared of being judged**: sợ bị đánh giá
+* **too scared to speak**: quá sợ nên không dám nói
+
+### Synonyms
+
+* **afraid of** /əˈfreɪd əv/ *(adjective phrase)*: sợ; trung tính hơn
+* **frightened of** /ˈfraɪ.tənd əv/ *(adjective phrase)*: sợ hãi
+* **nervous about** UK /ˈnɜː.vəs əˈbaʊt/ US /ˈnɝː.vəs əˈbaʊt/ *(adjective phrase)*: lo lắng về; thường nhẹ hơn sợ hãi
+
+### Word family
+
+* **scare** UK /skeər/ US /sker/ *(noun/transitive verb)*: cơn sợ hãi; làm ai sợ  
+  *Example:* The false fire alarm scared several guests.  
+  → Chuông báo cháy giả làm một số vị khách sợ hãi.
+
+* **scared** UK /skeəd/ US /skerd/ *(adjective)*: sợ hãi  
+  *Example:* The child felt scared during the thunderstorm.  
+  → Đứa trẻ cảm thấy sợ trong cơn giông.
+
+* **scary** UK /ˈskeə.ri/ US /ˈsker.i/ *(adjective)*: đáng sợ  
+  *Example:* Moving to a new country can be exciting and scary.  
+  → Chuyển đến một đất nước mới có thể vừa hào hứng vừa đáng sợ.
+
+### Notes
+
+`Scared` describes a feeling; `scary` describes its cause. Compare `I am scared` with `The movie is scary`. Both `scared of doing` and `scared to do` are possible, with the same general distinction as `afraid of doing/to do`.
+
+---
+
+## 348. Independent of /ˌɪn.dɪˈpen.dənt əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** không phụ thuộc hoặc không bị kiểm soát bởi ai/cái gì *(60%)*; tách biệt, không liên quan hoặc không bị ảnh hưởng bởi một yếu tố khác *(25%)*; độc lập về tài chính/chức năng *(15%)*
+
+### Usage
+
+`Be independent of` means not relying on, being controlled by, or being affected by something else. It is common in academic, political, financial, and technical contexts.
+
+Common structures:
+
+* `be independent of + person/organization`: độc lập, không bị kiểm soát bởi ai/tổ chức nào
+* `be independent of + factor`: không phụ thuộc vào một yếu tố
+* `remain independent of`: vẫn độc lập với
+* `financially independent of`: độc lập về tài chính với
+
+### Examples
+
+1. **The review panel must remain independent of political pressure.**
+   → Hội đồng đánh giá phải duy trì sự độc lập trước áp lực chính trị.
+
+2. **The device can operate independently of an internet connection.**
+   → Thiết bị có thể hoạt động độc lập mà không cần kết nối Internet.
+
+### Common collocations
+
+* **independent of government control**: độc lập với sự kiểm soát của chính phủ
+* **independent of external factors**: không phụ thuộc vào các yếu tố bên ngoài
+* **financially independent of**: độc lập về tài chính với
+
+### Synonyms
+
+* **self-reliant** /ˌself.rɪˈlaɪ.ənt/ *(adjective)*: tự lực, không dựa vào người khác
+* **autonomous from** UK /ɔːˈtɒn.ə.məs frəm/ US /ɑːˈtɑː.nə.məs frəm/ *(adjective phrase)*: tự chủ, có quyền tự quyết khỏi
+* **separate from** /ˈsep.ər.ət frəm/ *(adjective phrase)*: tách biệt khỏi
+
+### Word family
+
+* **independence** /ˌɪn.dɪˈpen.dəns/ *(uncountable noun)*: sự độc lập  
+  *Example:* Financial independence can give young adults greater choice.  
+  → Độc lập tài chính có thể mang lại cho người trẻ nhiều lựa chọn hơn.
+
+* **independent** /ˌɪn.dɪˈpen.dənt/ *(adjective)*: độc lập, tự chủ  
+  *Example:* Independent journalism plays an important social role.  
+  → Báo chí độc lập đóng một vai trò xã hội quan trọng.
+
+* **independently** /ˌɪn.dɪˈpen.dənt.li/ *(adverb)*: một cách độc lập  
+  *Example:* Two laboratories independently reached the same conclusion.  
+  → Hai phòng thí nghiệm độc lập đi đến cùng một kết luận.
+
+### Notes
+
+Use `independent of`, not `independent from`, in most standard constructions, although `independent from` is sometimes heard when emphasizing separation. Compare `dependent on` with `independent of`.
