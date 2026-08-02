@@ -18011,3 +18011,410 @@ Common structures:
 ### Notes
 
 Place `no longer` before a main verb (`She no longer works here`) but after `be` (`She is no longer employed here`). `Anymore` normally goes at the end of a negative sentence: `She doesn't work here anymore.` Avoid the double negative `She doesn't no longer work here`.
+
+---
+
+## 327. Ahead of /əˈhed əv/
+
+* **Part of speech:** preposition phrase; adverb phrase
+* **Vietnamese meaning:** ở phía trước ai/cái gì *(35%)*; trước một thời điểm hoặc sự kiện *(30%)*; vượt trước, tiến bộ hơn hoặc thành công hơn *(25%)*; sớm hơn kế hoạch *(10%)*
+
+### Usage
+
+`Ahead of` describes a position in front of someone or something, a time before an event, or an advantage in progress or performance. It is especially useful in the collocations `ahead of schedule` and `ahead of the competition`.
+
+Common structures:
+
+* `ahead of + person/vehicle`: ở phía trước một người/phương tiện
+* `ahead of + event/time`: trước một sự kiện/thời điểm
+* `ahead of schedule`: sớm hơn tiến độ/kế hoạch
+* `ahead of the competition`: vượt trước các đối thủ cạnh tranh
+
+### Examples
+
+1. **The research team completed the project two weeks ahead of schedule.**
+   → Nhóm nghiên cứu đã hoàn thành dự án sớm hơn kế hoạch hai tuần.
+
+2. **Our bus was moving slowly, so the other group arrived ahead of us.**
+   → Xe buýt của chúng tôi chạy chậm, vì vậy nhóm kia đã đến trước chúng tôi.
+
+### Common collocations
+
+* **ahead of schedule**: sớm hơn kế hoạch
+* **ahead of time**: trước thời gian dự kiến
+* **ahead of the competition**: vượt trước đối thủ cạnh tranh
+
+### Synonyms
+
+* **before** UK /bɪˈfɔːr/ US /bɪˈfɔːr/ *(preposition/adverb)*: trước về thời gian hoặc thứ tự
+* **in front of** /ɪn ˈfrʌnt əv/ *(preposition phrase)*: ở phía trước về vị trí
+* **in advance of** UK /ɪn ədˈvɑːns əv/ US /ɪn ədˈvæns əv/ *(preposition phrase)*: trước một sự kiện hoặc thời điểm; trang trọng hơn
+* **more advanced than** UK /mɔːr ədˈvɑːnst ðæn/ US /mɔːr ədˈvænst ðæn/ *(adjective phrase)*: tiến bộ hơn
+
+### Word family
+
+* **ahead** /əˈhed/ *(adverb/adjective)*: ở phía trước; tiến triển thuận lợi  
+  *Example:* Careful planning helped the company stay ahead in a competitive market.  
+  → Việc lập kế hoạch cẩn thận giúp công ty duy trì vị thế dẫn trước trong một thị trường cạnh tranh.
+
+* **head** /hed/ *(countable noun/verb)*: đầu; đứng đầu hoặc đi về phía  
+  *Example:* She heads a research team that studies renewable energy.  
+  → Cô ấy lãnh đạo một nhóm nghiên cứu về năng lượng tái tạo.
+
+* **headway** /ˈhed.weɪ/ *(uncountable noun)*: sự tiến triển  
+  *Example:* Scientists have made significant headway in treating the disease.  
+  → Các nhà khoa học đã đạt được tiến triển đáng kể trong việc điều trị căn bệnh này.
+
+### Notes
+
+Use `ahead of`, not `ahead than`: `Our team is ahead of theirs.` For ordinary time order, `before` is often simpler. `Ahead of` commonly emphasizes preparation, position, or progress: `ahead of the meeting`, `ahead of schedule`, and `ahead of other companies`.
+
+---
+
+## 328. Tired of UK /ˈtaɪəd əv/ US /ˈtaɪrd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** chán, ngán vì điều gì lặp lại hoặc khó chịu *(85%)*; mệt mỏi và không muốn tiếp tục chịu đựng điều gì *(15%)*
+
+### Usage
+
+`Be tired of` means that someone has become bored, annoyed, or frustrated with a repeated situation. It is different from `be tired from`, which describes physical tiredness caused by an activity.
+
+Common structures:
+
+* `be tired of + noun/pronoun`: chán hoặc ngán ai/cái gì
+* `be tired of + verb-ing`: chán việc phải làm gì
+* `get/become tired of + noun/verb-ing`: dần trở nên chán điều gì
+* `be tired from + noun/verb-ing`: mệt về thể chất do một hoạt động
+
+### Examples
+
+1. **Many commuters are tired of waiting for unreliable buses every morning.**
+   → Nhiều người đi làm đã chán việc phải chờ những chuyến xe buýt không đáng tin cậy mỗi sáng.
+
+2. **I'm tired of having the same argument, so let's look for a practical solution.**
+   → Tôi chán việc cứ tranh luận cùng một vấn đề, vì vậy hãy tìm một giải pháp thiết thực.
+
+### Common collocations
+
+* **tired of waiting**: chán việc phải chờ đợi
+* **tired of doing the same thing**: chán làm đi làm lại cùng một việc
+* **get tired of something**: dần cảm thấy chán điều gì
+
+### Synonyms
+
+* **fed up with** /ˌfed ˈʌp wɪð/ *(adjective phrase)*: chán ngấy, hết chịu nổi; mạnh và thân mật hơn
+* **bored with** UK /ˈbɔːd wɪð/ US /ˈbɔːrd wɪð/ *(adjective phrase)*: chán vì không còn hứng thú
+* **weary of** UK /ˈwɪə.ri əv/ US /ˈwɪr.i əv/ *(adjective phrase)*: mệt mỏi, chán ngán vì kéo dài; hơi trang trọng
+* **have had enough of** /hæv hæd ɪˈnʌf əv/ *(verb phrase)*: đã chịu đựng đủ và không muốn tiếp tục
+
+### Word family
+
+* **tire** UK /ˈtaɪər/ US /ˈtaɪr/ *(transitive/intransitive verb)*: làm mệt; trở nên mệt hoặc chán  
+  *Example:* Repetitive administrative tasks can quickly tire employees.  
+  → Những công việc hành chính lặp đi lặp lại có thể nhanh chóng làm nhân viên mệt mỏi.
+
+* **tired** UK /ˈtaɪəd/ US /ˈtaɪrd/ *(adjective)*: mệt; chán ngán  
+  *Example:* I felt tired after working late for three consecutive nights.  
+  → Tôi cảm thấy mệt sau khi làm việc muộn ba đêm liên tiếp.
+
+* **tiring** UK /ˈtaɪə.rɪŋ/ US /ˈtaɪr.ɪŋ/ *(adjective)*: gây mệt mỏi  
+  *Example:* Looking after young children can be rewarding but tiring.  
+  → Chăm sóc trẻ nhỏ có thể đáng giá nhưng cũng gây mệt mỏi.
+
+### Notes
+
+Compare `I am tired of the work` (tôi chán công việc này) with `I am tired from the work` (tôi mệt vì đã làm việc). After `of`, use a noun, pronoun, or `verb-ing`, not an infinitive: say `tired of waiting`, not `tired of to wait`.
+
+---
+
+## 329. Fond of UK /ˈfɒnd əv/ US /ˈfɑːnd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** yêu mến một người hoặc động vật *(45%)*; thích một hoạt động hoặc sự vật *(40%)*; có tình cảm hoặc ký ức trìu mến về điều gì *(15%)*
+
+### Usage
+
+`Be fond of` expresses warm affection or a long-standing liking. It is often more personal and affectionate than the neutral verb `like`, but it is usually less intense than `love`.
+
+Common structures:
+
+* `be fond of + person/animal`: yêu mến một người/con vật
+* `be fond of + noun`: thích một sự vật
+* `be fond of + verb-ing`: thích làm gì
+* `be particularly/very fond of`: đặc biệt/rất yêu thích
+
+### Examples
+
+1. **My grandfather is particularly fond of telling stories about his childhood.**
+   → Ông tôi đặc biệt thích kể những câu chuyện về thời thơ ấu của mình.
+
+2. **She became fond of the quiet neighborhood after living there for several months.**
+   → Cô ấy dần yêu mến khu phố yên tĩnh sau khi sống ở đó vài tháng.
+
+### Common collocations
+
+* **be very fond of someone**: rất yêu mến ai
+* **be fond of reading**: thích đọc sách
+* **grow/become fond of**: dần trở nên yêu thích
+
+### Synonyms
+
+* **like** /laɪk/ *(transitive verb)*: thích; trung tính và phổ biến nhất
+* **be keen on** /bi ˈkiːn ɒn/ *(adjective phrase)*: rất thích, hứng thú với; đặc biệt phổ biến trong tiếng Anh-Anh
+* **be partial to** UK /bi ˈpɑː.ʃəl tuː/ US /bi ˈpɑːr.ʃəl tuː/ *(adjective phrase)*: đặc biệt thích một thứ; thường mang sắc thái nhẹ nhàng
+* **care for** UK /ˈkeə fɔːr/ US /ˈker fɔːr/ *(phrasal verb)*: yêu mến hoặc thích; nghĩa này thường gặp trong câu hỏi và câu phủ định
+
+### Word family
+
+* **fond** UK /fɒnd/ US /fɑːnd/ *(adjective)*: yêu mến, trìu mến  
+  *Example:* She has fond memories of studying with her university friends.  
+  → Cô ấy có những ký ức trìu mến về thời học cùng bạn bè đại học.
+
+* **fondness** UK /ˈfɒnd.nəs/ US /ˈfɑːnd.nəs/ *(uncountable/countable noun)*: sự yêu mến, niềm yêu thích  
+  *Example:* His fondness for nature began during childhood camping trips.  
+  → Tình yêu thiên nhiên của anh ấy bắt đầu từ những chuyến cắm trại thời thơ ấu.
+
+* **fondly** UK /ˈfɒnd.li/ US /ˈfɑːnd.li/ *(adverb)*: một cách trìu mến  
+  *Example:* Former students still speak fondly of their first English teacher.  
+  → Các cựu học sinh vẫn trìu mến nhắc về giáo viên tiếng Anh đầu tiên của mình.
+
+### Notes
+
+Use `fond of`, not `fond with` or `fond to`: `She is fond of music.` After `of`, use a noun or `verb-ing`: `fond of cooking`. `Fond of` is natural in both speaking and writing, although simple `like` is more common in casual everyday statements.
+
+---
+
+## 330. Sick of /ˈsɪk əv/
+
+* **Part of speech:** informal adjective phrase
+* **Vietnamese meaning:** chán ngấy, hết chịu nổi một người hoặc tình huống *(85%)*; phát ngán vì điều gì cứ lặp lại *(15%)*
+
+### Usage
+
+`Be sick of` means to be extremely annoyed or bored with something. It is informal and usually stronger than `be tired of`. In this expression, `sick` does not normally mean physically ill.
+
+Common structures:
+
+* `be sick of + noun/pronoun`: chán ngấy ai/cái gì
+* `be sick of + verb-ing`: chán ngấy việc phải làm gì
+* `get sick of + noun/verb-ing`: dần trở nên chán ngấy
+* `be sick and tired of + noun/verb-ing`: hoàn toàn chán ngấy, hết chịu nổi
+
+### Examples
+
+1. **Residents are sick of the constant noise from late-night construction.**
+   → Cư dân đã chán ngấy tiếng ồn liên tục từ việc xây dựng vào ban đêm.
+
+2. **I'm sick of repeating the same password-reset process every week.**
+   → Tôi chán ngấy việc phải lặp lại cùng một quy trình đặt lại mật khẩu mỗi tuần.
+
+### Common collocations
+
+* **sick of waiting**: chán ngấy việc chờ đợi
+* **sick of hearing about something**: phát ngán vì cứ phải nghe về điều gì
+* **sick and tired of**: hoàn toàn chán ngấy, hết chịu nổi
+
+### Synonyms
+
+* **fed up with** /ˌfed ˈʌp wɪð/ *(adjective phrase)*: chán ngấy, hết chịu nổi
+* **have had enough of** /hæv hæd ɪˈnʌf əv/ *(verb phrase)*: đã chịu đủ và không muốn tiếp tục
+* **tired of** UK /ˈtaɪəd əv/ US /ˈtaɪrd əv/ *(adjective phrase)*: chán, ngán; thường nhẹ hơn `sick of`
+* **weary of** UK /ˈwɪə.ri əv/ US /ˈwɪr.i əv/ *(adjective phrase)*: mệt mỏi, chán ngán; trang trọng hơn
+
+### Word family
+
+* **sick** /sɪk/ *(adjective)*: bị ốm; chán ngấy trong một số cấu trúc  
+  *Example:* Several employees became sick after eating contaminated food.  
+  → Một số nhân viên bị ốm sau khi ăn thực phẩm nhiễm bẩn.
+
+* **sickness** /ˈsɪk.nəs/ *(uncountable/countable noun)*: bệnh tật; cảm giác buồn nôn  
+  *Example:* Motion sickness can make long ferry journeys uncomfortable.  
+  → Chứng say tàu xe có thể khiến những chuyến phà dài trở nên khó chịu.
+
+* **sickening** /ˈsɪk.ən.ɪŋ/ *(adjective)*: gây buồn nôn; gây ghê sợ hoặc phẫn nộ  
+  *Example:* The investigation revealed a sickening level of animal cruelty.  
+  → Cuộc điều tra cho thấy mức độ ngược đãi động vật gây phẫn nộ.
+
+### Notes
+
+`Sick of` is appropriate in conversation but can sound too emotional for formal IELTS Writing. In academic contexts, use alternatives such as `frustrated with` or describe the problem directly. Say `sick of waiting`, not `sick of to wait`. To describe a cause of physical illness, use patterns such as `sick from contaminated food`.
+
+---
+
+## 331. Envious of /ˈen.vi.əs əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** ghen tị với ai vì họ có điều mình mong muốn *(75%)*; thèm muốn hoặc ao ước có được lợi thế/tài sản của người khác *(25%)*
+
+### Usage
+
+`Be envious of` means wishing that you had a quality, possession, achievement, or opportunity that another person has. The phrase can describe a mild feeling of admiration and desire or a stronger negative feeling, depending on context.
+
+Common structures:
+
+* `be envious of + person`: ghen tị với ai
+* `be envious of + possession/achievement`: ghen tị vì tài sản/thành tựu nào đó
+* `be envious of someone for + noun/verb-ing`: ghen tị với ai vì điều gì
+* `feel envious of`: cảm thấy ghen tị với
+
+### Examples
+
+1. **Some employees felt envious of colleagues who were allowed to work remotely.**
+   → Một số nhân viên cảm thấy ghen tị với những đồng nghiệp được phép làm việc từ xa.
+
+2. **Rather than being envious of her success, I asked how she had developed her skills.**
+   → Thay vì ghen tị với thành công của cô ấy, tôi hỏi cô ấy đã phát triển kỹ năng như thế nào.
+
+### Common collocations
+
+* **feel envious of someone**: cảm thấy ghen tị với ai
+* **envious of someone's success**: ghen tị với thành công của ai
+* **deeply/slightly envious**: vô cùng/hơi ghen tị
+
+### Synonyms
+
+* **jealous of** /ˈdʒel.əs əv/ *(adjective phrase)*: ghen tị với; cũng có thể chỉ sự ghen tuông trong quan hệ
+* **resentful of** /rɪˈzent.fəl əv/ *(adjective phrase)*: bất mãn hoặc ấm ức vì lợi thế hay cách đối xử dành cho người khác
+* **covetous of** /ˈkʌv.ɪ.təs əv/ *(adjective phrase)*: thèm muốn thứ thuộc về người khác; trang trọng và ít phổ biến
+* **wish one had** /wɪʃ wʌn hæd/ *(verb phrase)*: ước mình có được điều gì; trung tính hơn
+
+### Word family
+
+* **envy** /ˈen.vi/ *(uncountable noun/transitive verb)*: sự ghen tị; ghen tị với  
+  *Example:* She envied her friend's confidence during public presentations.  
+  → Cô ấy ghen tị với sự tự tin của bạn mình trong các bài thuyết trình trước công chúng.
+
+* **envious** /ˈen.vi.əs/ *(adjective)*: ghen tị, thèm muốn  
+  *Example:* It is natural to feel envious occasionally, but the feeling should not control your behavior.  
+  → Thỉnh thoảng cảm thấy ghen tị là điều tự nhiên, nhưng cảm xúc đó không nên chi phối hành vi của bạn.
+
+* **enviously** /ˈen.vi.əs.li/ *(adverb)*: một cách ghen tị  
+  *Example:* He looked enviously at the larger office across the corridor.  
+  → Anh ấy nhìn văn phòng lớn hơn ở phía bên kia hành lang với vẻ ghen tị.
+
+### Notes
+
+Use `envious of`, not `envious with`. `Jealous` and `envious` overlap in everyday English, but a useful distinction is that `envious` concerns wanting what another person has, while `jealous` can also mean fearing that a relationship will be taken away.
+
+---
+
+## 332. Terrified of /ˈter.ə.faɪd əv/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** cực kỳ sợ hãi một người, sự vật hoặc tình huống *(85%)*; khiếp sợ trước khả năng điều gì xảy ra *(15%)*
+
+### Usage
+
+`Be terrified of` expresses very strong fear. It is much stronger than `be afraid of` and can be followed by a noun, pronoun, or `verb-ing` form. Use `terrified that + clause` when the fear concerns a complete situation.
+
+Common structures:
+
+* `be terrified of + noun/pronoun`: cực kỳ sợ ai/cái gì
+* `be terrified of + verb-ing`: cực kỳ sợ việc phải làm gì
+* `be terrified that + clause`: khiếp sợ rằng điều gì có thể xảy ra
+* `be absolutely terrified`: vô cùng khiếp sợ
+
+### Examples
+
+1. **As a child, she was terrified of speaking in front of large audiences.**
+   → Khi còn nhỏ, cô ấy cực kỳ sợ nói trước đông người.
+
+2. **Residents were terrified that the wildfire would reach their homes.**
+   → Cư dân khiếp sợ rằng đám cháy rừng sẽ lan đến nhà của họ.
+
+### Common collocations
+
+* **terrified of heights**: cực kỳ sợ độ cao
+* **terrified of doing something**: cực kỳ sợ làm điều gì
+* **absolutely terrified**: vô cùng khiếp sợ
+
+### Synonyms
+
+* **petrified of** /ˈpet.rɪ.faɪd əv/ *(adjective phrase)*: sợ cứng người, vô cùng khiếp sợ; giàu cảm xúc
+* **frightened of** /ˈfraɪ.tənd əv/ *(adjective phrase)*: sợ hãi; thường nhẹ hơn `terrified of`
+* **scared of** UK /ˈskeəd əv/ US /ˈskerd əv/ *(adjective phrase)*: sợ; phổ biến và thân mật
+* **fearful of** UK /ˈfɪə.fəl əv/ US /ˈfɪr.fəl əv/ *(adjective phrase)*: lo sợ; trang trọng hơn
+
+### Word family
+
+* **terror** /ˈter.ər/ *(uncountable noun)*: nỗi kinh hoàng, sự khiếp sợ  
+  *Example:* The sudden explosion filled nearby residents with terror.  
+  → Vụ nổ bất ngờ khiến những cư dân gần đó vô cùng kinh hoàng.
+
+* **terrify** /ˈter.ə.faɪ/ *(transitive verb)*: làm ai khiếp sợ  
+  *Example:* Graphic warnings may terrify children without teaching them how to stay safe.  
+  → Những cảnh báo bằng hình ảnh ghê sợ có thể làm trẻ em khiếp sợ mà không dạy chúng cách giữ an toàn.
+
+* **terrified** /ˈter.ə.faɪd/ *(adjective)*: vô cùng sợ hãi  
+  *Example:* The passengers were terrified when the plane suddenly lost altitude.  
+  → Các hành khách vô cùng sợ hãi khi máy bay đột ngột mất độ cao.
+
+* **terrifying** /ˈter.ə.faɪ.ɪŋ/ *(adjective)*: gây kinh hoàng  
+  *Example:* Losing control of the car was a terrifying experience.  
+  → Việc mất kiểm soát chiếc xe là một trải nghiệm kinh hoàng.
+
+### Notes
+
+`Terrified` describes how a person feels, while `terrifying` describes the person, thing, or situation that causes fear: `I was terrified because the storm was terrifying.` Say `terrified of flying`, not `terrified to flying`. The pattern `terrified to + verb` is also possible when someone is too frightened to perform a particular action.
+
+---
+
+## 333. Short of UK /ˈʃɔːt əv/ US /ˈʃɔːrt əv/
+
+* **Part of speech:** preposition phrase; adjective phrase
+* **Vietnamese meaning:** thiếu, không có đủ thứ cần thiết *(60%)*; chưa đạt một số lượng, mục tiêu hoặc tiêu chuẩn *(25%)*; còn thiếu một khoảng thời gian ngắn mới đến một mốc nào đó *(15%)*
+
+### Usage
+
+`Short of` commonly means lacking enough of a resource or failing to reach a number or target. It also appears in `nothing short of`, which has a different emphatic meaning: completely or truly remarkable.
+
+Common structures:
+
+* `be short of + money/time/staff/resources`: thiếu tiền/thời gian/nhân sự/nguồn lực
+* `fall short of + target/standard/expectation`: không đạt mục tiêu/tiêu chuẩn/kỳ vọng
+* `number + short of + total/target`: còn thiếu bao nhiêu mới đạt tổng số/mục tiêu
+* `nothing short of + adjective/noun`: hoàn toàn, thực sự là một điều đáng chú ý
+
+### Examples
+
+1. **The hospital is short of trained nurses during the holiday period.**
+   → Bệnh viện đang thiếu y tá được đào tạo trong thời gian nghỉ lễ.
+
+2. **The campaign raised $9,000, leaving it $1,000 short of its target.**
+   → Chiến dịch đã quyên góp được 9.000 đô la, còn thiếu 1.000 đô la mới đạt mục tiêu.
+
+### Common collocations
+
+* **short of money**: thiếu tiền
+* **short of time**: thiếu thời gian
+* **short of staff**: thiếu nhân sự
+
+### Synonyms
+
+* **lacking** /ˈlæk.ɪŋ/ *(adjective/preposition)*: thiếu, không có đủ
+* **low on** UK /ˈləʊ ɒn/ US /ˈloʊ ɑːn/ *(adjective phrase)*: sắp hết hoặc còn ít; phổ biến trong hội thoại
+* **in need of** /ɪn ˈniːd əv/ *(preposition phrase)*: đang cần điều gì
+* **insufficient** /ˌɪn.səˈfɪʃ.ənt/ *(adjective)*: không đủ về số lượng hoặc mức độ; trang trọng hơn
+
+### Word family
+
+* **short** UK /ʃɔːt/ US /ʃɔːrt/ *(adjective/adverb)*: ngắn; thiếu; chưa đạt  
+  *Example:* The organization is short of funds for its education programme.  
+  → Tổ chức đang thiếu kinh phí cho chương trình giáo dục của mình.
+
+* **shortage** UK /ˈʃɔː.tɪdʒ/ US /ˈʃɔːr.t̬ɪdʒ/ *(countable noun)*: sự thiếu hụt  
+  *Example:* A shortage of affordable housing has increased rents in many cities.  
+  → Tình trạng thiếu nhà ở giá phải chăng đã làm tiền thuê tăng ở nhiều thành phố.
+
+* **shorten** UK /ˈʃɔː.tən/ US /ˈʃɔːr.tən/ *(transitive/intransitive verb)*: rút ngắn, làm ngắn lại  
+  *Example:* Better planning could shorten the time required to process applications.  
+  → Việc lập kế hoạch tốt hơn có thể rút ngắn thời gian cần để xử lý hồ sơ.
+
+* **shortly** UK /ˈʃɔːt.li/ US /ˈʃɔːrt.li/ *(adverb)*: chẳng bao lâu nữa; một cách ngắn gọn hoặc cộc lốc  
+  *Example:* The committee will announce its decision shortly.  
+  → Ủy ban sẽ sớm công bố quyết định của mình.
+
+### Notes
+
+`Be short of something` means not having enough: `We are short of time.` `Fall short of something` means failing to reach it: `The results fell short of expectations.` Do not confuse `short of` with `short for`: `App` is short for `application`.
