@@ -20049,3 +20049,1519 @@ Common structures:
 ### Notes
 
 `Amazed` describes a person's reaction; `amazing` describes its cause: `I was amazed by the amazing view.` `Amazed at` is often followed by a noun or `how + clause`; `amazed to` is followed by a base verb.
+
+---
+
+## 363. Fed up with /ˌfed ˈʌp wɪð/
+
+* **Part of speech:** informal adjective phrase
+* **Vietnamese meaning:** chán ngấy hoặc hết kiên nhẫn với một người/tình huống *(80%)*; không muốn tiếp tục chịu đựng điều gì lặp lại *(20%)*
+
+### Usage
+
+`Be fed up with` expresses strong annoyance or frustration after experiencing something for too long. It is common in conversation and stronger than `be tired of`.
+
+Common structures:
+
+* `be fed up with + noun/pronoun`: chán ngấy ai/cái gì
+* `be fed up with + verb-ing`: chán ngấy việc làm gì
+* `get/become fed up with`: dần trở nên chán ngấy
+* `feel completely fed up`: cảm thấy hoàn toàn chán nản/hết chịu nổi
+
+### Examples
+
+1. **Residents are fed up with the constant construction noise.**
+   → Cư dân đã chán ngấy tiếng ồn xây dựng liên tục.
+
+2. **She became fed up with doing unpaid overtime every week.**
+   → Cô ấy chán ngấy việc phải làm thêm giờ không lương mỗi tuần.
+
+### Common collocations
+
+* **fed up with waiting**: chán ngấy việc chờ đợi
+* **completely fed up with**: hoàn toàn hết chịu nổi
+* **get fed up with**: dần trở nên chán ngấy
+
+### Synonyms
+
+* **sick of** /ˈsɪk əv/ *(adjective phrase)*: chán ngấy; thân mật và mạnh
+* **tired of** UK /ˈtaɪəd əv/ US /ˈtaɪrd əv/ *(adjective phrase)*: chán, ngán; thường nhẹ hơn
+* **weary of** UK /ˈwɪə.ri əv/ US /ˈwɪr.i əv/ *(adjective phrase)*: mệt mỏi, chán ngán; trang trọng hơn
+
+### Word family
+
+* **fed up** /ˌfed ˈʌp/ *(adjective)*: chán ngấy, thất vọng  
+  *Example:* After another delay, the passengers were completely fed up.  
+  → Sau một lần trì hoãn nữa, hành khách hoàn toàn chán ngấy.
+
+* **frustrate** /frʌˈstreɪt/ *(transitive verb)*: làm ai thất vọng/bực bội  
+  *Example:* Unclear instructions frustrate new users.  
+  → Hướng dẫn không rõ ràng làm người dùng mới bực bội.
+
+* **frustration** /frʌˈstreɪ.ʃən/ *(countable/uncountable noun)*: sự thất vọng, bực bội  
+  *Example:* Public frustration grew as prices continued to rise.  
+  → Sự bức xúc của công chúng tăng lên khi giá cả tiếp tục tăng.
+
+### Notes
+
+The `with` is a preposition, so use a noun or `verb-ing`: `fed up with waiting`, not `fed up with wait`. In formal writing, use `frustrated with`, `dissatisfied with`, or describe the repeated problem directly.
+
+---
+
+## 364. Acquainted with /əˈkweɪn.tɪd wɪð/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** quen biết một người nhưng không thân thiết *(45%)*; biết hoặc đã làm quen với một chủ đề, quy trình hay sự việc *(55%)*
+
+### Usage
+
+`Be acquainted with` means know a person slightly or have some knowledge of a subject. It is more formal than `know` and usually suggests limited rather than expert familiarity.
+
+Common structures:
+
+* `be acquainted with + person`: có quen biết ai
+* `be acquainted with + subject/system`: biết/làm quen với chủ đề/hệ thống
+* `become acquainted with`: bắt đầu làm quen với
+* `acquaint someone with + noun`: giúp ai làm quen với điều gì
+
+### Examples
+
+1. **All new staff should become acquainted with the safety procedures.**
+   → Tất cả nhân viên mới nên làm quen với các quy trình an toàn.
+
+2. **I am acquainted with her, but we have never worked together.**
+   → Tôi có quen cô ấy, nhưng chúng tôi chưa từng làm việc cùng nhau.
+
+### Common collocations
+
+* **acquainted with the facts**: biết rõ các sự việc
+* **become acquainted with**: làm quen với
+* **personally acquainted with**: đích thân quen biết
+
+### Synonyms
+
+* **familiar with** /fəˈmɪl.i.ər wɪð/ *(adjective phrase)*: quen thuộc hoặc hiểu biết về
+* **aware of** UK /əˈweər əv/ US /əˈwer əv/ *(adjective phrase)*: nhận thức/biết về
+* **known to** UK /ˈnəʊn tuː/ US /ˈnoʊn tuː/ *(adjective phrase)*: được ai biết đến; dùng khi nói về người/vật được nhận biết
+
+### Word family
+
+* **acquaint** /əˈkweɪnt/ *(transitive verb)*: làm cho ai biết/làm quen  
+  *Example:* The orientation session acquaints students with campus services.  
+  → Buổi định hướng giúp sinh viên làm quen với các dịch vụ trong trường.
+
+* **acquaintance** /əˈkweɪn.təns/ *(countable/uncountable noun)*: người quen; sự hiểu biết sơ bộ  
+  *Example:* She is a professional acquaintance rather than a close friend.  
+  → Cô ấy là người quen trong công việc chứ không phải bạn thân.
+
+* **acquainted** /əˈkweɪn.tɪd/ *(adjective)*: quen biết, biết rõ  
+  *Example:* The lawyer is well acquainted with employment law.  
+  → Luật sư rất am hiểu luật lao động.
+
+### Notes
+
+Use `acquainted with`, not `acquainted to`. `Acquainted with a person` usually means you know them but are not close. For strong subject knowledge, `familiar with` or `knowledgeable about` may be clearer.
+
+---
+
+## 365. Doubtful about /ˈdaʊt.fəl əˈbaʊt/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** không chắc một điều là đúng hoặc sẽ xảy ra *(65%)*; nghi ngờ giá trị, hiệu quả hoặc khả năng thành công *(35%)*
+
+### Usage
+
+`Be doubtful about` expresses uncertainty or skepticism regarding a plan, claim, or outcome. It is followed by a noun or `verb-ing`; `doubtful that + clause` introduces a complete proposition.
+
+Common structures:
+
+* `be doubtful about + noun`: không chắc/nghi ngờ về điều gì
+* `be doubtful about + verb-ing`: nghi ngờ về việc làm gì
+* `be doubtful that + clause`: không tin chắc rằng...
+* `remain doubtful about`: vẫn nghi ngờ về
+
+### Examples
+
+1. **Several experts are doubtful about the policy's long-term benefits.**
+   → Một số chuyên gia nghi ngờ lợi ích lâu dài của chính sách.
+
+2. **I am doubtful that the repairs can be completed by Friday.**
+   → Tôi không chắc việc sửa chữa có thể hoàn thành trước thứ Sáu.
+
+### Common collocations
+
+* **doubtful about the outcome**: không chắc về kết quả
+* **remain doubtful about**: vẫn nghi ngờ về
+* **highly doubtful that**: rất khó tin rằng
+
+### Synonyms
+
+* **uncertain about** UK /ʌnˈsɜː.tən əˈbaʊt/ US /ʌnˈsɝː.tən əˈbaʊt/ *(adjective phrase)*: không chắc chắn về
+* **skeptical about** /ˈskep.tɪ.kəl əˈbaʊt/ *(adjective phrase)*: hoài nghi về
+* **unsure about** UK /ˌʌnˈʃɔːr əˈbaʊt/ US /ˌʌnˈʃʊr əˈbaʊt/ *(adjective phrase)*: không chắc về; phổ biến trong hội thoại
+
+### Word family
+
+* **doubt** /daʊt/ *(noun/verb)*: sự nghi ngờ; nghi ngờ  
+  *Example:* Many residents doubt that the project will reduce traffic.  
+  → Nhiều cư dân nghi ngờ dự án sẽ làm giảm giao thông.
+
+* **doubtful** /ˈdaʊt.fəl/ *(adjective)*: không chắc, đáng ngờ  
+  *Example:* It is doubtful whether the old bridge can be repaired.  
+  → Không chắc liệu cây cầu cũ có thể được sửa hay không.
+
+* **doubtfully** /ˈdaʊt.fəl.i/ *(adverb)*: một cách nghi ngờ  
+  *Example:* She looked doubtfully at the unrealistic schedule.  
+  → Cô ấy nhìn lịch trình thiếu thực tế với vẻ nghi ngờ.
+
+### Notes
+
+`Doubtful about` describes a person's uncertainty about a topic. `It is doubtful that...` means something is unlikely. Do not confuse `doubtful` with `doubtless`, which means almost certainly.
+
+---
+
+## 366. Involved in UK /ɪnˈvɒlvd ɪn/ US /ɪnˈvɑːlvd ɪn/
+
+* **Part of speech:** adjective phrase; passive verb phrase
+* **Vietnamese meaning:** tham gia hoặc có vai trò trong một hoạt động/dự án *(55%)*; liên quan đến một sự việc, vấn đề hoặc hành vi *(30%)*; bị cuốn vào một tình huống phức tạp *(15%)*
+
+### Usage
+
+`Be involved in` means participate in or be connected with an activity or situation. Use `involved with` for a close association with a person, group, or organization.
+
+Common structures:
+
+* `be involved in + noun/activity`: tham gia/liên quan đến hoạt động
+* `be involved in + verb-ing`: tham gia vào việc làm gì
+* `get involved in`: bắt đầu tham gia/bị cuốn vào
+* `be closely/directly involved in`: tham gia/liên quan chặt chẽ/trực tiếp
+
+### Examples
+
+1. **Local residents were involved in planning the new public park.**
+   → Cư dân địa phương đã tham gia lập kế hoạch cho công viên công cộng mới.
+
+2. **The company denied being involved in illegal waste disposal.**
+   → Công ty phủ nhận có liên quan đến việc xử lý rác thải trái phép.
+
+### Common collocations
+
+* **actively involved in**: tích cực tham gia vào
+* **directly involved in**: liên quan trực tiếp đến
+* **get involved in a project**: tham gia một dự án
+
+### Synonyms
+
+* **engaged in** /ɪnˈɡeɪdʒd ɪn/ *(adjective phrase)*: đang tham gia vào
+* **participating in** /pɑːˈtɪs.ɪ.peɪ.tɪŋ ɪn/ *(verb phrase)*: tham gia vào
+* **connected with** /kəˈnek.tɪd wɪð/ *(adjective phrase)*: có liên quan đến
+
+### Word family
+
+* **involve** UK /ɪnˈvɒlv/ US /ɪnˈvɑːlv/ *(transitive verb)*: bao gồm; khiến tham gia  
+  *Example:* The role involves working with vulnerable families.  
+  → Vai trò này bao gồm việc làm việc với các gia đình dễ bị tổn thương.
+
+* **involvement** UK /ɪnˈvɒlv.mənt/ US /ɪnˈvɑːlv.mənt/ *(uncountable noun)*: sự tham gia, sự liên quan  
+  *Example:* Community involvement improved the final design.  
+  → Sự tham gia của cộng đồng đã cải thiện thiết kế cuối cùng.
+
+* **involved** UK /ɪnˈvɒlvd/ US /ɪnˈvɑːlvd/ *(adjective)*: có liên quan; phức tạp  
+  *Example:* Everyone involved received a copy of the report.  
+  → Mọi người có liên quan đều nhận được một bản báo cáo.
+
+### Notes
+
+Say `involved in an activity` but often `involved with a person or organization`. `Involved` can also mean complicated: `an involved explanation`, though this meaning is less common.
+
+---
+
+## 367. Deficient in /dɪˈfɪʃ.ənt ɪn/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** thiếu một chất dinh dưỡng, thành phần hoặc nguồn lực cần thiết *(70%)*; yếu hoặc không đạt yêu cầu về một phẩm chất/kỹ năng *(30%)*
+
+### Usage
+
+`Be deficient in` means lack enough of something necessary. It is common in medical, nutritional, scientific, and formal evaluative contexts.
+
+Common structures:
+
+* `be deficient in + nutrient`: thiếu một chất dinh dưỡng
+* `be deficient in + quality/skill`: thiếu/yếu về phẩm chất hoặc kỹ năng
+* `a diet deficient in + nutrient`: chế độ ăn thiếu chất
+* `be severely deficient in`: thiếu hụt nghiêm trọng về
+
+### Examples
+
+1. **Children whose diets are deficient in iron may feel constantly tired.**
+   → Trẻ có chế độ ăn thiếu sắt có thể cảm thấy mệt mỏi liên tục.
+
+2. **The proposal is deficient in practical detail.**
+   → Đề xuất này thiếu các chi tiết thực tế.
+
+### Common collocations
+
+* **deficient in iron**: thiếu sắt
+* **nutritionally deficient in**: thiếu hụt về dinh dưỡng
+* **deficient in detail**: thiếu chi tiết
+
+### Synonyms
+
+* **lacking in** /ˈlæk.ɪŋ ɪn/ *(adjective phrase)*: thiếu về
+* **low in** UK /ˈləʊ ɪn/ US /ˈloʊ ɪn/ *(adjective phrase)*: có hàm lượng thấp
+* **insufficient in** /ˌɪn.səˈfɪʃ.ənt ɪn/ *(adjective phrase)*: không đủ về; trang trọng
+
+### Word family
+
+* **deficiency** /dɪˈfɪʃ.ən.si/ *(countable/uncountable noun)*: sự thiếu hụt  
+  *Example:* Vitamin D deficiency is common in areas with little sunlight.  
+  → Tình trạng thiếu vitamin D phổ biến ở những nơi ít ánh nắng.
+
+* **deficient** /dɪˈfɪʃ.ənt/ *(adjective)*: thiếu hụt, không đầy đủ  
+  *Example:* The soil is deficient in essential minerals.  
+  → Đất thiếu các khoáng chất thiết yếu.
+
+* **deficit** /ˈdef.ɪ.sɪt/ *(countable noun)*: sự thiếu hụt, thâm hụt  
+  *Example:* The government is trying to reduce the budget deficit.  
+  → Chính phủ đang cố gắng giảm thâm hụt ngân sách.
+
+### Notes
+
+Use `deficient in` before what is missing: `deficient in calcium`. `Deficit` is common for measurable shortfalls such as a budget deficit, while `deficiency` is common for nutrients and functional weaknesses.
+
+---
+
+## 368. Absent from /ˈæb.sənt frəm/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** vắng mặt tại một nơi, sự kiện, lớp học hoặc công việc *(70%)*; không xuất hiện hoặc thiếu trong một sự vật/văn bản *(30%)*
+
+### Usage
+
+`Be absent from` means not present where someone or something is expected. It can describe people missing a place or qualities and information missing from something.
+
+Common structures:
+
+* `be absent from + place/event`: vắng mặt tại nơi/sự kiện
+* `be absent from school/work`: nghỉ/vắng học hoặc làm
+* `be noticeably/completely absent from`: vắng/thiếu một cách rõ rệt/hoàn toàn
+* `absence from + noun`: sự vắng mặt khỏi...
+
+### Examples
+
+1. **Students who are absent from class must review the material independently.**
+   → Học sinh vắng mặt trong lớp phải tự ôn lại tài liệu.
+
+2. **Any discussion of cost was absent from the final report.**
+   → Mọi phần thảo luận về chi phí đều không xuất hiện trong báo cáo cuối cùng.
+
+### Common collocations
+
+* **absent from school**: vắng học
+* **absent from work**: vắng làm
+* **noticeably absent from**: vắng/thiếu một cách rõ rệt
+
+### Synonyms
+
+* **missing from** /ˈmɪs.ɪŋ frəm/ *(adjective phrase)*: bị thiếu/vắng khỏi
+* **not present at** /nɒt ˈprez.ənt æt/ *(adjective phrase)*: không có mặt tại
+* **away from** /əˈweɪ frəm/ *(adverb phrase)*: rời xa/không ở tại; nghĩa rộng hơn
+
+### Word family
+
+* **absence** /ˈæb.səns/ *(countable/uncountable noun)*: sự vắng mặt, sự thiếu  
+  *Example:* Her prolonged absence affected the whole team.  
+  → Sự vắng mặt kéo dài của cô ấy ảnh hưởng đến cả nhóm.
+
+* **absent** /ˈæb.sənt/ *(adjective)*: vắng mặt, thiếu  
+  *Example:* Three employees were absent due to illness.  
+  → Ba nhân viên vắng mặt vì bị ốm.
+
+* **absentee** /ˌæb.sənˈtiː/ *(countable noun/adjective)*: người vắng mặt; thuộc về sự vắng mặt  
+  *Example:* Absentee voters can submit their ballots by mail.  
+  → Cử tri vắng mặt có thể gửi phiếu bầu qua đường bưu điện.
+
+### Notes
+
+Use `absent from school/work`, not `absent at`. `Absent-minded` has a different meaning: forgetful or not paying attention.
+
+---
+
+## 369. Away from /əˈweɪ frəm/
+
+* **Part of speech:** preposition phrase; adverb phrase
+* **Vietnamese meaning:** cách xa hoặc rời khỏi một nơi/người *(55%)*; không có mặt ở nhà/nơi quen thuộc *(25%)*; tránh xa hoặc chuyển sự chú ý khỏi điều gì *(20%)*
+
+### Usage
+
+`Away from` expresses physical distance, absence, avoidance, or movement in another direction. It commonly follows verbs such as `move`, `stay`, `keep`, and `turn`.
+
+Common structures:
+
+* `be + distance + away from`: cách bao xa khỏi
+* `move/walk away from`: di chuyển/đi khỏi
+* `stay/keep away from`: tránh xa
+* `take time away from + noun`: dành thời gian tạm rời xa điều gì
+
+### Examples
+
+1. **The new hospital is only two kilometers away from the town center.**
+   → Bệnh viện mới chỉ cách trung tâm thị trấn hai kilômét.
+
+2. **Workers were told to keep away from the damaged machinery.**
+   → Công nhân được yêu cầu tránh xa máy móc bị hỏng.
+
+### Common collocations
+
+* **far away from**: cách xa
+* **keep away from**: tránh xa
+* **time away from work**: thời gian tạm rời công việc
+
+### Synonyms
+
+* **far from** UK /ˈfɑː frəm/ US /ˈfɑːr frəm/ *(preposition phrase)*: xa khỏi; cũng có thể nghĩa là hoàn toàn không
+* **distant from** /ˈdɪs.tənt frəm/ *(adjective phrase)*: cách xa, xa cách
+* **apart from** /əˈpɑːt frəm/ *(preposition phrase)*: tách khỏi; ngoài ra/ngoại trừ trong nghĩa khác
+
+### Word family
+
+* **away** /əˈweɪ/ *(adverb/adjective)*: xa, vắng mặt  
+  *Example:* The manager is away on business this week.  
+  → Người quản lý đi công tác trong tuần này.
+
+* **distance** /ˈdɪs.təns/ *(noun/verb)*: khoảng cách; tạo khoảng cách  
+  *Example:* Distance can make regular communication more difficult.  
+  → Khoảng cách có thể khiến việc giao tiếp thường xuyên khó khăn hơn.
+
+* **distant** /ˈdɪs.tənt/ *(adjective)*: xa xôi, xa cách  
+  *Example:* The clinic serves several distant villages.  
+  → Phòng khám phục vụ một số ngôi làng xa xôi.
+
+### Notes
+
+`Away from` normally describes distance or separation. `Far from` can also mean `not at all`: `The task is far from easy.` `Apart from` often means `except for` or `in addition to`, so it is not always interchangeable.
+
+---
+
+## 370. Keen on UK /ˈkiːn ɒn/ US /ˈkiːn ɑːn/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** rất thích hoặc hứng thú với một người, hoạt động hay sự vật *(80%)*; ủng hộ hoặc muốn thực hiện một ý tưởng *(20%)*
+
+### Usage
+
+`Be keen on` means like or be enthusiastic about something. It is especially common in British English; `be interested in` and `really like` are more common in American English.
+
+Common structures:
+
+* `be keen on + noun/person`: rất thích ai/cái gì
+* `be keen on + verb-ing`: rất thích làm gì
+* `not be keen on`: không thích lắm
+* `be keen to + verb`: rất muốn làm gì; dùng `to` thay vì `on`
+
+### Examples
+
+1. **She is keen on learning languages through conversation.**
+   → Cô ấy rất thích học ngôn ngữ qua hội thoại.
+
+2. **Local residents are not keen on the plan to widen the road.**
+   → Cư dân địa phương không ủng hộ kế hoạch mở rộng con đường.
+
+### Common collocations
+
+* **keen on sports**: rất thích thể thao
+* **keen on doing something**: rất thích làm gì
+* **not particularly keen on**: không đặc biệt thích
+
+### Synonyms
+
+* **fond of** UK /ˈfɒnd əv/ US /ˈfɑːnd əv/ *(adjective phrase)*: yêu thích
+* **interested in** /ˈɪn.trə.stɪd ɪn/ *(adjective phrase)*: quan tâm/hứng thú với
+* **enthusiastic about** /ɪnˌθjuː.ziˈæs.tɪk əˈbaʊt/ *(adjective phrase)*: nhiệt tình, hào hứng về
+
+### Word family
+
+* **keen** /kiːn/ *(adjective)*: hăng hái; sắc bén; rất thích  
+  *Example:* The company is keen to reduce its energy use.  
+  → Công ty rất muốn giảm mức sử dụng năng lượng.
+
+* **keenness** /ˈkiːn.nəs/ *(uncountable noun)*: sự nhiệt tình, hứng thú  
+  *Example:* Her keenness to learn impressed the trainers.  
+  → Sự ham học của cô ấy gây ấn tượng với các giảng viên.
+
+* **keenly** /ˈkiːn.li/ *(adverb)*: một cách sâu sắc/mạnh mẽ  
+  *Example:* Small businesses are keenly aware of rising costs.  
+  → Các doanh nghiệp nhỏ nhận thức sâu sắc về chi phí đang tăng.
+
+### Notes
+
+After `keen on`, use a noun or `verb-ing`: `keen on swimming`. Use `keen to + verb` for a strong desire to act: `keen to start`. Do not say `keen on to start`.
+
+---
+
+## 371. Call on somebody to do something UK /ˈkɔːl ɒn ˌsʌm.bə.di tə duː ˌsʌm.θɪŋ/ US /ˈkɑːl ɑːn ˌsʌm.bɑː.di tə duː ˌsʌm.θɪŋ/
+
+* **Part of speech:** transitive phrasal-verb pattern
+* **Vietnamese meaning:** công khai yêu cầu hoặc kêu gọi ai hành động *(80%)*; chính thức đề nghị một người phát biểu hoặc thực hiện nhiệm vụ *(20%)*
+
+### Usage
+
+`Call on somebody to do something` is common in news and formal discussion when an organization or person publicly urges another party to act. `Call on someone` can also mean visit them or invite them to speak.
+
+Common structures:
+
+* `call on + person/group + to + verb`: kêu gọi ai/nhóm nào làm gì
+* `call on the government to + verb`: kêu gọi chính phủ làm gì
+* `be called on to + verb`: được yêu cầu làm gì
+* `call on + person`: mời ai phát biểu; hoặc ghé thăm ai trong nghĩa khác
+
+### Examples
+
+1. **Health experts called on the government to restrict tobacco advertising.**
+   → Các chuyên gia y tế kêu gọi chính phủ hạn chế quảng cáo thuốc lá.
+
+2. **The chair called on each representative to explain their position.**
+   → Chủ tọa yêu cầu từng đại diện giải thích lập trường của mình.
+
+### Common collocations
+
+* **call on the government to act**: kêu gọi chính phủ hành động
+* **call on someone to resign**: kêu gọi ai từ chức
+* **be called on to help**: được yêu cầu giúp đỡ
+
+### Synonyms
+
+* **urge somebody to** /ɜːdʒ ˌsʌm.bə.di tuː/ *(verb phrase)*: thúc giục/kêu gọi ai làm gì
+* **appeal to somebody to** /əˈpiːl tə ˌsʌm.bə.di tuː/ *(verb phrase)*: tha thiết kêu gọi ai làm gì
+* **ask somebody to** UK /ɑːsk ˌsʌm.bə.di tuː/ US /æsk ˌsʌm.bɑː.di tuː/ *(verb phrase)*: yêu cầu ai làm gì; trung tính hơn
+
+### Word family
+
+* **call** UK /kɔːl/ US /kɑːl/ *(noun/verb)*: cuộc gọi/lời kêu gọi; gọi  
+  *Example:* The charity issued a call for urgent donations.  
+  → Tổ chức từ thiện đưa ra lời kêu gọi quyên góp khẩn cấp.
+
+* **caller** UK /ˈkɔː.lər/ US /ˈkɑː.lɚ/ *(countable noun)*: người gọi điện  
+  *Example:* The caller refused to provide personal details.  
+  → Người gọi từ chối cung cấp thông tin cá nhân.
+
+* **calling** UK /ˈkɔː.lɪŋ/ US /ˈkɑː.lɪŋ/ *(countable noun/verb form)*: thiên hướng nghề nghiệp; việc gọi  
+  *Example:* She regarded teaching as her true calling.  
+  → Cô ấy coi việc giảng dạy là thiên hướng nghề nghiệp thực sự của mình.
+
+### Notes
+
+Keep the object before the infinitive: `call on the council to act`, not `call on to act the council`. Do not confuse this with `call for something`, which means demand or require something.
+
+---
+
+## 372. An application for /ən ˌæp.lɪˈkeɪ.ʃən fɔːr/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** đơn xin một công việc, khóa học, thị thực, khoản tài trợ hoặc dịch vụ *(75%)*; việc áp dụng cho một mục đích cụ thể trong nghĩa kỹ thuật *(25%)*
+
+### Usage
+
+`An application for` most commonly means a formal request to receive a job, place, permit, benefit, or funding. Use `application to + organization` for the recipient and `application of + method` for the act of applying a method.
+
+Common structures:
+
+* `an application for + job/course/visa`: đơn xin việc/khóa học/thị thực
+* `submit an application for`: nộp đơn xin
+* `an application to + organization`: đơn gửi đến một tổ chức
+* `the application of + method`: việc áp dụng một phương pháp
+
+### Examples
+
+1. **She submitted an application for a postgraduate scholarship.**
+   → Cô ấy đã nộp đơn xin học bổng sau đại học.
+
+2. **Every application for financial support must include proof of income.**
+   → Mọi đơn xin hỗ trợ tài chính phải kèm bằng chứng thu nhập.
+
+### Common collocations
+
+* **application for a job**: đơn xin việc
+* **application for admission**: đơn xin nhập học
+* **submit an application for**: nộp đơn xin
+
+### Synonyms
+
+* **request for** /rɪˈkwest fɔːr/ *(noun phrase)*: yêu cầu xin/cấp điều gì
+* **submission for** /səbˈmɪʃ.ən fɔːr/ *(noun phrase)*: hồ sơ/bài được nộp để xem xét
+* **petition for** /pəˈtɪʃ.ən fɔːr/ *(noun phrase)*: đơn kiến nghị xin điều gì; trang trọng/pháp lý
+
+### Word family
+
+* **apply** /əˈplaɪ/ *(transitive/intransitive verb)*: nộp đơn; áp dụng  
+  *Example:* More than two hundred students applied for the programme.  
+  → Hơn hai trăm sinh viên đã nộp đơn vào chương trình.
+
+* **application** /ˌæp.lɪˈkeɪ.ʃən/ *(countable/uncountable noun)*: đơn; sự áp dụng  
+  *Example:* The online application takes about twenty minutes.  
+  → Đơn trực tuyến mất khoảng hai mươi phút để hoàn thành.
+
+* **applicant** /ˈæp.lɪ.kənt/ *(countable noun)*: người nộp đơn, ứng viên  
+  *Example:* Successful applicants will be contacted by email.  
+  → Các ứng viên thành công sẽ được liên hệ qua email.
+
+### Notes
+
+Use `apply for a job` but `an application for a job`. Use `apply to a university` and `an application to a university` when naming the recipient.
+
+---
+
+## 373. An appetite for /ən ˈæp.ə.taɪt fɔːr/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** sự thèm muốn ăn một loại thức ăn *(45%)*; ham muốn hoặc hứng thú mạnh mẽ với kiến thức, rủi ro, quyền lực hay trải nghiệm *(55%)*
+
+### Usage
+
+`An appetite for` can describe a physical desire for food or a strong figurative desire for an activity, experience, or outcome.
+
+Common structures:
+
+* `have an appetite for + food`: thèm/muốn ăn món gì
+* `have/develop an appetite for + noun`: có/phát triển ham muốn với điều gì
+* `a growing appetite for`: nhu cầu/ham muốn ngày càng tăng đối với
+* `lose one's appetite for`: mất hứng thú/thèm muốn đối với
+
+### Examples
+
+1. **Regular exercise can give people a healthy appetite for nutritious food.**
+   → Tập thể dục thường xuyên có thể giúp mọi người thèm ăn thực phẩm bổ dưỡng một cách lành mạnh.
+
+2. **The company has developed an appetite for risky investments.**
+   → Công ty đã hình thành xu hướng ham thích các khoản đầu tư rủi ro.
+
+### Common collocations
+
+* **a healthy appetite for**: sự thèm muốn lành mạnh đối với
+* **a growing appetite for**: nhu cầu/ham muốn ngày càng tăng
+* **an appetite for risk**: sự ham thích rủi ro
+
+### Synonyms
+
+* **desire for** /dɪˈzaɪər fɔːr/ *(noun phrase)*: mong muốn đối với
+* **hunger for** /ˈhʌŋ.ɡər fɔːr/ *(noun phrase)*: khao khát mạnh mẽ đối với
+* **enthusiasm for** /ɪnˈθjuː.zi.æz.əm fɔːr/ *(noun phrase)*: sự hào hứng/nhiệt tình đối với
+
+### Word family
+
+* **appetite** /ˈæp.ə.taɪt/ *(countable/uncountable noun)*: cảm giác thèm ăn; ham muốn  
+  *Example:* Illness can reduce a patient's appetite.  
+  → Bệnh tật có thể làm giảm cảm giác thèm ăn của bệnh nhân.
+
+* **appetising** /ˈæp.ə.taɪ.zɪŋ/ *(adjective)*: trông hoặc có mùi ngon miệng  
+  *Example:* The soup looked simple but appetising.  
+  → Món súp trông đơn giản nhưng ngon miệng.
+
+* **appetiser** /ˈæp.ə.taɪ.zər/ *(countable noun)*: món khai vị  
+  *Example:* We shared a light appetiser before the main course.  
+  → Chúng tôi dùng chung một món khai vị nhẹ trước món chính.
+
+### Notes
+
+The food meaning is literal; phrases such as `an appetite for knowledge` and `an appetite for risk` are figurative. `Appetite` can be countable when referring to a particular kind of desire.
+
+---
+
+## 374. Search for UK /ˈsɜːtʃ fɔːr/ US /ˈsɝːtʃ fɔːr/
+
+* **Part of speech:** phrasal/prepositional verb; countable noun phrase
+* **Vietnamese meaning:** tìm kiếm một người, vật, thông tin hoặc giải pháp *(70%)*; cuộc tìm kiếm hoặc quá trình cố gắng tìm ra điều gì *(30%)*
+
+### Usage
+
+`Search for` means try to find something. As a verb, `search a place` means examine the place, while `search for an object` names what you want to find.
+
+Common structures:
+
+* `search for + person/thing`: tìm kiếm người/vật
+* `search for + information/solution`: tìm thông tin/giải pháp
+* `a search for + noun`: một cuộc tìm kiếm
+* `search + place + for + object`: lục soát một nơi để tìm vật
+
+### Examples
+
+1. **Rescue teams continued to search for the missing hikers overnight.**
+   → Các đội cứu hộ tiếp tục tìm kiếm những người đi bộ mất tích suốt đêm.
+
+2. **The search for a long-term solution requires international cooperation.**
+   → Việc tìm kiếm một giải pháp lâu dài đòi hỏi hợp tác quốc tế.
+
+### Common collocations
+
+* **search for evidence**: tìm kiếm bằng chứng
+* **search for a solution**: tìm kiếm giải pháp
+* **nationwide search for**: cuộc tìm kiếm trên toàn quốc
+
+### Synonyms
+
+* **look for** UK /ˈlʊk fɔːr/ US /ˈlʊk fɔːr/ *(phrasal verb)*: tìm; phổ biến trong hội thoại
+* **seek** /siːk/ *(transitive verb)*: tìm kiếm, cố đạt được; trang trọng hơn
+* **hunt for** /ˈhʌnt fɔːr/ *(phrasal verb)*: tìm kiếm kỹ hoặc lâu
+
+### Word family
+
+* **search** UK /sɜːtʃ/ US /sɝːtʃ/ *(noun/verb)*: cuộc tìm kiếm; tìm kiếm  
+  *Example:* Police searched the building carefully.  
+  → Cảnh sát lục soát tòa nhà cẩn thận.
+
+* **searcher** UK /ˈsɜː.tʃər/ US /ˈsɝː.tʃɚ/ *(countable noun)*: người tìm kiếm  
+  *Example:* Searchers found footprints near the river.  
+  → Những người tìm kiếm phát hiện dấu chân gần sông.
+
+* **searchable** UK /ˈsɜː.tʃə.bəl/ US /ˈsɝː.tʃə.bəl/ *(adjective)*: có thể tìm kiếm/tra cứu  
+  *Example:* The archive is fully searchable online.  
+  → Kho lưu trữ có thể được tra cứu đầy đủ trên mạng.
+
+### Notes
+
+Say `search for the keys` but `search the room for the keys`. Do not add `for` immediately after `search` when the object is the place being examined.
+
+---
+
+## 375. A preference for /ə ˈpref.ər.əns fɔːr/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** sự thích một lựa chọn hơn lựa chọn khác *(75%)*; xu hướng ưu tiên một phương pháp, sản phẩm hoặc đặc điểm *(25%)*
+
+### Usage
+
+`A preference for` identifies the person, thing, or method someone favors. Use `preference for A over B` when comparing two options explicitly.
+
+Common structures:
+
+* `have a preference for + noun`: thích/ưu tiên điều gì
+* `show/express a preference for`: thể hiện sự ưu tiên đối với
+* `a preference for A over B`: ưu tiên A hơn B
+* `personal/strong preference for`: sở thích cá nhân/sự ưu tiên mạnh đối với
+
+### Examples
+
+1. **Many commuters have a preference for reliable public transport over private cars.**
+   → Nhiều người đi làm ưu tiên phương tiện công cộng đáng tin cậy hơn xe cá nhân.
+
+2. **Students expressed a strong preference for practical lessons.**
+   → Học sinh bày tỏ sự yêu thích rõ rệt đối với các bài học thực hành.
+
+### Common collocations
+
+* **strong preference for**: sự ưu tiên rõ rệt đối với
+* **personal preference for**: sở thích cá nhân đối với
+* **preference for A over B**: sự ưu tiên A hơn B
+
+### Synonyms
+
+* **liking for** /ˈlaɪ.kɪŋ fɔːr/ *(noun phrase)*: sự yêu thích đối với
+* **inclination toward** /ˌɪn.klɪˈneɪ.ʃən təˈwɔːd/ *(noun phrase)*: xu hướng nghiêng về một lựa chọn
+* **partiality for** /ˌpɑː.ʃiˈæl.ə.ti fɔːr/ *(noun phrase)*: sự đặc biệt yêu thích; trang trọng hơn
+
+### Word family
+
+* **prefer** /prɪˈfɜːr/ *(transitive verb)*: thích hơn  
+  *Example:* Most participants prefer working in small groups.  
+  → Phần lớn người tham gia thích làm việc theo nhóm nhỏ hơn.
+
+* **preference** /ˈpref.ər.əns/ *(countable/uncountable noun)*: sở thích, sự ưu tiên  
+  *Example:* The form asks applicants to state their location preference.  
+  → Biểu mẫu yêu cầu ứng viên nêu lựa chọn địa điểm ưu tiên.
+
+* **preferable** /ˈpref.ər.ə.bəl/ *(adjective)*: đáng mong muốn hơn, tốt hơn  
+  *Example:* Prevention is preferable to expensive treatment.  
+  → Phòng ngừa tốt hơn điều trị tốn kém.
+
+* **preferably** /ˈpref.ər.ə.bli/ *(adverb)*: tốt nhất là, ưu tiên là  
+  *Example:* The report should be submitted electronically, preferably as a PDF.  
+  → Báo cáo nên được nộp điện tử, tốt nhất là dưới dạng PDF.
+
+### Notes
+
+Use `preference for`, not `preference of`, when naming what is preferred. The standard comparison is `a preference for A over B`. Compare the verb pattern `prefer A to B`.
+
+---
+
+## 376. Quarrel with UK /ˈkwɒr.əl wɪð/ US /ˈkwɔːr.əl wɪð/
+
+* **Part of speech:** intransitive verb phrase; countable noun phrase
+* **Vietnamese meaning:** cãi nhau với ai, thường vì tức giận hoặc bất đồng cá nhân *(75%)*; phản đối hoặc không đồng ý với một lập luận trong cách dùng trang trọng *(25%)*
+
+### Usage
+
+`Quarrel with someone` means have an angry disagreement. `Quarrel about/over something` names the subject. In formal usage, `have no quarrel with` means have no objection to.
+
+Common structures:
+
+* `quarrel with + person`: cãi nhau với ai
+* `quarrel about/over + issue`: cãi nhau về vấn đề gì
+* `have a quarrel with + person`: có một cuộc cãi nhau với ai
+* `have no quarrel with + idea`: không phản đối ý tưởng nào
+
+### Examples
+
+1. **The brothers often quarrel with each other over household chores.**
+   → Hai anh em thường cãi nhau về việc nhà.
+
+2. **I have no quarrel with the policy's aim, but its cost is unrealistic.**
+   → Tôi không phản đối mục tiêu của chính sách, nhưng chi phí của nó thiếu thực tế.
+
+### Common collocations
+
+* **quarrel with a colleague**: cãi nhau với đồng nghiệp
+* **quarrel over money**: cãi nhau về tiền bạc
+* **have no quarrel with**: không phản đối
+
+### Synonyms
+
+* **argue with** UK /ˈɑːɡ.juː wɪð/ US /ˈɑːrɡ.juː wɪð/ *(verb phrase)*: tranh cãi với
+* **fall out with** /ˌfɔːl ˈaʊt wɪð/ *(phrasal verb)*: cãi nhau và mất hòa khí với
+* **disagree with** /ˌdɪs.əˈɡriː wɪð/ *(verb phrase)*: không đồng ý với; trung tính hơn
+
+### Word family
+
+* **quarrel** UK /ˈkwɒr.əl/ US /ˈkwɔːr.əl/ *(noun/verb)*: cuộc cãi nhau; cãi nhau  
+  *Example:* A minor disagreement developed into a serious quarrel.  
+  → Một bất đồng nhỏ phát triển thành cuộc cãi nhau nghiêm trọng.
+
+* **quarrelsome** UK /ˈkwɒr.əl.səm/ US /ˈkwɔːr.əl.səm/ *(adjective)*: hay gây gổ, thích cãi nhau  
+  *Example:* His quarrelsome behavior damaged workplace relationships.  
+  → Hành vi hay gây gổ của anh ấy làm tổn hại các mối quan hệ nơi làm việc.
+
+* **quarrelling** UK /ˈkwɒr.əl.ɪŋ/ US /ˈkwɔːr.əl.ɪŋ/ *(verb form/uncountable noun)*: đang cãi nhau; việc cãi nhau  
+  *Example:* Constant quarrelling created a stressful home environment.  
+  → Việc cãi nhau liên tục tạo ra môi trường gia đình căng thẳng.
+
+### Notes
+
+Use `quarrel with a person` and `quarrel about/over an issue`. `Argue` can be neutral and reasoned, while `quarrel` usually suggests an emotional personal conflict.
+
+---
+
+## 377. By far UK /baɪ ˈfɑːr/ US /baɪ ˈfɑːr/
+
+* **Part of speech:** degree adverb phrase
+* **Vietnamese meaning:** hơn hẳn, cách biệt rõ rệt khi dùng với so sánh nhất *(80%)*; vượt xa khi nhấn mạnh so sánh hơn *(20%)*
+
+### Usage
+
+`By far` strongly emphasizes that one person or thing exceeds all others or that a difference is very large. It most often appears before a superlative.
+
+Common structures:
+
+* `by far the + superlative`: hơn hẳn/tốt nhất... một cách rõ rệt
+* `by far + comparative`: hơn rất nhiều
+* `the best/most + noun + by far`: tốt nhất/nhiều nhất, cách biệt rõ rệt
+* `by far the most common`: phổ biến nhất vượt trội
+
+### Examples
+
+1. **Public transport is by far the cheapest option for daily commuters.**
+   → Phương tiện công cộng là lựa chọn rẻ nhất vượt trội cho người đi làm hằng ngày.
+
+2. **This year's results are better by far than last year's.**
+   → Kết quả năm nay tốt hơn năm ngoái rất nhiều.
+
+### Common collocations
+
+* **by far the best**: tốt nhất vượt trội
+* **by far the largest**: lớn nhất cách biệt rõ rệt
+* **by far the most important**: quan trọng nhất vượt trội
+
+### Synonyms
+
+* **easily** /ˈiː.zəl.i/ *(degree adverb)*: dễ dàng/vượt trội khi nhấn mạnh so sánh nhất
+* **far and away** UK /ˌfɑːr ən əˈweɪ/ US /ˌfɑːr ən əˈweɪ/ *(adverb phrase)*: hơn hẳn, vượt xa
+* **much** /mʌtʃ/ *(degree adverb)*: nhiều hơn; dùng trước so sánh hơn
+
+### Word family
+
+* **far** UK /fɑːr/ US /fɑːr/ *(adjective/adverb)*: xa; nhiều  
+  *Example:* The village is far from the nearest hospital.  
+  → Ngôi làng cách xa bệnh viện gần nhất.
+
+* **farther** UK /ˈfɑː.ðər/ US /ˈfɑːr.ðɚ/ *(comparative adjective/adverb)*: xa hơn, chủ yếu về khoảng cách  
+  *Example:* The second clinic is farther from the city center.  
+  → Phòng khám thứ hai xa trung tâm thành phố hơn.
+
+* **farthest** UK /ˈfɑː.ðɪst/ US /ˈfɑːr.ðɪst/ *(superlative adjective/adverb)*: xa nhất  
+  *Example:* This is the farthest I have ever traveled alone.  
+  → Đây là nơi xa nhất mà tôi từng đi một mình.
+
+### Notes
+
+The most natural position is before the superlative: `by far the most useful`. With a comparative, `far better` is usually more common than `better by far`, although both are possible.
+
+---
+
+## 378. By oneself /baɪ wʌnˈself/
+
+* **Part of speech:** reflexive-pronoun phrase; adverb phrase
+* **Vietnamese meaning:** một mình, không có người khác đi cùng *(55%)*; tự mình làm mà không được giúp đỡ *(45%)*
+
+### Usage
+
+`By oneself` can mean alone or without help. The reflexive pronoun changes with the subject: `by myself`, `by yourself`, `by himself`, `by herself`, `by ourselves`, and `by themselves`.
+
+Common structures:
+
+* `be/live/travel by oneself`: ở/sống/đi du lịch một mình
+* `do/make something by oneself`: tự làm điều gì không có trợ giúp
+* `all by oneself`: hoàn toàn một mình/tự mình
+* `learn by oneself`: tự học
+
+### Examples
+
+1. **She learned to use the software by herself.**
+   → Cô ấy tự học cách sử dụng phần mềm.
+
+2. **Young children should not be left by themselves near the pool.**
+   → Không nên để trẻ nhỏ một mình gần hồ bơi.
+
+### Common collocations
+
+* **live by oneself**: sống một mình
+* **do it by oneself**: tự mình làm
+* **all by oneself**: hoàn toàn một mình/tự mình
+
+### Synonyms
+
+* **alone** /əˈləʊn/ *(adjective/adverb)*: một mình
+* **without help** /wɪˈðaʊt help/ *(adverb phrase)*: không có sự giúp đỡ
+* **independently** /ˌɪn.dɪˈpen.dənt.li/ *(adverb)*: một cách độc lập
+
+### Word family
+
+* **self** /self/ *(countable noun/pronoun element)*: bản thân, cái tôi  
+  *Example:* Regular reflection can improve one's sense of self.  
+  → Việc suy ngẫm thường xuyên có thể cải thiện ý thức về bản thân.
+
+* **oneself** /wʌnˈself/ *(reflexive pronoun)*: chính mình, bản thân mình  
+  *Example:* It is important to give oneself time to recover.  
+  → Điều quan trọng là cho bản thân thời gian để hồi phục.
+
+* **self-reliant** /ˌself.rɪˈlaɪ.ənt/ *(adjective)*: tự lực, độc lập  
+  *Example:* Living abroad made her more self-reliant.  
+  → Sống ở nước ngoài khiến cô ấy tự lập hơn.
+
+### Notes
+
+Match the pronoun to the subject: `I did it by myself`, not `by oneself` in an ordinary personal sentence. `By oneself` is the dictionary form used for general explanation.
+
+---
+
+## 379. By the time /baɪ ðə ˈtaɪm/
+
+* **Part of speech:** subordinating conjunction phrase
+* **Vietnamese meaning:** đến lúc/khi một sự việc xảy ra thì sự việc khác đã hoặc sẽ hoàn thành *(85%)*; dùng để xác lập một hạn thời gian trong mệnh đề *(15%)*
+
+### Usage
+
+`By the time` introduces the later of two times and emphasizes what is already completed or true then. It commonly combines past simple with past perfect, or present simple with future perfect/future forms.
+
+Common structures:
+
+* `by the time + past simple, past perfect`: đến khi một việc quá khứ xảy ra thì việc khác đã hoàn thành
+* `by the time + present simple, future/future perfect`: đến khi việc tương lai xảy ra thì...
+* `by the time + clause`: đến lúc/khi...
+* `by that time`: đến thời điểm đó
+
+### Examples
+
+1. **By the time the ambulance arrived, a nurse had given first aid.**
+   → Đến khi xe cứu thương tới, một y tá đã sơ cứu.
+
+2. **By the time you finish the course, you will have written six essays.**
+   → Đến khi bạn hoàn thành khóa học, bạn sẽ viết xong sáu bài luận.
+
+### Common collocations
+
+* **by the time we arrived**: đến khi chúng tôi tới
+* **by the time you finish**: đến khi bạn hoàn thành
+* **by that time**: đến thời điểm đó
+
+### Synonyms
+
+* **when** /wen/ *(conjunction)*: khi; không nhất thiết nhấn mạnh việc đã hoàn thành
+* **before** /bɪˈfɔːr/ *(conjunction/preposition)*: trước khi
+* **once** /wʌns/ *(conjunction)*: một khi/sau khi
+
+### Word family
+
+* **time** /taɪm/ *(noun/verb)*: thời gian; đo thời gian  
+  *Example:* Time management is essential during an exam.  
+  → Quản lý thời gian rất cần thiết trong kỳ thi.
+
+* **timely** /ˈtaɪm.li/ *(adjective)*: đúng lúc, kịp thời  
+  *Example:* Timely medical care prevented further complications.  
+  → Chăm sóc y tế kịp thời đã ngăn ngừa biến chứng thêm.
+
+* **timing** /ˈtaɪ.mɪŋ/ *(uncountable/countable noun)*: việc chọn thời điểm, thời gian  
+  *Example:* The timing of the announcement surprised investors.  
+  → Thời điểm công bố khiến các nhà đầu tư ngạc nhiên.
+
+### Notes
+
+Do not use `will` in the future time clause: say `By the time you arrive, I will have finished`, not `By the time you will arrive`. Use past perfect when one past event was already complete before the other.
+
+---
+
+## 380. By all means /baɪ ˌɔːl ˈmiːnz/
+
+* **Part of speech:** idiom; discourse response
+* **Vietnamese meaning:** tất nhiên, cứ tự nhiên, hoàn toàn đồng ý cho phép *(70%)*; bằng mọi cách có thể trong một số ngữ cảnh trang trọng *(30%)*
+
+### Usage
+
+`By all means` commonly gives enthusiastic permission or agreement. Less often, it means using every possible method, especially in formal statements.
+
+Common structures:
+
+* `By all means, + imperative`: tất nhiên, cứ làm...
+* `May/Can I...? — By all means.`: Tôi có thể...? — Tất nhiên.
+* `by all means possible`: bằng mọi cách có thể
+* `not by any means`: hoàn toàn không; cấu trúc đối lập
+
+### Examples
+
+1. **If you need more time to consider the offer, by all means take it.**
+   → Nếu bạn cần thêm thời gian cân nhắc đề nghị, cứ tự nhiên dành thời gian.
+
+2. **The authorities must protect drinking water by all means possible.**
+   → Nhà chức trách phải bảo vệ nguồn nước uống bằng mọi cách có thể.
+
+### Common collocations
+
+* **by all means, go ahead**: tất nhiên, cứ tiếp tục
+* **by all means possible**: bằng mọi cách có thể
+* **not by any means**: hoàn toàn không
+
+### Synonyms
+
+* **certainly** UK /ˈsɜː.tən.li/ US /ˈsɝː.tən.li/ *(adverb)*: tất nhiên
+* **of course** /əv ˈkɔːrs/ *(adverb phrase)*: tất nhiên
+* **go ahead** /ˌɡəʊ əˈhed/ *(phrasal verb/response)*: cứ làm đi, tiếp tục đi
+
+### Word family
+
+* **means** /miːnz/ *(countable noun)*: phương tiện, cách thức  
+  *Example:* Public transport is an affordable means of travel.  
+  → Giao thông công cộng là một phương tiện đi lại có giá phải chăng.
+
+* **meaning** /ˈmiː.nɪŋ/ *(noun)*: ý nghĩa  
+  *Example:* Context often clarifies the meaning of an unfamiliar word.  
+  → Ngữ cảnh thường làm rõ nghĩa của một từ lạ.
+
+* **meaningful** /ˈmiː.nɪŋ.fəl/ *(adjective)*: có ý nghĩa  
+  *Example:* Volunteers made a meaningful contribution to the community.  
+  → Các tình nguyện viên đã đóng góp có ý nghĩa cho cộng đồng.
+
+### Notes
+
+As a response, `By all means` is positive and polite. Do not confuse it with `by no means`, which means definitely not: `The problem is by no means solved.`
+
+---
+
+## 381. In common UK /ɪn ˈkɒm.ən/ US /ɪn ˈkɑː.mən/
+
+* **Part of speech:** preposition phrase; adjective complement
+* **Vietnamese meaning:** có cùng đặc điểm, sở thích hoặc trải nghiệm *(75%)*; được nhiều người cùng chia sẻ hoặc sở hữu *(25%)*
+
+### Usage
+
+`Have something in common` means share a characteristic, interest, or experience. `In common with` introduces the person or thing used for comparison.
+
+Common structures:
+
+* `have + noun/something in common`: có điểm chung
+* `have a lot/little/nothing in common`: có nhiều/ít/không có điểm chung
+* `in common with + person/thing`: giống như/cùng điểm với
+* `share something in common`: cùng chia sẻ điểm chung; thường có thể rút gọn thành `have in common`
+
+### Examples
+
+1. **The two communities have more in common than their leaders admit.**
+   → Hai cộng đồng có nhiều điểm chung hơn điều các lãnh đạo thừa nhận.
+
+2. **In common with many young adults, she worries about housing costs.**
+   → Giống nhiều người trẻ, cô ấy lo lắng về chi phí nhà ở.
+
+### Common collocations
+
+* **have a lot in common**: có nhiều điểm chung
+* **have nothing in common**: không có điểm chung
+* **in common with**: có điểm chung với/giống như
+
+### Synonyms
+
+* **share** /ʃeər/ *(transitive verb)*: cùng có/chia sẻ
+* **be similar to** /bi ˈsɪm.ɪ.lər tuː/ *(adjective phrase)*: tương tự với
+* **have mutual interests** /hæv ˈmjuː.tʃu.əl ˈɪn.trəsts/ *(verb phrase)*: có những sở thích/lợi ích chung
+
+### Word family
+
+* **common** UK /ˈkɒm.ən/ US /ˈkɑː.mən/ *(adjective)*: phổ biến; chung  
+  *Example:* Traffic congestion is a common urban problem.  
+  → Ùn tắc giao thông là một vấn đề đô thị phổ biến.
+
+* **commonly** UK /ˈkɒm.ən.li/ US /ˈkɑː.mən.li/ *(adverb)*: một cách phổ biến, thường  
+  *Example:* The term is commonly used in academic writing.  
+  → Thuật ngữ này thường được dùng trong văn viết học thuật.
+
+* **commonality** UK /ˌkɒm.əˈnæl.ə.ti/ US /ˌkɑː.məˈnæl.ə.t̬i/ *(countable/uncountable noun)*: điểm chung, tính chung  
+  *Example:* The discussion revealed unexpected commonality between the groups.  
+  → Cuộc thảo luận cho thấy những điểm chung bất ngờ giữa các nhóm.
+
+### Notes
+
+The standard pattern is `have something in common with someone`. Avoid the redundant phrase `share something in common` in careful writing; `share something` or `have something in common` is usually cleaner.
+
+---
+
+## 382. In charge of UK /ɪn ˈtʃɑːdʒ əv/ US /ɪn ˈtʃɑːrdʒ əv/
+
+* **Part of speech:** adjective phrase; preposition phrase
+* **Vietnamese meaning:** chịu trách nhiệm quản lý một người, nhóm, nhiệm vụ hoặc nơi chốn *(80%)*; có quyền kiểm soát hoặc ra quyết định *(20%)*
+
+### Usage
+
+`Be in charge of` means be responsible for managing or controlling something. `In the charge of` has the opposite direction: under someone's care or control.
+
+Common structures:
+
+* `be in charge of + noun/team`: phụ trách điều gì/nhóm nào
+* `put someone in charge of`: giao cho ai phụ trách
+* `take charge of`: tiếp quản/chủ động phụ trách
+* `be in the charge of + person`: nằm dưới sự chăm sóc/quản lý của ai
+
+### Examples
+
+1. **A senior engineer is in charge of the safety inspection.**
+   → Một kỹ sư cấp cao phụ trách cuộc kiểm tra an toàn.
+
+2. **She was placed in charge of a team of twelve researchers.**
+   → Cô ấy được giao phụ trách một nhóm gồm mười hai nhà nghiên cứu.
+
+### Common collocations
+
+* **in charge of a team**: phụ trách một nhóm
+* **in charge of operations**: phụ trách hoạt động
+* **take charge of**: tiếp quản/phụ trách
+
+### Synonyms
+
+* **responsible for** /rɪˈspɒn.sə.bəl fɔːr/ *(adjective phrase)*: chịu trách nhiệm về
+* **in control of** /ɪn kənˈtrəʊl əv/ *(preposition phrase)*: kiểm soát
+* **managing** /ˈmæn.ɪ.dʒɪŋ/ *(verb form)*: đang quản lý
+
+### Word family
+
+* **charge** UK /tʃɑːdʒ/ US /tʃɑːrdʒ/ *(noun/verb)*: trách nhiệm, phí; tính phí/giao trách nhiệm  
+  *Example:* The museum does not charge an entrance fee.  
+  → Bảo tàng không thu phí vào cửa.
+
+* **charged** UK /tʃɑːdʒd/ US /tʃɑːrdʒd/ *(adjective/verb form)*: được giao nhiệm vụ; bị buộc tội; đã sạc  
+  *Example:* The committee was charged with reviewing the evidence.  
+  → Ủy ban được giao nhiệm vụ xem xét bằng chứng.
+
+* **chargeable** UK /ˈtʃɑː.dʒə.bəl/ US /ˈtʃɑːr.dʒə.bəl/ *(adjective)*: phải trả phí; có thể bị tính phí  
+  *Example:* Additional services are chargeable separately.  
+  → Các dịch vụ bổ sung được tính phí riêng.
+
+### Notes
+
+Compare `Mai is in charge of the children` (Mai supervises them) with `The children are in the charge of Mai` (they are supervised by Mai). Do not omit `of` before the responsibility.
+
+---
+
+## 383. In dispute with /ɪn dɪˈspjuːt wɪð/
+
+* **Part of speech:** preposition phrase; adjective complement
+* **Vietnamese meaning:** đang tranh chấp hoặc bất đồng chính thức với một người/tổ chức *(75%)*; đang tranh luận về quyền lợi, tiền bạc, lãnh thổ hoặc sự thật *(25%)*
+
+### Usage
+
+`Be in dispute with` describes an ongoing, often formal disagreement. Use `in dispute over/about` to name the issue being contested.
+
+Common structures:
+
+* `be in dispute with + person/organization`: đang tranh chấp với ai/tổ chức nào
+* `be in dispute over + issue`: đang tranh chấp về vấn đề
+* `remain in dispute with`: vẫn đang tranh chấp với
+* `a matter in dispute`: một vấn đề đang bị tranh cãi
+
+### Examples
+
+1. **The union is in dispute with management over working hours.**
+   → Công đoàn đang tranh chấp với ban quản lý về giờ làm việc.
+
+2. **Two neighboring regions remain in dispute over the border.**
+   → Hai khu vực lân cận vẫn đang tranh chấp về đường biên giới.
+
+### Common collocations
+
+* **in dispute with management**: đang tranh chấp với ban quản lý
+* **in dispute over pay**: đang tranh chấp về lương
+* **matter in dispute**: vấn đề đang bị tranh cãi
+
+### Synonyms
+
+* **in conflict with** /ɪn ˈkɒn.flɪkt wɪð/ *(preposition phrase)*: xung đột với
+* **at odds with** UK /ət ˈɒdz wɪð/ US /ət ˈɑːdz wɪð/ *(preposition phrase)*: bất đồng với
+* **disagreeing with** /ˌdɪs.əˈɡriː.ɪŋ wɪð/ *(verb phrase)*: đang không đồng ý với
+
+### Word family
+
+* **dispute** /dɪˈspjuːt/ *(noun/verb)*: tranh chấp; tranh cãi/phản đối  
+  *Example:* The pay dispute lasted for three weeks.  
+  → Tranh chấp tiền lương kéo dài ba tuần.
+
+* **disputed** /dɪˈspjuː.tɪd/ *(adjective)*: đang bị tranh chấp  
+  *Example:* The two sides discussed ownership of the disputed land.  
+  → Hai bên thảo luận quyền sở hữu vùng đất đang bị tranh chấp.
+
+* **disputable** /dɪˈspjuː.tə.bəl/ *(adjective)*: có thể bị tranh luận, chưa chắc chắn  
+  *Example:* The economic benefits of the scheme are disputable.  
+  → Lợi ích kinh tế của kế hoạch này vẫn có thể bị tranh luận.
+
+### Notes
+
+Use `in dispute with` for the opposing party and `in dispute over/about` for the issue. `Dispute` is generally more formal and serious than an everyday disagreement.
+
+---
+
+## 384. In short UK /ɪn ˈʃɔːt/ US /ɪn ˈʃɔːrt/
+
+* **Part of speech:** linking adverb phrase; discourse marker
+* **Vietnamese meaning:** nói ngắn gọn, tóm lại *(85%)*; dùng để đưa ra kết luận cô đọng sau phần giải thích *(15%)*
+
+### Usage
+
+`In short` introduces a concise summary or conclusion. It is useful in speaking and writing, though formal academic writing may prefer a direct conclusion or `in summary`.
+
+Common structures:
+
+* `In short, + clause`: tóm lại, ...
+* `to put it briefly`: nói một cách ngắn gọn
+* `the answer, in short, is...`: câu trả lời, nói ngắn gọn, là...
+* `in short: + summary`: tóm lại: ...
+
+### Examples
+
+1. **In short, the plan is too expensive and unlikely to succeed.**
+   → Tóm lại, kế hoạch quá tốn kém và khó có khả năng thành công.
+
+2. **The service is slow, unreliable, and costly; in short, it needs major reform.**
+   → Dịch vụ chậm, thiếu tin cậy và tốn kém; tóm lại, nó cần được cải cách lớn.
+
+### Common collocations
+
+* **in short, we need to**: tóm lại, chúng ta cần
+* **in short, the problem is**: tóm lại, vấn đề là
+* **to put it briefly**: nói ngắn gọn
+
+### Synonyms
+
+* **in summary** /ɪn ˈsʌm.ər.i/ *(linking phrase)*: tóm lại; trang trọng hơn
+* **briefly** /ˈbriːf.li/ *(adverb)*: nói ngắn gọn
+* **to sum up** /tə ˌsʌm ˈʌp/ *(linking phrase)*: để tổng kết
+
+### Word family
+
+* **short** UK /ʃɔːt/ US /ʃɔːrt/ *(adjective/adverb)*: ngắn; thiếu  
+  *Example:* The chair gave a short explanation of the decision.  
+  → Chủ tọa đưa ra lời giải thích ngắn về quyết định.
+
+* **shorten** UK /ˈʃɔː.tən/ US /ˈʃɔːr.tən/ *(verb)*: rút ngắn  
+  *Example:* Digital forms can shorten the application process.  
+  → Biểu mẫu điện tử có thể rút ngắn quy trình nộp đơn.
+
+* **shortly** UK /ˈʃɔːt.li/ US /ˈʃɔːrt.li/ *(adverb)*: sớm; một cách ngắn gọn  
+  *Example:* The results will be announced shortly.  
+  → Kết quả sẽ sớm được công bố.
+
+### Notes
+
+`In short` summarizes; it does not mean `soon`. The adverb `shortly` often means soon, while `briefly` means for a short time or in few words.
+
+---
+
+## 385. In turn UK /ɪn ˈtɜːn/ US /ɪn ˈtɝːn/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** lần lượt, theo thứ tự từng người/vật *(50%)*; đến lượt mình *(20%)*; rồi từ đó gây ra một kết quả tiếp theo *(30%)*
+
+### Usage
+
+`In turn` can describe people or things acting one after another, or a chain in which one effect causes another. Context distinguishes sequence from cause and effect.
+
+Common structures:
+
+* `each person + verb + in turn`: mỗi người lần lượt làm gì
+* `take/answer in turn`: làm/trả lời lần lượt
+* `A causes B, which in turn causes C`: A gây B, rồi B lại gây C
+* `in one's turn`: đến lượt một người
+
+### Examples
+
+1. **Each participant introduced themselves in turn.**
+   → Mỗi người tham gia lần lượt tự giới thiệu.
+
+2. **Higher fuel costs increase transport prices, which in turn raise food prices.**
+   → Chi phí nhiên liệu cao làm tăng giá vận chuyển, từ đó lại làm tăng giá thực phẩm.
+
+### Common collocations
+
+* **speak in turn**: lần lượt phát biểu
+* **which in turn**: điều này đến lượt nó/từ đó
+* **each in turn**: từng người/vật lần lượt
+
+### Synonyms
+
+* **one after another** /wʌn ˌɑːf.tər əˈnʌð.ər/ *(adverb phrase)*: lần lượt người/vật này sau người/vật khác
+* **successively** /səkˈses.ɪv.li/ *(adverb)*: liên tiếp, lần lượt; trang trọng
+* **as a consequence** /æz ə ˈkɒn.sɪ.kwəns/ *(linking phrase)*: do đó; chỉ phù hợp với nghĩa kết quả
+
+### Word family
+
+* **turn** UK /tɜːn/ US /tɝːn/ *(noun/verb)*: lượt; quay, chuyển  
+  *Example:* Please wait until it is your turn to speak.  
+  → Vui lòng đợi đến lượt bạn phát biểu.
+
+* **turning** UK /ˈtɜː.nɪŋ/ US /ˈtɝː.nɪŋ/ *(countable noun/verb form)*: chỗ rẽ; việc quay  
+  *Example:* Take the second turning on the left.  
+  → Hãy rẽ ở lối thứ hai bên trái.
+
+* **turnover** UK /ˈtɜːnˌəʊ.vər/ US /ˈtɝːnˌoʊ.vɚ/ *(noun)*: doanh thu; tỷ lệ thay nhân viên  
+  *Example:* High staff turnover can reduce service quality.  
+  → Tỷ lệ thay đổi nhân viên cao có thể làm giảm chất lượng dịch vụ.
+
+### Notes
+
+For orderly sequence, `in turn` means one after another. In cause-and-effect writing, `which in turn` means that the previous result produces another result. Do not confuse it with `take turns`, which describes alternating actions.
+
+---
+
+## 386. In vain /ɪn ˈveɪn/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** một cách vô ích, không đạt được kết quả mong muốn *(90%)*; cố gắng nhưng thất bại *(10%)*
+
+### Usage
+
+`In vain` says that an effort failed to achieve its purpose. It commonly follows verbs such as `try`, `search`, `wait`, and `appeal`.
+
+Common structures:
+
+* `try/attempt in vain to + verb`: cố gắng vô ích để làm gì
+* `search/wait in vain for`: tìm kiếm/chờ đợi vô ích
+* `all efforts were in vain`: mọi nỗ lực đều vô ích
+* `appeal in vain to + person`: kêu gọi ai nhưng vô ích
+
+### Examples
+
+1. **Doctors tried in vain to identify the source of the infection.**
+   → Các bác sĩ cố gắng vô ích để xác định nguồn lây nhiễm.
+
+2. **The family waited in vain for news of the missing sailor.**
+   → Gia đình chờ đợi tin tức về thủy thủ mất tích nhưng vô vọng.
+
+### Common collocations
+
+* **try in vain**: cố gắng vô ích
+* **search in vain for**: tìm kiếm vô ích
+* **all efforts were in vain**: mọi nỗ lực đều vô ích
+
+### Synonyms
+
+* **unsuccessfully** /ˌʌn.səkˈses.fəl.i/ *(adverb)*: không thành công
+* **to no avail** /tə ˌnəʊ əˈveɪl/ *(adverb phrase)*: không có kết quả
+* **fruitlessly** /ˈfruːt.ləs.li/ *(adverb)*: một cách vô ích; trang trọng hơn
+
+### Word family
+
+* **vain** /veɪn/ *(adjective)*: vô ích; phù phiếm, tự phụ  
+  *Example:* They made a vain attempt to stop the leak.  
+  → Họ thực hiện một nỗ lực vô ích để ngăn chỗ rò rỉ.
+
+* **vainly** /ˈveɪn.li/ *(adverb)*: một cách vô ích/tự phụ  
+  *Example:* Residents vainly appealed for immediate assistance.  
+  → Cư dân kêu gọi hỗ trợ ngay lập tức nhưng vô ích.
+
+* **vanity** /ˈvæn.ə.ti/ *(uncountable noun)*: tính phù phiếm, tự phụ  
+  *Example:* Personal vanity should not influence public decisions.  
+  → Sự phù phiếm cá nhân không nên ảnh hưởng đến các quyết định công.
+
+### Notes
+
+`In vain` relates to failed effort. The adjective `vain` also means excessively proud of one's appearance or achievements; context determines the meaning.
+
+---
+
+## 387. On behalf of UK /ɒn bɪˈhɑːf əv/ US /ɑːn bɪˈhæf əv/
+
+* **Part of speech:** preposition phrase
+* **Vietnamese meaning:** đại diện cho một người, nhóm hoặc tổ chức *(65%)*; vì lợi ích hoặc để giúp đỡ ai *(35%)*
+
+### Usage
+
+`On behalf of` means as a representative of someone or for their benefit. In American English, `in behalf of` is sometimes used specifically for the benefit meaning, but `on behalf of` is widely accepted for both.
+
+Common structures:
+
+* `on behalf of + person/group`: thay mặt/đại diện cho ai/nhóm nào
+* `speak/act on behalf of`: phát biểu/hành động thay mặt cho
+* `on behalf of everyone`: thay mặt mọi người
+* `do something on someone's behalf`: làm điều gì thay cho/vì lợi ích của ai
+
+### Examples
+
+1. **The director accepted the award on behalf of the entire team.**
+   → Giám đốc nhận giải thưởng thay mặt toàn bộ nhóm.
+
+2. **A lawyer submitted the documents on behalf of the family.**
+   → Một luật sư nộp tài liệu thay mặt gia đình.
+
+### Common collocations
+
+* **speak on behalf of**: phát biểu thay mặt cho
+* **act on behalf of**: hành động đại diện cho
+* **on behalf of the organization**: thay mặt tổ chức
+
+### Synonyms
+
+* **representing** /ˌrep.rɪˈzen.tɪŋ/ *(preposition/verb form)*: đại diện cho
+* **for the benefit of** /fə ðə ˈben.ɪ.fɪt əv/ *(preposition phrase)*: vì lợi ích của
+* **in the name of** /ɪn ðə ˈneɪm əv/ *(preposition phrase)*: nhân danh
+
+### Word family
+
+* **behalf** UK /bɪˈhɑːf/ US /bɪˈhæf/ *(noun used in fixed phrases)*: sự đại diện/lợi ích trong cụm cố định  
+  *Example:* I am writing on behalf of my colleagues.  
+  → Tôi viết thư này thay mặt các đồng nghiệp.
+
+* **represent** /ˌrep.rɪˈzent/ *(transitive verb)*: đại diện  
+  *Example:* Elected officials should represent their communities fairly.  
+  → Các quan chức dân cử nên đại diện công bằng cho cộng đồng của mình.
+
+* **representative** /ˌrep.rɪˈzen.tə.tɪv/ *(countable noun/adjective)*: người đại diện; mang tính đại diện  
+  *Example:* Each department sent a representative to the meeting.  
+  → Mỗi phòng ban cử một đại diện đến cuộc họp.
+
+### Notes
+
+Use `on behalf of`, not `on the behalf of`, unless a possessive intervenes in the less common form `on someone's behalf`. The phrase can mean either representing someone or acting for their benefit.
+
+---
+
+## 388. Contrary to / On the contrary UK /ˈkɒn.trə.ri tuː; ɒn ðə ˈkɒn.trə.ri/ US /ˈkɑːn.trer.i tuː; ɑːn ðə ˈkɑːn.trer.i/
+
+* **Part of speech:** preposition phrase; linking adverb phrase
+* **Vietnamese meaning:** `contrary to`: trái với một ý kiến, kỳ vọng hoặc quy tắc *(55%)*; `on the contrary`: ngược lại, dùng để bác bỏ và khẳng định điều đối lập *(45%)*
+
+### Usage
+
+The requested form `on the contrary to` is incorrect because it combines two different structures. Use `contrary to + noun` or use `on the contrary, + clause` as a separate linking phrase.
+
+Common structures:
+
+* `contrary to + noun/expectation`: trái với điều gì/kỳ vọng
+* `contrary to popular belief`: trái với niềm tin phổ biến
+* `on the contrary, + clause`: ngược lại, ...
+* `quite the contrary`: hoàn toàn ngược lại
+
+### Examples
+
+1. **Contrary to expectations, the smaller school achieved better results.**
+   → Trái với kỳ vọng, ngôi trường nhỏ hơn đạt kết quả tốt hơn.
+
+2. **The policy did not reduce demand; on the contrary, it increased it.**
+   → Chính sách không làm giảm nhu cầu; ngược lại, nó còn làm nhu cầu tăng lên.
+
+### Common collocations
+
+* **contrary to expectations**: trái với kỳ vọng
+* **contrary to popular belief**: trái với niềm tin phổ biến
+* **on the contrary**: ngược lại
+
+### Synonyms
+
+* **in contrast to** /ɪn ˈkɒn.trɑːst tuː/ *(preposition phrase)*: trái ngược với
+* **opposite to** /ˈɒp.ə.zɪt tuː/ *(adjective phrase)*: đối lập với
+* **conversely** UK /ˈkɒn.vɜːs.li/ US /ˈkɑːn.vɝːs.li/ *(linking adverb)*: ngược lại; trang trọng
+
+### Word family
+
+* **contrary** UK /ˈkɒn.trə.ri/ US /ˈkɑːn.trer.i/ *(adjective/noun)*: trái ngược; điều ngược lại  
+  *Example:* The evidence supports a contrary conclusion.  
+  → Bằng chứng ủng hộ một kết luận trái ngược.
+
+* **contrast** UK /ˈkɒn.trɑːst/ US /ˈkɑːn.træst/ *(noun/verb)*: sự tương phản; tương phản  
+  *Example:* The report contrasts rural and urban living costs.  
+  → Báo cáo đối chiếu chi phí sinh hoạt nông thôn và đô thị.
+
+* **contrasting** UK /kənˈtrɑː.stɪŋ/ US /kənˈtræs.tɪŋ/ *(adjective)*: tương phản  
+  *Example:* The witnesses gave contrasting accounts of the event.  
+  → Các nhân chứng đưa ra những lời kể trái ngược về sự việc.
+
+### Notes
+
+Never say `on the contrary to`. Use `Contrary to the forecast, it stayed dry.` Use `It was not cold; on the contrary, it was extremely warm.` `On the contrary` directly rejects or reverses a previous statement; it is not merely another way to say `however`.
+
+---
+
+## 389. On purpose UK /ɒn ˈpɜː.pəs/ US /ɑːn ˈpɝː.pəs/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** cố ý, có chủ đích chứ không phải tình cờ *(90%)*; nhằm một mục đích cụ thể *(10%)*
+
+### Usage
+
+`On purpose` says an action was intentional. It usually appears after the verb or at the end of the clause and contrasts with `by accident`.
+
+Common structures:
+
+* `do something on purpose`: cố ý làm điều gì
+* `not do something on purpose`: không cố ý làm điều gì
+* `verb + object + on purpose`: cố ý thực hiện hành động lên một đối tượng
+* `by accident, not on purpose`: do tình cờ, không phải cố ý
+
+### Examples
+
+1. **I did not delete the file on purpose; it was an accident.**
+   → Tôi không cố ý xóa tệp; đó là một tai nạn.
+
+2. **The researchers selected a diverse sample on purpose.**
+   → Các nhà nghiên cứu cố ý chọn một mẫu đa dạng.
+
+### Common collocations
+
+* **do it on purpose**: cố ý làm việc đó
+* **deliberately and on purpose**: cố tình và có chủ đích
+* **not on purpose**: không cố ý
+
+### Synonyms
+
+* **intentionally** /ɪnˈten.ʃən.əl.i/ *(adverb)*: một cách cố ý
+* **deliberately** /dɪˈlɪb.ər.ət.li/ *(adverb)*: một cách có chủ đích/cân nhắc
+* **knowingly** UK /ˈnəʊ.ɪŋ.li/ US /ˈnoʊ.ɪŋ.li/ *(adverb)*: cố ý trong khi biết rõ sự thật/hậu quả
+
+### Word family
+
+* **purpose** UK /ˈpɜː.pəs/ US /ˈpɝː.pəs/ *(noun/verb)*: mục đích; có ý định  
+  *Example:* The main purpose of the survey is to identify barriers.  
+  → Mục đích chính của khảo sát là xác định các rào cản.
+
+* **purposeful** UK /ˈpɜː.pəs.fəl/ US /ˈpɝː.pəs.fəl/ *(adjective)*: có mục tiêu, quyết đoán  
+  *Example:* She took purposeful steps toward a new career.  
+  → Cô ấy thực hiện những bước đi có mục tiêu hướng tới nghề nghiệp mới.
+
+* **purposely** UK /ˈpɜː.pəs.li/ US /ˈpɝː.pəs.li/ *(adverb)*: cố ý  
+  *Example:* The test was purposely designed to be challenging.  
+  → Bài kiểm tra được cố ý thiết kế để mang tính thử thách.
+
+### Notes
+
+`On purpose` and `purposely` mean intentionally. `Purposefully` often means with clear determination: `She walked purposefully into the room.` The opposite of `on purpose` is `by accident`.
