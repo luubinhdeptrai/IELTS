@@ -19259,3 +19259,793 @@ Common structures:
 ### Notes
 
 Use `independent of`, not `independent from`, in most standard constructions, although `independent from` is sometimes heard when emphasizing separation. Compare `dependent on` with `independent of`.
+
+
+---
+
+## 349. Agreeable to /əˈɡriː.ə.bəl tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** sẵn lòng chấp nhận hoặc đồng ý với một đề xuất *(50%)*; được ai chấp nhận, phù hợp với mong muốn của ai *(30%)*; dễ chịu đối với giác quan hoặc tính cách *(20%)*
+
+### Usage
+
+`Be agreeable to` is a fairly formal way to say that someone is willing to accept a proposal or that something is acceptable to them. It can also describe something pleasant.
+
+Common structures:
+
+* `be agreeable to + noun`: đồng ý/chấp nhận một điều gì
+* `be agreeable to + verb-ing`: sẵn lòng làm gì
+* `be agreeable to + person/group`: được một người/nhóm chấp nhận
+* `if it is agreeable to you`: nếu điều đó phù hợp/được bạn chấp nhận
+
+### Examples
+
+1. **Both departments were agreeable to extending the deadline.**
+   → Cả hai phòng ban đều đồng ý gia hạn thời hạn.
+
+2. **The revised payment plan is agreeable to all parties.**
+   → Kế hoạch thanh toán đã sửa đổi được tất cả các bên chấp nhận.
+
+### Common collocations
+
+* **agreeable to the proposal**: đồng ý với đề xuất
+* **agreeable to both parties**: được cả hai bên chấp nhận
+* **agreeable to doing something**: sẵn lòng làm gì
+
+### Synonyms
+
+* **acceptable to** /əkˈsep.tə.bəl tuː/ *(adjective phrase)*: có thể chấp nhận được đối với
+* **willing to accept** /ˈwɪl.ɪŋ tu əkˈsept/ *(adjective phrase)*: sẵn lòng chấp nhận
+* **amenable to** /əˈmiː.nə.bəl tuː/ *(adjective phrase)*: sẵn lòng xem xét hoặc đáp ứng; trang trọng
+
+### Word family
+
+* **agree** /əˈɡriː/ *(intransitive/transitive verb)*: đồng ý; thống nhất  
+  *Example:* Experts agree that early intervention is important.  
+  → Các chuyên gia đồng ý rằng can thiệp sớm rất quan trọng.
+
+* **agreement** /əˈɡriː.mənt/ *(countable/uncountable noun)*: sự đồng ý; thỏa thuận  
+  *Example:* The two companies reached an agreement on data security.  
+  → Hai công ty đã đạt được thỏa thuận về bảo mật dữ liệu.
+
+* **agreeable** /əˈɡriː.ə.bəl/ *(adjective)*: dễ chịu; có thể chấp nhận  
+  *Example:* We found a mutually agreeable solution.  
+  → Chúng tôi tìm được một giải pháp mà cả hai bên đều chấp nhận.
+
+### Notes
+
+The `to` in `agreeable to` is a preposition, so use `verb-ing`: `agreeable to changing the date`, not `agreeable to change the date`. In everyday speech, `willing to` or `happy to` is usually more natural.
+
+---
+
+## 350. Open to UK /ˈəʊ.pən tuː/ US /ˈoʊ.pən tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** sẵn sàng cân nhắc ý tưởng, đề xuất hoặc thay đổi *(50%)*; mở hoặc dành cho một nhóm người *(30%)*; dễ bị ảnh hưởng, chỉ trích hoặc rủi ro *(20%)*
+
+### Usage
+
+`Be open to` commonly means willing to consider something. It can also mean accessible to a group or vulnerable to an influence, interpretation, or criticism.
+
+Common structures:
+
+* `be open to + noun/idea`: sẵn sàng cân nhắc điều gì
+* `be open to + verb-ing`: sẵn sàng cân nhắc làm gì
+* `be open to + person/group`: mở/dành cho một người hoặc nhóm
+* `be open to criticism/abuse`: dễ bị chỉ trích/lạm dụng
+
+### Examples
+
+1. **The manager is open to suggestions from junior employees.**
+   → Người quản lý sẵn sàng lắng nghe đề xuất từ nhân viên cấp dưới.
+
+2. **The scholarship is open to students from all backgrounds.**
+   → Học bổng dành cho sinh viên thuộc mọi hoàn cảnh.
+
+### Common collocations
+
+* **open to suggestions**: sẵn sàng tiếp nhận đề xuất
+* **open to the public**: mở cửa cho công chúng
+* **open to interpretation**: có thể được diễn giải theo nhiều cách
+
+### Synonyms
+
+* **receptive to** /rɪˈsep.tɪv tuː/ *(adjective phrase)*: sẵn sàng tiếp nhận
+* **willing to consider** /ˈwɪl.ɪŋ tu kənˈsɪd.ər/ *(adjective phrase)*: sẵn lòng cân nhắc
+* **accessible to** /əkˈses.ə.bəl tuː/ *(adjective phrase)*: có thể tiếp cận đối với; dùng cho nghĩa mở/dành cho
+
+### Word family
+
+* **open** UK /ˈəʊ.pən/ US /ˈoʊ.pən/ *(adjective/verb)*: mở; mở ra  
+  *Example:* The museum is open to the public every weekend.  
+  → Bảo tàng mở cửa cho công chúng mỗi cuối tuần.
+
+* **openness** UK /ˈəʊ.pən.nəs/ US /ˈoʊ.pən.nəs/ *(uncountable noun)*: sự cởi mở  
+  *Example:* Openness to feedback can improve teamwork.  
+  → Sự cởi mở với phản hồi có thể cải thiện tinh thần làm việc nhóm.
+
+* **openly** UK /ˈəʊ.pən.li/ US /ˈoʊ.pən.li/ *(adverb)*: một cách cởi mở, công khai  
+  *Example:* Employees discussed the problem openly.  
+  → Nhân viên thảo luận vấn đề một cách cởi mở.
+
+### Notes
+
+Because `to` is a preposition here, say `open to changing the plan`, not `open to change the plan`. Compare `open to everyone` (available to everyone) with `open with someone` (honest and communicative with that person).
+
+---
+
+## 351. Engaged to /ɪnˈɡeɪdʒd tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** đã đính hôn với ai, đã đồng ý kết hôn *(100%)*
+
+### Usage
+
+`Be engaged to someone` means that two people have formally agreed to marry. Use `engaged in` for participation in an activity and `engaged with` for active involvement with an idea or audience.
+
+Common structures:
+
+* `be engaged to + person`: đính hôn với ai
+* `get engaged to + person`: đính hôn với ai
+* `become engaged`: đính hôn
+* `be engaged to be married`: đã hứa hôn
+
+### Examples
+
+1. **Linh has been engaged to her university friend for six months.**
+   → Linh đã đính hôn với người bạn đại học được sáu tháng.
+
+2. **They became engaged after several years together.**
+   → Họ đính hôn sau nhiều năm bên nhau.
+
+### Common collocations
+
+* **be engaged to someone**: đính hôn với ai
+* **get engaged**: đính hôn
+* **newly engaged couple**: cặp đôi mới đính hôn
+
+### Synonyms
+
+* **betrothed to** UK /bɪˈtrəʊðd tuː/ US /bɪˈtroʊðd tuː/ *(adjective phrase)*: đã hứa hôn với; trang trọng hoặc cổ hơn
+* **promised in marriage to** /ˈprɒm.ɪst ɪn ˈmær.ɪdʒ tuː/ *(adjective phrase)*: được hứa gả/kết hôn với
+* **due to marry** /dʒuː tu ˈmær.i/ *(adjective phrase)*: sắp kết hôn với
+
+### Word family
+
+* **engage** /ɪnˈɡeɪdʒ/ *(transitive/intransitive verb)*: thu hút; tham gia; thuê  
+  *Example:* Interactive lessons engage students more effectively.  
+  → Các bài học tương tác thu hút học sinh hiệu quả hơn.
+
+* **engagement** /ɪnˈɡeɪdʒ.mənt/ *(countable/uncountable noun)*: sự đính hôn; sự tham gia  
+  *Example:* The couple announced their engagement at dinner.  
+  → Cặp đôi thông báo việc đính hôn trong bữa tối.
+
+* **engaged** /ɪnˈɡeɪdʒd/ *(adjective)*: đã đính hôn; đang tham gia  
+  *Example:* She is engaged to a civil engineer.  
+  → Cô ấy đã đính hôn với một kỹ sư xây dựng.
+
+### Notes
+
+For marriage, use `engaged to someone`, not `engaged with someone`. `Engaged in research` means participating in research, while `engaged with the audience` means interacting actively with the audience.
+
+---
+
+## 352. Accustomed to /əˈkʌs.təmd tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** đã quen với một tình huống, môi trường hoặc thói quen *(85%)*; không còn thấy điều gì lạ hoặc khó chịu vì trải nghiệm lặp lại *(15%)*
+
+### Usage
+
+`Be accustomed to` means be familiar and comfortable with something through experience. It is more formal than `be used to`. Here, `to` is a preposition.
+
+Common structures:
+
+* `be accustomed to + noun/pronoun`: quen với ai/cái gì
+* `be accustomed to + verb-ing`: quen với việc làm gì
+* `become/get accustomed to`: dần quen với
+* `grow accustomed to`: ngày càng quen với
+
+### Examples
+
+1. **New employees soon became accustomed to working across different time zones.**
+   → Nhân viên mới nhanh chóng quen với việc làm việc qua nhiều múi giờ.
+
+2. **People who live near the airport may grow accustomed to the noise.**
+   → Những người sống gần sân bay có thể dần quen với tiếng ồn.
+
+### Common collocations
+
+* **accustomed to working**: quen với việc làm việc
+* **become accustomed to**: dần quen với
+* **accustomed to the climate**: quen với khí hậu
+
+### Synonyms
+
+* **used to** /ˈjuːst tuː/ *(adjective phrase)*: quen với; trong cấu trúc `be used to`
+* **familiar with** /fəˈmɪl.i.ər wɪð/ *(adjective phrase)*: quen thuộc hoặc có hiểu biết về
+* **habituated to** /həˈbɪtʃ.u.eɪ.tɪd tuː/ *(adjective phrase)*: đã quen do tiếp xúc lặp lại; trang trọng/kỹ thuật
+
+### Word family
+
+* **accustom** /əˈkʌs.təm/ *(transitive verb)*: làm cho quen  
+  *Example:* Gradual exposure can accustom patients to the treatment.  
+  → Việc tiếp xúc dần dần có thể giúp bệnh nhân quen với phương pháp điều trị.
+
+* **accustomed** /əˈkʌs.təmd/ *(adjective)*: đã quen  
+  *Example:* She is accustomed to speaking in public.  
+  → Cô ấy đã quen với việc nói trước công chúng.
+
+* **unaccustomed** /ˌʌn.əˈkʌs.təmd/ *(adjective)*: không quen  
+  *Example:* Visitors unaccustomed to the heat should drink plenty of water.  
+  → Du khách không quen với cái nóng nên uống nhiều nước.
+
+### Notes
+
+Say `accustomed to doing`, not `accustomed to do`. Compare `I used to work at night` (a past habit) with `I am accustomed to working at night` (it is familiar to me now).
+
+---
+
+## 353. Delightful to /dɪˈlaɪt.fəl tuː/
+
+* **Part of speech:** adjective phrase; impersonal adjective pattern
+* **Vietnamese meaning:** mang lại cảm giác rất vui hoặc dễ chịu cho ai *(45%)*; thật thú vị/vui khi nhìn, nghe, gặp hoặc trải nghiệm điều gì *(55%)*
+
+### Usage
+
+`Delightful to` commonly appears in `It is delightful to + verb` or after a noun: `delightful to see`. `Delightful` describes what causes pleasure; `delighted` describes the person who feels it.
+
+Common structures:
+
+* `it is delightful to + verb`: thật vui/thú vị khi làm gì
+* `be delightful to see/hear/watch`: thật thú vị khi nhìn/nghe/xem
+* `something is delightful to + person`: điều gì mang lại niềm vui cho ai
+* `a delightful + noun`: một danh từ rất dễ chịu/thú vị
+
+### Examples
+
+1. **It was delightful to hear the children singing together.**
+   → Thật vui khi nghe bọn trẻ hát cùng nhau.
+
+2. **The small garden is delightful to visit in the spring.**
+   → Khu vườn nhỏ là một nơi rất thú vị để ghé thăm vào mùa xuân.
+
+### Common collocations
+
+* **delightful to see**: thật vui khi nhìn thấy
+* **delightful to hear**: thật vui khi nghe
+* **a delightful experience**: một trải nghiệm thú vị/dễ chịu
+
+### Synonyms
+
+* **pleasing to** /ˈpliː.zɪŋ tuː/ *(adjective phrase)*: làm hài lòng, dễ chịu đối với
+* **enjoyable for** /ɪnˈdʒɔɪ.ə.bəl fɔːr/ *(adjective phrase)*: thú vị đối với
+* **a pleasure to** /ə ˈpleʒ.ər tuː/ *(noun phrase)*: một niềm vui khi làm/tiếp xúc với
+
+### Word family
+
+* **delight** /dɪˈlaɪt/ *(noun/transitive verb)*: niềm vui; làm ai vui thích  
+  *Example:* The children's performance delighted the audience.  
+  → Màn biểu diễn của bọn trẻ khiến khán giả vui thích.
+
+* **delighted** /dɪˈlaɪ.tɪd/ *(adjective)*: rất vui mừng  
+  *Example:* We were delighted to receive your invitation.  
+  → Chúng tôi rất vui khi nhận được lời mời của bạn.
+
+* **delightful** /dɪˈlaɪt.fəl/ *(adjective)*: thú vị, dễ chịu  
+  *Example:* The host prepared a delightful evening for her guests.  
+  → Chủ nhà chuẩn bị một buổi tối thú vị cho khách.
+
+### Notes
+
+Do not confuse `delightful to` with `delighted to`. Say `I am delighted to meet you` because the person feels pleasure. Say `The music is delightful to hear` because the music causes pleasure.
+
+---
+
+## 354. Familiar to /fəˈmɪl.i.ər tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** được ai nhận ra vì đã từng thấy, nghe hoặc biết trước đó *(70%)*; quen thuộc đối với một nhóm hoặc trong một bối cảnh *(30%)*
+
+### Usage
+
+Use `something is familiar to someone` when the thing is recognized by that person. Use `someone is familiar with something` when the person knows or understands the thing.
+
+Common structures:
+
+* `something + be familiar to + person`: điều gì quen thuộc đối với ai
+* `look/sound/seem familiar to + person`: trông/nghe/có vẻ quen thuộc với ai
+* `be familiar to the public`: quen thuộc với công chúng
+* `be familiar with + subject/tool`: quen thuộc hoặc hiểu biết về một chủ đề/công cụ
+
+### Examples
+
+1. **The melody sounds familiar to me, but I cannot remember its name.**
+   → Giai điệu nghe quen thuộc với tôi, nhưng tôi không nhớ được tên.
+
+2. **This safety symbol should be familiar to all laboratory staff.**
+   → Biểu tượng an toàn này hẳn phải quen thuộc với tất cả nhân viên phòng thí nghiệm.
+
+### Common collocations
+
+* **sound familiar to**: nghe quen thuộc với
+* **familiar to most people**: quen thuộc với phần lớn mọi người
+* **instantly familiar to**: ngay lập tức quen thuộc với
+
+### Synonyms
+
+* **known to** UK /ˈnəʊn tuː/ US /ˈnoʊn tuː/ *(adjective phrase)*: được biết đến bởi
+* **recognizable to** /ˈrek.əɡ.naɪ.zə.bəl tuː/ *(adjective phrase)*: có thể được nhận ra bởi
+* **well-known to** UK /ˌwel ˈnəʊn tuː/ US /ˌwel ˈnoʊn tuː/ *(adjective phrase)*: rất quen thuộc/nổi tiếng đối với
+
+### Word family
+
+* **familiar** /fəˈmɪl.i.ər/ *(adjective)*: quen thuộc  
+  *Example:* The software has a familiar interface.  
+  → Phần mềm có giao diện quen thuộc.
+
+* **familiarity** /fəˌmɪl.iˈær.ə.ti/ *(uncountable noun)*: sự quen thuộc; sự hiểu biết  
+  *Example:* Familiarity with the format can reduce exam anxiety.  
+  → Sự quen thuộc với định dạng có thể làm giảm lo lắng khi thi.
+
+* **familiarize** /fəˈmɪl.i.ə.raɪz/ *(transitive verb)*: làm cho quen, tìm hiểu để quen  
+  *Example:* New staff should familiarize themselves with the safety rules.  
+  → Nhân viên mới nên làm quen với các quy tắc an toàn.
+
+### Notes
+
+Remember the direction: `The song is familiar to me`, but `I am familiar with the song`. Avoid `I am familiar to the software` when you mean that you know how to use it.
+
+---
+
+## 355. Equal to /ˈiː.kwəl tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** bằng nhau về số lượng, giá trị, kích thước hoặc địa vị *(60%)*; tương đương về tác dụng hoặc ý nghĩa *(25%)*; đủ khả năng đối phó với một nhiệm vụ *(15%)*
+
+### Usage
+
+`Be equal to` compares two quantities, values, effects, or levels. In `be equal to the task`, it means having enough ability, strength, or courage for a challenge.
+
+Common structures:
+
+* `A + be equal to + B`: A bằng/tương đương với B
+* `be equal in + quality`: bằng nhau về một đặc điểm
+* `be equal to the task/challenge`: đủ khả năng đảm nhiệm nhiệm vụ/đối mặt thử thách
+* `be roughly/exactly equal to`: xấp xỉ/chính xác bằng
+
+### Examples
+
+1. **One kilometer is equal to one thousand meters.**
+   → Một kilômét bằng một nghìn mét.
+
+2. **Despite her limited experience, she proved equal to the task.**
+   → Dù có ít kinh nghiệm, cô ấy đã chứng minh mình đủ khả năng đảm nhiệm nhiệm vụ.
+
+### Common collocations
+
+* **equal to the task**: đủ khả năng đảm nhiệm nhiệm vụ
+* **roughly equal to**: xấp xỉ bằng
+* **equal to or greater than**: bằng hoặc lớn hơn
+
+### Synonyms
+
+* **equivalent to** /ɪˈkwɪv.əl.ənt tuː/ *(adjective phrase)*: tương đương với
+* **the same as** /ðə ˈseɪm æz/ *(adjective phrase)*: giống hoặc bằng với
+* **on a par with** UK /ɒn ə ˈpɑː wɪð/ US /ɑːn ə ˈpɑːr wɪð/ *(preposition phrase)*: ngang bằng về chất lượng hoặc tiêu chuẩn
+
+### Word family
+
+* **equal** /ˈiː.kwəl/ *(adjective/noun/verb)*: bằng nhau; người ngang hàng; làm bằng  
+  *Example:* All citizens should have equal access to justice.  
+  → Mọi công dân nên có quyền tiếp cận công lý bình đẳng.
+
+* **equality** /iˈkwɒl.ə.ti/ *(uncountable noun)*: sự bình đẳng  
+  *Example:* Educational equality requires more than identical funding.  
+  → Bình đẳng giáo dục đòi hỏi nhiều hơn việc cấp kinh phí giống hệt nhau.
+
+* **equally** /ˈiː.kwə.li/ *(adverb)*: một cách ngang bằng; cũng như vậy  
+  *Example:* The policy should apply equally to all employees.  
+  → Chính sách nên được áp dụng bình đẳng cho mọi nhân viên.
+
+### Notes
+
+Use `equal to`, not `equal with`, for numerical or general comparison. Use `equal in` before a shared quality: `The two plans are equal in cost.` `Equal to the task` is idiomatic and refers to ability, not mathematical equality.
+
+---
+
+## 356. Available to /əˈveɪ.lə.bəl tuː/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** có sẵn hoặc có thể tiếp cận đối với ai *(60%)*; được cung cấp cho một nhóm cụ thể *(25%)*; rảnh hoặc sẵn sàng để giúp/làm gì *(15%)*
+
+### Usage
+
+`Be available to` usually identifies the person or group that can access something. `Available for` introduces a purpose, event, or period, while `available to + verb` means free or ready to act.
+
+Common structures:
+
+* `be available to + person/group`: có sẵn/dành cho ai hoặc nhóm nào
+* `be available to the public`: có sẵn cho công chúng
+* `be available for + purpose/time`: có sẵn cho mục đích/thời gian nào
+* `be available to + base verb`: rảnh/sẵn sàng để làm gì
+
+### Examples
+
+1. **Free legal advice is available to low-income residents.**
+   → Tư vấn pháp lý miễn phí được cung cấp cho cư dân có thu nhập thấp.
+
+2. **A technical assistant will be available to answer questions after the workshop.**
+   → Một trợ lý kỹ thuật sẽ sẵn sàng trả lời câu hỏi sau hội thảo.
+
+### Common collocations
+
+* **available to the public**: có sẵn cho công chúng
+* **freely available to**: được cung cấp tự do cho
+* **available to download**: có sẵn để tải xuống
+
+### Synonyms
+
+* **accessible to** /əkˈses.ə.bəl tuː/ *(adjective phrase)*: có thể tiếp cận đối với
+* **open to** UK /ˈəʊ.pən tuː/ US /ˈoʊ.pən tuː/ *(adjective phrase)*: mở/dành cho
+* **obtainable by** /əbˈteɪ.nə.bəl baɪ/ *(adjective phrase)*: có thể đạt được hoặc lấy được bởi
+
+### Word family
+
+* **avail** /əˈveɪl/ *(transitive verb/formal noun)*: giúp ích; lợi ích  
+  *Example:* The extra time was of little avail to the team.  
+  → Khoảng thời gian bổ sung hầu như không giúp ích cho cả nhóm.
+
+* **available** /əˈveɪ.lə.bəl/ *(adjective)*: có sẵn, rảnh  
+  *Example:* The report is available online in three languages.  
+  → Báo cáo có sẵn trực tuyến bằng ba ngôn ngữ.
+
+* **availability** /əˌveɪ.ləˈbɪl.ə.ti/ *(uncountable noun)*: tính sẵn có  
+  *Example:* The availability of childcare affects women's employment.  
+  → Sự sẵn có của dịch vụ chăm sóc trẻ ảnh hưởng đến việc làm của phụ nữ.
+
+### Notes
+
+Use `available to people`, `available for a meeting`, and `available to help`. Do not use `available for someone` when you mean that a resource can be accessed by that person; use `available to someone`.
+
+
+---
+
+## 357. Greedy for /ˈɡriː.di fɔːr/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** tham lam muốn có thêm tiền, quyền lực hoặc tài nguyên *(70%)*; muốn có quá nhiều sự chú ý, thành công hoặc trải nghiệm *(20%)*; ham ăn hoặc muốn có thêm thức ăn *(10%)*
+
+### Usage
+
+`Be greedy for` describes an excessive or selfish desire for more of something. It is usually disapproving; use `eager for` when the desire is positive or neutral.
+
+Common structures:
+
+* `be greedy for + noun`: tham lam muốn có thêm điều gì
+* `be greedy for more`: tham lam muốn nhiều hơn nữa
+* `become/grow greedy for + noun`: trở nên tham lam muốn có điều gì
+* `greedy for money/power/attention`: tham tiền/quyền lực/sự chú ý
+
+### Examples
+
+1. **Companies that are greedy for short-term profit may neglect worker safety.**
+   → Những công ty tham lợi nhuận ngắn hạn có thể xem nhẹ sự an toàn của người lao động.
+
+2. **The politician became greedy for power and refused to share responsibility.**
+   → Vị chính trị gia trở nên tham quyền lực và từ chối chia sẻ trách nhiệm.
+
+### Common collocations
+
+* **greedy for money**: tham tiền
+* **greedy for power**: tham quyền lực
+* **greedy for more**: tham lam muốn nhiều hơn nữa
+
+### Synonyms
+
+* **hungry for** /ˈhʌŋ.ɡri fɔːr/ *(adjective phrase)*: khao khát có được; có thể tích cực hoặc tiêu cực
+* **eager for** /ˈiː.ɡər fɔːr/ *(adjective phrase)*: háo hức mong muốn; trung tính hơn
+* **grasping** UK /ˈɡrɑː.spɪŋ/ US /ˈɡræs.pɪŋ/ *(adjective)*: tham lam và luôn muốn giành thêm cho mình
+
+### Word family
+
+* **greed** /ɡriːd/ *(uncountable noun)*: lòng tham  
+  *Example:* Corporate greed can widen social inequality.  
+  → Lòng tham của doanh nghiệp có thể làm gia tăng bất bình đẳng xã hội.
+
+* **greedy** /ˈɡriː.di/ *(adjective)*: tham lam, háu ăn  
+  *Example:* The greedy landlord kept raising the rent.  
+  → Người chủ nhà tham lam liên tục tăng tiền thuê.
+
+* **greedily** /ˈɡriː.dəl.i/ *(adverb)*: một cách tham lam  
+  *Example:* The company greedily exploited the limited resource.  
+  → Công ty tham lam khai thác nguồn tài nguyên có hạn.
+
+### Notes
+
+`Greedy for` is strongly negative. Do not use it simply to mean motivated: say `eager for knowledge` or `ambitious for success` unless you intend to criticize an excessive desire.
+
+---
+
+## 358. Fit for /ˈfɪt fɔːr/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** phù hợp hoặc thích hợp cho một mục đích/người dùng *(55%)*; đủ tốt, an toàn hoặc đạt chuẩn để sử dụng *(25%)*; đủ khỏe để làm việc hoặc hoạt động *(20%)*
+
+### Usage
+
+`Be fit for` means suitable, good enough, safe enough, or healthy enough for a purpose. The phrase is common in `fit for purpose`, `fit for work`, and `fit for human consumption`.
+
+Common structures:
+
+* `be fit for + purpose/use`: phù hợp cho mục đích sử dụng
+* `be fit for + person/group`: phù hợp cho ai/nhóm nào
+* `be fit for work/duty`: đủ sức khỏe để làm việc/làm nhiệm vụ
+* `be fit for human consumption`: an toàn/phù hợp để con người sử dụng làm thực phẩm
+
+### Examples
+
+1. **The old bridge is no longer fit for heavy traffic.**
+   → Cây cầu cũ không còn phù hợp cho xe cộ tải trọng lớn.
+
+2. **After a medical examination, she was declared fit for work.**
+   → Sau khi khám sức khỏe, cô ấy được xác nhận đủ sức khỏe để làm việc.
+
+### Common collocations
+
+* **fit for purpose**: phù hợp với mục đích
+* **fit for work**: đủ sức khỏe để làm việc
+* **fit for human consumption**: an toàn để con người ăn/uống
+
+### Synonyms
+
+* **suitable for** /ˈsuː.tə.bəl fɔːr/ *(adjective phrase)*: phù hợp cho
+* **appropriate for** /əˈprəʊ.pri.ət fɔːr/ *(adjective phrase)*: thích hợp cho
+* **ready for** /ˈred.i fɔːr/ *(adjective phrase)*: sẵn sàng cho; dùng khi đã chuẩn bị đầy đủ
+
+### Word family
+
+* **fit** /fɪt/ *(adjective/verb)*: khỏe mạnh, phù hợp; vừa, lắp  
+  *Example:* Regular exercise helps older adults remain fit.  
+  → Tập thể dục thường xuyên giúp người lớn tuổi duy trì sức khỏe.
+
+* **fitness** /ˈfɪt.nəs/ *(uncountable noun)*: thể lực; sự phù hợp  
+  *Example:* Physical fitness can reduce the risk of chronic disease.  
+  → Thể lực tốt có thể làm giảm nguy cơ mắc bệnh mãn tính.
+
+* **unfit** /ʌnˈfɪt/ *(adjective)*: không phù hợp; không đủ sức khỏe  
+  *Example:* Contaminated water is unfit for drinking.  
+  → Nước bị ô nhiễm không phù hợp để uống.
+
+### Notes
+
+`Fit for` concerns suitability or readiness. `Fit to + verb` is also possible: `The building is fit to occupy.` In American English, `fit` commonly means physically healthy; British English also uses `fit` informally to mean attractive.
+
+---
+
+## 359. Clumsy at /ˈklʌm.zi æt/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** vụng về, thiếu kỹ năng khi thực hiện một hoạt động *(75%)*; diễn đạt hoặc xử lý một tình huống một cách thiếu khéo léo *(25%)*
+
+### Usage
+
+`Be clumsy at` describes poor coordination or skill in an activity. Use `clumsy with` for tools, objects, words, or one's hands, and use `a clumsy attempt` for an awkward action.
+
+Common structures:
+
+* `be clumsy at + noun/activity`: vụng về trong một hoạt động
+* `be clumsy at + verb-ing`: vụng về khi làm gì
+* `be clumsy with + tool/object`: vụng về khi sử dụng dụng cụ/đồ vật
+* `a clumsy attempt to + verb`: một nỗ lực vụng về nhằm làm gì
+
+### Examples
+
+1. **I am clumsy at dancing, but I still enjoy the class.**
+   → Tôi vụng về khi khiêu vũ nhưng vẫn thích lớp học.
+
+2. **He is clumsy at expressing sympathy in difficult situations.**
+   → Anh ấy vụng về trong việc bày tỏ sự cảm thông ở những tình huống khó khăn.
+
+### Common collocations
+
+* **clumsy at dancing**: vụng về khi khiêu vũ
+* **clumsy at handling something**: vụng về khi xử lý điều gì
+* **clumsy with one's hands**: vụng về chân tay
+
+### Synonyms
+
+* **awkward at** UK /ˈɔː.kwəd æt/ US /ˈɑː.kwɚd æt/ *(adjective phrase)*: lúng túng, vụng về khi
+* **unskilled at** /ʌnˈskɪld æt/ *(adjective phrase)*: thiếu kỹ năng về
+* **bad at** /ˈbæd æt/ *(adjective phrase)*: không giỏi về; phổ biến và thân mật
+
+### Word family
+
+* **clumsy** /ˈklʌm.zi/ *(adjective)*: vụng về, thiếu khéo léo  
+  *Example:* A clumsy apology can make the situation worse.  
+  → Một lời xin lỗi vụng về có thể làm tình hình tệ hơn.
+
+* **clumsiness** /ˈklʌm.zi.nəs/ *(uncountable noun)*: sự vụng về  
+  *Example:* His clumsiness caused him to drop the equipment.  
+  → Sự vụng về khiến anh ấy làm rơi thiết bị.
+
+* **clumsily** /ˈklʌm.zəl.i/ *(adverb)*: một cách vụng về  
+  *Example:* The policy was clumsily introduced without public consultation.  
+  → Chính sách được triển khai vụng về mà không tham vấn công chúng.
+
+### Notes
+
+`Clumsy at` focuses on an activity: `clumsy at dancing`. `Clumsy with` focuses on what someone handles: `clumsy with tools` or `clumsy with words`. `Clumsy` can describe physical movement or socially awkward communication.
+
+---
+
+## 360. Clever at UK /ˈklev.ər æt/ US /ˈklev.ɚ æt/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** giỏi một hoạt động đòi hỏi suy nghĩ hoặc giải quyết vấn đề *(75%)*; khéo léo tìm ra cách làm hiệu quả *(25%)*
+
+### Usage
+
+`Be clever at` means skilled at a mental or practical activity and is especially natural in British English. `Be good at` is more common and neutral in both British and American English.
+
+Common structures:
+
+* `be clever at + noun/activity`: giỏi một hoạt động
+* `be clever at + verb-ing`: giỏi làm gì
+* `be clever with + numbers/tools`: giỏi xử lý số liệu/dụng cụ
+* `a clever way to + verb`: một cách thông minh để làm gì
+
+### Examples
+
+1. **She is clever at finding simple solutions to technical problems.**
+   → Cô ấy giỏi tìm ra các giải pháp đơn giản cho vấn đề kỹ thuật.
+
+2. **The child is particularly clever at mental arithmetic.**
+   → Đứa trẻ đặc biệt giỏi tính nhẩm.
+
+### Common collocations
+
+* **clever at solving problems**: giỏi giải quyết vấn đề
+* **clever at finding ways to**: khéo tìm ra cách để
+* **clever with numbers**: giỏi làm việc với con số
+
+### Synonyms
+
+* **good at** /ˈɡʊd æt/ *(adjective phrase)*: giỏi về; phổ biến và trung tính
+* **skilled at** /ˈskɪld æt/ *(adjective phrase)*: có kỹ năng về
+* **adept at** /əˈdept æt/ *(adjective phrase)*: rất thành thạo về; trang trọng hơn
+
+### Word family
+
+* **clever** UK /ˈklev.ər/ US /ˈklev.ɚ/ *(adjective)*: thông minh, khéo léo  
+  *Example:* The engineer proposed a clever method for saving energy.  
+  → Kỹ sư đề xuất một phương pháp thông minh để tiết kiệm năng lượng.
+
+* **cleverness** UK /ˈklev.ə.nəs/ US /ˈklev.ɚ.nəs/ *(uncountable noun)*: sự thông minh, khéo léo  
+  *Example:* The design's cleverness lies in its simplicity.  
+  → Sự thông minh của thiết kế nằm ở tính đơn giản.
+
+* **cleverly** UK /ˈklev.ə.li/ US /ˈklev.ɚ.li/ *(adverb)*: một cách thông minh, khéo léo  
+  *Example:* The app cleverly combines several useful tools.  
+  → Ứng dụng kết hợp khéo léo nhiều công cụ hữu ích.
+
+### Notes
+
+`Clever at` is correct, particularly in British English, but `good at` often sounds more natural in everyday speech. Use `clever with` before things someone handles well: `clever with money` or `clever with her hands`.
+
+---
+
+## 361. Shocked at UK /ˈʃɒkt æt/ US /ˈʃɑːkt æt/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** vô cùng bất ngờ và buồn/lo trước một sự việc *(70%)*; phẫn nộ hoặc sốc vì hành vi trái đạo đức *(30%)*
+
+### Usage
+
+`Be shocked at` describes a strong emotional reaction to an event, fact, amount, or behavior. `Shocked by` emphasizes the cause, while `shocked to + verb` introduces what someone discovered or experienced.
+
+Common structures:
+
+* `be shocked at + noun/verb-ing`: sốc trước điều gì/việc gì
+* `be shocked by + cause/event`: bị sốc bởi nguyên nhân/sự kiện
+* `be shocked to + verb`: sốc khi làm/phát hiện điều gì
+* `be shocked that + clause`: sốc vì/rằng...
+
+### Examples
+
+1. **Residents were shocked at the sudden increase in water prices.**
+   → Cư dân bị sốc trước việc giá nước tăng đột ngột.
+
+2. **The public was shocked at how poorly the animals had been treated.**
+   → Công chúng phẫn nộ trước việc những con vật đã bị đối xử tệ đến mức nào.
+
+### Common collocations
+
+* **shocked at the news**: sốc trước tin tức
+* **deeply shocked at**: vô cùng sốc trước
+* **shocked at how much**: sốc trước mức độ/số lượng
+
+### Synonyms
+
+* **appalled at** UK /əˈpɔːld æt/ US /əˈpɑːld æt/ *(adjective phrase)*: kinh hoàng và phẫn nộ trước
+* **astonished at** UK /əˈstɒn.ɪʃt æt/ US /əˈstɑː.nɪʃt æt/ *(adjective phrase)*: vô cùng ngạc nhiên trước
+* **stunned by** /ˈstʌnd baɪ/ *(adjective phrase)*: sững sờ vì
+
+### Word family
+
+* **shock** UK /ʃɒk/ US /ʃɑːk/ *(noun/transitive verb)*: cú sốc; làm ai sốc  
+  *Example:* The unexpected closure shocked local residents.  
+  → Việc đóng cửa bất ngờ khiến cư dân địa phương bị sốc.
+
+* **shocked** UK /ʃɒkt/ US /ʃɑːkt/ *(adjective)*: bị sốc  
+  *Example:* We were shocked to discover the hidden fee.  
+  → Chúng tôi bị sốc khi phát hiện khoản phí ẩn.
+
+* **shocking** UK /ˈʃɒk.ɪŋ/ US /ˈʃɑː.kɪŋ/ *(adjective)*: gây sốc, gây phẫn nộ  
+  *Example:* The report revealed shocking levels of pollution.  
+  → Báo cáo cho thấy mức độ ô nhiễm gây sốc.
+
+### Notes
+
+`Shocked` describes the reaction; `shocking` describes the cause. `Shocked at` and `shocked by` often overlap, but `at` commonly introduces a fact or behavior, while `by` highlights the event or agent causing the reaction.
+
+---
+
+## 362. Amazed at /əˈmeɪzd æt/
+
+* **Part of speech:** adjective phrase
+* **Vietnamese meaning:** vô cùng ngạc nhiên trước một sự việc hoặc kết quả *(60%)*; thán phục trước khả năng, vẻ đẹp hoặc mức độ của điều gì *(40%)*
+
+### Usage
+
+`Be amazed at` expresses strong surprise, often mixed with admiration. `Amazed by` emphasizes the cause; `amazed to + verb` and `amazed that + clause` introduce a discovery or complete situation.
+
+Common structures:
+
+* `be amazed at + noun/verb-ing`: kinh ngạc trước điều gì/việc gì
+* `be amazed by + cause/person`: kinh ngạc bởi nguyên nhân/ai
+* `be amazed to + verb`: kinh ngạc khi làm/phát hiện điều gì
+* `be amazed that + clause`: kinh ngạc rằng...
+
+### Examples
+
+1. **Visitors were amazed at the detail in the ancient carvings.**
+   → Du khách kinh ngạc trước độ chi tiết của những hình chạm khắc cổ.
+
+2. **I was amazed at how quickly the new employee learned the system.**
+   → Tôi kinh ngạc trước việc nhân viên mới học hệ thống nhanh đến mức nào.
+
+### Common collocations
+
+* **amazed at the result**: kinh ngạc trước kết quả
+* **amazed at how much**: kinh ngạc trước mức độ/số lượng
+* **genuinely amazed at**: thực sự kinh ngạc trước
+
+### Synonyms
+
+* **astonished at** UK /əˈstɒn.ɪʃt æt/ US /əˈstɑː.nɪʃt æt/ *(adjective phrase)*: vô cùng kinh ngạc trước
+* **surprised by** UK /səˈpraɪzd baɪ/ US /sɚˈpraɪzd baɪ/ *(adjective phrase)*: ngạc nhiên bởi; nhẹ hơn
+* **impressed by** /ɪmˈprest baɪ/ *(adjective phrase)*: ấn tượng, thán phục bởi
+
+### Word family
+
+* **amaze** /əˈmeɪz/ *(transitive verb)*: làm ai kinh ngạc  
+  *Example:* The speed of scientific progress continues to amaze us.  
+  → Tốc độ tiến bộ khoa học tiếp tục khiến chúng ta kinh ngạc.
+
+* **amazement** /əˈmeɪz.mənt/ *(uncountable noun)*: sự kinh ngạc  
+  *Example:* To our amazement, every participant completed the task.  
+  → Thật đáng kinh ngạc, mọi người tham gia đều hoàn thành nhiệm vụ.
+
+* **amazed** /əˈmeɪzd/ *(adjective)*: cảm thấy kinh ngạc  
+  *Example:* We were amazed by the quality of the restoration.  
+  → Chúng tôi kinh ngạc trước chất lượng của công trình phục chế.
+
+* **amazing** /əˈmeɪ.zɪŋ/ *(adjective)*: đáng kinh ngạc, tuyệt vời  
+  *Example:* The team made amazing progress in a short time.  
+  → Cả nhóm đạt được tiến bộ đáng kinh ngạc trong thời gian ngắn.
+
+### Notes
+
+`Amazed` describes a person's reaction; `amazing` describes its cause: `I was amazed by the amazing view.` `Amazed at` is often followed by a noun or `how + clause`; `amazed to` is followed by a base verb.
