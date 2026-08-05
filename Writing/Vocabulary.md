@@ -21626,3 +21626,1066 @@ Common structures:
 ### Notes
 
 `In case` expresses a precaution: `Take water in case you get thirsty.` By contrast, `if` states a condition: `Drink the water if you get thirsty.` Use `in case of + noun`, not `in case of + clause`: `in case of fire` but `in case a fire starts`. `Case` is countable in its main meanings: `a case`, `two cases`. In technical writing, `uppercase` and `lowercase` refer to capital and small letters.
+
+---
+
+## 391. Relieve /rɪˈliːv/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** làm giảm đau, căng thẳng hoặc khó chịu *(55%)*; giúp ai thoát khỏi gánh nặng hoặc trách nhiệm *(25%)*; thay ca hoặc miễn nhiệm ai *(20%)*
+
+### Usage
+
+`Relieve` is a regular transitive verb: `relieve – relieved – relieved`. It usually takes a person, pain, pressure, or a problem as its object. Use `relieve someone of something` when removing a burden, possession, or duty from someone.
+
+Common structures:
+
+* `relieve + pain/stress/pressure`: làm giảm đau/căng thẳng/áp lực
+* `relieve someone of + duty/burden`: giúp hoặc buộc ai thoát khỏi nhiệm vụ/gánh nặng
+* `be relieved to + verb`: cảm thấy nhẹ nhõm khi làm/biết điều gì
+* `relieve someone at work`: thay ca cho ai tại nơi làm việc
+
+### Examples
+
+1. **Regular exercise can relieve stress and improve sleep quality.**
+   → Tập thể dục thường xuyên có thể làm giảm căng thẳng và cải thiện chất lượng giấc ngủ.
+
+2. **I was relieved to hear that the medical tests were normal.**
+   → Tôi cảm thấy nhẹ nhõm khi biết các xét nghiệm y khoa đều bình thường.
+
+### Common collocations
+
+* **relieve pain**: giảm đau
+* **relieve pressure**: giảm áp lực
+* **relieve someone of their duties**: miễn nhiệm hoặc giúp ai khỏi nhiệm vụ
+
+### Synonyms
+
+* **ease** /iːz/ *(transitive verb)*: làm dịu, làm giảm
+* **alleviate** /əˈliː.vi.eɪt/ *(transitive verb)*: làm giảm bớt; trang trọng
+* **soothe** /suːð/ *(transitive verb)*: xoa dịu đau đớn hoặc cảm xúc
+
+### Word family
+
+* **relieve** /rɪˈliːv/ *(transitive verb)*: làm giảm, làm nhẹ  
+  *Example:* This medicine should relieve the pain within an hour.  
+  → Thuốc này sẽ làm giảm cơn đau trong vòng một giờ.
+
+* **relief** /rɪˈliːf/ *(countable/uncountable noun)*: sự nhẹ nhõm; sự giảm đau; cứu trợ  
+  *Example:* Emergency relief reached the flooded villages yesterday.  
+  → Hàng cứu trợ khẩn cấp đã đến các làng bị ngập hôm qua.
+
+* **relieved** /rɪˈliːvd/ *(adjective)*: nhẹ nhõm  
+  *Example:* The students felt relieved after submitting their assignments.  
+  → Các sinh viên cảm thấy nhẹ nhõm sau khi nộp bài tập.
+
+### Notes
+
+Do not say `relieve from pain`; say `relieve pain` or `relieve someone of pain`. `Relieve` is the verb, while `relief` is the noun. `I am relieved` describes how a person feels.
+
+---
+
+## 392. Arise /əˈraɪz/
+
+* **Part of speech:** intransitive irregular verb
+* **Vietnamese meaning:** phát sinh hoặc xuất hiện, thường nói về vấn đề/tình huống *(70%)*; đứng dậy hoặc trỗi dậy *(15%)*; bắt nguồn từ điều gì *(15%)*
+
+### Usage
+
+`Arise – arose – arisen` is intransitive, so it does not take a direct object. It is more formal than `happen` or `come up` and is common in academic and professional contexts when problems, needs, or opportunities develop.
+
+Common structures:
+
+* `a problem/need arises`: một vấn đề/nhu cầu phát sinh
+* `arise from/out of + noun`: phát sinh hoặc bắt nguồn từ điều gì
+* `should the need arise`: nếu nhu cầu phát sinh
+* `an opportunity arises`: một cơ hội xuất hiện
+
+### Examples
+
+1. **Serious problems can arise when personal data is stored insecurely.**
+   → Những vấn đề nghiêm trọng có thể phát sinh khi dữ liệu cá nhân được lưu trữ không an toàn.
+
+2. **The conflict arose from a misunderstanding about money.**
+   → Xung đột phát sinh từ một sự hiểu lầm về tiền bạc.
+
+### Common collocations
+
+* **problems arise**: các vấn đề phát sinh
+* **arise from a lack of**: phát sinh từ sự thiếu hụt
+* **should the occasion arise**: nếu có dịp/tình huống đó xảy ra
+
+### Synonyms
+
+* **emerge** /ɪˈmɜːdʒ/ *(intransitive verb)*: xuất hiện, nổi lên
+* **occur** UK /əˈkɜːr/ US /əˈkɝː/ *(intransitive verb)*: xảy ra
+* **come up** /ˌkʌm ˈʌp/ *(phrasal verb)*: phát sinh; thân mật hơn
+
+### Word family
+
+* **arise** /əˈraɪz/ *(intransitive irregular verb)*: phát sinh, xuất hiện  
+  *Example:* New opportunities may arise during the project.  
+  → Những cơ hội mới có thể xuất hiện trong quá trình thực hiện dự án.
+
+* **arose** UK /əˈrəʊz/ US /əˈroʊz/ *(past-tense verb form)*: đã phát sinh  
+  *Example:* A technical issue arose during the presentation.  
+  → Một sự cố kỹ thuật đã phát sinh trong buổi thuyết trình.
+
+* **arisen** /əˈrɪz.ən/ *(past-participle verb form)*: đã phát sinh  
+  *Example:* Several concerns have arisen about the new policy.  
+  → Một số mối lo ngại đã nảy sinh về chính sách mới.
+
+### Notes
+
+Do not confuse `arise` with `raise` or `rise`. `Arise` and `rise` are intransitive; `raise` is transitive: `The issue arose`, `prices rose`, but `the company raised prices`.
+
+---
+
+## 393. Awake /əˈweɪk/
+
+* **Part of speech:** adjective; intransitive/transitive irregular verb
+* **Vietnamese meaning:** đang thức, không ngủ *(60%)*; thức dậy hoặc đánh thức *(25%)*; nhận thức hoặc cảnh giác trước điều gì *(15%)*
+
+### Usage
+
+As an adjective, `awake` normally follows a linking verb: `be/stay/keep awake`. As a verb, the traditional forms are `awake – awoke – awoken`, although regular `awakened` forms are also used, especially for figurative meanings. In everyday speech, `wake up` is more common than the verb `awake`.
+
+Common structures:
+
+* `be/stay awake`: đang thức/tiếp tục thức
+* `keep someone awake`: làm ai không ngủ được
+* `awake to + noun`: nhận ra hoặc cảnh giác trước điều gì
+* `awake from + sleep/dream`: thức dậy từ giấc ngủ/giấc mơ
+
+### Examples
+
+1. **The noise from the street kept me awake all night.**
+   → Tiếng ồn từ đường phố khiến tôi thức suốt đêm.
+
+2. **Communities are becoming more awake to the risks of online fraud.**
+   → Các cộng đồng đang ngày càng nhận thức rõ hơn về nguy cơ lừa đảo trực tuyến.
+
+### Common collocations
+
+* **wide awake**: hoàn toàn tỉnh táo
+* **stay awake**: thức, không ngủ
+* **keep someone awake**: khiến ai thức
+
+### Synonyms
+
+* **alert** /əˈlɜːt/ *(adjective)*: tỉnh táo, cảnh giác
+* **conscious** UK /ˈkɒn.ʃəs/ US /ˈkɑːn.ʃəs/ *(adjective)*: tỉnh, có ý thức
+* **wakeful** /ˈweɪk.fəl/ *(adjective)*: khó ngủ hoặc tỉnh táo
+
+### Word family
+
+* **awake** /əˈweɪk/ *(adjective/verb)*: thức; thức dậy  
+  *Example:* I was still awake when the storm began.  
+  → Tôi vẫn còn thức khi cơn bão bắt đầu.
+
+* **awaken** /əˈweɪ.kən/ *(transitive/intransitive verb)*: đánh thức; khơi dậy  
+  *Example:* The documentary awakened public interest in the issue.  
+  → Bộ phim tài liệu đã khơi dậy sự quan tâm của công chúng đối với vấn đề này.
+
+* **awakening** /əˈweɪ.kən.ɪŋ/ *(countable noun/adjective)*: sự thức tỉnh; mang tính thức tỉnh  
+  *Example:* The experience led to a political awakening among young voters.  
+  → Trải nghiệm đó dẫn đến sự thức tỉnh về chính trị ở các cử tri trẻ.
+
+### Notes
+
+Use `awake`, not `awaked`, for the common adjective: `I am awake.` The verb forms `awoke` and `awoken` are correct, but `woke up` and `woken up` are more natural in ordinary conversation.
+
+---
+
+## 394. Bear UK /beər/ US /ber/
+
+* **Part of speech:** transitive irregular verb; countable noun
+* **Vietnamese meaning:** chịu đựng hoặc chấp nhận điều khó chịu *(30%)*; mang, gánh hoặc chịu trách nhiệm/chi phí *(25%)*; sinh con hoặc tạo ra kết quả *(15%)*; mang dấu hiệu/đặc điểm *(10%)*; con gấu *(20%)*
+
+### Usage
+
+The verb forms are `bear – bore – borne/born`. Use `born` only for birth, usually in the passive: `She was born in 2000`. Use `borne` for all other verb meanings: `costs borne by taxpayers`. `Bear` is often used with modals in negative statements about tolerance.
+
+Common structures:
+
+* `cannot bear + noun/to-infinitive/V-ing`: không thể chịu nổi điều gì/việc làm gì
+* `bear responsibility/costs`: chịu trách nhiệm/chi phí
+* `bear in mind that + clause`: ghi nhớ rằng
+* `bear a resemblance to`: có nét giống với
+* `be born + time/place`: được sinh ra vào/ở
+
+### Examples
+
+1. **Governments should not expect low-income families to bear the full cost of healthcare.**
+   → Chính phủ không nên mong đợi các gia đình thu nhập thấp chịu toàn bộ chi phí chăm sóc sức khỏe.
+
+2. **Please bear in mind that applications close on Friday.**
+   → Xin hãy ghi nhớ rằng thời hạn nộp đơn kết thúc vào thứ Sáu.
+
+### Common collocations
+
+* **bear responsibility**: chịu trách nhiệm
+* **bear the cost**: chịu chi phí
+* **bear in mind**: ghi nhớ
+
+### Synonyms
+
+* **endure** /ɪnˈdjʊər/ *(transitive verb)*: chịu đựng
+* **tolerate** /ˈtɒl.ər.eɪt/ *(transitive verb)*: chấp nhận, chịu đựng
+* **carry** /ˈkær.i/ *(transitive verb)*: mang, gánh; phù hợp với một số nghĩa
+
+### Word family
+
+* **bear** UK /beər/ US /ber/ *(verb/noun)*: chịu đựng, mang; con gấu  
+  *Example:* Many small businesses cannot bear further losses.  
+  → Nhiều doanh nghiệp nhỏ không thể chịu thêm tổn thất.
+
+* **bearable** UK /ˈbeə.rə.bəl/ US /ˈber.ə.bəl/ *(adjective)*: có thể chịu đựng được  
+  *Example:* A short break made the heat more bearable.  
+  → Một khoảng nghỉ ngắn khiến cái nóng trở nên dễ chịu đựng hơn.
+
+* **unbearable** UK /ʌnˈbeə.rə.bəl/ US /ʌnˈber.ə.bəl/ *(adjective)*: không thể chịu nổi  
+  *Example:* The pain became unbearable during the night.  
+  → Cơn đau trở nên không thể chịu nổi trong đêm.
+
+### Notes
+
+`Cannot bear doing` and `cannot bear to do` are both possible. Do not confuse `bear` with `bare` /beər/, meaning uncovered. Remember: a baby is `born`, but a burden is `borne`.
+
+---
+
+## 395. Beat /biːt/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** đánh liên tục hoặc đập vào *(25%)*; đánh bại ai/đội nào *(30%)*; vượt qua hoặc tốt hơn một mức/kỷ lục *(20%)*; đập theo nhịp *(15%)*; nhịp đập hoặc nhịp điệu *(10%)*
+
+### Usage
+
+The forms are `beat – beat – beaten`; the past tense remains `beat`, while the past participle is usually `beaten`. Use `beat + opponent` but `win + game/prize`. `Beat` can also describe a heart, rain, rhythm, or repeated physical action.
+
+Common structures:
+
+* `beat + person/team`: đánh bại một người/đội
+* `beat a record`: phá/vượt kỷ lục
+* `beat someone at + game`: thắng ai trong trò chơi
+* `heart beats`: tim đập
+* `be beaten by`: bị đánh bại bởi
+
+### Examples
+
+1. **The local team beat the defending champions by two goals.**
+   → Đội địa phương đã đánh bại nhà đương kim vô địch với cách biệt hai bàn.
+
+2. **The new solar cell beat the previous efficiency record.**
+   → Pin mặt trời mới đã phá kỷ lục trước đó về hiệu suất.
+
+### Common collocations
+
+* **beat an opponent**: đánh bại đối thủ
+* **beat a record**: phá kỷ lục
+* **heart beats faster**: tim đập nhanh hơn
+
+### Synonyms
+
+* **defeat** /dɪˈfiːt/ *(transitive verb)*: đánh bại; trang trọng hơn
+* **overcome** UK /ˌəʊ.vəˈkʌm/ US /ˌoʊ.vɚˈkʌm/ *(transitive verb)*: vượt qua khó khăn
+* **strike** /straɪk/ *(transitive verb)*: đánh, đập
+
+### Word family
+
+* **beat** /biːt/ *(verb/noun)*: đánh, thắng; nhịp  
+  *Example:* Her heart began to beat faster before the interview.  
+  → Tim cô ấy bắt đầu đập nhanh hơn trước buổi phỏng vấn.
+
+* **beaten** /ˈbiː.tən/ *(past participle/adjective)*: bị đánh bại; bị đập  
+  *Example:* The beaten team congratulated the winners.  
+  → Đội thua đã chúc mừng những người chiến thắng.
+
+* **beating** /ˈbiː.tɪŋ/ *(countable noun/verb form)*: trận đánh; việc đập  
+  *Example:* The proposal received a severe beating in parliament.  
+  → Đề xuất đã chịu thất bại nặng nề tại quốc hội.
+
+### Notes
+
+Say `Our team beat their team`, but `Our team won the match`. The adjective `unbeaten` means not yet defeated. `Beaten` is the standard past participle: `They have beaten us twice`.
+
+---
+
+## 396. Bet /bet/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** đặt cược tiền hoặc thứ có giá trị *(50%)*; tin chắc hoặc đoán chắc, thường trong giao tiếp *(35%)*; sự đặt cược hoặc lựa chọn có khả năng thành công *(15%)*
+
+### Usage
+
+The usual forms are `bet – bet – bet`; `betted` is rare and mainly used in specialized contexts. In conversation, `I bet + clause` means `I am fairly sure`, without involving gambling.
+
+Common structures:
+
+* `bet + money + on + person/event`: đặt cược tiền vào người/sự kiện
+* `bet someone that + clause`: cá với ai rằng
+* `I bet + clause`: tôi cá/chắc rằng
+* `your best bet is + noun/to-infinitive`: lựa chọn tốt nhất của bạn là
+
+### Examples
+
+1. **I bet the train will be crowded during the holiday.**
+   → Tôi cá là tàu sẽ đông đúc trong kỳ nghỉ.
+
+2. **For reliable information, your best bet is to consult an official source.**
+   → Để có thông tin đáng tin cậy, lựa chọn tốt nhất là tham khảo nguồn chính thức.
+
+### Common collocations
+
+* **place a bet**: đặt cược
+* **bet money on**: cược tiền vào
+* **a safe bet**: một lựa chọn gần như chắc chắn
+
+### Synonyms
+
+* **wager** /ˈweɪ.dʒər/ *(verb/noun)*: đánh cược; trang trọng
+* **gamble** /ˈɡæm.bəl/ *(verb/noun)*: đánh bạc; mạo hiểm
+* **reckon** /ˈrek.ən/ *(transitive verb)*: cho rằng; gần nghĩa với `I bet` trong hội thoại
+
+### Word family
+
+* **bet** /bet/ *(verb/countable noun)*: đặt cược; sự đặt cược  
+  *Example:* He placed a small bet on the final match.  
+  → Anh ấy đặt một khoản cược nhỏ vào trận chung kết.
+
+* **betting** /ˈbet.ɪŋ/ *(uncountable noun/adjective)*: hoạt động cá cược  
+  *Example:* Online betting can lead to serious financial problems.  
+  → Cá cược trực tuyến có thể dẫn đến những vấn đề tài chính nghiêm trọng.
+
+* **bettor** UK /ˈbet.ər/ US /ˈbet̬.ɚ/ *(countable noun)*: người đặt cược  
+  *Example:* Each bettor must be at least eighteen years old.  
+  → Mỗi người đặt cược phải từ mười tám tuổi trở lên.
+
+### Notes
+
+`I bet` is neutral and common in informal conversation: `I bet she forgot.` Avoid it in formal academic writing. `Your best bet` means the most sensible option, not necessarily a real wager.
+
+---
+
+## 397. Bind /baɪnd/
+
+* **Part of speech:** transitive/intransitive irregular verb
+* **Vietnamese meaning:** buộc, trói hoặc gắn chặt *(35%)*; ràng buộc bằng luật, lời hứa hoặc nghĩa vụ *(35%)*; kết nối con người hoặc nhóm với nhau *(20%)*; đóng bìa sách *(10%)*
+
+### Usage
+
+The forms are `bind – bound – bound`. `Bind` can refer to physical fastening or an abstract obligation. The adjective `bound` also has unrelated meanings such as certain to happen or travelling toward a place.
+
+Common structures:
+
+* `bind A to B`: buộc/gắn A vào B
+* `be bound by + law/agreement`: bị ràng buộc bởi luật/thỏa thuận
+* `bind someone to + promise/contract`: ràng buộc ai vào lời hứa/hợp đồng
+* `bind people together`: gắn kết mọi người với nhau
+
+### Examples
+
+1. **All participating countries are bound by the agreement.**
+   → Tất cả các quốc gia tham gia đều bị ràng buộc bởi thỏa thuận.
+
+2. **Shared experiences can bind communities together during difficult times.**
+   → Những trải nghiệm chung có thể gắn kết cộng đồng trong thời kỳ khó khăn.
+
+### Common collocations
+
+* **legally binding agreement**: thỏa thuận có tính ràng buộc pháp lý
+* **bind together**: gắn kết lại với nhau
+* **bind someone by a promise**: ràng buộc ai bằng một lời hứa
+
+### Synonyms
+
+* **tie** /taɪ/ *(transitive verb)*: buộc, cột
+* **fasten** UK /ˈfɑː.sən/ US /ˈfæs.ən/ *(transitive verb)*: gắn, cài chặt
+* **oblige** /əˈblaɪdʒ/ *(transitive verb)*: buộc ai có nghĩa vụ
+
+### Word family
+
+* **bind** /baɪnd/ *(transitive/intransitive verb)*: buộc, ràng buộc  
+  *Example:* The contract binds both parties to strict deadlines.  
+  → Hợp đồng ràng buộc cả hai bên với thời hạn nghiêm ngặt.
+
+* **binding** /ˈbaɪn.dɪŋ/ *(adjective/noun)*: có tính ràng buộc; bìa/việc buộc  
+  *Example:* The court's decision is legally binding.  
+  → Quyết định của tòa án có tính ràng buộc pháp lý.
+
+* **bound** /baʊnd/ *(past participle/adjective)*: đã buộc; bị ràng buộc  
+  *Example:* Medical staff are bound by rules of confidentiality.  
+  → Nhân viên y tế bị ràng buộc bởi các quy tắc bảo mật.
+
+### Notes
+
+Do not confuse the past form `bound` with `bounded`, which is used for limits: `The field is bounded by a fence.` The phrase `be bound to` means be certain to: `Mistakes are bound to happen`.
+
+---
+
+## 398. Creep /kriːp/
+
+* **Part of speech:** intransitive irregular verb; countable noun
+* **Vietnamese meaning:** bò hoặc di chuyển chậm, nhẹ và kín đáo *(45%)*; dần dần xuất hiện, lan rộng hoặc tăng lên *(35%)*; người đáng ghét hoặc khiến người khác khó chịu *(20%)*
+
+### Usage
+
+The forms are `creep – crept – crept`. Use it literally for low, quiet movement and figuratively for gradual changes such as rising prices, fear, or errors entering a system. As a noun, `a creep` is informal and insulting.
+
+Common structures:
+
+* `creep into + place/system`: len lỏi vào một nơi/hệ thống
+* `creep up on + person`: lén đến gần; dần ảnh hưởng mà ai không nhận ra
+* `creep along/across`: bò hoặc di chuyển chậm dọc theo/qua
+* `prices/temperatures creep up`: giá cả/nhiệt độ tăng dần
+
+### Examples
+
+1. **Small errors can creep into a dataset during manual processing.**
+   → Những lỗi nhỏ có thể len lỏi vào tập dữ liệu trong quá trình xử lý thủ công.
+
+2. **The child crept quietly downstairs without waking anyone.**
+   → Đứa trẻ rón rén đi xuống cầu thang mà không đánh thức ai.
+
+### Common collocations
+
+* **creep into**: dần len lỏi vào
+* **creep up**: tăng dần
+* **creep up on someone**: lén đến gần hoặc dần ảnh hưởng đến ai
+
+### Synonyms
+
+* **crawl** /krɔːl/ *(intransitive verb)*: bò
+* **sneak** /sniːk/ *(intransitive verb)*: lẻn đi
+* **edge** /edʒ/ *(intransitive verb)*: dịch chuyển từ từ
+
+### Word family
+
+* **creep** /kriːp/ *(verb/countable noun)*: bò, len lỏi; người đáng ghét  
+  *Example:* Inflation continued to creep upward throughout the year.  
+  → Lạm phát tiếp tục tăng dần trong suốt năm.
+
+* **creepy** /ˈkriː.pi/ *(adjective)*: rùng rợn, khiến người ta khó chịu  
+  *Example:* The empty building felt creepy after dark.  
+  → Tòa nhà bỏ trống tạo cảm giác rùng rợn sau khi trời tối.
+
+* **creeping** /ˈkriː.pɪŋ/ *(adjective/verb form)*: dần dần lan rộng; đang bò  
+  *Example:* Creeping urbanization is reducing farmland around the city.  
+  → Quá trình đô thị hóa lan rộng dần đang làm giảm đất nông nghiệp quanh thành phố.
+
+### Notes
+
+The past form is `crept`, not `creeped`. `Creep up` often describes a number that rises slowly, while `creep up on someone` can mean approach unnoticed or affect someone gradually.
+
+---
+
+## 399. Kneel /niːl/
+
+* **Part of speech:** intransitive irregular verb
+* **Vietnamese meaning:** quỳ hoặc ở tư thế quỳ *(85%)*; quỳ để thể hiện sự tôn kính, cầu nguyện hoặc phục tùng *(15%)*
+
+### Usage
+
+Both `kneel – knelt – knelt` and `kneel – kneeled – kneeled` are correct. `Knelt` is traditionally more common, especially in British English; `kneeled` is also standard, particularly in American English.
+
+Common structures:
+
+* `kneel down`: quỳ xuống
+* `kneel beside/before + person/object`: quỳ bên cạnh/trước ai hoặc vật gì
+* `kneel on + knee(s)`: quỳ bằng đầu gối
+* `kneel to + verb`: quỳ xuống để làm gì
+
+### Examples
+
+1. **The nurse knelt beside the injured runner to check his leg.**
+   → Y tá quỳ bên cạnh vận động viên bị thương để kiểm tra chân anh ấy.
+
+2. **Worshippers knelt in silence during the ceremony.**
+   → Những người hành lễ quỳ im lặng trong buổi lễ.
+
+### Common collocations
+
+* **kneel down**: quỳ xuống
+* **kneel beside someone**: quỳ bên cạnh ai
+* **kneel in prayer**: quỳ cầu nguyện
+
+### Synonyms
+
+* **crouch** /kraʊtʃ/ *(intransitive verb)*: khom hoặc ngồi xổm
+* **bow** /baʊ/ *(intransitive verb)*: cúi mình
+* **genuflect** /ˈdʒen.ju.flekt/ *(intransitive verb)*: quỳ một gối để tỏ lòng tôn kính; trang trọng
+
+### Word family
+
+* **kneel** /niːl/ *(intransitive verb)*: quỳ  
+  *Example:* You may need to kneel to reach the lower shelf.  
+  → Bạn có thể cần quỳ xuống để với tới kệ dưới.
+
+* **knelt** /nelt/ *(past-tense/past-participle verb form)*: đã quỳ  
+  *Example:* She knelt on the floor to tie the child's shoes.  
+  → Cô ấy quỳ trên sàn để buộc dây giày cho đứa trẻ.
+
+* **kneeling** /ˈniː.lɪŋ/ *(adjective/noun/verb form)*: đang quỳ; tư thế quỳ  
+  *Example:* The photograph shows a kneeling figure beside the monument.  
+  → Bức ảnh cho thấy một người đang quỳ bên cạnh tượng đài.
+
+### Notes
+
+The initial `k` in `kneel`, `knee`, and `knelt` is silent. `Kneel` specifically involves one or both knees touching the ground; `crouch` does not necessarily do so.
+
+---
+
+## 400. Mow UK /məʊ/ US /moʊ/
+
+* **Part of speech:** transitive/intransitive irregular verb
+* **Vietnamese meaning:** cắt cỏ bằng máy hoặc dụng cụ *(85%)*; cắt cây trồng như cỏ khô/ngũ cốc *(15%)*
+
+### Usage
+
+The forms are `mow – mowed – mown/mowed`. `Mown` is common as a past participle and adjective, while `mowed` is also correct, especially in American English. The past tense is always `mowed`.
+
+Common structures:
+
+* `mow + lawn/grass/field`: cắt bãi cỏ/cỏ/cánh đồng
+* `mow the lawn`: cắt cỏ sân
+* `have something mown/mowed`: thuê hoặc nhờ ai cắt cỏ
+* `freshly mown grass`: cỏ vừa mới được cắt
+
+### Examples
+
+1. **We usually mow the lawn once a week during the summer.**
+   → Chúng tôi thường cắt cỏ sân mỗi tuần một lần vào mùa hè.
+
+2. **The smell of freshly mown grass filled the garden.**
+   → Mùi cỏ vừa cắt lan khắp khu vườn.
+
+### Common collocations
+
+* **mow the lawn**: cắt cỏ sân
+* **freshly mown grass**: cỏ vừa cắt
+* **mow a field**: cắt cỏ hoặc cây trồng trên cánh đồng
+
+### Synonyms
+
+* **cut** /kʌt/ *(transitive verb)*: cắt
+* **trim** /trɪm/ *(transitive verb)*: tỉa gọn
+* **crop** UK /krɒp/ US /krɑːp/ *(transitive verb)*: cắt ngắn
+
+### Word family
+
+* **mow** UK /məʊ/ US /moʊ/ *(transitive/intransitive verb)*: cắt cỏ  
+  *Example:* The workers mow the park early in the morning.  
+  → Các công nhân cắt cỏ công viên vào sáng sớm.
+
+* **mower** UK /ˈməʊ.ər/ US /ˈmoʊ.ɚ/ *(countable noun)*: máy cắt cỏ; người cắt cỏ  
+  *Example:* The electric mower is quieter than the old petrol model.  
+  → Máy cắt cỏ điện yên tĩnh hơn mẫu chạy xăng cũ.
+
+* **mown** UK /məʊn/ US /moʊn/ *(past participle/adjective)*: đã được cắt  
+  *Example:* The mown field was used for the outdoor event.  
+  → Cánh đồng đã cắt cỏ được dùng cho sự kiện ngoài trời.
+
+### Notes
+
+Do not pronounce `mow` like `cow`; it rhymes with `go`. In `mow down`, the meaning may be knock down or kill many people, so use that phrasal verb carefully.
+
+---
+
+## 401. Sew UK /səʊ/ US /soʊ/
+
+* **Part of speech:** transitive/intransitive irregular verb
+* **Vietnamese meaning:** may hoặc khâu bằng kim và chỉ *(80%)*; gắn hoặc đóng kín bằng cách khâu *(20%)*
+
+### Usage
+
+The forms are `sew – sewed – sewn/sewed`. `Sewn` is the more common past participle, while the simple past is `sewed`. `Sew` is pronounced exactly like `so` and the verb `sow` meaning plant seeds; the noun `sow` meaning a female pig is pronounced /saʊ/.
+
+Common structures:
+
+* `sew + clothes/material`: may quần áo/vật liệu
+* `sew A onto B`: khâu A lên B
+* `sew something together`: khâu các phần lại với nhau
+* `sew up + hole/wound`: khâu kín lỗ/vết thương
+
+### Examples
+
+1. **She sewed a missing button onto her coat.**
+   → Cô ấy khâu một chiếc cúc bị thiếu vào áo khoác.
+
+2. **Some schools teach students how to sew and repair their own clothes.**
+   → Một số trường dạy học sinh cách may vá và tự sửa quần áo.
+
+### Common collocations
+
+* **sew a button on**: khâu cúc vào
+* **sew by hand**: khâu bằng tay
+* **sew pieces together**: khâu các mảnh lại với nhau
+
+### Synonyms
+
+* **stitch** /stɪtʃ/ *(transitive/intransitive verb)*: khâu, may
+* **mend** /mend/ *(transitive verb)*: vá, sửa bằng cách may
+* **embroider** /ɪmˈbrɔɪ.dər/ *(transitive/intransitive verb)*: thêu
+
+### Word family
+
+* **sew** UK /səʊ/ US /soʊ/ *(transitive/intransitive verb)*: may, khâu  
+  *Example:* My grandmother taught me to sew by hand.  
+  → Bà tôi đã dạy tôi khâu bằng tay.
+
+* **sewing** UK /ˈsəʊ.ɪŋ/ US /ˈsoʊ.ɪŋ/ *(uncountable noun/adjective)*: việc may vá; dùng để may  
+  *Example:* Sewing requires patience and careful attention.  
+  → Việc may vá đòi hỏi sự kiên nhẫn và chú ý cẩn thận.
+
+* **sewn** UK /səʊn/ US /soʊn/ *(past participle/adjective)*: đã được may/khâu  
+  *Example:* The label is sewn into the inside of the jacket.  
+  → Nhãn được may vào mặt trong của áo khoác.
+
+### Notes
+
+The spelling is `sew`, not `sow`, for making or repairing fabric with thread. `Sew up` can also figuratively mean secure a successful result: `The deal is almost sewn up`.
+
+---
+
+## 402. Shed /ʃed/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** rụng, thay hoặc loại bỏ tự nhiên như lá/lông/da *(25%)*; làm mất hoặc loại bỏ thứ không mong muốn *(20%)*; tỏa ánh sáng hoặc làm sáng tỏ vấn đề *(20%)*; chảy nước mắt/máu hoặc phát tán *(15%)*; nhà kho nhỏ *(20%)*
+
+### Usage
+
+The verb forms are `shed – shed – shed`. Animals shed hair or skin, trees shed leaves, organizations shed jobs or costs, and evidence can shed light on an issue. As a noun, a `shed` is a small simple building used for storage or work.
+
+Common structures:
+
+* `shed + leaves/hair/skin`: rụng lá/lông/da
+* `shed light on + issue`: làm sáng tỏ vấn đề
+* `shed jobs/weight/costs`: cắt giảm việc làm/giảm cân/giảm chi phí
+* `shed tears/blood`: rơi nước mắt/đổ máu
+
+### Examples
+
+1. **The new evidence may shed light on the cause of the accident.**
+   → Bằng chứng mới có thể làm sáng tỏ nguyên nhân vụ tai nạn.
+
+2. **Many trees shed their leaves during the dry season.**
+   → Nhiều cây rụng lá trong mùa khô.
+
+### Common collocations
+
+* **shed light on**: làm sáng tỏ
+* **shed tears**: rơi nước mắt
+* **shed excess weight**: giảm cân thừa
+
+### Synonyms
+
+* **discard** UK /dɪˈskɑːd/ US /dɪˈskɑːrd/ *(transitive verb)*: loại bỏ
+* **cast off** UK /ˌkɑːst ˈɒf/ US /ˌkæst ˈɔːf/ *(phrasal verb)*: rụng hoặc loại bỏ
+* **illuminate** /ɪˈluː.mɪ.neɪt/ *(transitive verb)*: chiếu sáng; làm sáng tỏ
+
+### Word family
+
+* **shed** /ʃed/ *(verb/countable noun)*: rụng, loại bỏ; nhà kho  
+  *Example:* The company plans to shed unnecessary costs.  
+  → Công ty dự định cắt giảm các chi phí không cần thiết.
+
+* **shedding** /ˈʃed.ɪŋ/ *(uncountable noun/verb form)*: sự rụng hoặc loại bỏ  
+  *Example:* Regular brushing can reduce a pet's shedding.  
+  → Chải lông thường xuyên có thể làm giảm tình trạng rụng lông của thú cưng.
+
+### Notes
+
+All three verb forms are spelled `shed`. In academic writing, `shed light on` is useful for saying that research clarifies an issue. Do not confuse the verb with `spread`: a disease spreads, while an infected person may shed a virus.
+
+---
+
+## 403. Sow UK /səʊ/ US /soʊ/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** gieo hạt hoặc trồng một khu đất bằng hạt *(60%)*; gieo rắc ý tưởng, cảm xúc hoặc rắc rối *(30%)*; lợn nái, phát âm /saʊ/ *(10%)*
+
+### Usage
+
+The verb forms are `sow – sowed – sown/sowed`; `sown` is the more common past participle. The verb rhymes with `go`. The noun `sow`, meaning an adult female pig, is pronounced /saʊ/ and rhymes with `cow`.
+
+Common structures:
+
+* `sow + seeds`: gieo hạt
+* `sow a field with + crop`: gieo một loại cây trên cánh đồng
+* `sow doubt/confusion/fear`: gieo rắc nghi ngờ/bối rối/sợ hãi
+* `reap what one sows`: gặt những gì mình gieo; nhận hậu quả từ hành động
+
+### Examples
+
+1. **Farmers sow the seeds at the beginning of the rainy season.**
+   → Nông dân gieo hạt vào đầu mùa mưa.
+
+2. **Misleading reports can sow confusion among the public.**
+   → Những báo cáo gây hiểu lầm có thể gieo rắc sự bối rối trong công chúng.
+
+### Common collocations
+
+* **sow seeds**: gieo hạt
+* **sow doubt**: gieo rắc nghi ngờ
+* **sow the seeds of change**: gieo mầm cho sự thay đổi
+
+### Synonyms
+
+* **plant** /plɑːnt/ *(transitive verb)*: trồng, gieo
+* **scatter** UK /ˈskæt.ər/ US /ˈskæt̬.ɚ/ *(transitive verb)*: rải, gieo rắc
+* **instill** /ɪnˈstɪl/ *(transitive verb)*: dần gieo vào tâm trí; nghĩa bóng
+
+### Word family
+
+* **sow** UK /səʊ/ US /soʊ/ *(verb)*: gieo, gieo rắc  
+  *Example:* The campaign aims to sow the seeds of environmental awareness.  
+  → Chiến dịch nhằm gieo mầm nhận thức về môi trường.
+
+* **sown** UK /səʊn/ US /soʊn/ *(past participle/adjective)*: đã được gieo  
+  *Example:* The fields had already been sown with wheat.  
+  → Các cánh đồng đã được gieo lúa mì.
+
+* **sower** UK /ˈsəʊ.ər/ US /ˈsoʊ.ɚ/ *(countable noun)*: người hoặc máy gieo hạt  
+  *Example:* A mechanical sower distributes seeds evenly.  
+  → Máy gieo hạt phân phối hạt giống đồng đều.
+
+### Notes
+
+The verb `sow` /səʊ, soʊ/ and the noun `sow` /saʊ/ have the same spelling but different pronunciations and meanings. The proverb `You reap what you sow` means actions eventually bring corresponding consequences.
+
+---
+
+## 404. Spit /spɪt/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable/uncountable noun
+* **Vietnamese meaning:** nhổ nước bọt hoặc đẩy thứ gì khỏi miệng *(55%)*; phun hoặc bắn thứ gì ra mạnh *(20%)*; mưa lất phất *(10%)*; nước bọt hoặc dải đất hẹp nhô ra biển *(15%)*
+
+### Usage
+
+In British English, the usual forms are `spit – spat – spat`; in American English, `spit – spit – spit` is common, while `spat` also occurs. `Spit` can describe saliva, forceful ejection, very light rain, or a narrow strip of land.
+
+Common structures:
+
+* `spit + something + out`: nhổ hoặc phun thứ gì ra
+* `spit at/on + person/place`: nhổ vào ai/nơi nào
+* `spit something into + container`: nhổ thứ gì vào vật chứa
+* `it is spitting (with rain)`: trời đang mưa lất phất
+
+### Examples
+
+1. **Please do not spit on the pavement.**
+   → Vui lòng không nhổ nước bọt lên vỉa hè.
+
+2. **The machine spat out a receipt after processing the payment.**
+   → Máy đẩy biên lai ra sau khi xử lý thanh toán.
+
+### Common collocations
+
+* **spit out**: nhổ hoặc đẩy ra
+* **spit on the ground**: nhổ xuống đất
+* **spit with rain**: mưa lất phất
+
+### Synonyms
+
+* **expel** /ɪkˈspel/ *(transitive verb)*: đẩy hoặc tống ra
+* **eject** /ɪˈdʒekt/ *(transitive verb)*: phóng, đẩy ra
+* **expectorate** /ɪkˈspek.tər.eɪt/ *(intransitive verb)*: khạc nhổ; thuật ngữ trang trọng/y khoa
+
+### Word family
+
+* **spit** /spɪt/ *(verb/noun)*: nhổ; nước bọt  
+  *Example:* The athlete spat the water out after rinsing his mouth.  
+  → Vận động viên nhổ nước ra sau khi súc miệng.
+
+* **spitting** /ˈspɪt.ɪŋ/ *(uncountable noun/verb form)*: hành vi nhổ; đang phun  
+  *Example:* Public spitting may spread infectious diseases.  
+  → Việc khạc nhổ nơi công cộng có thể làm lây lan bệnh truyền nhiễm.
+
+* **spittle** /ˈspɪt.əl/ *(uncountable noun)*: nước bọt; ít thông dụng  
+  *Example:* A small amount of spittle appeared at the corner of his mouth.  
+  → Một ít nước bọt xuất hiện ở khóe miệng anh ấy.
+
+### Notes
+
+`Spit` can be transitive (`spit blood`) or intransitive (`Do not spit`). `Spit out` is also figurative for speaking suddenly or angrily. The noun for saliva is uncountable, but a geographical `spit` is countable.
+
+---
+
+## 405. Sting /stɪŋ/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** chích hoặc đốt bằng ngòi *(40%)*; gây cảm giác đau rát sắc nhọn *(25%)*; làm tổn thương cảm xúc *(20%)*; cú chích hoặc chiến dịch gài bẫy bắt tội phạm *(15%)*
+
+### Usage
+
+The forms are `sting – stung – stung`. Insects and some plants sting people; smoke, medicine, or wounds can sting; criticism may sting emotionally. A `sting operation` is a planned police operation designed to catch someone committing an offence.
+
+Common structures:
+
+* `sting + person/body part`: chích hoặc làm rát ai/bộ phận cơ thể
+* `be stung by + insect`: bị côn trùng chích
+* `eyes/wound stings`: mắt/vết thương đau rát
+* `sting someone into + action`: khiến ai hành động vì bị tác động mạnh
+
+### Examples
+
+1. **She was stung by a bee while working in the garden.**
+   → Cô ấy bị ong chích khi đang làm việc trong vườn.
+
+2. **The harsh criticism stung, but it encouraged him to improve.**
+   → Lời chỉ trích gay gắt khiến anh ấy tổn thương, nhưng nó khuyến khích anh cải thiện.
+
+### Common collocations
+
+* **bee sting**: vết ong chích
+* **stinging pain**: cơn đau rát nhói
+* **sting operation**: chiến dịch gài bẫy của cảnh sát
+
+### Synonyms
+
+* **prick** /prɪk/ *(transitive verb)*: châm, chích nhẹ
+* **burn** UK /bɜːn/ US /bɝːn/ *(intransitive verb)*: gây cảm giác bỏng rát
+* **hurt** UK /hɜːt/ US /hɝːt/ *(transitive/intransitive verb)*: làm đau; làm tổn thương
+
+### Word family
+
+* **sting** /stɪŋ/ *(verb/countable noun)*: chích, làm đau; cú chích  
+  *Example:* Salt water may sting a fresh cut.  
+  → Nước muối có thể làm rát một vết cắt mới.
+
+* **stinging** /ˈstɪŋ.ɪŋ/ *(adjective/verb form)*: đau rát; cay nghiệt  
+  *Example:* The newspaper published a stinging criticism of the policy.  
+  → Tờ báo đăng một bài chỉ trích cay nghiệt đối với chính sách.
+
+* **stinger** UK /ˈstɪŋ.ər/ US /ˈstɪŋ.ɚ/ *(countable noun)*: ngòi chích  
+  *Example:* The bee left its stinger in his skin.  
+  → Con ong để lại ngòi trong da anh ấy.
+
+### Notes
+
+The past form is `stung`, not `stinged`. `Bite` uses teeth or mouthparts, whereas `sting` normally involves a stinger or venom-delivering structure.
+
+---
+
+## 406. Stink /stɪŋk/
+
+* **Part of speech:** intransitive irregular verb; countable noun
+* **Vietnamese meaning:** bốc mùi rất khó chịu *(60%)*; rất tệ hoặc đáng phản đối, trong giao tiếp thân mật *(20%)*; mùi hôi hoặc sự phản đối ồn ào *(20%)*
+
+### Usage
+
+The forms are `stink – stank/stunk – stunk`. `Stank` is a common simple past form; `stunk` is also used, especially in American English, and is the standard past participle. Calling something `stinks` is informal and strongly negative.
+
+Common structures:
+
+* `stink of + smell/substance`: nồng nặc mùi gì
+* `stink like + noun`: hôi như thứ gì
+* `something stinks`: thứ gì có mùi hôi/rất tệ/đáng ngờ
+* `make/kick up a stink about`: phản đối ầm ĩ về điều gì
+
+### Examples
+
+1. **The rubbish had been left outside so long that it stank.**
+   → Rác đã bị để ngoài quá lâu đến mức bốc mùi hôi thối.
+
+2. **Residents kicked up a stink about the sudden increase in parking fees.**
+   → Người dân phản đối ầm ĩ về việc phí đỗ xe tăng đột ngột.
+
+### Common collocations
+
+* **stink of smoke**: nồng nặc mùi khói
+* **terrible stink**: mùi hôi khủng khiếp
+* **kick up a stink**: phản đối ầm ĩ
+
+### Synonyms
+
+* **reek** /riːk/ *(intransitive verb)*: bốc mùi nồng nặc
+* **smell bad** /ˌsmel ˈbæd/ *(verb phrase)*: có mùi khó chịu
+* **be awful** /biː ˈɔː.fəl/ *(verb phrase)*: rất tệ; chỉ nghĩa bóng
+
+### Word family
+
+* **stink** /stɪŋk/ *(verb/countable noun)*: bốc mùi; mùi hôi  
+  *Example:* A strong stink came from the blocked drain.  
+  → Một mùi hôi nồng nặc bốc lên từ cống bị tắc.
+
+* **stinky** /ˈstɪŋ.ki/ *(adjective)*: hôi; thân mật  
+  *Example:* Put those stinky shoes outside, please.  
+  → Làm ơn để đôi giày hôi đó ra ngoài.
+
+* **stinking** /ˈstɪŋ.kɪŋ/ *(adjective/verb form)*: hôi thối; cực kỳ, trong cách nói thân mật  
+  *Example:* The alley was filled with stinking rubbish.  
+  → Con hẻm đầy rác hôi thối.
+
+### Notes
+
+`Stink` is much stronger than `smell`; `smell` can be pleasant, neutral, or unpleasant. In informal speech, `This stinks` may mean the situation is terrible or unfair rather than literally smelly.
+
+---
+
+## 407. Swear UK /sweər/ US /swer/
+
+* **Part of speech:** transitive/intransitive irregular verb
+* **Vietnamese meaning:** thề hoặc cam đoan một điều là thật *(35%)*; chửi thề hoặc dùng từ ngữ xúc phạm *(35%)*; tuyên thệ nhận chức hoặc trước tòa *(20%)*; hứa trung thành với ai/điều gì *(10%)*
+
+### Usage
+
+The forms are `swear – swore – sworn`. Context distinguishes making a serious promise from using offensive language. Use `swear that + clause` for a strong claim, `swear to do` for a promise, and `swear at` for directing bad language toward someone.
+
+Common structures:
+
+* `swear that + clause`: thề hoặc cam đoan rằng
+* `swear to + verb`: thề sẽ làm gì
+* `swear at + person`: chửi thề vào ai
+* `swear by + method/product`: hoàn toàn tin tưởng vào phương pháp/sản phẩm
+* `be sworn in as + role`: tuyên thệ nhậm chức
+
+### Examples
+
+1. **Witnesses must swear to tell the truth in court.**
+   → Các nhân chứng phải thề nói sự thật trước tòa.
+
+2. **He apologized for swearing at a colleague during the argument.**
+   → Anh ấy xin lỗi vì đã chửi thề với một đồng nghiệp trong cuộc tranh cãi.
+
+### Common collocations
+
+* **swear an oath**: tuyên thệ
+* **swear to tell the truth**: thề nói sự thật
+* **swear at someone**: chửi thề vào ai
+
+### Synonyms
+
+* **vow** /vaʊ/ *(transitive/intransitive verb)*: thề, long trọng hứa
+* **pledge** /pledʒ/ *(transitive/intransitive verb)*: cam kết
+* **curse** UK /kɜːs/ US /kɝːs/ *(intransitive/transitive verb)*: chửi rủa; gần nghĩa chửi thề
+
+### Word family
+
+* **swear** UK /sweər/ US /swer/ *(transitive/intransitive verb)*: thề; chửi thề  
+  *Example:* I swear that I did not alter the document.  
+  → Tôi thề rằng tôi không chỉnh sửa tài liệu.
+
+* **sworn** UK /swɔːn/ US /swɔːrn/ *(past participle/adjective)*: đã tuyên thệ; thề quyết  
+  *Example:* She gave a sworn statement to the police.  
+  → Cô ấy đưa ra lời khai có tuyên thệ với cảnh sát.
+
+* **swearword** UK /ˈsweə.wɜːd/ US /ˈswer.wɝːd/ *(countable noun)*: từ chửi thề  
+  *Example:* The teacher explained why that swearword was inappropriate.  
+  → Giáo viên giải thích tại sao từ chửi thề đó không phù hợp.
+
+### Notes
+
+`Swear at someone` means use offensive language toward them; `swear to someone` means make them a promise. `I swear` is common but strong in conversation and should not be overused.
+
+---
+
+## 408. Swing /swɪŋ/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun
+* **Vietnamese meaning:** đu đưa hoặc di chuyển qua lại *(35%)*; xoay hoặc vung nhanh *(20%)*; thay đổi mạnh về ý kiến, tâm trạng hoặc số liệu *(20%)*; xích đu hoặc chuyển biến *(25%)*
+
+### Usage
+
+The forms are `swing – swung – swung`. `Swing` describes movement around a fixed point, a quick curved movement, or a shift between states. As a noun, it can mean playground equipment, a movement, or a change in opinion or measurement.
+
+Common structures:
+
+* `swing from A to B`: dao động/chuyển từ A sang B
+* `swing back and forth`: đu đưa qua lại
+* `swing + object + open/around`: xoay/vung vật mở ra hoặc vòng quanh
+* `a swing in + opinion/prices`: sự thay đổi trong ý kiến/giá cả
+
+### Examples
+
+1. **Public opinion swung in favor of stricter environmental laws.**
+   → Dư luận chuyển sang ủng hộ các luật môi trường nghiêm ngặt hơn.
+
+2. **The lamp swung back and forth in the strong wind.**
+   → Chiếc đèn đung đưa qua lại trong gió mạnh.
+
+### Common collocations
+
+* **swing back and forth**: đu đưa qua lại
+* **mood swings**: tâm trạng thay đổi thất thường
+* **swing into action**: nhanh chóng bắt đầu hành động
+
+### Synonyms
+
+* **sway** /sweɪ/ *(intransitive verb)*: lắc lư
+* **oscillate** UK /ˈɒs.ɪ.leɪt/ US /ˈɑː.səl.eɪt/ *(intransitive verb)*: dao động; trang trọng/kỹ thuật
+* **shift** /ʃɪft/ *(intransitive verb)*: chuyển đổi, thay đổi
+
+### Word family
+
+* **swing** /swɪŋ/ *(verb/countable noun)*: đu đưa, thay đổi; xích đu  
+  *Example:* The children took turns playing on the swing.  
+  → Bọn trẻ thay phiên nhau chơi xích đu.
+
+* **swinging** /ˈswɪŋ.ɪŋ/ *(adjective/verb form)*: đang đu đưa; sôi động  
+  *Example:* A swinging door separated the kitchen from the dining room.  
+  → Một cánh cửa đu đưa ngăn cách nhà bếp với phòng ăn.
+
+* **swung** /swʌŋ/ *(past-tense/past-participle verb form)*: đã đu đưa/xoay/chuyển  
+  *Example:* The door swung open without warning.  
+  → Cánh cửa bất ngờ bật mở.
+
+### Notes
+
+The past form is `swung`, not `swinged`. `Swing between A and B` emphasizes repeated movement or variation, while `swing from A to B` can describe one major change.
+
+---
+
+## 409. Weep /wiːp/
+
+* **Part of speech:** transitive/intransitive irregular verb
+* **Vietnamese meaning:** khóc, thường vì đau buồn hoặc cảm xúc mạnh *(80%)*; rỉ hoặc chảy chất lỏng *(20%)*
+
+### Usage
+
+The forms are `weep – wept – wept`. `Weep` is more literary or emotionally intense than everyday `cry`. In medical or technical descriptions, a wound or material can `weep` when it slowly releases liquid.
+
+Common structures:
+
+* `weep for/over + person/event`: khóc thương ai/điều gì
+* `weep with + joy/grief`: khóc vì vui/đau buồn
+* `weep openly/silently`: khóc công khai/lặng lẽ
+* `a wound weeps`: vết thương rỉ dịch
+
+### Examples
+
+1. **Relatives wept with relief when the missing hikers were found safe.**
+   → Người thân đã khóc vì nhẹ nhõm khi những người đi bộ đường dài mất tích được tìm thấy an toàn.
+
+2. **The damaged tree began to weep sap from its trunk.**
+   → Cái cây bị tổn thương bắt đầu rỉ nhựa từ thân.
+
+### Common collocations
+
+* **weep bitterly**: khóc cay đắng/nức nở
+* **weep with joy**: khóc vì vui sướng
+* **weep openly**: khóc không che giấu
+
+### Synonyms
+
+* **cry** /kraɪ/ *(intransitive verb)*: khóc; thông dụng nhất
+* **sob** UK /sɒb/ US /sɑːb/ *(intransitive verb)*: khóc nức nở
+* **shed tears** UK /ˌʃed ˈtɪəz/ US /ˌʃed ˈtɪrz/ *(verb phrase)*: rơi nước mắt
+
+### Word family
+
+* **weep** /wiːp/ *(transitive/intransitive verb)*: khóc; rỉ dịch  
+  *Example:* People gathered to weep for those who had died.  
+  → Mọi người tập trung để khóc thương những người đã qua đời.
+
+* **weeping** /ˈwiː.pɪŋ/ *(adjective/noun/verb form)*: đang khóc; rủ xuống; sự khóc  
+  *Example:* A weeping willow grows beside the lake.  
+  → Một cây liễu rủ mọc bên hồ.
+
+* **weepy** /ˈwiː.pi/ *(adjective)*: dễ khóc hoặc khiến người ta xúc động; thân mật  
+  *Example:* The film was sentimental and slightly weepy.  
+  → Bộ phim giàu cảm xúc và hơi dễ khiến người xem rơi nước mắt.
+
+### Notes
+
+Use `cry` in ordinary conversation and `weep` when the tone is literary, solemn, or deeply emotional. `Weep for someone` means mourn them; `weep over something` means cry because of it.
