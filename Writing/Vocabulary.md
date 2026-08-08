@@ -22689,3 +22689,568 @@ Common structures:
 ### Notes
 
 Use `cry` in ordinary conversation and `weep` when the tone is literary, solemn, or deeply emotional. `Weep for someone` means mourn them; `weep over something` means cry because of it.
+
+---
+
+## 410. Paycheck /ˈpeɪ.tʃek/
+
+* **Part of speech:** countable noun; mainly American English
+* **Vietnamese meaning:** tiền lương nhận được cho một kỳ làm việc *(85%)*; phiếu hoặc séc ghi khoản lương, nghĩa gốc *(15%)*
+
+### Usage
+
+A `paycheck` is the money an employee receives for a pay period, whether it is paid by check or electronically. American English commonly uses `paycheck`; British English usually uses `pay packet` or simply `pay`.
+
+Common structures:
+
+* `receive/get a paycheck`: nhận lương
+* `live paycheck to paycheck`: sống dựa vào từng kỳ lương, gần như không có tiền tiết kiệm
+* `deduct something from a paycheck`: khấu trừ khoản gì từ tiền lương
+* `a weekly/monthly paycheck`: khoản lương theo tuần/tháng
+
+### Examples
+
+1. **Many low-income workers live paycheck to paycheck and cannot afford unexpected expenses.**
+   → Nhiều người lao động thu nhập thấp sống dựa vào từng kỳ lương và không đủ khả năng chi trả các khoản bất ngờ.
+
+2. **My first paycheck will be deposited into my bank account on Friday.**
+   → Khoản lương đầu tiên của tôi sẽ được chuyển vào tài khoản ngân hàng vào thứ Sáu.
+
+### Common collocations
+
+* **monthly paycheck**: khoản lương hàng tháng
+* **take-home paycheck**: tiền lương thực nhận
+* **live paycheck to paycheck**: sống chật vật từ kỳ lương này đến kỳ lương khác
+
+### Synonyms
+
+* **salary** /ˈsæl.ər.i/ *(countable/uncountable noun)*: tiền lương cố định, thường tính theo năm/tháng
+* **wages** /ˈweɪ.dʒɪz/ *(plural noun)*: tiền công, thường tính theo giờ/tuần
+* **pay packet** /ˈpeɪ ˌpæk.ɪt/ *(countable noun)*: khoản lương; chủ yếu Anh-Anh
+
+### Word family
+
+* **pay** /peɪ/ *(verb/uncountable noun)*: trả tiền; tiền lương  
+  *Example:* The company pays its staff at the end of each month.  
+  → Công ty trả lương cho nhân viên vào cuối mỗi tháng.
+
+* **payable** /ˈpeɪ.ə.bəl/ *(adjective)*: phải được thanh toán  
+  *Example:* The full amount is payable within thirty days.  
+  → Toàn bộ số tiền phải được thanh toán trong vòng ba mươi ngày.
+
+* **payment** /ˈpeɪ.mənt/ *(countable/uncountable noun)*: khoản thanh toán; việc thanh toán  
+  *Example:* The customer made the final payment online.  
+  → Khách hàng đã thực hiện khoản thanh toán cuối cùng trực tuyến.
+
+### Notes
+
+`Paycheck` is written as one word in American English. It refers to one payment, while `salary` usually describes an agreed regular rate of pay. `Live paycheck to paycheck` emphasizes financial insecurity.
+
+---
+
+## 411. Fancy UK /ˈfæn.si/ US /ˈfæn.si/
+
+* **Part of speech:** transitive verb; adjective; countable/uncountable noun; informal exclamation
+* **Vietnamese meaning:** thích, muốn hoặc bị thu hút bởi ai/điều gì, chủ yếu Anh-Anh *(30%)*; sang trọng, cầu kỳ hoặc đắt tiền *(30%)*; tưởng tượng hoặc cho rằng *(15%)*; sở thích/ý thích bất chợt hoặc trí tưởng tượng *(15%)*; dùng để bày tỏ sự ngạc nhiên *(10%)*
+
+### Usage
+
+As a British English verb, `fancy` means want, like, or feel attracted to. As an adjective, it describes something elaborate, special, or expensive. The noun appears in expressions such as `take a fancy to`, while `Fancy that!` expresses surprise.
+
+Common structures:
+
+* `fancy + noun`: thích/muốn ai hoặc thứ gì
+* `fancy + V-ing`: muốn hoặc thích làm gì
+* `fancy oneself as + noun`: tự cho mình là ai/có khả năng gì
+* `take a fancy to + person/thing`: bỗng trở nên thích ai/thứ gì
+* `a fancy + noun`: một thứ sang trọng/cầu kỳ
+
+### Examples
+
+1. **Do you fancy going out for coffee after class?**
+   → Bạn có muốn đi uống cà phê sau giờ học không?
+
+2. **The company spent too much money on a fancy office instead of staff training.**
+   → Công ty đã chi quá nhiều tiền cho một văn phòng sang trọng thay vì đào tạo nhân viên.
+
+### Common collocations
+
+* **fancy doing something**: muốn làm điều gì
+* **fancy restaurant**: nhà hàng sang trọng
+* **take a fancy to**: bỗng thích ai hoặc thứ gì
+
+### Synonyms
+
+* **feel like** /ˈfiːl ˌlaɪk/ *(verb phrase)*: muốn làm gì
+* **elaborate** /ɪˈlæb.ər.ət/ *(adjective)*: cầu kỳ, công phu
+* **imagine** /ɪˈmædʒ.ɪn/ *(transitive verb)*: tưởng tượng
+
+### Word family
+
+* **fancy** /ˈfæn.si/ *(verb/adjective/noun)*: thích; sang trọng; ý thích  
+  *Example:* She took a fancy to the small apartment near the park.  
+  → Cô ấy bỗng thích căn hộ nhỏ gần công viên.
+
+* **fanciful** /ˈfæn.sɪ.fəl/ *(adjective)*: giàu tưởng tượng nhưng thiếu thực tế  
+  *Example:* The proposal was creative but rather fanciful.  
+  → Đề xuất đó sáng tạo nhưng khá thiếu thực tế.
+
+* **fancifully** /ˈfæn.sɪ.fəl.i/ *(adverb)*: một cách giàu tưởng tượng hoặc thiếu thực tế  
+  *Example:* The room was fancifully decorated with stars and clouds.  
+  → Căn phòng được trang trí đầy tưởng tượng với các ngôi sao và đám mây.
+
+### Notes
+
+Use `fancy + V-ing`, not `fancy to do`: `Do you fancy watching a film?` The verb is especially common in British English; Americans more often say `feel like` or `want`. `Fancy` as an adjective is common in both varieties.
+
+---
+
+## 412. Insist on UK /ɪnˈsɪst ɒn/ US /ɪnˈsɪst ɑːn/
+
+* **Part of speech:** verb + preposition collocation; intransitive verb followed by `on`
+* **Vietnamese meaning:** khăng khăng yêu cầu hoặc nhất quyết làm điều gì *(65%)*; nhấn mạnh rằng một điều là cần thiết hoặc phải được duy trì *(35%)*
+
+### Usage
+
+`Insist on` expresses a firm demand or refusal to accept an alternative. It is followed by a noun, pronoun, or gerund (`V-ing`), not a to-infinitive. To report a strong claim, use `insist that + clause`.
+
+Common structures:
+
+* `insist on + noun`: khăng khăng yêu cầu/duy trì điều gì
+* `insist on + V-ing`: nhất quyết làm điều gì
+* `insist on someone/somebody's + V-ing`: khăng khăng yêu cầu ai làm gì
+* `insist that + clause`: khẳng định hoặc yêu cầu mạnh mẽ rằng
+
+### Examples
+
+1. **The university insists on checking every applicant's qualifications.**
+   → Trường đại học nhất quyết kiểm tra bằng cấp của mọi ứng viên.
+
+2. **She insisted on paying for dinner even though it was my birthday.**
+   → Cô ấy nhất quyết trả tiền bữa tối mặc dù đó là sinh nhật tôi.
+
+### Common collocations
+
+* **insist on payment**: kiên quyết yêu cầu thanh toán
+* **insist on doing something**: nhất quyết làm điều gì
+* **insist on high standards**: kiên quyết duy trì tiêu chuẩn cao
+
+### Synonyms
+
+* **demand** /dɪˈmɑːnd/ *(transitive verb)*: yêu cầu mạnh mẽ
+* **require** /rɪˈkwaɪər/ *(transitive verb)*: yêu cầu, đòi hỏi
+* **persist in** UK /pəˈsɪst ɪn/ US /pɚˈsɪst ɪn/ *(verb + preposition collocation)*: kiên trì tiếp tục làm gì
+
+### Word family
+
+* **insist** /ɪnˈsɪst/ *(transitive/intransitive verb)*: khăng khăng, quả quyết  
+  *Example:* He insisted that the figures were accurate.  
+  → Anh ấy quả quyết rằng các số liệu là chính xác.
+
+* **insistence** /ɪnˈsɪs.təns/ *(uncountable noun)*: sự khăng khăng, sự kiên quyết  
+  *Example:* Her insistence on transparency improved public trust.  
+  → Sự kiên quyết của cô ấy về tính minh bạch đã cải thiện lòng tin của công chúng.
+
+* **insistent** /ɪnˈsɪs.tənt/ *(adjective)*: khăng khăng, dai dẳng  
+  *Example:* The caller became increasingly insistent.  
+  → Người gọi điện trở nên ngày càng khăng khăng.
+
+* **insistently** /ɪnˈsɪs.tənt.li/ *(adverb)*: một cách khăng khăng  
+  *Example:* The child insistently asked to stay awake.  
+  → Đứa trẻ khăng khăng xin được thức.
+
+### Notes
+
+Do not say `insist to do something`. Say `insist on doing something` or `insist that someone do/does something`. In formal English, `insist that he be present` uses the subjunctive; `insist that he is present` can instead mean strongly claim that he is present.
+
+---
+
+## 413. Long for UK /ˈlɒŋ fɔːr/ US /ˈlɑːŋ fɔːr/
+
+* **Part of speech:** intransitive verb + preposition collocation
+* **Vietnamese meaning:** khao khát hoặc mong mỏi sâu sắc một người/điều gì *(85%)*; rất mong một hoàn cảnh thay đổi hoặc xảy ra *(15%)*
+
+### Usage
+
+`Long for` expresses a strong, often emotional desire, especially for something absent, distant, or difficult to obtain. It is stronger and more literary than `want`. Use `long for + noun` or `long to + verb`.
+
+Common structures:
+
+* `long for + noun/pronoun`: khao khát ai/điều gì
+* `long to + verb`: khao khát được làm gì
+* `long for someone to + verb`: mong mỏi ai làm gì
+* `long for the day when + clause`: mong đến ngày mà
+
+### Examples
+
+1. **After years abroad, she longed for the familiarity of home.**
+   → Sau nhiều năm ở nước ngoài, cô ấy khao khát cảm giác thân thuộc của quê nhà.
+
+2. **Many urban residents long for cleaner air and quieter neighborhoods.**
+   → Nhiều cư dân đô thị khao khát không khí trong lành hơn và những khu phố yên tĩnh hơn.
+
+### Common collocations
+
+* **long for home**: mong mỏi được về nhà/nhớ nhà
+* **long for peace**: khao khát hòa bình
+* **long-awaited change**: sự thay đổi được mong đợi từ lâu
+
+### Synonyms
+
+* **yearn for** UK /ˈjɜːn fɔːr/ US /ˈjɝːn fɔːr/ *(verb + preposition collocation)*: khao khát
+* **crave** /kreɪv/ *(transitive verb)*: thèm muốn mãnh liệt
+* **desire** /dɪˈzaɪər/ *(transitive verb)*: mong muốn; trang trọng
+
+### Word family
+
+* **long** UK /lɒŋ/ US /lɑːŋ/ *(intransitive verb)*: khao khát, mong mỏi  
+  *Example:* She longed to see her family again.  
+  → Cô ấy khao khát được gặp lại gia đình.
+
+* **longing** UK /ˈlɒŋ.ɪŋ/ US /ˈlɑːŋ.ɪŋ/ *(countable/uncountable noun)*: niềm khao khát  
+  *Example:* He felt a deep longing for a simpler life.  
+  → Anh ấy cảm thấy niềm khao khát sâu sắc về một cuộc sống giản dị hơn.
+
+* **longingly** UK /ˈlɒŋ.ɪŋ.li/ US /ˈlɑːŋ.ɪŋ.li/ *(adverb)*: một cách khao khát  
+  *Example:* The children looked longingly at the cakes in the window.  
+  → Bọn trẻ nhìn những chiếc bánh trong cửa sổ một cách thèm muốn.
+
+### Notes
+
+The verb `long` is normally followed by `for + noun` or `to + verb`. Do not confuse it with the adjective `long`, meaning having great length or duration. `Long for` often conveys sadness or emotional distance.
+
+---
+
+## 414. Stitch /stɪtʃ/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** mũi khâu hoặc mũi may *(35%)*; khâu/may hoặc đóng vết thương bằng chỉ *(30%)*; chỉ khâu y tế, thường ở dạng số nhiều *(20%)*; cơn đau nhói ở bên hông khi vận động *(15%)*
+
+### Usage
+
+A `stitch` is one loop of thread in sewing or one medical closure. As a verb, it means join material or close a wound with stitches. In everyday speech, `get/have stitches` usually refers to medical treatment; `a stitch in one's side` is exercise-related pain.
+
+Common structures:
+
+* `stitch A to/onto B`: khâu A vào B
+* `stitch something together`: khâu các phần lại với nhau
+* `have/get + number + stitches`: được khâu bao nhiêu mũi
+* `a stitch in one's side`: cơn đau xóc ở bên hông
+* `be stitched up`: được khâu kín
+
+### Examples
+
+1. **The doctor put six stitches in the cut above his eye.**
+   → Bác sĩ khâu sáu mũi vào vết cắt phía trên mắt anh ấy.
+
+2. **She carefully stitched the torn pieces of fabric together.**
+   → Cô ấy cẩn thận khâu các mảnh vải bị rách lại với nhau.
+
+### Common collocations
+
+* **put in stitches**: khâu vết thương
+* **remove stitches**: cắt/tháo chỉ khâu
+* **stitch together**: khâu lại với nhau
+
+### Synonyms
+
+* **sew** UK /səʊ/ US /soʊ/ *(transitive/intransitive verb)*: may, khâu
+* **suture** UK /ˈsuː.tʃər/ US /ˈsuː.tʃɚ/ *(verb/countable noun)*: khâu vết thương; chỉ/mũi khâu y khoa
+* **fasten** UK /ˈfɑː.sən/ US /ˈfæs.ən/ *(transitive verb)*: gắn, nối chặt
+
+### Word family
+
+* **stitch** /stɪtʃ/ *(noun/verb)*: mũi khâu; khâu  
+  *Example:* The nurse checked each stitch before changing the bandage.  
+  → Y tá kiểm tra từng mũi khâu trước khi thay băng.
+
+* **stitching** /ˈstɪtʃ.ɪŋ/ *(uncountable noun/verb form)*: đường chỉ may; việc khâu  
+  *Example:* The stitching on this bag is strong and neat.  
+  → Đường chỉ may trên chiếc túi này chắc chắn và gọn gàng.
+
+* **stitched** /stɪtʃt/ *(adjective/past-participle form)*: được khâu  
+  *Example:* The stitched wound healed without infection.  
+  → Vết thương đã khâu lành lại mà không bị nhiễm trùng.
+
+### Notes
+
+`Stitch` focuses on individual loops or small joins; `sew` is the general activity. `In stitches` is an informal idiom meaning laughing uncontrollably: `The comedian had us in stitches`.
+
+---
+
+## 415. Whisper UK /ˈwɪs.pər/ US /ˈwɪs.pɚ/
+
+* **Part of speech:** transitive/intransitive verb; countable noun
+* **Vietnamese meaning:** nói thì thầm bằng giọng rất nhỏ *(70%)*; truyền đạt bí mật hoặc tin đồn một cách kín đáo *(15%)*; tiếng thì thầm hoặc âm thanh rất khẽ *(15%)*
+
+### Usage
+
+`Whisper` means speak very quietly, often to avoid being heard by others. Use `whisper to + person` for the listener, `whisper about + topic`, and `whisper + words` when the spoken content is the direct object.
+
+Common structures:
+
+* `whisper to + person`: thì thầm với ai
+* `whisper something to + person`: thì thầm điều gì với ai
+* `whisper that + clause`: thì thầm rằng
+* `whisper in someone's ear`: thì thầm vào tai ai
+* `in a whisper`: bằng giọng thì thầm
+
+### Examples
+
+1. **The students whispered to each other while they waited for the results.**
+   → Các sinh viên thì thầm với nhau trong khi chờ kết quả.
+
+2. **She whispered that the meeting had been canceled.**
+   → Cô ấy thì thầm rằng cuộc họp đã bị hủy.
+
+### Common collocations
+
+* **whisper softly**: thì thầm nhẹ nhàng
+* **whisper in someone's ear**: thì thầm vào tai ai
+* **in a low whisper**: bằng giọng thì thầm nhỏ
+
+### Synonyms
+
+* **murmur** UK /ˈmɜː.mər/ US /ˈmɝː.mɚ/ *(transitive/intransitive verb)*: nói khe khẽ, lẩm bẩm
+* **mutter** UK /ˈmʌt.ər/ US /ˈmʌt̬.ɚ/ *(transitive/intransitive verb)*: lẩm bẩm, thường vì khó chịu
+* **speak softly** UK /ˌspiːk ˈsɒft.li/ US /ˌspiːk ˈsɔːft.li/ *(verb phrase)*: nói nhỏ nhẹ
+
+### Word family
+
+* **whisper** UK /ˈwɪs.pər/ US /ˈwɪs.pɚ/ *(verb/countable noun)*: thì thầm; tiếng thì thầm  
+  *Example:* I heard a whisper behind the door.  
+  → Tôi nghe thấy một tiếng thì thầm phía sau cánh cửa.
+
+* **whispering** /ˈwɪs.pər.ɪŋ/ *(uncountable noun/adjective/verb form)*: việc thì thầm; đang thì thầm  
+  *Example:* Persistent whispering distracted the other students.  
+  → Việc thì thầm liên tục làm những sinh viên khác mất tập trung.
+
+* **whispered** UK /ˈwɪs.pəd/ US /ˈwɪs.pɚd/ *(adjective/past-participle form)*: được nói thầm  
+  *Example:* A whispered warning prevented a serious mistake.  
+  → Một lời cảnh báo được nói thầm đã ngăn chặn một sai lầm nghiêm trọng.
+
+### Notes
+
+Do not say `whisper with someone` for the listener; use `whisper to someone`. `Mutter` often suggests unclear or annoyed speech, whereas `whisper` mainly emphasizes low volume and privacy.
+
+---
+
+## 416. Frown /fraʊn/
+
+* **Part of speech:** intransitive verb; countable noun
+* **Vietnamese meaning:** cau mày vì lo lắng, bối rối hoặc không hài lòng *(65%)*; phản đối hoặc không tán thành *(25%)*; vẻ cau mày *(10%)*
+
+### Usage
+
+To `frown` is to bring the eyebrows together, often showing concern, concentration, confusion, or disapproval. The phrasal verb `frown on/upon` means disapprove of a behavior or practice.
+
+Common structures:
+
+* `frown at + person/thing`: cau mày nhìn ai/thứ gì
+* `frown on/upon + noun/V-ing`: không tán thành điều gì/việc làm gì
+* `frown with + emotion`: cau mày vì cảm xúc nào
+* `wear/give a frown`: mang/biểu lộ vẻ cau mày
+
+### Examples
+
+1. **The manager frowned at the unexpected figures in the report.**
+   → Người quản lý cau mày trước những số liệu bất ngờ trong báo cáo.
+
+2. **Many employers frown on staff using personal phones during meetings.**
+   → Nhiều nhà tuyển dụng không tán thành việc nhân viên dùng điện thoại cá nhân trong cuộc họp.
+
+### Common collocations
+
+* **frown deeply**: cau mày sâu
+* **frown at someone**: cau mày nhìn ai
+* **frown on a practice**: không tán thành một hành vi/thông lệ
+
+### Synonyms
+
+* **scowl** /skaʊl/ *(intransitive verb)*: quắc mắt, cau có
+* **glower** UK /ˈɡlaʊ.ər/ US /ˈɡlaʊ.ɚ/ *(intransitive verb)*: nhìn giận dữ
+* **disapprove** /ˌdɪs.əˈpruːv/ *(intransitive verb)*: không tán thành; gần nghĩa với `frown on`
+
+### Word family
+
+* **frown** /fraʊn/ *(verb/countable noun)*: cau mày; vẻ cau mày  
+  *Example:* A slight frown appeared on her face.  
+  → Một nét cau mày nhẹ xuất hiện trên khuôn mặt cô ấy.
+
+* **frowning** /ˈfraʊ.nɪŋ/ *(adjective/verb form)*: đang cau mày  
+  *Example:* The frowning customer asked to speak to the manager.  
+  → Vị khách đang cau mày yêu cầu nói chuyện với người quản lý.
+
+### Notes
+
+`Frown at someone` describes the facial expression directed toward them. `Frown on/upon something` means consider it unacceptable. `Scowl` is stronger and more clearly expresses anger.
+
+---
+
+## 417. Nod UK /nɒd/ US /nɑːd/
+
+* **Part of speech:** transitive/intransitive verb; countable noun
+* **Vietnamese meaning:** gật đầu để đồng ý, chào hoặc ra hiệu *(60%)*; đầu gục xuống vì buồn ngủ *(20%)*; chỉ định hoặc công nhận ai/điều gì một cách không chính thức *(10%)*; cái gật đầu *(10%)*
+
+### Usage
+
+`Nod` usually means move the head down and up to communicate agreement, recognition, or a signal. `Nod off` means fall asleep briefly, while `give someone the nod` can mean approve or select them.
+
+Common structures:
+
+* `nod at/to + person`: gật đầu với ai
+* `nod in agreement/approval`: gật đầu đồng ý/tán thành
+* `nod for someone to + verb`: gật đầu ra hiệu cho ai làm gì
+* `nod one's head`: gật đầu
+* `nod off`: ngủ gật
+
+### Examples
+
+1. **She nodded in agreement when the lecturer summarized the main argument.**
+   → Cô ấy gật đầu đồng ý khi giảng viên tóm tắt lập luận chính.
+
+2. **I nearly nodded off during the long bus journey.**
+   → Tôi suýt ngủ gật trong chuyến đi xe buýt dài.
+
+### Common collocations
+
+* **nod in agreement**: gật đầu đồng ý
+* **give a slight nod**: khẽ gật đầu
+* **nod off**: ngủ gật
+
+### Synonyms
+
+* **signal** /ˈsɪɡ.nəl/ *(transitive/intransitive verb)*: ra hiệu
+* **gesture** UK /ˈdʒes.tʃər/ US /ˈdʒes.tʃɚ/ *(intransitive verb)*: ra hiệu bằng cử chỉ
+* **doze off** UK /ˌdəʊz ˈɒf/ US /ˌdoʊz ˈɔːf/ *(phrasal verb)*: ngủ thiếp đi; gần nghĩa với `nod off`
+
+### Word family
+
+* **nod** UK /nɒd/ US /nɑːd/ *(verb/countable noun)*: gật đầu; cái gật đầu  
+  *Example:* He gave me a quick nod before entering the room.  
+  → Anh ấy khẽ gật đầu với tôi trước khi bước vào phòng.
+
+* **nodding** UK /ˈnɒd.ɪŋ/ US /ˈnɑː.dɪŋ/ *(adjective/verb form)*: đang gật đầu  
+  *Example:* The nodding audience showed that the explanation was clear.  
+  → Những người nghe đang gật đầu cho thấy lời giải thích rất rõ ràng.
+
+### Notes
+
+The final consonant doubles before `-ed` and `-ing`: `nodded`, `nodding`. In many cultures, a nod indicates yes, but gestures can have different meanings across cultures.
+
+---
+
+## 418. Tremble /ˈtrem.bəl/
+
+* **Part of speech:** intransitive verb; countable noun
+* **Vietnamese meaning:** run hoặc rung nhẹ không kiểm soát vì sợ, lạnh hoặc yếu *(70%)*; rung hoặc lay động nhẹ *(20%)*; cơn run nhẹ *(10%)*
+
+### Usage
+
+`Tremble` describes small, rapid, involuntary movements caused by fear, cold, illness, excitement, or physical vibration. It is often followed by `with` to name the cause and `at` or `before` to name what causes fear.
+
+Common structures:
+
+* `tremble with + fear/cold/excitement`: run vì sợ/lạnh/phấn khích
+* `tremble at + thought/sight`: run sợ khi nghĩ đến/nhìn thấy
+* `voice/hands tremble`: giọng nói/bàn tay run
+* `tremble from + cold/weakness`: run do lạnh/yếu
+
+### Examples
+
+1. **Her hands trembled with anxiety before the interview.**
+   → Tay cô ấy run lên vì lo lắng trước buổi phỏng vấn.
+
+2. **The windows trembled as heavy trucks passed the building.**
+   → Các cửa sổ rung lên khi xe tải hạng nặng chạy qua tòa nhà.
+
+### Common collocations
+
+* **tremble with fear**: run lên vì sợ
+* **voice trembles**: giọng nói run rẩy
+* **tremble violently**: run dữ dội
+
+### Synonyms
+
+* **shake** /ʃeɪk/ *(intransitive verb)*: run, rung; thông dụng
+* **shiver** UK /ˈʃɪv.ər/ US /ˈʃɪv.ɚ/ *(intransitive verb)*: run vì lạnh hoặc sợ
+* **quiver** UK /ˈkwɪv.ər/ US /ˈkwɪv.ɚ/ *(intransitive verb)*: run nhẹ, rung rinh
+
+### Word family
+
+* **tremble** /ˈtrem.bəl/ *(verb/countable noun)*: run, rung; cơn run  
+  *Example:* His voice began to tremble as he described the accident.  
+  → Giọng anh ấy bắt đầu run khi kể lại vụ tai nạn.
+
+* **trembling** /ˈtrem.blɪŋ/ *(adjective/noun/verb form)*: run rẩy; sự run rẩy  
+  *Example:* She opened the letter with trembling hands.  
+  → Cô ấy mở lá thư bằng đôi tay run rẩy.
+
+* **tremulous** /ˈtrem.jə.ləs/ *(adjective; formal)*: run rẩy, thiếu vững vàng  
+  *Example:* A tremulous voice answered from the dark room.  
+  → Một giọng nói run rẩy đáp lại từ căn phòng tối.
+
+* **tremulously** /ˈtrem.jə.ləs.li/ *(adverb; formal)*: một cách run rẩy  
+  *Example:* The witness spoke tremulously at first.  
+  → Ban đầu nhân chứng nói một cách run rẩy.
+
+### Notes
+
+`Shiver` is especially associated with cold or fear; `tremble` is broader and often more emotional or literary; `shake` is the most general word.
+
+---
+
+## 419. Revenge /rɪˈvendʒ/
+
+* **Part of speech:** uncountable noun; transitive verb *(less common)*
+* **Vietnamese meaning:** sự trả thù hoặc báo thù *(80%)*; trả thù cho một tổn hại, khi dùng như động từ ít phổ biến *(20%)*
+
+### Usage
+
+As a noun, `revenge` is normally uncountable and means harm done in return for harm received. The standard pattern is `take/get revenge on someone for something`. As a verb, `revenge oneself on someone` exists but is formal and uncommon; `avenge` is often more natural when the object is a victim or wrong.
+
+Common structures:
+
+* `take/get revenge on + person`: trả thù ai
+* `take revenge for + action/harm`: trả thù cho hành động/tổn hại
+* `in revenge for + noun`: để trả thù cho điều gì
+* `revenge oneself on + person`: trả thù ai; trang trọng và ít dùng
+* `avenge + person/wrong`: báo thù cho ai/một điều sai trái
+
+### Examples
+
+1. **He damaged the car in revenge for being dismissed from his job.**
+   → Anh ta phá hỏng chiếc xe để trả thù vì bị sa thải.
+
+2. **A justice system should protect society rather than satisfy a desire for revenge.**
+   → Hệ thống tư pháp nên bảo vệ xã hội thay vì thỏa mãn mong muốn trả thù.
+
+### Common collocations
+
+* **take revenge on**: trả thù ai
+* **an act of revenge**: hành động trả thù
+* **seek revenge**: tìm cách trả thù
+
+### Synonyms
+
+* **vengeance** /ˈven.dʒəns/ *(uncountable noun)*: sự báo thù; mạnh/trang trọng hơn
+* **retaliation** /rɪˌtæl.iˈeɪ.ʃən/ *(uncountable noun)*: sự trả đũa
+* **retribution** /ˌret.rɪˈbjuː.ʃən/ *(uncountable noun)*: sự trừng phạt/báo ứng
+
+### Word family
+
+* **revenge** /rɪˈvendʒ/ *(uncountable noun/verb)*: sự trả thù; trả thù  
+  *Example:* Revenge rarely brings lasting peace.  
+  → Sự trả thù hiếm khi mang lại bình yên lâu dài.
+
+* **vengeful** /ˈvendʒ.fəl/ *(adjective)*: đầy ý muốn trả thù  
+  *Example:* The character becomes increasingly vengeful after the betrayal.  
+  → Nhân vật ngày càng muốn trả thù sau sự phản bội.
+
+* **avenge** /əˈvendʒ/ *(transitive verb)*: báo thù cho ai/điều sai trái  
+  *Example:* She vowed to avenge the injustice done to her family.  
+  → Cô ấy thề sẽ báo thù cho sự bất công mà gia đình mình phải chịu.
+
+### Notes
+
+Do not usually say `a revenge`; use uncountable `revenge` or countable `an act of revenge`. Use `revenge on a person for an action`, but `avenge a person, death, or wrong`: `They avenged their friend's death`.
