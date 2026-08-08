@@ -23254,3 +23254,479 @@ Common structures:
 ### Notes
 
 Do not usually say `a revenge`; use uncountable `revenge` or countable `an act of revenge`. Use `revenge on a person for an action`, but `avenge a person, death, or wrong`: `They avenged their friend's death`.
+
+---
+
+## 420. Selfish /ˈsel.fɪʃ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** ích kỷ, chỉ quan tâm đến lợi ích hoặc nhu cầu của bản thân *(85%)*; không muốn chia sẻ thứ mình có *(15%)*
+
+### Usage
+
+`Selfish` describes a person, decision, or action that prioritizes personal benefit while ignoring other people's needs or feelings. It is clearly negative. Use `selfish of someone to do something` to criticize a particular action.
+
+Common structures:
+
+* `it is selfish of someone to + verb`: ai thật ích kỷ khi làm gì
+* `be selfish with + time/money/resources`: ích kỷ, không muốn chia sẻ thời gian/tiền/tài nguyên
+* `selfish to + verb`: ích kỷ khi làm gì
+* `a selfish desire/decision`: mong muốn/quyết định ích kỷ
+
+### Examples
+
+1. **It was selfish of him to ignore the needs of the rest of the team.**
+   → Anh ấy thật ích kỷ khi phớt lờ nhu cầu của những thành viên còn lại trong nhóm.
+
+2. **Policies should discourage selfish consumption of limited natural resources.**
+   → Các chính sách nên hạn chế việc tiêu thụ tài nguyên thiên nhiên hữu hạn một cách ích kỷ.
+
+### Common collocations
+
+* **selfish behavior**: hành vi ích kỷ
+* **selfish interests**: lợi ích ích kỷ/cá nhân
+* **selfish decision**: quyết định ích kỷ
+
+### Synonyms
+
+* **self-centered** UK /ˌselfˈsen.təd/ US /ˌselfˈsen.tɚd/ *(adjective)*: chỉ nghĩ đến bản thân
+* **inconsiderate** /ˌɪn.kənˈsɪd.ər.ət/ *(adjective)*: thiếu quan tâm đến người khác
+* **egotistical** UK /ˌiː.ɡəˈtɪs.tɪ.kəl/ US /ˌiː.ɡoʊˈtɪs.tɪ.kəl/ *(adjective)*: tự cao, quá coi trọng bản thân
+
+### Word family
+
+* **self** /self/ *(countable noun/pronoun element)*: bản thân, cái tôi  
+  *Example:* A stable sense of self can support emotional well-being.  
+  → Ý thức ổn định về bản thân có thể hỗ trợ sức khỏe cảm xúc.
+
+* **selfish** /ˈsel.fɪʃ/ *(adjective)*: ích kỷ  
+  *Example:* Refusing to cooperate for personal gain was a selfish choice.  
+  → Từ chối hợp tác vì lợi ích cá nhân là một lựa chọn ích kỷ.
+
+* **selfishly** /ˈsel.fɪʃ.li/ *(adverb)*: một cách ích kỷ  
+  *Example:* He selfishly kept all the credit for himself.  
+  → Anh ấy ích kỷ nhận hết công lao về mình.
+
+* **selfishness** /ˈsel.fɪʃ.nəs/ *(uncountable noun)*: tính ích kỷ  
+  *Example:* Extreme selfishness can damage close relationships.  
+  → Tính ích kỷ quá mức có thể làm tổn hại các mối quan hệ thân thiết.
+
+### Notes
+
+`Selfish` is stronger and more judgmental than `self-interested`, which can neutrally mean motivated by personal benefit. Taking care of your own reasonable needs is not necessarily selfish.
+
+---
+
+## 421. Calculating /ˈkæl.kjə.leɪ.tɪŋ/
+
+* **Part of speech:** adjective; present-participle verb form
+* **Vietnamese meaning:** toan tính, lạnh lùng lên kế hoạch để giành lợi ích cho mình *(75%)*; đang tính toán bằng số liệu hoặc suy luận *(25%)*
+
+### Usage
+
+As an adjective describing a person or behavior, `calculating` is negative and suggests careful, unemotional planning for personal advantage. As the `-ing` form of `calculate`, it neutrally describes the act of working out a number or result.
+
+Common structures:
+
+* `a calculating person`: một người toan tính
+* `a calculating attempt/move`: một nỗ lực/nước đi có tính toán vụ lợi
+* `be calculating + amount/rate`: đang tính một lượng/tỷ lệ
+* `calculate + noun`: tính toán số liệu/kết quả
+
+### Examples
+
+1. **His apology seemed calculating rather than sincere.**
+   → Lời xin lỗi của anh ta có vẻ đầy toan tính hơn là chân thành.
+
+2. **The research team is calculating the long-term cost of the policy.**
+   → Nhóm nghiên cứu đang tính toán chi phí dài hạn của chính sách.
+
+### Common collocations
+
+* **calculating person**: người toan tính
+* **calculating behavior**: hành vi đầy toan tính
+* **calculate the cost**: tính toán chi phí
+
+### Synonyms
+
+* **scheming** /ˈskiː.mɪŋ/ *(adjective)*: hay âm mưu, mưu mô
+* **conniving** /kəˈnaɪ.vɪŋ/ *(adjective)*: xảo quyệt, ngấm ngầm mưu tính
+* **strategic** /strəˈtiː.dʒɪk/ *(adjective)*: có tính chiến lược; trung tính hơn
+
+### Word family
+
+* **calculate** /ˈkæl.kjə.leɪt/ *(transitive/intransitive verb)*: tính toán  
+  *Example:* Analysts calculated the average cost per household.  
+  → Các nhà phân tích đã tính chi phí trung bình cho mỗi hộ gia đình.
+
+* **calculation** /ˌkæl.kjəˈleɪ.ʃən/ *(countable/uncountable noun)*: phép tính; sự tính toán  
+  *Example:* A small error in the calculation changed the final result.  
+  → Một lỗi nhỏ trong phép tính đã làm thay đổi kết quả cuối cùng.
+
+* **calculator** UK /ˈkæl.kjə.leɪ.tər/ US /ˈkæl.kjə.leɪ.t̬ɚ/ *(countable noun)*: máy tính cầm tay  
+  *Example:* Students may use a calculator during this section.  
+  → Học sinh có thể dùng máy tính trong phần này.
+
+* **calculating** /ˈkæl.kjə.leɪ.tɪŋ/ *(adjective/verb form)*: toan tính; đang tính toán  
+  *Example:* She distrusted his calculating manner.  
+  → Cô ấy không tin tưởng thái độ đầy toan tính của anh ta.
+
+### Notes
+
+Do not assume every carefully planned action is `calculating`. When used about personality, the word implies selfishness or manipulation. Use `strategic` or `well-planned` when the meaning is neutral or positive.
+
+---
+
+## 422. Deceitful /dɪˈsiːt.fəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** gian dối, cố tình khiến người khác tin điều không đúng *(85%)*; có tính đánh lừa hoặc che giấu sự thật *(15%)*
+
+### Usage
+
+`Deceitful` describes people, behavior, or statements intended to mislead others. It is strongly negative and focuses on deliberate dishonesty rather than an accidental false statement.
+
+Common structures:
+
+* `be deceitful about + topic`: gian dối về vấn đề gì
+* `be deceitful toward + person`: gian dối với ai
+* `deceitful behavior/practice`: hành vi/thủ đoạn gian dối
+* `deceive someone into + V-ing`: lừa ai làm gì
+
+### Examples
+
+1. **The company was criticized for using deceitful advertising practices.**
+   → Công ty bị chỉ trích vì sử dụng các thủ đoạn quảng cáo gian dối.
+
+2. **Being deceitful about money can destroy trust in a relationship.**
+   → Gian dối về tiền bạc có thể phá hủy lòng tin trong một mối quan hệ.
+
+### Common collocations
+
+* **deceitful behavior**: hành vi gian dối
+* **deceitful tactics**: thủ đoạn gian dối
+* **deceitful person**: người gian dối
+
+### Synonyms
+
+* **dishonest** UK /dɪsˈɒn.ɪst/ US /dɪsˈɑː.nɪst/ *(adjective)*: không trung thực
+* **deceptive** /dɪˈsep.tɪv/ *(adjective)*: gây hiểu lầm, đánh lừa
+* **untruthful** /ʌnˈtruːθ.fəl/ *(adjective)*: không nói thật
+
+### Word family
+
+* **deceive** /dɪˈsiːv/ *(transitive verb)*: lừa dối  
+  *Example:* The website deceived customers into paying hidden fees.  
+  → Trang web đã lừa khách hàng trả các khoản phí ẩn.
+
+* **deceit** /dɪˈsiːt/ *(uncountable/countable noun)*: sự gian dối; hành vi lừa dối  
+  *Example:* Their partnership ended after years of deceit.  
+  → Mối quan hệ hợp tác của họ chấm dứt sau nhiều năm gian dối.
+
+* **deceitful** /dɪˈsiːt.fəl/ *(adjective)*: gian dối  
+  *Example:* A deceitful claim may mislead vulnerable consumers.  
+  → Một tuyên bố gian dối có thể đánh lừa những người tiêu dùng dễ bị tổn thương.
+
+* **deceitfully** /dɪˈsiːt.fəl.i/ *(adverb)*: một cách gian dối  
+  *Example:* The data was deceitfully presented to hide the decline.  
+  → Dữ liệu được trình bày một cách gian dối để che giấu sự suy giảm.
+
+### Notes
+
+`Deceitful` commonly describes a person or intentional behavior. `Deceptive` often describes an appearance, impression, or claim that misleads: `The task looks simple, but appearances can be deceptive`.
+
+---
+
+## 423. Vindictive /vɪnˈdɪk.tɪv/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** muốn làm tổn thương hoặc trừng phạt ai để trả thù *(80%)*; thù dai và không sẵn lòng tha thứ *(20%)*
+
+### Usage
+
+`Vindictive` describes a person, remark, or action motivated by revenge. It is strongly negative and suggests a deliberate wish to make someone suffer because of a real or perceived wrong.
+
+Common structures:
+
+* `be vindictive toward + person`: có ý trả thù ai
+* `a vindictive person`: một người thù dai và muốn trả thù
+* `a vindictive act/remark`: hành động/lời nói mang tính trả thù
+* `become vindictive after + event`: trở nên muốn trả thù sau sự việc
+
+### Examples
+
+1. **The supervisor made a vindictive attempt to damage the former employee's reputation.**
+   → Người giám sát đã thực hiện một nỗ lực mang tính trả thù nhằm làm tổn hại danh tiếng của cựu nhân viên.
+
+2. **Punishment should be proportionate rather than vindictive.**
+   → Hình phạt nên tương xứng thay vì mang tính trả thù.
+
+### Common collocations
+
+* **vindictive behavior**: hành vi mang tính trả thù
+* **vindictive attack**: cuộc công kích nhằm trả thù
+* **vindictive person**: người thù dai
+
+### Synonyms
+
+* **vengeful** /ˈvendʒ.fəl/ *(adjective)*: đầy ý muốn trả thù
+* **spiteful** /ˈspaɪt.fəl/ *(adjective)*: cay độc, cố ý làm tổn thương
+* **revengeful** /rɪˈvendʒ.fəl/ *(adjective)*: muốn trả thù; ít phổ biến hơn
+
+### Word family
+
+* **vindictive** /vɪnˈdɪk.tɪv/ *(adjective)*: thù dai, muốn trả thù  
+  *Example:* His vindictive response made reconciliation impossible.  
+  → Phản ứng đầy thù hận của anh ta khiến việc hòa giải trở nên bất khả thi.
+
+* **vindictively** /vɪnˈdɪk.tɪv.li/ *(adverb)*: một cách trả thù  
+  *Example:* She acted vindictively after losing the dispute.  
+  → Cô ấy hành động với ý trả thù sau khi thua cuộc tranh chấp.
+
+* **vindictiveness** /vɪnˈdɪk.tɪv.nəs/ *(uncountable noun)*: tính thù dai, lòng muốn trả thù  
+  *Example:* Vindictiveness can prolong conflict between communities.  
+  → Lòng muốn trả thù có thể kéo dài xung đột giữa các cộng đồng.
+
+### Notes
+
+`Vindictive` is stronger than `angry`: anger is an emotion, while vindictiveness includes a desire to retaliate. `Spiteful` emphasizes hurting someone out of malice, not necessarily in response to a previous wrong.
+
+---
+
+## 424. Narcissistic UK /ˌnɑː.sɪˈsɪs.tɪk/ US /ˌnɑːr.səˈsɪs.tɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** quá tự cao, quá chú trọng bản thân và thiếu đồng cảm với người khác *(80%)*; liên quan đến chứng rối loạn nhân cách ái kỷ trong tâm lý học lâm sàng *(20%)*
+
+### Usage
+
+In general English, `narcissistic` describes extremely self-centered attitudes or behavior. In clinical contexts, it can relate to narcissistic personality disorder, which requires assessment by a qualified professional. Casual selfishness alone does not establish a disorder.
+
+Common structures:
+
+* `narcissistic behavior/traits`: hành vi/đặc điểm ái kỷ
+* `be narcissistic about + appearance/ability`: quá tự mê về ngoại hình/năng lực
+* `a narcissistic need for + noun`: nhu cầu mang tính ái kỷ đối với điều gì
+* `narcissistic personality disorder`: rối loạn nhân cách ái kỷ
+
+### Examples
+
+1. **His narcissistic behavior made genuine teamwork difficult.**
+   → Hành vi quá coi trọng bản thân của anh ta khiến việc hợp tác thực sự trở nên khó khăn.
+
+2. **People should avoid casually diagnosing others with narcissistic personality disorder.**
+   → Mọi người nên tránh tùy tiện chẩn đoán người khác mắc chứng rối loạn nhân cách ái kỷ.
+
+### Common collocations
+
+* **narcissistic traits**: đặc điểm ái kỷ
+* **narcissistic behavior**: hành vi ái kỷ
+* **narcissistic personality disorder**: rối loạn nhân cách ái kỷ
+
+### Synonyms
+
+* **self-absorbed** UK /ˌself.əbˈzɔːbd/ US /ˌself.əbˈzɔːrbd/ *(adjective)*: quá bận tâm đến bản thân
+* **egocentric** UK /ˌeɡ.əʊˈsen.trɪk/ US /ˌiː.ɡoʊˈsen.trɪk/ *(adjective)*: lấy bản thân làm trung tâm
+* **vain** /veɪn/ *(adjective)*: tự phụ về ngoại hình/thành tựu; nghĩa hẹp hơn
+
+### Word family
+
+* **narcissism** UK /ˈnɑː.sɪ.sɪ.zəm/ US /ˈnɑːr.sə.sɪ.zəm/ *(uncountable noun)*: tính ái kỷ, sự quá mê bản thân  
+  *Example:* Extreme narcissism can prevent a person from accepting criticism.  
+  → Tính ái kỷ cực đoan có thể ngăn một người tiếp nhận lời phê bình.
+
+* **narcissist** UK /ˈnɑː.sɪ.sɪst/ US /ˈnɑːr.sə.sɪst/ *(countable noun)*: người quá mê bản thân; người ái kỷ  
+  *Example:* The novel portrays its central character as a charming narcissist.  
+  → Cuốn tiểu thuyết khắc họa nhân vật trung tâm là một người ái kỷ đầy quyến rũ.
+
+* **narcissistic** UK /ˌnɑː.sɪˈsɪs.tɪk/ US /ˌnɑːr.səˈsɪs.tɪk/ *(adjective)*: mang tính ái kỷ  
+  *Example:* Constantly seeking admiration can be a narcissistic trait.  
+  → Liên tục tìm kiếm sự ngưỡng mộ có thể là một đặc điểm ái kỷ.
+
+### Notes
+
+Do not use `narcissistic` as a casual clinical diagnosis. Someone can behave selfishly or seek attention without having narcissistic personality disorder. In careful writing, describe the observable behavior instead of labeling the person.
+
+---
+
+## 425. Sneaky /ˈsniː.ki/
+
+* **Part of speech:** adjective; informal
+* **Vietnamese meaning:** lén lút và không trung thực *(65%)*; làm điều gì kín đáo để tránh bị phát hiện *(25%)*; khéo léo xuất hiện hoặc gây ảnh hưởng bất ngờ *(10%)*
+
+### Usage
+
+`Sneaky` informally describes secretive behavior, usually with an implication of dishonesty or rule-breaking. It can also describe something that develops unnoticed, such as a `sneaky feeling`, but this use is less negative.
+
+Common structures:
+
+* `be sneaky about + action`: lén lút về hành động gì
+* `a sneaky way/trick`: cách/mánh khóe lén lút
+* `sneak into/out of + place`: lẻn vào/ra khỏi nơi nào
+* `a sneaky feeling/suspicion`: linh cảm/nghi ngờ âm thầm
+
+### Examples
+
+1. **The app used a sneaky method to collect users' location data.**
+   → Ứng dụng đã dùng một phương thức lén lút để thu thập dữ liệu vị trí của người dùng.
+
+2. **He took a sneaky look at the answer sheet when the teacher turned away.**
+   → Cậu ấy lén nhìn tờ đáp án khi giáo viên quay đi.
+
+### Common collocations
+
+* **sneaky trick**: mánh khóe lén lút
+* **sneaky behavior**: hành vi lén lút
+* **sneaky suspicion**: mối nghi ngờ âm thầm
+
+### Synonyms
+
+* **secretive** /ˈsiː.krə.tɪv/ *(adjective)*: kín đáo, hay giấu giếm
+* **underhand** UK /ˌʌn.dəˈhænd/ US /ˌʌn.dɚˈhænd/ *(adjective)*: lén lút và gian dối
+* **stealthy** /ˈstel.θi/ *(adjective)*: âm thầm, khó bị phát hiện
+
+### Word family
+
+* **sneak** /sniːk/ *(verb/countable noun)*: lẻn; người lén lút  
+  *Example:* The child tried to sneak into the kitchen unnoticed.  
+  → Đứa trẻ cố lẻn vào bếp mà không bị phát hiện.
+
+* **sneaky** /ˈsniː.ki/ *(adjective)*: lén lút  
+  *Example:* Installing software without permission was a sneaky move.  
+  → Cài đặt phần mềm mà không xin phép là một hành động lén lút.
+
+* **sneakily** /ˈsniː.kɪ.li/ *(adverb)*: một cách lén lút  
+  *Example:* The company sneakily added an extra fee at checkout.  
+  → Công ty lén lút thêm một khoản phí khi thanh toán.
+
+* **sneakiness** /ˈsniː.ki.nəs/ *(uncountable noun)*: tính lén lút  
+  *Example:* His sneakiness made his colleagues distrust him.  
+  → Tính lén lút của anh ta khiến đồng nghiệp không tin tưởng anh ta.
+
+### Notes
+
+`Sneaky` is informal and usually disapproving. `Secretive` means unwilling to share information but does not always imply wrongdoing; `underhand` clearly suggests dishonest methods.
+
+---
+
+## 426. Manipulative /məˈnɪp.jə.lə.tɪv/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** khéo điều khiển người khác một cách không công bằng vì lợi ích riêng *(80%)*; liên quan đến việc thao tác bằng tay hoặc điều chỉnh vật thể/dữ liệu *(20%)*
+
+### Usage
+
+When describing behavior, `manipulative` is negative and means using emotions, pressure, or misleading tactics to control others. In technical or medical contexts, it can neutrally refer to physical manipulation, as in `manipulative therapy`.
+
+Common structures:
+
+* `be manipulative toward/with + person`: có hành vi thao túng đối với ai
+* `manipulative behavior/tactics`: hành vi/chiến thuật thao túng
+* `manipulate someone into + V-ing`: thao túng khiến ai làm gì
+* `manipulate + data/object`: thao tác hoặc bóp méo dữ liệu/vật thể
+
+### Examples
+
+1. **Manipulative advertising can pressure children into wanting unnecessary products.**
+   → Quảng cáo mang tính thao túng có thể gây áp lực khiến trẻ em muốn những sản phẩm không cần thiết.
+
+2. **She recognized his manipulative behavior and set clear boundaries.**
+   → Cô ấy nhận ra hành vi thao túng của anh ta và đặt ra những giới hạn rõ ràng.
+
+### Common collocations
+
+* **manipulative behavior**: hành vi thao túng
+* **manipulative tactics**: chiến thuật thao túng
+* **emotionally manipulative**: thao túng cảm xúc
+
+### Synonyms
+
+* **controlling** /kənˈtrəʊ.lɪŋ/ *(adjective)*: thích kiểm soát người khác
+* **scheming** /ˈskiː.mɪŋ/ *(adjective)*: mưu mô
+* **coercive** UK /kəʊˈɜː.sɪv/ US /koʊˈɝː.sɪv/ *(adjective)*: mang tính ép buộc
+
+### Word family
+
+* **manipulate** /məˈnɪp.jə.leɪt/ *(transitive verb)*: thao túng; thao tác  
+  *Example:* Some images had been manipulated to exaggerate the damage.  
+  → Một số hình ảnh đã bị chỉnh sửa để phóng đại thiệt hại.
+
+* **manipulation** /məˌnɪp.jəˈleɪ.ʃən/ *(countable/uncountable noun)*: sự thao túng; sự thao tác  
+  *Example:* Data manipulation can undermine confidence in research.  
+  → Việc thao túng dữ liệu có thể làm suy giảm niềm tin vào nghiên cứu.
+
+* **manipulative** /məˈnɪp.jə.lə.tɪv/ *(adjective)*: mang tính thao túng  
+  *Example:* The interviewer avoided manipulative questions.  
+  → Người phỏng vấn tránh những câu hỏi mang tính thao túng.
+
+* **manipulator** UK /məˈnɪp.jə.leɪ.tər/ US /məˈnɪp.jə.leɪ.t̬ɚ/ *(countable noun)*: người thao túng; thiết bị thao tác  
+  *Example:* A skilled manipulator may hide their intentions behind charm.  
+  → Một người thao túng khéo léo có thể che giấu ý định sau vẻ quyến rũ.
+
+### Notes
+
+`Manipulative` implies unfair or hidden influence when used about a person. `Persuasive` is more neutral and does not necessarily involve deception. In technical contexts, `manipulate data` may neutrally mean process it, but it can also mean dishonestly alter it; context matters.
+
+---
+
+## 427. Insensitive /ɪnˈsen.sɪ.tɪv/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thiếu quan tâm đến cảm xúc hoặc hoàn cảnh của người khác *(60%)*; không nhạy hoặc không phản ứng với kích thích *(25%)*; không bị ảnh hưởng bởi thay đổi của một yếu tố *(15%)*
+
+### Usage
+
+For people, comments, and actions, `insensitive` means lacking awareness of others' feelings. In scientific, medical, or economic contexts, it can mean not responsive to a stimulus or change. It is normally followed by `to`, not `of`.
+
+Common structures:
+
+* `be insensitive to + feelings/needs`: thiếu nhạy cảm với cảm xúc/nhu cầu
+* `insensitive comment/remark`: lời nhận xét thiếu tế nhị
+* `be insensitive to + stimulus/change`: không phản ứng với kích thích/thay đổi
+* `it is insensitive of someone to + verb`: ai thật thiếu tế nhị khi làm gì
+
+### Examples
+
+1. **It was insensitive of him to joke about her financial difficulties.**
+   → Anh ấy thật thiếu tế nhị khi đùa về khó khăn tài chính của cô ấy.
+
+2. **The crop is relatively insensitive to minor changes in temperature.**
+   → Loại cây trồng này tương đối không bị ảnh hưởng bởi những thay đổi nhỏ về nhiệt độ.
+
+### Common collocations
+
+* **insensitive remark**: lời nhận xét thiếu tế nhị
+* **insensitive to others' needs**: không quan tâm đến nhu cầu của người khác
+* **culturally insensitive**: thiếu nhạy cảm về văn hóa
+
+### Synonyms
+
+* **inconsiderate** /ˌɪn.kənˈsɪd.ər.ət/ *(adjective)*: thiếu quan tâm đến người khác
+* **thoughtless** UK /ˈθɔːt.ləs/ US /ˈθɑːt.ləs/ *(adjective)*: thiếu suy nghĩ, vô tâm
+* **unresponsive** UK /ˌʌn.rɪˈspɒn.sɪv/ US /ˌʌn.rɪˈspɑːn.sɪv/ *(adjective)*: không phản ứng; phù hợp với nghĩa kỹ thuật
+
+### Word family
+
+* **sense** /sens/ *(noun/verb)*: giác quan, ý thức; cảm nhận  
+  *Example:* A strong sense of responsibility guides her decisions.  
+  → Ý thức trách nhiệm mạnh mẽ định hướng các quyết định của cô ấy.
+
+* **sensitive** /ˈsen.sɪ.tɪv/ *(adjective)*: nhạy cảm; tinh tế  
+  *Example:* Teachers should be sensitive to differences in students' backgrounds.  
+  → Giáo viên nên nhạy cảm với sự khác biệt trong hoàn cảnh của học sinh.
+
+* **sensitivity** /ˌsen.sɪˈtɪv.ə.ti/ *(countable/uncountable noun)*: sự nhạy cảm, độ nhạy  
+  *Example:* Cultural sensitivity is essential in international workplaces.  
+  → Sự nhạy cảm văn hóa rất cần thiết tại nơi làm việc quốc tế.
+
+* **insensitive** /ɪnˈsen.sɪ.tɪv/ *(adjective)*: thiếu nhạy cảm, không nhạy  
+  *Example:* The policy was criticized as insensitive to rural communities.  
+  → Chính sách bị chỉ trích là thiếu quan tâm đến các cộng đồng nông thôn.
+
+* **insensitivity** /ɪnˌsen.sɪˈtɪv.ə.ti/ *(uncountable noun)*: sự thiếu nhạy cảm  
+  *Example:* His insensitivity caused unnecessary distress.  
+  → Sự thiếu nhạy cảm của anh ấy gây ra đau khổ không cần thiết.
+
+### Notes
+
+Use `insensitive to`, not `insensitive of`, before the affected person or issue: `insensitive to her feelings`. Use `It was insensitive of him to laugh` when evaluating a person's action.
