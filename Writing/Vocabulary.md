@@ -23730,3 +23730,181 @@ Common structures:
 ### Notes
 
 Use `insensitive to`, not `insensitive of`, before the affected person or issue: `insensitive to her feelings`. Use `It was insensitive of him to laugh` when evaluating a person's action.
+
+---
+
+## 428. Reap /riːp/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** gặt hoặc thu hoạch mùa màng *(45%)*; thu được lợi ích, phần thưởng hoặc kết quả từ hành động trước đó *(45%)*; phải nhận hậu quả do chính mình gây ra *(10%)*
+
+### Usage
+
+`Reap` literally means harvest a crop and figuratively means receive a result produced by earlier effort or behavior. It is a regular verb: `reap – reaped – reaped`. The figurative use is common in academic writing, especially with `benefits`, `rewards`, and `consequences`.
+
+Common structures:
+
+* `reap + crop/harvest`: gặt hoặc thu hoạch cây trồng/vụ mùa
+* `reap the benefits/rewards of + noun/V-ing`: thu được lợi ích/phần thưởng từ điều gì
+* `reap the consequences of + noun/V-ing`: phải nhận hậu quả từ điều gì
+* `reap what one sows`: gặt những gì mình gieo; nhận kết quả từ hành động của chính mình
+
+### Examples
+
+1. **Countries that invest in education may reap substantial economic benefits.**
+   → Những quốc gia đầu tư vào giáo dục có thể thu được lợi ích kinh tế đáng kể.
+
+2. **The farmers reaped the rice before the heavy rains arrived.**
+   → Những người nông dân đã gặt lúa trước khi mưa lớn kéo đến.
+
+### Common collocations
+
+* **reap the benefits**: thu được lợi ích
+* **reap the rewards**: nhận được thành quả
+* **reap a harvest**: thu hoạch mùa màng
+* **reap the consequences**: phải nhận hậu quả
+
+### Synonyms
+
+* **harvest** UK /ˈhɑː.vɪst/ US /ˈhɑːr.vɪst/ *(transitive verb)*: thu hoạch
+* **gain** /ɡeɪn/ *(transitive verb)*: đạt được, thu được
+* **garner** UK /ˈɡɑː.nər/ US /ˈɡɑːr.nɚ/ *(transitive verb)*: thu được, giành được; trang trọng
+
+### Word family
+
+* **reap** /riːp/ *(transitive verb)*: gặt; thu được kết quả  
+  *Example:* Graduates often reap the rewards of years of study.  
+  → Sinh viên tốt nghiệp thường nhận được thành quả từ nhiều năm học tập.
+
+* **reaper** UK /ˈriː.pər/ US /ˈriː.pɚ/ *(countable noun)*: người hoặc máy gặt  
+  *Example:* A mechanical reaper can harvest a large field quickly.  
+  → Máy gặt có thể thu hoạch một cánh đồng lớn một cách nhanh chóng.
+
+* **reaping** /ˈriː.pɪŋ/ *(uncountable noun/verb form)*: việc gặt hái; đang thu kết quả  
+  *Example:* The community is now reaping the benefits of cleaner public transport.  
+  → Cộng đồng hiện đang hưởng lợi từ hệ thống giao thông công cộng sạch hơn.
+
+### Notes
+
+`Reap` usually suggests that a present result comes from an earlier action. The proverb `You reap what you sow` can refer to either good or bad consequences. In everyday farming contexts, `harvest` is generally more common.
+
+---
+
+## 429. Compass /ˈkʌm.pəs/
+
+* **Part of speech:** countable noun; transitive verb *(rare/formal)*
+* **Vietnamese meaning:** la bàn dùng để xác định phương hướng *(50%)*; nguyên tắc định hướng đạo đức hoặc hành vi, như trong `moral compass` *(20%)*; compa dùng để vẽ đường tròn, thường là `a pair of compasses` trong Anh-Anh *(15%)*; phạm vi hoặc giới hạn *(10%)*; bao quanh hoặc đạt được, khi dùng như động từ hiếm *(5%)*
+
+### Usage
+
+A `compass` most commonly means a navigation instrument. Figuratively, a `moral compass` guides judgments about right and wrong. In British English, the drawing instrument is usually called `a pair of compasses`; American English commonly uses `a compass`. Uses meaning range or the verb meaning surround are formal and less common.
+
+Common structures:
+
+* `use/read a compass`: sử dụng/đọc la bàn
+* `a compass points north`: kim la bàn chỉ hướng bắc
+* `a moral compass`: ý thức hoặc nguyên tắc định hướng đúng sai
+* `a pair of compasses`: một chiếc compa vẽ đường tròn, chủ yếu Anh-Anh
+* `within/beyond the compass of + noun`: nằm trong/ngoài phạm vi của điều gì; trang trọng
+
+### Examples
+
+1. **Hikers should carry a compass when traveling through unfamiliar terrain.**
+   → Người đi bộ đường dài nên mang theo la bàn khi đi qua địa hình xa lạ.
+
+2. **A strong moral compass can help leaders make fair decisions.**
+   → Ý thức đạo đức vững vàng có thể giúp các nhà lãnh đạo đưa ra quyết định công bằng.
+
+### Common collocations
+
+* **magnetic compass**: la bàn từ tính
+* **compass direction**: hướng la bàn
+* **moral compass**: kim chỉ nam đạo đức
+* **a pair of compasses**: chiếc compa
+
+### Synonyms
+
+* **navigation instrument** /ˌnæv.ɪˈɡeɪ.ʃən ˈɪn.strə.mənt/ *(countable noun phrase)*: dụng cụ định hướng
+* **guide** /ɡaɪd/ *(countable noun)*: điều hoặc người định hướng; gần nghĩa bóng
+* **scope** UK /skəʊp/ US /skoʊp/ *(uncountable/countable noun)*: phạm vi; chỉ nghĩa trang trọng về giới hạn
+
+### Word family
+
+* **compass** /ˈkʌm.pəs/ *(countable noun; transitive verb)*: la bàn; phạm vi; bao quanh  
+  *Example:* The old compass still points accurately toward the north.  
+  → Chiếc la bàn cũ vẫn chỉ chính xác về hướng bắc.
+
+* **compasses** /ˈkʌm.pə.sɪz/ *(plural noun)*: compa vẽ đường tròn, chủ yếu Anh-Anh  
+  *Example:* Use a pair of compasses to draw a perfect circle.  
+  → Hãy dùng compa để vẽ một đường tròn hoàn chỉnh.
+
+* **encompass** /ɪnˈkʌm.pəs/ *(transitive verb)*: bao gồm hoặc bao quanh  
+  *Example:* The course encompasses both theoretical and practical training.  
+  → Khóa học bao gồm cả đào tạo lý thuyết và thực hành.
+
+### Notes
+
+Do not confuse `compass` with `direction`: a compass is an instrument, while a direction is the way toward a place. In British English, `compasses` can be plural in form but refer to one drawing tool: `a pair of compasses`.
+
+---
+
+## 430. Shake /ʃeɪk/ — Shook /ʃʊk/ — Shaken /ˈʃeɪ.kən/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable noun; `shook` is the past-tense form
+* **Vietnamese meaning:** lắc, rung hoặc làm thứ gì rung chuyển *(35%)*; run vì lạnh, sợ hoặc cảm xúc mạnh *(20%)*; làm lung lay niềm tin hoặc khiến ai bị sốc *(20%)*; trộn bằng cách lắc *(10%)*; cái lắc, sự rung hoặc động tác bắt tay *(15%)*
+
+### Usage
+
+The irregular forms are `shake – shook – shaken`. `Shook` is only the simple past; use `shaken` after `have`, `has`, `had`, or in passive structures. `Shake` can describe physical movement, strong emotion, loss of confidence, or mixing something by moving it rapidly.
+
+Common structures:
+
+* `shake + object`: lắc hoặc làm rung vật gì
+* `shake with + fear/cold/laughter`: run vì sợ/lạnh/cười
+* `shake hands with + person`: bắt tay với ai
+* `shake one's head`: lắc đầu
+* `be shaken by + event`: bị sốc hoặc lung lay bởi sự kiện
+* `shake something up`: cải tổ hoặc làm thay đổi mạnh điều gì
+
+### Examples
+
+1. **The explosion shook several buildings near the factory.**
+   → Vụ nổ làm rung chuyển một số tòa nhà gần nhà máy.
+
+2. **Public confidence has been shaken by repeated data breaches.**
+   → Niềm tin của công chúng đã bị lung lay bởi những vụ rò rỉ dữ liệu liên tiếp.
+
+### Common collocations
+
+* **shake hands**: bắt tay
+* **shake one's head**: lắc đầu
+* **shake with fear**: run lên vì sợ
+* **deeply shaken**: bị sốc hoặc lung lay sâu sắc
+
+### Synonyms
+
+* **tremble** /ˈtrem.bəl/ *(intransitive verb)*: run, rung nhẹ không kiểm soát
+* **vibrate** /vaɪˈbreɪt/ *(transitive/intransitive verb)*: rung, dao động
+* **unsettle** /ʌnˈset.əl/ *(transitive verb)*: làm ai bất an hoặc lung lay
+
+### Word family
+
+* **shake** /ʃeɪk/ *(verb/countable noun)*: lắc, rung; cái lắc  
+  *Example:* Shake the bottle well before using the medicine.  
+  → Hãy lắc kỹ chai trước khi dùng thuốc.
+
+* **shook** /ʃʊk/ *(past-tense verb form)*: đã lắc, rung hoặc làm sốc  
+  *Example:* She shook her head because she disagreed.  
+  → Cô ấy lắc đầu vì không đồng ý.
+
+* **shaken** /ˈʃeɪ.kən/ *(past-participle verb form; adjective)*: đã bị rung/lắc; bị sốc  
+  *Example:* The witnesses were visibly shaken after the accident.  
+  → Các nhân chứng rõ ràng bị sốc sau vụ tai nạn.
+
+* **shaky** /ˈʃeɪ.ki/ *(adjective)*: run rẩy; không vững hoặc không đáng tin  
+  *Example:* The argument is based on shaky evidence.  
+  → Lập luận dựa trên bằng chứng không đáng tin cậy.
+
+### Notes
+
+The requested form `shook` is correct but is not the base form: `Yesterday, the noise shook the windows.` Do not use it as a past participle: say `The event has shaken public confidence`, not `has shook`. `Shake` is broader than `tremble`; a person may tremble involuntarily, while someone can deliberately shake an object.
