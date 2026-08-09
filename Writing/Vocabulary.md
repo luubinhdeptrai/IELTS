@@ -24753,3 +24753,127 @@ Common structures:
 ### Notes
 
 `Roll out` is a verb phrase and is written as two words: `They will roll out the service`. The corresponding noun is usually one word: `the service rollout`. Do not confuse `roll` with `role` /rəʊl, roʊl/, which means a function, position, or character.
+
+---
+
+## 445. Venture UK /ˈven.tʃər/ US /ˈven.tʃɚ/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** dự án hoặc hoạt động kinh doanh có rủi ro *(40%)*; hành trình hoặc hoạt động táo bạo, mạo hiểm *(20%)*; liều đi vào một nơi hoặc bắt đầu một lĩnh vực mới *(25%)*; đánh bạo nói, hỏi hoặc làm điều gì *(15%)*
+
+### Usage
+
+As a noun, a `venture` is a project, business, or journey involving risk and uncertain results. As a verb, it means dare to go somewhere, begin something risky, or cautiously offer a comment or question. It is a regular verb: `venture – ventured – ventured`.
+
+Common structures:
+
+* `a business/commercial venture`: dự án kinh doanh/thương mại mạo hiểm
+* `a joint venture between A and B`: liên doanh giữa A và B
+* `venture into + place/field`: mạo hiểm đi vào nơi/lĩnh vực nào
+* `venture out of/into + place`: đánh bạo đi ra khỏi/vào nơi nào
+* `venture to + say/ask/suggest`: đánh bạo nói/hỏi/đề xuất
+
+### Examples
+
+1. **The two companies formed a joint venture to develop renewable-energy technology.**
+   → Hai công ty thành lập một liên doanh để phát triển công nghệ năng lượng tái tạo.
+
+2. **Few tourists venture into the mountains during the stormy season.**
+   → Rất ít du khách dám đi vào vùng núi trong mùa mưa bão.
+
+### Common collocations
+
+* **business venture**: dự án kinh doanh mạo hiểm
+* **joint venture**: liên doanh
+* **venture capital**: vốn đầu tư mạo hiểm
+* **venture into a new market**: thâm nhập một thị trường mới đầy rủi ro
+
+### Synonyms
+
+* **enterprise** UK /ˈen.tə.praɪz/ US /ˈen.t̬ɚ.praɪz/ *(countable noun)*: dự án hoặc doanh nghiệp
+* **undertaking** UK /ˌʌn.dəˈteɪ.kɪŋ/ US /ˌʌn.dɚˈteɪ.kɪŋ/ *(countable noun)*: công việc hoặc dự án lớn
+* **dare** UK /deər/ US /der/ *(transitive/intransitive verb)*: dám, liều
+
+### Word family
+
+* **venture** UK /ˈven.tʃər/ US /ˈven.tʃɚ/ *(noun/verb)*: dự án mạo hiểm; mạo hiểm  
+  *Example:* She ventured to question the accuracy of the official figures.  
+  → Cô ấy đánh bạo đặt câu hỏi về độ chính xác của các số liệu chính thức.
+
+* **adventure** UK /ədˈven.tʃər/ US /ədˈven.tʃɚ/ *(countable/uncountable noun; verb)*: cuộc phiêu lưu; trải nghiệm mạo hiểm  
+  *Example:* Studying abroad can be a challenging but rewarding adventure.  
+  → Du học có thể là một cuộc phiêu lưu đầy thử thách nhưng bổ ích.
+
+* **adventurous** UK /ədˈven.tʃər.əs/ US /ədˈven.tʃɚ.əs/ *(adjective)*: thích phiêu lưu, táo bạo  
+  *Example:* Adventurous travelers often explore places beyond the main tourist routes.  
+  → Những du khách ưa phiêu lưu thường khám phá các địa điểm ngoài những tuyến du lịch chính.
+
+* **venture capitalist** UK /ˈven.tʃə ˌkæp.ɪ.təl.ɪst/ US /ˈven.tʃɚ ˌkæp.ə.t̬əl.ɪst/ *(countable noun phrase)*: nhà đầu tư mạo hiểm  
+  *Example:* The startup secured funding from an experienced venture capitalist.  
+  → Công ty khởi nghiệp nhận được vốn từ một nhà đầu tư mạo hiểm giàu kinh nghiệm.
+
+### Notes
+
+`Venture` emphasizes risk or uncertainty. A `joint venture` is a business project owned or managed by two or more parties. `Venture to say` is cautious and somewhat formal; in everyday speech, `I would say` or `I think` is more common.
+
+---
+
+## 446. Forsake UK /fəˈseɪk/ US /fɚˈseɪk/
+
+* **Part of speech:** transitive irregular verb
+* **Vietnamese meaning:** ruồng bỏ hoặc rời bỏ một người, nơi chốn hay trách nhiệm *(65%)*; từ bỏ một thói quen, nguyên tắc hoặc lối sống để chọn điều khác *(35%)*
+
+### Usage
+
+`Forsake` means abandon someone or something that was previously important, familiar, or relied upon. The irregular forms are `forsake – forsook – forsaken`. It is more formal, literary, and emotionally forceful than `leave` or `give up`.
+
+Common structures:
+
+* `forsake + person/family/duty`: ruồng bỏ người/gia đình/trách nhiệm
+* `forsake A for B`: từ bỏ A để chọn B
+* `be forsaken by + person/group`: bị ai/nhóm nào ruồng bỏ
+* `forsake one's principles`: từ bỏ nguyên tắc của mình
+* `a forsaken place/person`: nơi/người bị bỏ rơi
+
+### Examples
+
+1. **People should not forsake their moral principles for short-term profit.**
+   → Mọi người không nên từ bỏ các nguyên tắc đạo đức vì lợi nhuận ngắn hạn.
+
+2. **He felt forsaken by the friends he had trusted most.**
+   → Anh ấy cảm thấy bị ruồng bỏ bởi những người bạn mà mình tin tưởng nhất.
+
+### Common collocations
+
+* **forsake one's family**: ruồng bỏ gia đình
+* **forsake one's principles**: từ bỏ nguyên tắc
+* **feel completely forsaken**: cảm thấy hoàn toàn bị bỏ rơi
+* **godforsaken place**: nơi hẻo lánh, tồi tàn hoặc bị bỏ quên
+
+### Synonyms
+
+* **abandon** /əˈbæn.dən/ *(transitive verb)*: bỏ rơi, từ bỏ
+* **desert** UK /dɪˈzɜːt/ US /dɪˈzɝːt/ *(transitive verb)*: ruồng bỏ, đào ngũ
+* **renounce** /rɪˈnaʊns/ *(transitive verb)*: chính thức từ bỏ
+
+### Word family
+
+* **forsake** UK /fəˈseɪk/ US /fɚˈseɪk/ *(transitive irregular verb)*: ruồng bỏ, từ bỏ  
+  *Example:* She refused to forsake her responsibilities during the crisis.  
+  → Cô ấy từ chối từ bỏ trách nhiệm trong cuộc khủng hoảng.
+
+* **forsook** UK /fəˈsʊk/ US /fɚˈsʊk/ *(past-tense verb form)*: đã ruồng bỏ hoặc từ bỏ  
+  *Example:* The character forsook wealth for a life of service.  
+  → Nhân vật từ bỏ sự giàu có để chọn cuộc đời phụng sự.
+
+* **forsaken** UK /fəˈseɪ.kən/ US /fɚˈseɪ.kən/ *(past-participle form; adjective)*: bị bỏ rơi, hoang vắng  
+  *Example:* The once-busy village now looked empty and forsaken.  
+  → Ngôi làng từng nhộn nhịp giờ trông trống vắng và bị bỏ hoang.
+
+* **godforsaken** UK /ˈɡɒd.fəˌseɪ.kən/ US /ˈɡɑːd.fɚˌseɪ.kən/ *(adjective; informal, strongly negative)*: hẻo lánh, tồi tàn và bị bỏ quên  
+  *Example:* They were stranded in a godforsaken village with no phone signal.  
+  → Họ mắc kẹt ở một ngôi làng hẻo lánh, không có sóng điện thoại.
+
+### Notes
+
+Use `forsaken`, not `forsook`, after `have/has/had` or in the passive: `They had forsaken the plan`; `He felt forsaken`. In ordinary conversation, `abandon`, `leave`, or `give up` is usually more natural. `Godforsaken` can sound harsh or offensive, so use it cautiously.
