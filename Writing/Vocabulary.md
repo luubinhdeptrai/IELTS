@@ -24270,3 +24270,130 @@ Common structures:
 ### Notes
 
 Use `incorporate A into B`, not usually `incorporate A to B`: `incorporate solar panels into the design`. `Include` merely says that something is present; `incorporate` emphasizes making it an integrated part of the whole.
+
+---
+
+## 437. Cobbler UK /ˈkɒb.lər/ US /ˈkɑː.blɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thợ sửa giày, theo nghĩa truyền thống *(85%)*; món tráng miệng gồm trái cây nướng phủ bột bánh, phổ biến ở Bắc Mỹ và Anh *(15%)*
+
+### Usage
+
+A `cobbler` traditionally repairs shoes and boots. A person who makes new shoes is more precisely a `shoemaker`, although the terms may overlap in everyday use. In food contexts, a `cobbler` is a baked fruit dessert with a biscuit-like or cake-like topping.
+
+Common structures:
+
+* `take shoes to a cobbler`: mang giày đến thợ sửa giày
+* `work as a cobbler`: làm nghề sửa giày
+* `a village/local cobbler`: người thợ sửa giày trong làng/địa phương
+* `a peach/apple/berry cobbler`: món cobbler đào/táo/quả mọng
+
+### Examples
+
+1. **The cobbler replaced the worn soles and repaired the torn leather.**
+   → Người thợ sửa giày thay phần đế bị mòn và sửa lớp da bị rách.
+
+2. **We ordered a warm peach cobbler for dessert.**
+   → Chúng tôi gọi món bánh cobbler đào nóng để tráng miệng.
+
+### Common collocations
+
+* **local cobbler**: thợ sửa giày địa phương
+* **skilled cobbler**: thợ sửa giày lành nghề
+* **cobbler's shop**: tiệm sửa giày
+* **peach cobbler**: món cobbler đào
+
+### Synonyms
+
+* **shoe repairer** UK /ˈʃuː rɪˌpeə.rər/ US /ˈʃuː rɪˌper.ɚ/ *(countable noun phrase)*: thợ sửa giày
+* **shoemaker** UK /ˈʃuːˌmeɪ.kər/ US /ˈʃuːˌmeɪ.kɚ/ *(countable noun)*: thợ làm giày; có thể kiêm sửa giày
+* **bootmaker** UK /ˈbuːtˌmeɪ.kər/ US /ˈbuːtˌmeɪ.kɚ/ *(countable noun)*: thợ làm ủng hoặc giày
+
+### Word family
+
+* **cobbler** UK /ˈkɒb.lər/ US /ˈkɑː.blɚ/ *(countable noun)*: thợ sửa giày; món tráng miệng trái cây nướng  
+  *Example:* The cobbler used strong thread to repair the boot.  
+  → Người thợ sửa giày dùng chỉ bền để sửa chiếc ủng.
+
+* **cobble** UK /ˈkɒb.əl/ US /ˈkɑː.bəl/ *(transitive verb; countable noun)*: sửa hoặc ghép một cách thô sơ; đá cuội lát đường  
+  *Example:* The team cobbled together a temporary solution overnight.  
+  → Nhóm đã chắp vá một giải pháp tạm thời chỉ trong một đêm.
+
+* **cobbled** UK /ˈkɒb.əld/ US /ˈkɑː.bəld/ *(adjective/past-participle form)*: được lát bằng đá cuội; được ghép tạm  
+  *Example:* Tourists walked along the narrow cobbled street.  
+  → Du khách đi dọc con phố hẹp lát đá cuội.
+
+* **cobblestone** UK /ˈkɒb.əl.stəʊn/ US /ˈkɑː.bəl.stoʊn/ *(countable noun/adjective)*: đá cuội lát đường; làm bằng đá lát  
+  *Example:* The old town is known for its cobblestone paths.  
+  → Khu phố cổ nổi tiếng với những lối đi lát đá cuội.
+
+### Notes
+
+The first meaning to learn is a person who repairs shoes. A `shoemaker` primarily makes shoes, whereas a `cobbler` traditionally repairs them. The dessert meaning becomes clear from food words such as `peach`, `apple`, or `dessert`.
+
+---
+
+## 438. Even /ˈiː.vən/
+
+* **Part of speech:** focusing adverb; adjective; transitive/intransitive verb
+* **Vietnamese meaning:** thậm chí, dùng để nhấn mạnh điều bất ngờ hoặc cực đoan *(45%)*; còn hơn nữa, dùng trước dạng so sánh *(10%)*; bằng phẳng, đồng đều hoặc ngang bằng *(20%)*; chẵn, chia hết cho hai *(15%)*; làm cho cân bằng hoặc đồng đều *(10%)*
+
+### Usage
+
+As a focusing adverb, `even` emphasizes something surprising and normally appears immediately before the word or phrase being emphasized. It also strengthens comparatives, as in `even better`. As an adjective, it means level, equal, regular, or divisible by two. As a verb, it means make or become equal or smooth.
+
+Common structures:
+
+* `even + noun/person`: ngay cả/thậm chí một người hoặc vật
+* `subject + auxiliary + even + main verb`: chủ ngữ + trợ động từ + thậm chí + động từ chính
+* `even + comparative adjective/adverb`: thậm chí còn ... hơn
+* `even if + clause`: ngay cả nếu; nói về điều kiện có thể hoặc giả định
+* `even though + clause`: mặc dù; nói về một sự thật
+* `an even number/surface`: số chẵn/bề mặt bằng phẳng
+* `even out/up`: trở nên hoặc làm cho cân bằng
+
+### Examples
+
+1. **Even small changes in daily habits can improve public health.**
+   → Ngay cả những thay đổi nhỏ trong thói quen hằng ngày cũng có thể cải thiện sức khỏe cộng đồng.
+
+2. **Even though the task was difficult, she completed it on time.**
+   → Mặc dù nhiệm vụ khó, cô ấy vẫn hoàn thành đúng hạn.
+
+### Common collocations
+
+* **even better/worse**: thậm chí còn tốt/tệ hơn
+* **even if**: ngay cả nếu
+* **even though**: mặc dù
+* **even number**: số chẵn
+* **even distribution**: sự phân bố đồng đều
+
+### Synonyms
+
+* **surprisingly** /səˈpraɪ.zɪŋ.li/ *(adverb)*: một cách đáng ngạc nhiên; gần nghĩa nhấn mạnh trong một số ngữ cảnh
+* **level** /ˈlev.əl/ *(adjective)*: bằng phẳng
+* **equal** /ˈiː.kwəl/ *(adjective)*: ngang bằng
+* **uniform** UK /ˈjuː.nɪ.fɔːm/ US /ˈjuː.nə.fɔːrm/ *(adjective)*: đồng đều, nhất quán
+
+### Word family
+
+* **even** /ˈiː.vən/ *(adverb/adjective/verb)*: thậm chí; đồng đều, chẵn; làm cân bằng  
+  *Example:* The final score was even until the last minute.  
+  → Tỷ số vẫn cân bằng cho đến phút cuối cùng.
+
+* **evenly** /ˈiː.vən.li/ *(adverb)*: một cách đồng đều hoặc công bằng  
+  *Example:* Public funds should be distributed evenly across regions.  
+  → Ngân sách công nên được phân bổ đồng đều giữa các khu vực.
+
+* **uneven** /ʌnˈiː.vən/ *(adjective)*: không bằng phẳng, không đồng đều  
+  *Example:* Uneven access to education can deepen social inequality.  
+  → Khả năng tiếp cận giáo dục không đồng đều có thể làm gia tăng bất bình đẳng xã hội.
+
+* **evenness** /ˈiː.vən.nəs/ *(uncountable noun)*: độ bằng phẳng hoặc đồng đều  
+  *Example:* Check the evenness of the surface before laying the tiles.  
+  → Hãy kiểm tra độ bằng phẳng của bề mặt trước khi lát gạch.
+
+### Notes
+
+Compare `Even if it rains, we will go` *(the rain is only a possibility)* with `Even though it is raining, we will go` *(the rain is a fact)*. Place `even` directly before the element you want to emphasize: `Even Minh understood` emphasizes Minh, while `Minh even apologized` emphasizes the apology. Do not confuse `even` with `event` /ɪˈvent/.
