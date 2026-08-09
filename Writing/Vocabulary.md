@@ -24397,3 +24397,359 @@ Common structures:
 ### Notes
 
 Compare `Even if it rains, we will go` *(the rain is only a possibility)* with `Even though it is raining, we will go` *(the rain is a fact)*. Place `even` directly before the element you want to emphasize: `Even Minh understood` emphasizes Minh, while `Minh even apologized` emphasizes the apology. Do not confuse `even` with `event` /ɪˈvent/.
+
+---
+
+## 439. Pierce UK /pɪəs/ US /pɪrs/
+
+* **Part of speech:** transitive/intransitive verb
+* **Vietnamese meaning:** đâm xuyên, chọc thủng hoặc tạo lỗ qua vật gì *(50%)*; xuyên qua bóng tối, không khí hoặc một bề mặt *(20%)*; gây cảm giác mạnh, đau nhói hoặc tác động sâu sắc đến cảm xúc *(20%)*; nhìn hoặc nghe rất sắc, mạnh *(10%)*
+
+### Usage
+
+`Pierce` means pass into or through something with a sharp point, light, sound, or intense sensation. It is a regular verb: `pierce – pierced – pierced`. It is commonly transitive, but it can be intransitive in expressions such as `a sound pierced through the silence`.
+
+Common structures:
+
+* `pierce + skin/material`: đâm xuyên da/vật liệu
+* `pierce through + object/darkness/silence`: xuyên qua vật thể/bóng tối/sự im lặng
+* `be pierced by/with + object`: bị đâm xuyên bởi vật gì
+* `have one's ears/nose pierced`: xỏ lỗ tai/mũi
+* `a sound/cry pierces the air`: âm thanh/tiếng kêu vang xuyên không khí
+
+### Examples
+
+1. **The needle pierced the thick leather with difficulty.**
+   → Cây kim khó khăn đâm xuyên qua lớp da dày.
+
+2. **A sudden scream pierced the silence of the empty building.**
+   → Một tiếng hét bất ngờ xé tan sự im lặng của tòa nhà trống.
+
+### Common collocations
+
+* **pierce the skin**: đâm xuyên da
+* **pierce the darkness**: xuyên qua bóng tối
+* **piercing pain**: cơn đau nhói
+* **piercing gaze**: ánh nhìn sắc bén
+
+### Synonyms
+
+* **puncture** /ˈpʌŋk.tʃər/ *(transitive verb)*: chọc thủng, làm thủng
+* **penetrate** /ˈpen.ɪ.treɪt/ *(transitive/intransitive verb)*: xuyên qua, thâm nhập
+* **perforate** UK /ˈpɜː.fər.eɪt/ US /ˈpɝː.fə.reɪt/ *(transitive verb)*: đục hoặc tạo nhiều lỗ; trang trọng/kỹ thuật
+
+### Word family
+
+* **pierce** UK /pɪəs/ US /pɪrs/ *(verb)*: đâm xuyên, chọc thủng  
+  *Example:* Bright sunlight pierced the thin curtains.  
+  → Ánh nắng chói xuyên qua những tấm rèm mỏng.
+
+* **pierced** UK /pɪəst/ US /pɪrst/ *(adjective/past-participle form)*: bị đâm/xỏ lỗ  
+  *Example:* She wears small earrings in her pierced ears.  
+  → Cô ấy đeo hoa tai nhỏ ở đôi tai đã xỏ lỗ.
+
+* **piercing** UK /ˈpɪə.sɪŋ/ US /ˈpɪr.sɪŋ/ *(adjective/noun/verb form)*: sắc nhọn, chói tai; việc xỏ lỗ  
+  *Example:* The alarm made a piercing sound.  
+  → Chuông báo động phát ra âm thanh chói tai.
+
+### Notes
+
+`Pierce` emphasizes entering or passing through with a sharp point or force. `Puncture` often means make a hole that causes air or liquid to escape, while `penetrate` is broader and can mean enter an area, material, or market.
+
+---
+
+## 440. Such /sʌtʃ/
+
+* **Part of speech:** determiner; predeterminer; pronoun *(formal in some uses)*
+* **Vietnamese meaning:** như vậy, đến mức như thế hoặc thuộc loại đó *(45%)*; dùng để nhấn mạnh một danh từ/cụm danh từ *(20%)*; chẳng hạn như, trong `such as` *(20%)*; với tư cách đúng như vậy, trong `as such` *(10%)*; người/vật như thế, khi dùng như đại từ trang trọng *(5%)*
+
+### Usage
+
+`Such` introduces or emphasizes a noun phrase. Use `such a/an + adjective + singular countable noun`, but use `such + adjective + plural or uncountable noun`. `Such as` introduces examples, while `such ... that` links a strong quality or degree to its result.
+
+Common structures:
+
+* `such a/an + adjective + singular countable noun`: một ... thật/đến như vậy
+* `such + adjective + plural/uncountable noun`: những ... như vậy/thứ ... đến vậy
+* `such as + examples`: chẳng hạn như
+* `such + noun phrase + that + clause`: quá/đến mức ... nên
+* `no such + noun`: không có ... như vậy
+* `as such`: với đúng tư cách/bản chất đó; vì thế theo nghĩa chính xác
+
+### Examples
+
+1. **It was such a convincing argument that everyone supported the proposal.**
+   → Đó là một lập luận thuyết phục đến mức mọi người đều ủng hộ đề xuất.
+
+2. **Renewable sources such as solar and wind power can reduce carbon emissions.**
+   → Các nguồn năng lượng tái tạo như năng lượng mặt trời và gió có thể làm giảm khí thải carbon.
+
+### Common collocations
+
+* **such a shame**: thật đáng tiếc
+* **such as**: chẳng hạn như
+* **no such thing**: không có chuyện/thứ như vậy
+* **as such**: với đúng tư cách đó; theo đúng nghĩa đó
+
+### Synonyms
+
+* **of this kind** /əv ˌðɪs ˈkaɪnd/ *(adjective phrase)*: thuộc loại này
+* **like** /laɪk/ *(preposition)*: như, chẳng hạn như
+* **for example** UK /fər ɪɡˈzɑːm.pəl/ US /fɚ ɪɡˈzæm.pəl/ *(linking phrase)*: ví dụ như
+
+### Word family
+
+* **such** /sʌtʃ/ *(determiner/predeterminer/pronoun)*: như vậy, đến mức như thế  
+  *Example:* There is no such thing as a perfect solution.  
+  → Không có thứ gì gọi là giải pháp hoàn hảo.
+
+### Notes
+
+`Such` has no common productive word family. Compare `so + adjective/adverb` with `such + noun phrase`: `The test was so difficult`, but `It was such a difficult test`. Do not use `such as` to introduce a complete clause; it normally introduces nouns or noun phrases. `As such` does not always mean `therefore`: it refers to someone or something in the exact role or sense just mentioned.
+
+---
+
+## 441. Conscience UK /ˈkɒn.ʃəns/ US /ˈkɑːn.ʃəns/
+
+* **Part of speech:** countable/uncountable noun
+* **Vietnamese meaning:** lương tâm, ý thức bên trong về điều đúng và sai *(80%)*; cảm giác tội lỗi hoặc yên lòng về hành động của mình *(20%)*
+
+### Usage
+
+`Conscience` is the inner sense that judges whether one's actions are morally right or wrong. It is countable when referring to a person's conscience or a particular state, as in `a guilty conscience`, and uncountable in formal expressions such as `freedom of conscience`.
+
+Common structures:
+
+* `have a clear/guilty conscience`: có lương tâm thanh thản/cắn rứt
+* `one's conscience bothers/pricks one`: lương tâm khiến ai day dứt
+* `on grounds of conscience`: vì lý do lương tâm/đạo đức
+* `an issue/matter of conscience`: vấn đề thuộc về lương tâm
+* `follow/listen to one's conscience`: làm theo/lắng nghe lương tâm
+
+### Examples
+
+1. **He returned the money because his conscience would not allow him to keep it.**
+   → Anh ấy trả lại tiền vì lương tâm không cho phép anh giữ nó.
+
+2. **Companies with a social conscience should not ignore their responsibilities simply to protect profits.**
+   → Các công ty có ý thức về trách nhiệm xã hội không nên phớt lờ nghĩa vụ chỉ để bảo vệ lợi nhuận.
+
+### Common collocations
+
+* **clear conscience**: lương tâm thanh thản
+* **guilty conscience**: lương tâm cắn rứt
+* **crisis of conscience**: khủng hoảng lương tâm
+* **freedom of conscience**: tự do lương tâm/tín ngưỡng
+
+### Synonyms
+
+* **moral sense** UK /ˈmɒr.əl ˌsens/ US /ˈmɔːr.əl ˌsens/ *(noun phrase)*: ý thức đạo đức
+* **inner voice** UK /ˌɪn.ə ˈvɔɪs/ US /ˌɪn.ɚ ˈvɔɪs/ *(countable noun phrase)*: tiếng nói nội tâm
+* **sense of right and wrong** /ˌsens əv ˌraɪt ən ˈrɒŋ/ *(noun phrase)*: ý thức về đúng và sai
+
+### Word family
+
+* **conscience** UK /ˈkɒn.ʃəns/ US /ˈkɑːn.ʃəns/ *(noun)*: lương tâm  
+  *Example:* Her conscience troubled her after she lied to her colleague.  
+  → Lương tâm khiến cô ấy day dứt sau khi nói dối đồng nghiệp.
+
+* **conscientious** UK /ˌkɒn.ʃiˈen.ʃəs/ US /ˌkɑːn.ʃiˈen.ʃəs/ *(adjective)*: tận tâm, cẩn thận và có trách nhiệm  
+  *Example:* She is a conscientious employee who checks every detail.  
+  → Cô ấy là một nhân viên tận tâm, luôn kiểm tra mọi chi tiết.
+
+* **conscientiously** UK /ˌkɒn.ʃiˈen.ʃəs.li/ US /ˌkɑːn.ʃiˈen.ʃəs.li/ *(adverb)*: một cách tận tâm và có trách nhiệm  
+  *Example:* The researchers conscientiously recorded every result.  
+  → Các nhà nghiên cứu ghi lại mọi kết quả một cách tận tâm.
+
+* **conscientiousness** UK /ˌkɒn.ʃiˈen.ʃəs.nəs/ US /ˌkɑːn.ʃiˈen.ʃəs.nəs/ *(uncountable noun)*: tính tận tâm, cẩn trọng  
+  *Example:* Conscientiousness is valuable in jobs that require accuracy.  
+  → Tính tận tâm rất có giá trị trong những công việc đòi hỏi độ chính xác.
+
+### Notes
+
+Do not confuse `conscience` *(noun: lương tâm)* with `conscious` UK /ˈkɒn.ʃəs/ US /ˈkɑːn.ʃəs/ *(adjective: tỉnh táo, nhận thức được)*. The spelling and pronunciation are different: `a guilty conscience`, but `be conscious of a problem`.
+
+---
+
+## 442. Thread /θred/
+
+* **Part of speech:** countable/uncountable noun; transitive/intransitive verb
+* **Vietnamese meaning:** sợi chỉ dùng để may hoặc một sợi vật liệu mảnh *(40%)*; chuỗi bài đăng hoặc tin nhắn trực tuyến *(20%)*; chủ đề hoặc mối liên kết chạy xuyên suốt *(20%)*; luồn chỉ/đưa vật qua khe hoặc di chuyển khéo qua nơi hẹp *(20%)*
+
+### Usage
+
+As a noun, `thread` can be sewing material, one thin strand, an online conversation, or a connecting theme. As a verb, it means pass thread through a needle, pass one object through another, or move carefully through a narrow or crowded space.
+
+Common structures:
+
+* `a needle and thread`: kim và chỉ
+* `thread a needle`: xâu chỉ vào kim
+* `thread A through B`: luồn A qua B
+* `a discussion/email thread`: chuỗi thảo luận/email
+* `a common thread running through + things`: chủ đề/điểm chung xuyên suốt các điều
+* `thread one's way through + crowd/traffic`: len lỏi qua đám đông/giao thông
+
+### Examples
+
+1. **Use strong thread to repair the torn seam.**
+   → Hãy dùng chỉ bền để sửa đường may bị rách.
+
+2. **Social inequality is a common thread running through all three reports.**
+   → Bất bình đẳng xã hội là một chủ đề chung xuyên suốt cả ba báo cáo.
+
+### Common collocations
+
+* **needle and thread**: kim và chỉ
+* **strong thread**: chỉ bền
+* **discussion thread**: chuỗi thảo luận
+* **common thread**: chủ đề hoặc điểm chung xuyên suốt
+
+### Synonyms
+
+* **strand** /strænd/ *(countable noun)*: sợi mảnh; nhánh/chủ đề
+* **fibre (US: fiber)** UK /ˈfaɪ.bər/ US /ˈfaɪ.bɚ/ *(countable/uncountable noun)*: sợi
+* **theme** /θiːm/ *(countable noun)*: chủ đề; chỉ nghĩa bóng
+
+### Word family
+
+* **thread** /θred/ *(noun/verb)*: sợi chỉ; chuỗi thảo luận; xâu, luồn  
+  *Example:* She threaded the ribbon through the narrow opening.  
+  → Cô ấy luồn dải ruy băng qua khe hẹp.
+
+* **threaded** /ˈθred.ɪd/ *(adjective/past-participle form)*: được xâu/luồn; có ren xoắn  
+  *Example:* The pipe has a threaded end for easy connection.  
+  → Ống có đầu ren để dễ kết nối.
+
+* **threading** /ˈθred.ɪŋ/ *(uncountable noun/verb form)*: việc xâu/luồn; kỹ thuật tỉa lông bằng chỉ  
+  *Example:* Threading the needle requires steady hands.  
+  → Việc xâu kim đòi hỏi đôi tay vững vàng.
+
+* **threadbare** UK /ˈθred.beər/ US /ˈθred.ber/ *(adjective)*: sờn rách; cũ mòn và thiếu thuyết phục  
+  *Example:* The report relied on a threadbare argument with little evidence.  
+  → Báo cáo dựa vào một lập luận cũ mòn, có rất ít bằng chứng.
+
+### Notes
+
+`Thread` is uncountable when referring to sewing material generally, but countable for individual strands or online conversations: `some thread`, `a loose thread`, and `three discussion threads`. Do not confuse `thread` with `threat` /θret/.
+
+---
+
+## 443. Stumble /ˈstʌm.bəl/
+
+* **Part of speech:** intransitive verb; countable noun
+* **Vietnamese meaning:** vấp hoặc suýt ngã khi đang đi *(40%)*; nói hoặc đọc ngập ngừng, mắc lỗi *(20%)*; tình cờ tìm thấy/gặp điều gì trong `stumble across/upon` *(25%)*; gặp khó khăn hoặc phạm sai lầm *(15%)*
+
+### Usage
+
+`Stumble` literally means lose balance after catching one's foot or stepping badly. Figuratively, it can mean speak hesitantly, make an error, encounter difficulty, or discover something unexpectedly. It is a regular verb: `stumble – stumbled – stumbled`.
+
+Common structures:
+
+* `stumble over/on + object`: vấp phải vật gì
+* `stumble and fall`: vấp và ngã
+* `stumble over + words/name`: nói vấp ở từ/tên nào
+* `stumble across/upon + person/thing`: tình cờ gặp/tìm thấy ai hoặc điều gì
+* `stumble through + speech/task`: làm bài nói/nhiệm vụ một cách ngập ngừng, khó khăn
+
+### Examples
+
+1. **He stumbled over a loose stone and injured his ankle.**
+   → Anh ấy vấp phải một hòn đá lỏng và bị thương ở mắt cá chân.
+
+2. **While researching the topic, I stumbled across a useful government report.**
+   → Trong khi nghiên cứu chủ đề, tôi tình cờ tìm thấy một báo cáo hữu ích của chính phủ.
+
+### Common collocations
+
+* **stumble and fall**: vấp và ngã
+* **stumble over one's words**: nói vấp, nói ngập ngừng
+* **stumble across a discovery**: tình cờ tìm thấy một điều
+* **stumble badly**: vấp nặng; mắc sai lầm nghiêm trọng
+
+### Synonyms
+
+* **trip** /trɪp/ *(intransitive verb)*: vấp
+* **falter** UK /ˈfɒl.tər/ US /ˈfɑːl.tɚ/ *(intransitive verb)*: chững lại, nói hoặc hành động thiếu tự tin
+* **come across** UK /ˌkʌm əˈkrɒs/ US /ˌkʌm əˈkrɑːs/ *(phrasal verb)*: tình cờ gặp/tìm thấy
+
+### Word family
+
+* **stumble** /ˈstʌm.bəl/ *(verb/countable noun)*: vấp; tình cờ gặp; lần vấp  
+  *Example:* A small stumble should not stop you from trying again.  
+  → Một lần vấp ngã nhỏ không nên ngăn bạn thử lại.
+
+* **stumbled** /ˈstʌm.bəld/ *(past-tense/past-participle form)*: đã vấp hoặc tình cờ gặp  
+  *Example:* We stumbled upon a quiet café near the station.  
+  → Chúng tôi tình cờ gặp một quán cà phê yên tĩnh gần nhà ga.
+
+* **stumbling** /ˈstʌm.blɪŋ/ *(adjective/verb form)*: đang vấp; gây trở ngại  
+  *Example:* Limited funding remains a major stumbling block.  
+  → Nguồn tài trợ hạn chế vẫn là một trở ngại lớn.
+
+### Notes
+
+`Stumble upon/across` means find by chance and is not negative. `Stumble over one's words` means speak with pauses or mistakes. A `stumbling block` is a problem that prevents progress.
+
+---
+
+## 444. Roll UK /rəʊl/ US /roʊl/
+
+* **Part of speech:** transitive/intransitive verb; countable noun
+* **Vietnamese meaning:** lăn, cuộn hoặc di chuyển bằng cách xoay *(30%)*; cuộn/gói hoặc tạo thành hình trụ *(20%)*; di chuyển liên tục, trôi hoặc lan tới *(10%)*; danh sách hoặc sổ đăng ký chính thức *(15%)*; bánh mì nhỏ hình tròn/dài *(10%)*; sự lăn, tiếng vang kéo dài hoặc động tác cuộn *(15%)*
+
+### Usage
+
+`Roll` has a broad physical meaning: turn repeatedly, move on wheels, or wrap something into a cylindrical shape. As a noun, it can mean a small bread item, an official list, a turning movement, or a continuous sound. Several common phrasal verbs, including `roll out` and `roll up`, have distinct meanings.
+
+Common structures:
+
+* `roll + object + into + shape`: cuộn vật thành hình gì
+* `roll down/up + hill/window`: lăn xuống/lên đồi; hạ/nâng cửa kính
+* `roll one's eyes`: đảo mắt, thường vì khó chịu
+* `roll out + product/policy`: ra mắt sản phẩm/triển khai chính sách
+* `be on a roll`: đang có chuỗi thành công
+* `call/take the roll`: điểm danh
+
+### Examples
+
+1. **The government plans to roll out the new recycling scheme nationwide.**
+   → Chính phủ dự định triển khai chương trình tái chế mới trên toàn quốc.
+
+2. **She rolled the document into a tube and placed it in her bag.**
+   → Cô ấy cuộn tài liệu thành hình ống rồi đặt vào túi.
+
+### Common collocations
+
+* **roll out a programme**: triển khai một chương trình
+* **roll one's eyes**: đảo mắt
+* **bread roll**: bánh mì nhỏ
+* **roll call**: việc điểm danh
+* **on a roll**: đang liên tiếp thành công
+
+### Synonyms
+
+* **rotate** UK /rəʊˈteɪt/ US /ˈroʊ.teɪt/ *(transitive/intransitive verb)*: xoay
+* **turn** UK /tɜːn/ US /tɝːn/ *(transitive/intransitive verb)*: xoay, lật
+* **list** /lɪst/ *(countable noun)*: danh sách; chỉ nghĩa danh từ `roll`
+
+### Word family
+
+* **roll** UK /rəʊl/ US /roʊl/ *(verb/countable noun)*: lăn, cuộn; cuộn, danh sách, bánh mì nhỏ  
+  *Example:* The ball continued to roll down the slope.  
+  → Quả bóng tiếp tục lăn xuống sườn dốc.
+
+* **roller** UK /ˈrəʊ.lər/ US /ˈroʊ.lɚ/ *(countable noun)*: con lăn, trục lăn  
+  *Example:* Use a paint roller to cover the wall evenly.  
+  → Hãy dùng con lăn sơn để phủ tường đồng đều.
+
+* **rolling** UK /ˈrəʊ.lɪŋ/ US /ˈroʊ.lɪŋ/ *(adjective/noun/verb form)*: lăn, nhấp nhô; sự lăn  
+  *Example:* The region is known for its rolling hills.  
+  → Khu vực này nổi tiếng với những ngọn đồi nhấp nhô.
+
+* **rollout** UK /ˈrəʊl.aʊt/ US /ˈroʊl.aʊt/ *(countable noun)*: việc ra mắt hoặc triển khai  
+  *Example:* The nationwide rollout of the service begins next month.  
+  → Việc triển khai dịch vụ trên toàn quốc bắt đầu vào tháng tới.
+
+### Notes
+
+`Roll out` is a verb phrase and is written as two words: `They will roll out the service`. The corresponding noun is usually one word: `the service rollout`. Do not confuse `roll` with `role` /rəʊl, roʊl/, which means a function, position, or character.
