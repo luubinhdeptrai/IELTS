@@ -23908,3 +23908,365 @@ Common structures:
 ### Notes
 
 The requested form `shook` is correct but is not the base form: `Yesterday, the noise shook the windows.` Do not use it as a past participle: say `The event has shaken public confidence`, not `has shook`. `Shake` is broader than `tremble`; a person may tremble involuntarily, while someone can deliberately shake an object.
+
+---
+
+## 431. Moral UK /ˈmɒr.əl/ US /ˈmɔːr.əl/
+
+* **Part of speech:** adjective; countable noun; plural noun in `morals`
+* **Vietnamese meaning:** liên quan đến nguyên tắc đúng và sai *(40%)*; đúng đắn hoặc tốt về mặt đạo đức *(25%)*; bài học rút ra từ một câu chuyện/sự việc *(20%)*; các chuẩn mực đạo đức cá nhân, thường ở dạng `morals` *(15%)*
+
+### Usage
+
+As an adjective, `moral` concerns judgments about right and wrong or describes behavior considered ethically good. As a countable noun, `the moral` is the lesson taught by a story or experience. The plural `morals` means a person's standards of acceptable behavior.
+
+Common structures:
+
+* `a moral obligation/duty`: nghĩa vụ đạo đức
+* `morally right/wrong`: đúng/sai về mặt đạo đức
+* `the moral of + story`: bài học đạo đức của câu chuyện
+* `have strong morals`: có chuẩn mực đạo đức vững vàng
+* `a moral issue/dilemma`: vấn đề/tình thế khó xử về đạo đức
+
+### Examples
+
+1. **We have a moral obligation to protect vulnerable members of society.**
+   → Chúng ta có nghĩa vụ đạo đức phải bảo vệ những thành viên dễ bị tổn thương trong xã hội.
+
+2. **The moral of the story is that honesty builds lasting trust.**
+   → Bài học của câu chuyện là sự trung thực xây dựng lòng tin lâu dài.
+
+### Common collocations
+
+* **moral responsibility**: trách nhiệm đạo đức
+* **moral values**: các giá trị đạo đức
+* **moral dilemma**: tình thế tiến thoái lưỡng nan về đạo đức
+* **moral support**: sự động viên tinh thần
+
+### Synonyms
+
+* **ethical** /ˈeθ.ɪ.kəl/ *(adjective)*: thuộc về đạo đức, phù hợp chuẩn mực đạo đức
+* **principled** /ˈprɪn.sə.pəld/ *(adjective)*: có nguyên tắc đạo đức
+* **virtuous** UK /ˈvɜː.tʃu.əs/ US /ˈvɝː.tʃu.əs/ *(adjective)*: đức hạnh, có phẩm chất tốt
+
+### Word family
+
+* **moral** UK /ˈmɒr.əl/ US /ˈmɔːr.əl/ *(adjective/noun)*: thuộc đạo đức; bài học đạo đức  
+  *Example:* The debate raises several difficult moral questions.  
+  → Cuộc tranh luận đặt ra một số câu hỏi đạo đức khó khăn.
+
+* **morally** UK /ˈmɒr.əl.i/ US /ˈmɔːr.əl.i/ *(adverb)*: về mặt đạo đức  
+  *Example:* Discriminating against applicants is morally unacceptable.  
+  → Phân biệt đối xử với ứng viên là điều không thể chấp nhận về mặt đạo đức.
+
+* **morality** UK /məˈræl.ə.ti/ US /məˈræl.ə.t̬i/ *(uncountable noun)*: đạo đức, quan niệm về đúng sai  
+  *Example:* Ideas about morality vary across cultures and historical periods.  
+  → Quan niệm về đạo đức khác nhau giữa các nền văn hóa và giai đoạn lịch sử.
+
+* **immoral** UK /ɪˈmɒr.əl/ US /ɪˈmɔːr.əl/ *(adjective)*: vô đạo đức  
+  *Example:* Exploiting children for profit is widely regarded as immoral.  
+  → Bóc lột trẻ em vì lợi nhuận được xem rộng rãi là vô đạo đức.
+
+### Notes
+
+Do not confuse `moral` with `morale` /məˈrɑːl/, which means the confidence and enthusiasm of a person or group. `Moral support` means encouragement, not financial or practical assistance.
+
+---
+
+## 432. Sincere UK /sɪnˈsɪər/ US /sɪnˈsɪr/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** chân thành, thực sự thể hiện cảm xúc hoặc niềm tin *(70%)*; thành thật, không giả tạo hoặc có ý đánh lừa *(30%)*
+
+### Usage
+
+`Sincere` describes genuine feelings, beliefs, intentions, or words. It commonly modifies apologies, thanks, sympathy, wishes, and efforts. A person can be `sincere about` a belief or `sincere in` an attempt.
+
+Common structures:
+
+* `be sincere about + belief/feeling`: chân thành về niềm tin/cảm xúc
+* `be sincere in + noun/V-ing`: chân thành trong điều gì/việc làm gì
+* `a sincere apology`: lời xin lỗi chân thành
+* `sincere thanks/condolences`: lời cảm ơn/chia buồn chân thành
+* `make a sincere effort to + verb`: thực sự nỗ lực làm gì
+
+### Examples
+
+1. **She offered a sincere apology for overlooking the student's concerns.**
+   → Cô ấy đưa ra lời xin lỗi chân thành vì đã bỏ qua những mối quan tâm của sinh viên.
+
+2. **The charity made a sincere effort to improve financial transparency.**
+   → Tổ chức từ thiện đã nỗ lực chân thành để cải thiện tính minh bạch tài chính.
+
+### Common collocations
+
+* **sincere apology**: lời xin lỗi chân thành
+* **sincere gratitude**: lòng biết ơn chân thành
+* **sincere belief**: niềm tin chân thành
+* **sincere effort**: nỗ lực thực lòng
+
+### Synonyms
+
+* **genuine** /ˈdʒen.ju.ɪn/ *(adjective)*: chân thật, thực sự
+* **heartfelt** UK /ˈhɑːt.felt/ US /ˈhɑːrt.felt/ *(adjective)*: chân thành và sâu sắc về cảm xúc
+* **honest** UK /ˈɒn.ɪst/ US /ˈɑː.nɪst/ *(adjective)*: trung thực, thành thật
+
+### Word family
+
+* **sincere** UK /sɪnˈsɪər/ US /sɪnˈsɪr/ *(adjective)*: chân thành  
+  *Example:* His concern for the injured workers seemed sincere.  
+  → Sự quan tâm của anh ấy đối với những công nhân bị thương có vẻ chân thành.
+
+* **sincerely** UK /sɪnˈsɪə.li/ US /sɪnˈsɪr.li/ *(adverb)*: một cách chân thành  
+  *Example:* I sincerely appreciate your help with the application.  
+  → Tôi chân thành cảm kích sự giúp đỡ của bạn đối với đơn đăng ký.
+
+* **sincerity** UK /sɪnˈser.ə.ti/ US /sɪnˈser.ə.t̬i/ *(uncountable noun)*: sự chân thành  
+  *Example:* The audience was impressed by the sincerity of her speech.  
+  → Khán giả ấn tượng với sự chân thành trong bài phát biểu của cô ấy.
+
+* **insincere** UK /ˌɪn.sɪnˈsɪər/ US /ˌɪn.sɪnˈsɪr/ *(adjective)*: không chân thành, giả tạo  
+  *Example:* A forced apology often sounds insincere.  
+  → Một lời xin lỗi bị ép buộc thường nghe có vẻ không chân thành.
+
+### Notes
+
+`Sincere` focuses on genuine intention or emotion; `honest` more broadly means truthful and not deceptive. In letters, `Yours sincerely` is a conventional British closing when the recipient's name is known.
+
+---
+
+## 433. Confidant UK /ˈkɒn.fɪ.dænt/ US /ˈkɑːn.fə.dænt/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người bạn tâm giao hoặc người đáng tin cậy để chia sẻ chuyện riêng tư *(90%)*; cố vấn thân cận được tin tưởng *(10%)*
+
+### Usage
+
+A `confidant` is a trusted person to whom someone reveals private thoughts, concerns, or secrets. The spelling `confidante` is sometimes used for a woman, but gender-neutral `confidant` is now widely used for anyone.
+
+Common structures:
+
+* `a close/trusted confidant`: người bạn tâm giao thân thiết/đáng tin cậy
+* `serve as someone's confidant`: làm người tâm giao của ai
+* `become a confidant of + person`: trở thành người tâm giao của ai
+* `confide in + person`: tâm sự với ai
+
+### Examples
+
+1. **Over time, her colleague became a trusted confidant.**
+   → Theo thời gian, đồng nghiệp của cô ấy trở thành một người bạn tâm giao đáng tin cậy.
+
+2. **Leaders often need a confidant with whom they can discuss difficult decisions privately.**
+   → Các nhà lãnh đạo thường cần một người tâm giao để có thể thảo luận riêng về những quyết định khó khăn.
+
+### Common collocations
+
+* **trusted confidant**: người tâm giao đáng tin cậy
+* **close confidant**: người bạn tâm giao thân thiết
+* **personal confidant**: người tâm giao riêng
+
+### Synonyms
+
+* **trusted friend** /ˌtrʌs.tɪd ˈfrend/ *(countable noun phrase)*: người bạn đáng tin cậy
+* **adviser** UK /ədˈvaɪ.zər/ US /ədˈvaɪ.zɚ/ *(countable noun)*: cố vấn; chỉ gần nghĩa khi có sự tin cậy cá nhân
+* **intimate** /ˈɪn.tɪ.mət/ *(countable noun; formal)*: bạn thân, người thân cận
+
+### Word family
+
+* **confidant** UK /ˈkɒn.fɪ.dænt/ US /ˈkɑːn.fə.dænt/ *(countable noun)*: người tâm giao  
+  *Example:* She regarded her sister as her closest confidant.  
+  → Cô ấy xem chị gái là người tâm giao thân thiết nhất.
+
+* **confide** /kənˈfaɪd/ *(transitive/intransitive verb)*: tâm sự, tiết lộ điều riêng tư  
+  *Example:* He confided in a friend about his financial worries.  
+  → Anh ấy tâm sự với một người bạn về những lo lắng tài chính.
+
+* **confidence** UK /ˈkɒn.fɪ.dəns/ US /ˈkɑːn.fə.dəns/ *(uncountable/countable noun)*: sự tự tin; điều bí mật được chia sẻ  
+  *Example:* She told me the information in strict confidence.  
+  → Cô ấy nói cho tôi thông tin đó với sự tin tưởng tuyệt đối rằng nó sẽ được giữ kín.
+
+* **confidential** UK /ˌkɒn.fɪˈden.ʃəl/ US /ˌkɑːn.fəˈden.ʃəl/ *(adjective)*: bí mật, bảo mật  
+  *Example:* Medical records must remain confidential.  
+  → Hồ sơ y tế phải được giữ bí mật.
+
+### Notes
+
+Do not confuse `confidant` /ˈkɒn.fɪ.dænt/ *(a trusted person)* with `confident` /ˈkɒn.fɪ.dənt/ *(feeling sure of yourself)*. `Confide in someone` means trust that person with private information.
+
+---
+
+## 434. Ally — noun UK /ˈæl.aɪ/ US /ˈæl.aɪ/; verb /əˈlaɪ/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** người hoặc tổ chức hỗ trợ và hợp tác với mình *(45%)*; quốc gia liên minh, đặc biệt trong chiến tranh hoặc chính trị *(30%)*; đồng minh hỗ trợ một nhóm xã hội *(15%)*; liên minh hoặc gắn mình với ai, khi dùng như động từ *(10%)*
+
+### Usage
+
+As a noun, an `ally` is a supporter, partner, or allied country. As a verb, `ally` means join or cooperate for a shared purpose. The noun is stressed on the first syllable, while the verb is usually stressed on the second.
+
+Common structures:
+
+* `an ally of + person/country/group`: đồng minh của ai/quốc gia/nhóm nào
+* `a close/strategic ally`: đồng minh thân cận/chiến lược
+* `ally with + person/group`: liên minh với ai/nhóm nào
+* `ally oneself with + person/cause`: tự liên kết với ai/mục tiêu nào
+* `be allied to/with + group`: có liên minh hoặc liên kết với nhóm nào
+
+### Examples
+
+1. **The two countries have remained close allies for several decades.**
+   → Hai quốc gia vẫn là đồng minh thân cận trong nhiều thập kỷ.
+
+2. **Local businesses allied with environmental groups to oppose the development.**
+   → Các doanh nghiệp địa phương liên minh với những nhóm môi trường để phản đối dự án phát triển.
+
+### Common collocations
+
+* **close ally**: đồng minh thân cận
+* **political ally**: đồng minh chính trị
+* **strategic ally**: đồng minh chiến lược
+* **ally with someone**: liên minh với ai
+
+### Synonyms
+
+* **partner** UK /ˈpɑːt.nər/ US /ˈpɑːrt.nɚ/ *(countable noun)*: đối tác
+* **supporter** UK /səˈpɔː.tər/ US /səˈpɔːr.t̬ɚ/ *(countable noun)*: người ủng hộ
+* **associate** UK /əˈsəʊ.si.ət/ US /əˈsoʊ.si.ət/ *(countable noun)*: cộng sự, người liên kết
+
+### Word family
+
+* **ally** UK/US /ˈæl.aɪ/ *(noun)*; /əˈlaɪ/ *(verb)*: đồng minh; liên minh  
+  *Example:* The organization is a long-standing ally of disability-rights groups.  
+  → Tổ chức này là đồng minh lâu năm của các nhóm bảo vệ quyền người khuyết tật.
+
+* **alliance** /əˈlaɪ.əns/ *(countable noun)*: liên minh  
+  *Example:* The universities formed an alliance to share research facilities.  
+  → Các trường đại học thành lập một liên minh để chia sẻ cơ sở nghiên cứu.
+
+* **allied** /ˈæl.aɪd/ *(adjective/past-participle form)*: liên minh, có liên quan mật thiết  
+  *Example:* The project brings together experts from allied fields.  
+  → Dự án quy tụ các chuyên gia từ những lĩnh vực có liên quan mật thiết.
+
+### Notes
+
+The noun and verb have different stress: `an ALL-y` but `to al-LY`. `Ally` does not always imply complete agreement; allies cooperate because they share a particular interest or goal.
+
+---
+
+## 435. Harbor (UK: Harbour) UK /ˈhɑː.bər/ US /ˈhɑːr.bɚ/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** cảng hoặc vùng nước được che chắn cho tàu thuyền *(45%)*; âm thầm giữ cảm xúc, suy nghĩ hoặc nghi ngờ *(30%)*; chứa hoặc là nơi tồn tại của mầm bệnh/mối nguy *(15%)*; che giấu hoặc cho người bị truy nã trú ẩn *(10%)*
+
+### Usage
+
+As a noun, a `harbor` is a sheltered area of water where boats can stay safely. As a verb, it commonly means keep a feeling or thought for a long time, contain something harmful, or secretly shelter a person. `Harbor` is the American spelling; `harbour` is British.
+
+Common structures:
+
+* `a natural/safe harbor`: cảng tự nhiên/an toàn
+* `harbor + doubts/suspicions`: nuôi giữ sự nghi ngờ
+* `harbor + resentment/grudge`: nuôi lòng oán giận/mối hận
+* `harbor + bacteria/virus`: chứa vi khuẩn/vi-rút
+* `harbor a fugitive`: che giấu người đang trốn chạy
+
+### Examples
+
+1. **The island's natural harbor protects fishing boats during storms.**
+   → Cảng tự nhiên của hòn đảo bảo vệ thuyền đánh cá trong các cơn bão.
+
+2. **Employees may harbor resentment if promotion decisions are not transparent.**
+   → Nhân viên có thể nuôi lòng oán giận nếu các quyết định thăng chức không minh bạch.
+
+### Common collocations
+
+* **natural harbor**: cảng tự nhiên
+* **harbor doubts**: mang trong lòng sự nghi ngờ
+* **harbor resentment**: nuôi lòng oán giận
+* **harbor bacteria**: chứa vi khuẩn
+
+### Synonyms
+
+* **port** UK /pɔːt/ US /pɔːrt/ *(countable noun)*: cảng
+* **shelter** UK /ˈʃel.tər/ US /ˈʃel.tɚ/ *(transitive verb)*: che chở, cho trú ẩn
+* **entertain** UK /ˌen.təˈteɪn/ US /ˌen.t̬ɚˈteɪn/ *(transitive verb; formal)*: cân nhắc hoặc giữ một ý nghĩ/nghi ngờ
+
+### Word family
+
+* **harbor/harbour** UK /ˈhɑː.bər/ US /ˈhɑːr.bɚ/ *(noun/verb)*: cảng; chứa, nuôi giữ  
+  *Example:* The old harbor now serves both fishing and tourist boats.  
+  → Cảng cũ hiện phục vụ cả thuyền đánh cá lẫn thuyền du lịch.
+
+* **harboring/harbouring** UK /ˈhɑː.bər.ɪŋ/ US /ˈhɑːr.bɚ.ɪŋ/ *(verb form/uncountable noun)*: việc chứa chấp hoặc nuôi giữ  
+  *Example:* Harboring a fugitive is a serious offence.  
+  → Che giấu một người đang trốn chạy là một hành vi phạm tội nghiêm trọng.
+
+* **harbormaster/harbourmaster** UK /ˈhɑː.bəˌmɑː.stər/ US /ˈhɑːr.bɚˌmæs.tɚ/ *(countable noun)*: người quản lý cảng  
+  *Example:* The harbormaster warned sailors about the approaching storm.  
+  → Người quản lý cảng cảnh báo các thủy thủ về cơn bão đang đến gần.
+
+### Notes
+
+Use `harbor` in American English and `harbour` in British English. For feelings, the verb usually suggests keeping something negative for a long time: `harbor resentment`, `harbor doubts`, or `harbor a grudge`.
+
+---
+
+## 436. Incorporate UK /ɪnˈkɔː.pər.eɪt/ US /ɪnˈkɔːr.pə.reɪt/
+
+* **Part of speech:** transitive verb; intransitive verb in legal/business usage
+* **Vietnamese meaning:** kết hợp hoặc đưa một phần/yếu tố vào một tổng thể *(60%)*; bao gồm một đặc điểm hoặc thành phần *(25%)*; thành lập hoặc đăng ký thành pháp nhân/công ty *(15%)*
+
+### Usage
+
+`Incorporate` commonly means include or integrate something as part of a larger whole. The key pattern is `incorporate A into B`. In business law, a company `incorporates` when it becomes a legal corporation.
+
+Common structures:
+
+* `incorporate A into B`: kết hợp/đưa A vào B
+* `incorporate + feature/idea`: đưa đặc điểm/ý tưởng vào
+* `be incorporated into + system/design`: được tích hợp vào hệ thống/thiết kế
+* `incorporate as + legal entity/company`: đăng ký thành pháp nhân/công ty
+* `a company incorporated in + place/year`: công ty được thành lập tại nơi nào/năm nào
+
+### Examples
+
+1. **Schools should incorporate digital literacy into the core curriculum.**
+   → Các trường học nên đưa kỹ năng số vào chương trình giảng dạy cốt lõi.
+
+2. **The new building incorporates several energy-saving features.**
+   → Tòa nhà mới tích hợp một số đặc điểm tiết kiệm năng lượng.
+
+### Common collocations
+
+* **incorporate feedback**: kết hợp ý kiến phản hồi
+* **incorporate into a system**: tích hợp vào một hệ thống
+* **incorporate new features**: bổ sung/tích hợp các tính năng mới
+* **legally incorporated company**: công ty được thành lập hợp pháp
+
+### Synonyms
+
+* **integrate** /ˈɪn.tɪ.ɡreɪt/ *(transitive verb)*: tích hợp
+* **include** /ɪnˈkluːd/ *(transitive verb)*: bao gồm
+* **combine** /kəmˈbaɪn/ *(transitive/intransitive verb)*: kết hợp
+
+### Word family
+
+* **incorporate** UK /ɪnˈkɔː.pər.eɪt/ US /ɪnˈkɔːr.pə.reɪt/ *(verb)*: kết hợp, bao gồm; thành lập công ty  
+  *Example:* The revised plan incorporates suggestions from local residents.  
+  → Kế hoạch sửa đổi kết hợp các đề xuất từ cư dân địa phương.
+
+* **incorporation** UK /ɪnˌkɔː.pərˈeɪ.ʃən/ US /ɪnˌkɔːr.pəˈreɪ.ʃən/ *(countable/uncountable noun)*: sự kết hợp; sự thành lập pháp nhân  
+  *Example:* The incorporation of practical training improved the course.  
+  → Việc đưa đào tạo thực hành vào đã cải thiện khóa học.
+
+* **incorporated** UK /ɪnˈkɔː.pər.eɪ.tɪd/ US /ɪnˈkɔːr.pə.reɪ.t̬ɪd/ *(adjective/past-participle form)*: được kết hợp; đã thành lập pháp nhân  
+  *Example:* The organization was incorporated as a nonprofit in 2018.  
+  → Tổ chức được đăng ký thành tổ chức phi lợi nhuận vào năm 2018.
+
+* **corporation** UK /ˌkɔː.pərˈeɪ.ʃən/ US /ˌkɔːr.pəˈreɪ.ʃən/ *(countable noun)*: tập đoàn, công ty có tư cách pháp nhân  
+  *Example:* The corporation publishes an annual sustainability report.  
+  → Tập đoàn công bố báo cáo phát triển bền vững hằng năm.
+
+### Notes
+
+Use `incorporate A into B`, not usually `incorporate A to B`: `incorporate solar panels into the design`. `Include` merely says that something is present; `incorporate` emphasizes making it an integrated part of the whole.
