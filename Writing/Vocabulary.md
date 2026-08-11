@@ -24877,3 +24877,197 @@ Common structures:
 ### Notes
 
 Use `forsaken`, not `forsook`, after `have/has/had` or in the passive: `They had forsaken the plan`; `He felt forsaken`. In ordinary conversation, `abandon`, `leave`, or `give up` is usually more natural. `Godforsaken` can sound harsh or offensive, so use it cautiously.
+
+---
+
+## 447. Aim /eɪm/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** mục tiêu, mục đích hoặc điều muốn đạt được *(45%)*; nhắm hoặc hướng một vật/hành động về phía mục tiêu *(30%)*; cố gắng hoặc dự định đạt được điều gì *(25%)*
+
+### Usage
+
+As a noun, `aim` is a purpose or intended result. As a verb, it can mean intend to achieve something or point an object, action, or message toward a target. Use `aim to + verb` before an intended action and `aim at + noun/V-ing` before a target or desired result.
+
+Common structures:
+
+* `aim to + base verb`: đặt mục tiêu hoặc dự định làm gì
+* `aim at + noun/V-ing`: hướng tới mục tiêu/việc gì
+* `be aimed at + noun/V-ing`: được thiết kế hoặc nhắm tới ai/việc gì
+* `aim + object + at + target`: nhắm vật gì vào mục tiêu
+* `the main/primary aim of + noun`: mục tiêu chính của điều gì
+
+### Examples
+
+1. **The programme aims to improve digital skills among older adults.**
+   → Chương trình đặt mục tiêu cải thiện kỹ năng số cho người lớn tuổi.
+
+2. **The main aim of the policy is to reduce traffic congestion.**
+   → Mục tiêu chính của chính sách là giảm ùn tắc giao thông.
+
+### Common collocations
+
+* **achieve an aim**: đạt được mục tiêu
+* **the main aim**: mục tiêu chính
+* **aim high**: đặt mục tiêu cao
+* **aim at a target**: nhắm vào mục tiêu
+* **be aimed at young people**: hướng tới giới trẻ
+
+### Synonyms
+
+* **goal** UK /ɡəʊl/ US /ɡoʊl/ *(countable noun)*: mục tiêu cụ thể muốn đạt được
+* **objective** /əbˈdʒek.tɪv/ *(countable noun)*: mục tiêu rõ ràng, thường trang trọng hoặc có thể đo lường
+* **purpose** UK /ˈpɜː.pəs/ US /ˈpɝː.pəs/ *(countable/uncountable noun)*: mục đích, lý do làm điều gì
+* **intend** /ɪnˈtend/ *(transitive/intransitive verb)*: dự định
+* **target** UK /ˈtɑː.ɡɪt/ US /ˈtɑːr.ɡɪt/ *(countable noun; transitive verb)*: mục tiêu; nhắm vào
+
+### Word family
+
+* **aim** /eɪm/ *(countable noun; transitive/intransitive verb)*: mục tiêu; đặt mục tiêu, nhắm vào  
+  *Example:* Researchers aim to develop a more affordable treatment.  
+  → Các nhà nghiên cứu đặt mục tiêu phát triển một phương pháp điều trị có giá phải chăng hơn.
+
+* **aimless** /ˈeɪm.ləs/ *(adjective)*: không có mục đích hoặc phương hướng  
+  *Example:* Without a clear study plan, her revision became aimless.  
+  → Khi không có kế hoạch học tập rõ ràng, việc ôn tập của cô ấy trở nên thiếu định hướng.
+
+* **aimlessly** /ˈeɪm.ləs.li/ *(adverb)*: một cách không mục đích, vô định  
+  *Example:* He wandered aimlessly around the city after missing the last bus.  
+  → Anh ấy đi lang thang vô định quanh thành phố sau khi lỡ chuyến xe buýt cuối cùng.
+
+### Notes
+
+Use `aim to do something`, not `aim doing something`: `The project aims to create jobs.` Use `aim at doing something` when emphasizing the desired result: `The project aims at creating jobs.` As a noun, `aim` is countable: `an aim`, `several aims`. In formal writing, `objective` often suggests a more specific and measurable result than `aim`.
+
+---
+
+## 448. Occupation UK /ˌɒk.jəˈpeɪ.ʃən/ US /ˌɑː.kjəˈpeɪ.ʃən/
+
+* **Part of speech:** countable noun for a job/activity; countable or uncountable noun for military control or use of a place
+* **Vietnamese meaning:** nghề nghiệp, công việc thường xuyên của một người *(50%)*; hoạt động dùng để lấp thời gian hoặc khiến bản thân bận rộn *(15%)*; sự chiếm đóng và kiểm soát một quốc gia/khu vực bằng quân sự *(25%)*; sự sử dụng hoặc cư trú trong một tòa nhà, địa điểm *(10%)*
+
+### Usage
+
+`Occupation` most commonly means a person's job and is often used on official forms or in formal contexts. It can also mean an activity that occupies someone's time, military control of a territory, or the use of a building or piece of land.
+
+Common structures:
+
+* `occupation as + job`: nghề nghiệp là/làm công việc gì
+* `choose/pursue an occupation`: lựa chọn/theo đuổi một nghề nghiệp
+* `a full-time occupation`: một công việc hoặc hoạt động toàn thời gian
+* `under military occupation`: dưới sự chiếm đóng quân sự
+* `the occupation of + place`: sự chiếm đóng hoặc sử dụng địa điểm nào
+
+### Examples
+
+1. **Please state your current occupation on the application form.**
+   → Vui lòng ghi nghề nghiệp hiện tại của bạn vào đơn đăng ký.
+
+2. **The museum documents life in the city during the military occupation.**
+   → Bảo tàng ghi lại cuộc sống trong thành phố trong thời kỳ bị quân đội chiếm đóng.
+
+### Common collocations
+
+* **current occupation**: nghề nghiệp hiện tại
+* **professional occupation**: nghề nghiệp chuyên môn
+* **full-time occupation**: công việc hoặc hoạt động toàn thời gian
+* **military occupation**: sự chiếm đóng quân sự
+* **occupation of a building**: việc sử dụng hoặc chiếm giữ một tòa nhà
+
+### Synonyms
+
+* **job** UK /dʒɒb/ US /dʒɑːb/ *(countable noun)*: công việc cụ thể; thông dụng nhất trong đời sống
+* **profession** /prəˈfeʃ.ən/ *(countable noun)*: nghề chuyên môn cần đào tạo hoặc bằng cấp
+* **employment** /ɪmˈplɔɪ.mənt/ *(uncountable noun)*: việc làm, tình trạng có việc làm
+* **pastime** UK /ˈpɑːs.taɪm/ US /ˈpæs.taɪm/ *(countable noun)*: hoạt động giải trí lúc rảnh; chỉ nghĩa hoạt động lấp thời gian
+* **control** UK /kənˈtrəʊl/ US /kənˈtroʊl/ *(uncountable noun)*: sự kiểm soát; gần nghĩa trong ngữ cảnh chiếm đóng
+
+### Word family
+
+* **occupy** UK /ˈɒk.jə.paɪ/ US /ˈɑː.kjə.paɪ/ *(transitive verb)*: chiếm giữ, sử dụng; khiến ai bận rộn  
+  *Example:* Residential buildings occupy most of the available land.  
+  → Các tòa nhà dân cư chiếm phần lớn diện tích đất hiện có.
+
+* **occupation** UK /ˌɒk.jəˈpeɪ.ʃən/ US /ˌɑː.kjəˈpeɪ.ʃən/ *(countable/uncountable noun)*: nghề nghiệp; hoạt động; sự chiếm đóng hoặc sử dụng  
+  *Example:* Teaching is a demanding but rewarding occupation.  
+  → Nghề dạy học là một nghề đòi hỏi cao nhưng đáng làm.
+
+* **occupational** UK /ˌɒk.jəˈpeɪ.ʃən.əl/ US /ˌɑː.kjəˈpeɪ.ʃən.əl/ *(adjective)*: thuộc nghề nghiệp hoặc công việc  
+  *Example:* Employers must take steps to prevent occupational injuries.  
+  → Người sử dụng lao động phải thực hiện các biện pháp để ngăn ngừa chấn thương nghề nghiệp.
+
+* **occupant** UK /ˈɒk.jə.pənt/ US /ˈɑː.kjə.pənt/ *(countable noun)*: người cư trú hoặc sử dụng một căn phòng, tòa nhà hay phương tiện  
+  *Example:* All occupants were asked to leave the building safely.  
+  → Tất cả những người trong tòa nhà được yêu cầu rời đi an toàn.
+
+* **occupied** UK /ˈɒk.jə.paɪd/ US /ˈɑː.kjə.paɪd/ *(adjective; past-participle form)*: có người sử dụng; bị chiếm đóng; bận rộn  
+  *Example:* This seat is already occupied.  
+  → Chỗ ngồi này đã có người ngồi.
+
+### Notes
+
+When asking about someone's work in everyday conversation, `What do you do?` sounds more natural than `What is your occupation?` The latter is formal and common on forms. `Occupation` and `profession` are not always interchangeable: a `profession` usually requires specialized education, whereas an `occupation` can be any regular type of work.
+
+---
+
+## 449. In person UK /ɪn ˈpɜː.sən/ US /ɪn ˈpɝː.sən/
+
+* **Part of speech:** adverb phrase
+* **Vietnamese meaning:** trực tiếp, đích thân có mặt tại cùng một địa điểm thay vì giao tiếp trực tuyến, qua điện thoại hoặc nhờ người khác *(100%)*
+
+### Usage
+
+`In person` means being physically present to meet, speak, apply, attend, or deal with something directly. It normally comes after the relevant verb or at the end of a clause. Before a noun, use the hyphenated adjective `in-person`.
+
+Common structures:
+
+* `meet/speak to + someone + in person`: gặp/nói chuyện trực tiếp với ai
+* `attend + event + in person`: trực tiếp tham dự sự kiện
+* `apply/register/appear in person`: đích thân đến nộp đơn/đăng ký/xuất hiện
+* `see + person/thing + in person`: tận mắt gặp/xem người hoặc vật
+* `an in-person + meeting/class/interview`: một cuộc họp/lớp học/cuộc phỏng vấn trực tiếp
+
+### Examples
+
+1. **I would prefer to discuss the contract with you in person.**
+   → Tôi muốn trực tiếp thảo luận hợp đồng với bạn hơn.
+
+2. **Students can attend the lecture online or in person.**
+   → Sinh viên có thể tham dự bài giảng trực tuyến hoặc trực tiếp.
+
+### Common collocations
+
+* **meet in person**: gặp trực tiếp
+* **apply in person**: đích thân đến nộp đơn
+* **attend in person**: trực tiếp tham dự
+* **see someone in person**: tận mắt gặp ai
+* **in-person interview**: cuộc phỏng vấn trực tiếp
+
+### Synonyms
+
+* **face-to-face** /ˌfeɪs.təˈfeɪs/ *(adverb/adjective)*: trực tiếp, mặt đối mặt
+* **personally** UK /ˈpɜː.sən.əl.i/ US /ˈpɝː.sən.əl.i/ *(adverb)*: đích thân; không phải lúc nào cũng có nghĩa là gặp trực tiếp
+* **physically present** UK /ˌfɪz.ɪ.kəl.i ˈprez.ənt/ US /ˌfɪz.ɪ.kəl.i ˈprez.ənt/ *(adjective phrase)*: có mặt trực tiếp tại địa điểm
+* **on site** UK /ˌɒn ˈsaɪt/ US /ˌɑːn ˈsaɪt/ *(adverb phrase)*: có mặt tại địa điểm làm việc hoặc sự kiện
+
+### Word family
+
+* **person** UK /ˈpɜː.sən/ US /ˈpɝː.sən/ *(countable noun)*: một người  
+  *Example:* Only one person is allowed to enter at a time.  
+  → Mỗi lần chỉ một người được phép đi vào.
+
+* **personal** UK /ˈpɜː.sən.əl/ US /ˈpɝː.sən.əl/ *(adjective)*: cá nhân, riêng tư  
+  *Example:* Candidates should not include unnecessary personal information.  
+  → Ứng viên không nên đưa vào những thông tin cá nhân không cần thiết.
+
+* **personally** UK /ˈpɜː.sən.əl.i/ US /ˈpɝː.sən.əl.i/ *(adverb)*: đích thân; về phần cá nhân  
+  *Example:* The manager personally responded to the complaint.  
+  → Người quản lý đã đích thân phản hồi khiếu nại.
+
+* **impersonal** UK /ɪmˈpɜː.sən.əl/ US /ɪmˈpɝː.sən.əl/ *(adjective)*: thiếu tính cá nhân, lạnh nhạt  
+  *Example:* Automated replies can sometimes feel impersonal.  
+  → Các câu trả lời tự động đôi khi có thể tạo cảm giác thiếu gần gũi.
+
+### Notes
+
+Write `in person` without a hyphen when it functions as an adverb: `We met in person.` Use `in-person` with a hyphen before a noun: `an in-person meeting`. `Personally` can mean `in my opinion` (`Personally, I disagree`) or `by oneself` (`She handled it personally`), so it is not always interchangeable with `in person`.
