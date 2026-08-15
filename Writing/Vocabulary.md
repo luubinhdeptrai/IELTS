@@ -25375,3 +25375,128 @@ Common structures:
 ### Notes
 
 Do not confuse `captor` with `captive`: the `captor` performs the capture, while the `captive` is held. A `kidnapper` abducts a person illegally, whereas `captor` is broader and may also refer to someone who captures a soldier, criminal, or animal.
+
+---
+
+## 455. Light /laɪt/
+
+* **Part of speech:** countable/uncountable noun; adjective; transitive/intransitive verb; adverb in some fixed expressions
+* **Vietnamese meaning:** ánh sáng hoặc nguồn phát sáng như đèn *(30%)*; nhẹ, không nặng *(25%)*; nhạt, yếu hoặc không mạnh về màu sắc/cường độ/số lượng *(20%)*; thắp sáng, chiếu sáng hoặc châm lửa *(15%)*; nhẹ nhàng, không nghiêm trọng hoặc dễ tiêu hóa/thực hiện *(10%)*
+
+### Usage
+
+`Light` most commonly refers to illumination or describes something that does not weigh much. It can also describe low intensity, a pale color, a small amount, or something gentle and not serious. As a verb, it means provide light or cause something to start burning.
+
+Common structures:
+
+* `natural/artificial light`: ánh sáng tự nhiên/nhân tạo
+* `a light + bag/object`: một chiếc túi/vật nhẹ, không nặng
+* `light + rain/wind/traffic`: mưa/gió/giao thông ở mức nhẹ hoặc thưa
+* `light + colour/shade`: màu/tông màu nhạt
+* `light + meal/exercise/work`: bữa ăn nhẹ/bài tập nhẹ/công việc không nặng
+* `light + candle/fire/cigarette`: thắp nến, nhóm lửa, châm thuốc
+
+### Examples
+
+1. **This laptop is light enough to carry in a small backpack.**
+   → Chiếc máy tính xách tay này đủ nhẹ để mang trong một chiếc ba lô nhỏ.
+
+2. **Natural light can make a small room feel more spacious.**
+   → Ánh sáng tự nhiên có thể khiến một căn phòng nhỏ có cảm giác rộng rãi hơn.
+
+### Common collocations
+
+* **natural light**: ánh sáng tự nhiên
+* **light weight**: trọng lượng nhẹ
+* **light rain**: mưa nhẹ
+* **light meal**: bữa ăn nhẹ
+* **light a candle**: thắp một ngọn nến
+
+### Synonyms
+
+* **illumination** /ɪˌluː.mɪˈneɪ.ʃən/ *(uncountable noun)*: ánh sáng, sự chiếu sáng; chỉ nghĩa danh từ
+* **lightweight** /ˈlaɪt.weɪt/ *(adjective)*: nhẹ, có trọng lượng thấp
+* **pale** /peɪl/ *(adjective)*: nhạt màu
+* **mild** /maɪld/ *(adjective)*: nhẹ, không mạnh hoặc nghiêm trọng
+* **illuminate** /ɪˈluː.mɪ.neɪt/ *(transitive verb)*: chiếu sáng
+
+### Word family
+
+* **light** /laɪt/ *(noun/adjective/verb/adverb)*: ánh sáng; nhẹ, nhạt; chiếu sáng, châm lửa  
+  *Example:* The new material is both light and durable.  
+  → Vật liệu mới vừa nhẹ vừa bền.
+
+* **lighting** /ˈlaɪ.tɪŋ/ *(uncountable noun)*: hệ thống hoặc cách bố trí ánh sáng  
+  *Example:* Good street lighting can help pedestrians feel safer at night.  
+  → Hệ thống chiếu sáng đường phố tốt có thể giúp người đi bộ cảm thấy an toàn hơn vào ban đêm.
+
+* **lighten** /ˈlaɪ.tən/ *(transitive/intransitive verb)*: làm nhẹ hơn, làm sáng hơn hoặc làm bớt nghiêm trọng  
+  *Example:* Digital tools can lighten teachers' administrative workload.  
+  → Các công cụ số có thể giảm bớt khối lượng công việc hành chính của giáo viên.
+
+* **lightness** /ˈlaɪt.nəs/ *(uncountable noun)*: độ nhẹ; độ sáng hoặc nhạt  
+  *Example:* The lightness of the device makes it convenient for travelers.  
+  → Độ nhẹ của thiết bị khiến nó thuận tiện cho du khách.
+
+### Notes
+
+`Light` and `slight` can both suggest a low degree, but they are not generally interchangeable. Use `light` for low weight or low intensity: `a light bag`, `light rain`, `light traffic`, and `a light meal`. Use `slight` for a small degree, amount, or difference: `a slight change`, `a slight increase`, and `a slight chance`. Do not say `a slight bag` when you mean a bag that is not heavy.
+
+---
+
+## 456. Slight /slaɪt/
+
+* **Part of speech:** adjective; transitive verb; countable noun
+* **Vietnamese meaning:** nhỏ, nhẹ hoặc không đáng kể về mức độ/số lượng *(70%)*; mảnh khảnh, nhỏ nhắn hoặc có vóc dáng thanh mảnh *(15%)*; coi thường, phớt lờ hoặc hành động/lời nói xúc phạm nhẹ *(15%)*
+
+### Usage
+
+As an adjective, `slight` usually means small in degree, amount, or importance. It can also describe a thin or delicate body. As a verb, it means treat someone as unimportant or fail to give them proper attention; as a noun, it means an insult caused by such treatment.
+
+Common structures:
+
+* `a slight + difference/change/increase`: một khác biệt/thay đổi/mức tăng nhỏ
+* `a slight + chance/risk/possibility`: một khả năng/nguy cơ rất nhỏ
+* `slight + pain/delay/improvement`: cơn đau/sự chậm trễ/sự cải thiện nhẹ
+* `of slight importance/value`: có tầm quan trọng/giá trị không đáng kể
+* `feel/be slighted by + person`: cảm thấy/bị ai coi thường hoặc phớt lờ
+* `a real/perceived slight`: một sự xúc phạm có thật/được cảm nhận
+
+### Examples
+
+1. **The new policy led to a slight increase in public transport use.**
+   → Chính sách mới dẫn đến mức tăng nhẹ trong việc sử dụng giao thông công cộng.
+
+2. **She felt slighted when her contribution was not mentioned.**
+   → Cô ấy cảm thấy bị coi nhẹ khi đóng góp của mình không được nhắc đến.
+
+### Common collocations
+
+* **slight difference**: khác biệt nhỏ
+* **slight increase**: mức tăng nhẹ
+* **slight chance**: khả năng rất nhỏ
+* **slight delay**: sự chậm trễ nhỏ
+* **slight build**: vóc dáng mảnh khảnh
+
+### Synonyms
+
+* **minor** UK /ˈmaɪ.nər/ US /ˈmaɪ.nɚ/ *(adjective)*: nhỏ, không nghiêm trọng
+* **small** UK /smɔːl/ US /smɑːl/ *(adjective)*: nhỏ về kích thước, lượng hoặc mức độ
+* **modest** UK /ˈmɒd.ɪst/ US /ˈmɑː.dɪst/ *(adjective)*: vừa phải, không lớn
+* **faint** /feɪnt/ *(adjective)*: yếu, mờ hoặc khó nhận thấy
+* **slender** UK /ˈslen.dər/ US /ˈslen.dɚ/ *(adjective)*: mảnh khảnh; chỉ nghĩa vóc dáng
+* **snub** /snʌb/ *(transitive verb; countable noun)*: phớt lờ hoặc coi thường; lời/hành động lạnh nhạt
+
+### Word family
+
+* **slight** /slaɪt/ *(adjective/verb/countable noun)*: nhỏ, nhẹ; coi thường; sự xúc phạm nhẹ  
+  *Example:* Even a slight reduction in air pollution can benefit public health.  
+  → Ngay cả mức giảm nhẹ về ô nhiễm không khí cũng có thể mang lại lợi ích cho sức khỏe cộng đồng.
+
+* **slightly** /ˈslaɪt.li/ *(adverb)*: hơi, một chút, ở mức độ nhỏ  
+  *Example:* Housing costs were slightly higher than expected.  
+  → Chi phí nhà ở cao hơn dự kiến một chút.
+
+### Notes
+
+Use `slight` before nouns that express a degree, amount, difference, possibility, or problem: `slight pain`, `a slight improvement`, and `a slight delay`. Use `slightly` before an adjective, adverb, or comparative: `slightly different`, `slightly more expensive`. Compared with `light`, `slight` does not normally describe weight: say `a light suitcase`, not `a slight suitcase`. For weather, `light rain` is the normal collocation, while `a slight chance of rain` describes low probability.
