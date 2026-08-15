@@ -25071,3 +25071,307 @@ Common structures:
 ### Notes
 
 Write `in person` without a hyphen when it functions as an adverb: `We met in person.` Use `in-person` with a hyphen before a noun: `an in-person meeting`. `Personally` can mean `in my opinion` (`Personally, I disagree`) or `by oneself` (`She handled it personally`), so it is not always interchangeable with `in person`.
+
+---
+
+## 450. Advance UK /ədˈvɑːns/ US /ədˈvæns/
+
+* **Part of speech:** transitive/intransitive verb; countable/uncountable noun; attributive adjective
+* **Vietnamese meaning:** tiến lên, tiến về phía trước hoặc làm cho điều gì tiến triển *(35%)*; sự tiến bộ hoặc bước phát triển, đặc biệt trong khoa học/công nghệ *(30%)*; đưa ra, đề xuất hoặc đẩy thời gian lên sớm hơn *(15%)*; khoản tiền trả trước hoặc cho vay trước *(10%)*; trước thời điểm cần thiết trong cụm `in advance` *(10%)*
+
+### Usage
+
+As a verb, `advance` means move forward, make progress, promote an idea, or move an event to an earlier time. As a noun, it can mean forward movement, progress, a development, or money paid before it is due. As an adjective before a noun, it describes something supplied or arranged beforehand.
+
+Common structures:
+
+* `advance toward/on + place`: tiến về phía địa điểm nào
+* `advance in + field/subject`: tiến bộ trong lĩnh vực/môn học nào
+* `advance + idea/argument/career`: thúc đẩy ý tưởng/lập luận/sự nghiệp
+* `advance + meeting/date + to + time`: dời cuộc họp/ngày lên thời điểm sớm hơn
+* `an advance in + field`: một bước tiến trong lĩnh vực nào
+* `in advance of + event/time`: trước một sự kiện/thời điểm
+
+### Examples
+
+1. **Recent advances in medical technology have improved patient care.**
+   → Những tiến bộ gần đây trong công nghệ y tế đã cải thiện việc chăm sóc bệnh nhân.
+
+2. **Please let us know in advance if you cannot attend the meeting.**
+   → Vui lòng cho chúng tôi biết trước nếu bạn không thể tham dự cuộc họp.
+
+### Common collocations
+
+* **technological advance**: bước tiến công nghệ
+* **advance a theory**: đưa ra hoặc phát triển một học thuyết
+* **advance one's career**: thúc đẩy sự nghiệp
+* **advance payment**: khoản thanh toán trước
+* **book in advance**: đặt trước
+
+### Synonyms
+
+* **progress** UK /prəˈɡres/ US /prəˈɡres/ *(intransitive verb)*: tiến triển, tiến bộ
+* **proceed** UK /prəˈsiːd/ US /proʊˈsiːd/ *(intransitive verb)*: tiếp tục hoặc tiến về phía trước
+* **promote** UK /prəˈməʊt/ US /prəˈmoʊt/ *(transitive verb)*: thúc đẩy, quảng bá; gần nghĩa khi nói về ý tưởng hoặc sự nghiệp
+* **development** /dɪˈvel.əp.mənt/ *(countable/uncountable noun)*: sự phát triển, bước phát triển
+* **beforehand** UK /bɪˈfɔː.hænd/ US /bɪˈfɔːr.hænd/ *(adverb)*: từ trước; gần nghĩa với `in advance`
+
+### Word family
+
+* **advance** UK /ədˈvɑːns/ US /ədˈvæns/ *(verb/noun/adjective)*: tiến lên, thúc đẩy; sự tiến bộ; được chuẩn bị trước  
+  *Example:* Education can help young people advance in their careers.  
+  → Giáo dục có thể giúp người trẻ tiến xa hơn trong sự nghiệp.
+
+* **advanced** UK /ədˈvɑːnst/ US /ədˈvænst/ *(adjective)*: tiên tiến; nâng cao; ở giai đoạn phát triển cao  
+  *Example:* Advanced software can automate repetitive administrative tasks.  
+  → Phần mềm tiên tiến có thể tự động hóa các công việc hành chính lặp đi lặp lại.
+
+* **advancement** UK /ədˈvɑːns.mənt/ US /ədˈvæns.mənt/ *(countable/uncountable noun)*: sự tiến bộ, thăng tiến  
+  *Example:* Professional qualifications may create opportunities for career advancement.  
+  → Bằng cấp chuyên môn có thể tạo ra cơ hội thăng tiến nghề nghiệp.
+
+### Notes
+
+`Advance` is broader than `progress`: it can describe physical movement, development, promotion of an idea, an earlier date, or an early payment. Use plural `advances` for separate developments: `advances in science`. Entry 186 explains the fixed phrase `in advance` in greater detail. Do not confuse `advanced` with `advance`: `advanced technology` but `advance payment`.
+
+---
+
+## 451. Armored (UK: Armoured) UK /ˈɑː.məd/ US /ˈɑːr.mɚd/
+
+* **Part of speech:** adjective; past-participle form of `armor/armour`
+* **Vietnamese meaning:** được bọc giáp hoặc bảo vệ bằng vật liệu chắc chắn *(55%)*; thuộc xe cộ hoặc đơn vị quân sự có giáp bảo vệ *(35%)*; được bảo vệ về mặt cảm xúc hoặc tinh thần theo nghĩa bóng *(10%)*
+
+### Usage
+
+`Armored` describes a person, animal, vehicle, or object protected by armor or a hard outer covering. It is especially common in military contexts. Figuratively, it can describe someone who has developed strong emotional defenses.
+
+Common structures:
+
+* `an armored vehicle/tank`: xe bọc thép/xe tăng
+* `an armored unit/division`: đơn vị/sư đoàn thiết giáp
+* `be heavily/lightly armored`: được bọc giáp dày/mỏng
+* `be armored against + attack/danger`: được bảo vệ chống lại cuộc tấn công/nguy hiểm
+* `emotionally armored`: tự bảo vệ hoặc khép kín về mặt cảm xúc
+
+### Examples
+
+1. **The aid workers traveled through the dangerous region in an armored vehicle.**
+   → Các nhân viên cứu trợ đi qua khu vực nguy hiểm bằng một chiếc xe bọc thép.
+
+2. **Some animals have armored skin that protects them from predators.**
+   → Một số loài động vật có lớp da như áo giáp giúp bảo vệ chúng khỏi thú săn mồi.
+
+### Common collocations
+
+* **armored vehicle**: xe bọc thép
+* **armored personnel carrier**: xe thiết giáp chở quân
+* **heavily armored**: được bọc giáp dày
+* **armored division**: sư đoàn thiết giáp
+* **armored shell**: lớp vỏ cứng bảo vệ
+
+### Synonyms
+
+* **protected** /prəˈtek.tɪd/ *(adjective)*: được bảo vệ; nghĩa rộng hơn
+* **reinforced** UK /ˌriː.ɪnˈfɔːst/ US /ˌriː.ɪnˈfɔːrst/ *(adjective)*: được gia cố
+* **bulletproof** /ˈbʊl.ɪt.pruːf/ *(adjective)*: chống đạn; chỉ một kiểu bảo vệ cụ thể
+* **plated** /ˈpleɪ.tɪd/ *(adjective)*: được phủ hoặc bọc bằng các tấm vật liệu
+
+### Word family
+
+* **armor/armour** UK /ˈɑː.mər/ US /ˈɑːr.mɚ/ *(uncountable noun; transitive verb)*: áo giáp, lớp bảo vệ; bọc giáp  
+  *Example:* Engineers armored the vehicle to protect its occupants.  
+  → Các kỹ sư bọc giáp chiếc xe để bảo vệ những người bên trong.
+
+* **armored/armoured** UK /ˈɑː.məd/ US /ˈɑːr.mɚd/ *(adjective; past-participle form)*: được bọc giáp, thiết giáp  
+  *Example:* The museum displays several historic armored vehicles.  
+  → Bảo tàng trưng bày một số xe bọc thép có giá trị lịch sử.
+
+* **armorer/armourer** UK /ˈɑː.mə.rər/ US /ˈɑːr.mɚ.ɚ/ *(countable noun)*: thợ chế tạo, sửa chữa hoặc quản lý vũ khí và áo giáp  
+  *Example:* The armorer inspected the protective equipment before it was used.  
+  → Người phụ trách vũ khí và áo giáp kiểm tra thiết bị bảo hộ trước khi sử dụng.
+
+### Notes
+
+`Armored` is the standard American spelling; `armoured` is the British spelling. Do not confuse `armored` with `armed`: an `armored vehicle` has protective armor, while an `armed vehicle` carries weapons. A vehicle can be both armed and armored.
+
+---
+
+## 452. Crude /kruːd/
+
+* **Part of speech:** adjective; uncountable noun when referring to crude oil
+* **Vietnamese meaning:** thô, chưa được tinh chế hoặc xử lý *(30%)*; đơn giản, sơ sài hoặc được làm thiếu kỹ thuật *(25%)*; thô tục, khiếm nhã hoặc gây khó chịu *(25%)*; gần đúng, chưa chính xác hoặc chưa chi tiết *(15%)*; dầu thô trong cách dùng danh từ *(5%)*
+
+### Usage
+
+`Crude` describes materials that have not been refined, methods or objects that are basic and roughly made, language or behavior that is offensive, and estimates that are only approximate. In the energy industry, `crude` can be used as an uncountable noun meaning crude oil.
+
+Common structures:
+
+* `crude oil/material`: dầu thô/vật liệu chưa qua xử lý
+* `a crude method/tool`: phương pháp/công cụ sơ sài
+* `a crude joke/remark`: câu đùa/lời nhận xét thô tục
+* `a crude estimate/calculation`: ước tính/phép tính gần đúng
+* `a crude form/version of + noun`: dạng/phiên bản sơ khai của điều gì
+
+### Examples
+
+1. **The initial figures provide only a crude estimate of the project's total cost.**
+   → Những con số ban đầu chỉ đưa ra một ước tính sơ bộ về tổng chi phí của dự án.
+
+2. **Many economies remain heavily dependent on exports of crude oil.**
+   → Nhiều nền kinh tế vẫn phụ thuộc nhiều vào việc xuất khẩu dầu thô.
+
+### Common collocations
+
+* **crude oil**: dầu thô
+* **crude estimate**: ước tính sơ bộ
+* **crude method**: phương pháp sơ sài
+* **crude language**: ngôn ngữ thô tục
+* **crude drawing**: bản vẽ sơ sài
+
+### Synonyms
+
+* **unrefined** /ˌʌn.rɪˈfaɪnd/ *(adjective)*: chưa tinh chế; dùng cho vật liệu hoặc hành vi thiếu tinh tế
+* **rough** /rʌf/ *(adjective)*: thô, sơ bộ, chưa hoàn thiện
+* **primitive** /ˈprɪm.ɪ.tɪv/ *(adjective)*: sơ khai, đơn giản
+* **vulgar** UK /ˈvʌl.ɡər/ US /ˈvʌl.ɡɚ/ *(adjective)*: thô tục, khiếm nhã
+* **approximate** /əˈprɒk.sɪ.mət/ *(adjective)*: gần đúng
+
+### Word family
+
+* **crude** /kruːd/ *(adjective; uncountable noun)*: thô, sơ sài, thô tục; dầu thô  
+  *Example:* The researchers used a crude measuring device during the early trial.  
+  → Các nhà nghiên cứu sử dụng một thiết bị đo sơ sài trong thử nghiệm ban đầu.
+
+* **crudely** /ˈkruːd.li/ *(adverb)*: một cách thô sơ, vụng về hoặc thô tục  
+  *Example:* The shelter was crudely built from wood and sheets of metal.  
+  → Nơi trú ẩn được dựng sơ sài bằng gỗ và các tấm kim loại.
+
+* **crudeness** /ˈkruːd.nəs/ *(uncountable noun)*: tính thô sơ, thô tục hoặc thiếu tinh tế  
+  *Example:* Viewers complained about the crudeness of the comedian's remarks.  
+  → Khán giả phàn nàn về sự thô tục trong những lời nhận xét của diễn viên hài.
+
+### Notes
+
+The meaning depends strongly on the noun: `crude oil` is unrefined, a `crude estimate` is approximate, and a `crude joke` is offensive. `Crude` is stronger and broader than `rude`; `rude` mainly concerns impolite behavior, while `crude` often suggests vulgarity or lack of refinement.
+
+---
+
+## 453. Dialysis /daɪˈæl.ə.sɪs/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** phương pháp điều trị lọc chất thải và lượng dịch dư khỏi máu khi thận không hoạt động bình thường *(90%)*; quá trình tách các chất qua màng bán thấm trong khoa học/phòng thí nghiệm *(10%)*
+
+### Usage
+
+`Dialysis` is a medical treatment that performs part of the filtering function of failing kidneys by removing waste products and excess fluid. The term also has a technical scientific meaning involving the separation of substances through a semipermeable membrane. It is normally uncountable.
+
+Common structures:
+
+* `undergo/receive dialysis`: trải qua/được điều trị bằng phương pháp lọc máu
+* `be on dialysis`: đang phải điều trị lọc máu định kỳ
+* `start/need dialysis`: bắt đầu/cần điều trị lọc máu
+* `a dialysis session`: một buổi lọc máu
+* `dialysis treatment/patient/centre`: phương pháp điều trị/bệnh nhân/trung tâm lọc máu
+
+### Examples
+
+1. **Some patients with severe kidney failure need dialysis several times a week.**
+   → Một số bệnh nhân suy thận nặng cần lọc máu vài lần mỗi tuần.
+
+2. **Reliable access to dialysis remains limited in some rural areas.**
+   → Khả năng tiếp cận dịch vụ lọc máu đáng tin cậy vẫn còn hạn chế ở một số vùng nông thôn.
+
+### Common collocations
+
+* **kidney dialysis**: phương pháp lọc máu hỗ trợ chức năng thận
+* **dialysis treatment**: điều trị lọc máu
+* **dialysis patient**: bệnh nhân lọc máu
+* **dialysis machine**: máy lọc máu
+* **regular dialysis**: việc lọc máu định kỳ
+
+### Synonyms
+
+* **renal replacement therapy** /ˌriː.nəl rɪˈpleɪs.mənt ˈθer.ə.pi/ *(uncountable noun phrase; medical)*: liệu pháp thay thế chức năng thận; thuật ngữ rộng hơn, bao gồm cả lọc máu và ghép thận
+* **blood filtration** /ˈblʌd fɪlˈtreɪ.ʃən/ *(uncountable noun phrase; descriptive)*: quá trình lọc máu; cách mô tả đơn giản chứ không phải từ đồng nghĩa y khoa hoàn toàn chính xác
+
+### Word family
+
+* **dialysis** /daɪˈæl.ə.sɪs/ *(uncountable noun)*: phương pháp lọc máu; quá trình thẩm tách  
+  *Example:* Dialysis can replace some kidney functions but does not cure kidney disease.  
+  → Lọc máu có thể thay thế một số chức năng của thận nhưng không chữa khỏi bệnh thận.
+
+* **dialyse/dialyze** /ˈdaɪ.ə.laɪz/ *(transitive/intransitive verb; UK/US spelling)*: lọc hoặc được lọc bằng phương pháp thẩm tách  
+  *Example:* The patient's blood is dialysed through a specialized machine.  
+  → Máu của bệnh nhân được lọc qua một máy chuyên dụng.
+
+* **dialyser/dialyzer** UK /ˈdaɪ.ə.laɪ.zər/ US /ˈdaɪ.ə.laɪ.zɚ/ *(countable noun; UK/US spelling)*: bộ lọc của máy lọc máu  
+  *Example:* The dialyser removes waste products and excess water from the blood.  
+  → Bộ lọc loại bỏ các chất thải và lượng nước dư thừa khỏi máu.
+
+### Notes
+
+`Dialysis` is uncountable: say `need dialysis` or `undergo dialysis`, not `need a dialysis`. To count individual treatments, use `a dialysis session`. `Haemodialysis` and `peritoneal dialysis` are two types of dialysis, not exact synonyms. This entry explains vocabulary and does not provide medical advice.
+
+---
+
+## 454. Captor UK /ˈkæp.tər/ US /ˈkæp.tɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** người bắt giữ và giam cầm một người khác *(80%)*; người bắt được động vật hoặc chiếm được một đối tượng *(15%)*; bên bắt giữ hoặc kiểm soát người/vật theo nghĩa rộng *(5%)*
+
+### Usage
+
+A `captor` is a person or group that captures and holds another person, or less commonly an animal. The word focuses on the person doing the capturing and often appears in reports about hostages, prisoners, kidnappings, or escapes.
+
+Common structures:
+
+* `be held by + captor(s)`: bị kẻ bắt giữ giam cầm
+* `escape from + captor(s)`: trốn thoát khỏi kẻ bắt giữ
+* `be released by + captor(s)`: được kẻ bắt giữ thả ra
+* `identify/describe one's captor`: nhận dạng/miêu tả kẻ bắt giữ mình
+* `negotiate with the captors`: thương lượng với những kẻ bắt giữ
+
+### Examples
+
+1. **The hostage escaped while his captors were distracted.**
+   → Con tin trốn thoát khi những kẻ bắt giữ anh ấy mất tập trung.
+
+2. **The rescued animal was returned to the wild after its captor was arrested for illegal wildlife trafficking.**
+   → Con vật được giải cứu đã được trả về tự nhiên sau khi kẻ bắt giữ nó bị bắt vì buôn bán động vật hoang dã trái phép.
+
+### Common collocations
+
+* **escape from one's captors**: trốn thoát khỏi những kẻ bắt giữ
+* **armed captor**: kẻ bắt giữ có vũ trang
+* **hostage's captor**: kẻ bắt giữ con tin
+* **identify a captor**: nhận dạng kẻ bắt giữ
+* **be held by captors**: bị những kẻ bắt giữ giam cầm
+
+### Synonyms
+
+* **kidnapper** UK /ˈkɪd.næp.ər/ US /ˈkɪd.næp.ɚ/ *(countable noun)*: kẻ bắt cóc; nghĩa hẹp hơn `captor`
+* **abductor** UK /æbˈdʌk.tər/ US /æbˈdʌk.tɚ/ *(countable noun)*: kẻ bắt cóc hoặc cưỡng ép đưa ai đi
+* **jailer/gaoler** UK /ˈdʒeɪ.lər/ US /ˈdʒeɪ.lɚ/ *(countable noun)*: cai ngục hoặc người canh giữ tù nhân; không nhất thiết là người bắt giữ ban đầu
+
+### Word family
+
+* **capture** UK /ˈkæp.tʃər/ US /ˈkæp.tʃɚ/ *(transitive verb; countable/uncountable noun)*: bắt giữ, chiếm được; sự bắt giữ  
+  *Example:* Camera traps can capture images of rare animals without disturbing them.  
+  → Bẫy ảnh có thể ghi lại hình ảnh của động vật quý hiếm mà không làm phiền chúng.
+
+* **captor** UK /ˈkæp.tər/ US /ˈkæp.tɚ/ *(countable noun)*: kẻ bắt giữ  
+  *Example:* The victim was able to give the police a detailed description of her captor.  
+  → Nạn nhân có thể cung cấp cho cảnh sát bản mô tả chi tiết về kẻ bắt giữ cô ấy.
+
+* **captive** /ˈkæp.tɪv/ *(countable noun; adjective)*: người hoặc động vật bị giam giữ; bị giam cầm  
+  *Example:* The organization campaigns against keeping wild animals captive.  
+  → Tổ chức này vận động phản đối việc giam giữ động vật hoang dã.
+
+* **captivity** /kæpˈtɪv.ə.ti/ *(uncountable noun)*: tình trạng bị giam cầm  
+  *Example:* Some species do not reproduce successfully in captivity.  
+  → Một số loài không sinh sản thành công trong điều kiện nuôi nhốt.
+
+### Notes
+
+Do not confuse `captor` with `captive`: the `captor` performs the capture, while the `captive` is held. A `kidnapper` abducts a person illegally, whereas `captor` is broader and may also refer to someone who captures a soldier, criminal, or animal.
