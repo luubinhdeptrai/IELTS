@@ -25500,3 +25500,376 @@ Common structures:
 ### Notes
 
 Use `slight` before nouns that express a degree, amount, difference, possibility, or problem: `slight pain`, `a slight improvement`, and `a slight delay`. Use `slightly` before an adjective, adverb, or comparative: `slightly different`, `slightly more expensive`. Compared with `light`, `slight` does not normally describe weight: say `a light suitcase`, not `a slight suitcase`. For weather, `light rain` is the normal collocation, while `a slight chance of rain` describes low probability.
+
+---
+
+## 457. Still waters run deep UK /ˌstɪl ˈwɔː.təz rʌn ˈdiːp/ US /ˌstɪl ˈwɑː.t̬ɚz rʌn ˈdiːp/
+
+* **Part of speech:** proverb; idiom
+* **Vietnamese meaning:** những người ít nói hoặc có vẻ điềm tĩnh thường có suy nghĩ, cảm xúc, kiến thức hay năng lực sâu sắc hơn vẻ bề ngoài *(100%)*
+
+### Usage
+
+`Still waters run deep` suggests that a quiet, calm, or reserved person may have a rich inner life, strong feelings, considerable knowledge, or unexpected ability. It is normally used as a complete proverb or as a comment about someone's quiet personality.
+
+Common structures:
+
+* `Still waters run deep.`: tẩm ngẩm tầm ngầm mà đấm chết voi; người trầm lặng thường có chiều sâu
+* `As the saying goes, still waters run deep.`: như câu tục ngữ đã nói, người trầm lặng thường có chiều sâu
+* `Someone is quiet, but still waters run deep.`: ai đó ít nói nhưng có nội tâm/năng lực sâu sắc
+* `a case of still waters running deep`: một trường hợp người bề ngoài trầm lặng nhưng có chiều sâu
+
+### Examples
+
+1. **Lan rarely speaks in meetings, but her ideas are excellent; still waters run deep.**
+   → Lan hiếm khi phát biểu trong các cuộc họp, nhưng ý tưởng của cô ấy rất xuất sắc; đúng là người trầm lặng thường có chiều sâu.
+
+2. **He may seem reserved, but still waters run deep, and he understands the issue better than most people.**
+   → Anh ấy có thể có vẻ kín đáo, nhưng nội tâm rất sâu sắc và anh ấy hiểu vấn đề rõ hơn hầu hết mọi người.
+
+### Common collocations
+
+* **as the saying goes**: như câu tục ngữ đã nói
+* **quiet but thoughtful**: ít nói nhưng sâu sắc
+* **a reserved person**: một người kín đáo, dè dặt
+* **a rich inner life**: đời sống nội tâm phong phú
+
+### Synonyms
+
+* **appearances can be deceptive** UK /əˈpɪə.rən.sɪz kən bi dɪˈsep.tɪv/ US /əˈpɪr.ən.sɪz kən bi dɪˈsep.tɪv/ *(proverb-like expression)*: vẻ bề ngoài có thể đánh lừa
+* **reserved** UK /rɪˈzɜːvd/ US /rɪˈzɝːvd/ *(adjective)*: kín đáo, ít bộc lộ cảm xúc
+* **thoughtful** UK /ˈθɔːt.fəl/ US /ˈθɑːt.fəl/ *(adjective)*: sâu sắc, hay suy nghĩ; cũng có nghĩa chu đáo
+* **unassuming** UK /ˌʌn.əˈsjuː.mɪŋ/ US /ˌʌn.əˈsuː.mɪŋ/ *(adjective)*: khiêm tốn, không phô trương
+
+### Word family
+
+* **deep** /diːp/ *(adjective/adverb)*: sâu; sâu sắc  
+  *Example:* She has a deep understanding of environmental policy.  
+  → Cô ấy có hiểu biết sâu sắc về chính sách môi trường.
+
+* **deeply** /ˈdiːp.li/ *(adverb)*: một cách sâu sắc, vô cùng  
+  *Example:* The local community was deeply concerned about water pollution.  
+  → Cộng đồng địa phương vô cùng lo ngại về ô nhiễm nguồn nước.
+
+* **depth** /depθ/ *(countable/uncountable noun)*: độ sâu; chiều sâu  
+  *Example:* The interview revealed the depth of his knowledge.  
+  → Cuộc phỏng vấn cho thấy chiều sâu kiến thức của anh ấy.
+
+### Notes
+
+The standard proverb is `still waters run deep`, not `still water runs deep`. Here, `still` means calm and unmoving, while plural `waters` refers figuratively to a calm surface hiding great depth. The proverb is generally positive, but it can occasionally imply that a quiet person has hidden motives or unexpectedly strong feelings.
+
+---
+
+## 458. Muddy /ˈmʌd.i/
+
+* **Part of speech:** adjective; transitive verb
+* **Vietnamese meaning:** đầy bùn, dính bùn hoặc đục vì bùn *(45%)*; không rõ ràng, rối rắm hoặc khó hiểu *(30%)*; làm vấy bùn, làm đục hoặc làm một vấn đề khó hiểu hơn *(15%)*; có màu nâu xỉn hoặc màu sắc không trong *(10%)*
+
+### Usage
+
+As an adjective, `muddy` describes ground, water, clothes, or colors affected by mud or lacking clarity. As a verb, it means make something dirty with mud or make an issue, explanation, or distinction less clear.
+
+`Muddy the waters` is an idiom meaning **make a situation, discussion, or issue more confusing and difficult to understand**, often by introducing irrelevant information, conflicting claims, or unnecessary complications.
+
+Common structures:
+
+* `muddy + road/water/clothes`: con đường/nước/quần áo đầy bùn hoặc đục
+* `become/get muddy`: trở nên lấm bùn hoặc đục
+* `muddy + issue/distinction`: làm vấn đề/sự phân biệt trở nên không rõ ràng
+* `muddy the waters`: làm tình hình hoặc cuộc thảo luận thêm rối rắm
+* `muddy the waters by + V-ing`: làm vấn đề rối hơn bằng cách làm gì
+
+### Examples
+
+1. **Heavy rain turned the path into a muddy track.**
+   → Mưa lớn biến con đường mòn thành một lối đi đầy bùn.
+
+2. **Introducing unrelated statistics will only muddy the waters and distract readers from the main issue.**
+   → Việc đưa vào các số liệu không liên quan chỉ làm vấn đề thêm rối rắm và khiến người đọc mất tập trung khỏi vấn đề chính.
+
+### Common collocations
+
+* **muddy water**: nước đục vì bùn
+* **muddy road**: con đường lầy lội
+* **muddy the waters**: làm vấn đề thêm rối rắm
+* **muddy the distinction**: làm mờ sự phân biệt
+* **muddy thinking**: lối suy nghĩ không rõ ràng
+
+### Synonyms
+
+* **dirty** UK /ˈdɜː.ti/ US /ˈdɝː.t̬i/ *(adjective)*: bẩn
+* **murky** UK /ˈmɜː.ki/ US /ˈmɝː.ki/ *(adjective)*: đục; mơ hồ hoặc đáng ngờ
+* **unclear** UK /ˌʌnˈklɪər/ US /ˌʌnˈklɪr/ *(adjective)*: không rõ ràng
+* **confuse** /kənˈfjuːz/ *(transitive verb)*: làm bối rối hoặc làm rối
+* **obscure** UK /əbˈskjʊər/ US /əbˈskjʊr/ *(transitive verb)*: che khuất, làm khó hiểu
+
+### Word family
+
+* **mud** /mʌd/ *(uncountable noun; transitive verb)*: bùn; làm dính bùn  
+  *Example:* The children's shoes were covered in mud.  
+  → Giày của bọn trẻ bị phủ đầy bùn.
+
+* **muddy** /ˈmʌd.i/ *(adjective/transitive verb)*: lầy lội, đục, không rõ ràng; làm đục hoặc rối  
+  *Example:* Vague terminology can muddy an otherwise clear argument.  
+  → Thuật ngữ mơ hồ có thể làm rối một lập luận vốn rõ ràng.
+
+* **muddiness** /ˈmʌd.i.nəs/ *(uncountable noun)*: tình trạng lầy lội, độ đục hoặc sự thiếu rõ ràng  
+  *Example:* The muddiness of the explanation made the policy difficult to evaluate.  
+  → Sự thiếu rõ ràng của lời giải thích khiến chính sách khó được đánh giá.
+
+* **muddied** /ˈmʌd.id/ *(adjective; past-tense/past-participle form)*: bị làm bẩn, làm đục hoặc làm rối  
+  *Example:* The debate was muddied by several misleading claims.  
+  → Cuộc tranh luận bị làm rối bởi một số tuyên bố gây hiểu lầm.
+
+### Notes
+
+In `muddy the waters`, `waters` represents the facts or circumstances surrounding an issue. If clear water becomes muddy, it is difficult to see through; similarly, a muddied discussion becomes difficult to understand. For example, `His contradictory explanation muddied the waters` means his explanation made the situation less clear, not that he literally put mud in water.
+
+---
+
+## 459. Pour cold water on something UK /pɔː ˌkəʊld ˈwɔː.tər ɒn ˌsʌm.θɪŋ/ US /pɔːr ˌkoʊld ˈwɑː.t̬ɚ ɑːn ˌsʌm.θɪŋ/
+
+* **Part of speech:** idiom; verb phrase
+* **Vietnamese meaning:** làm ai mất hứng, làm giảm sự nhiệt tình hoặc chỉ trích/nghi ngờ một ý tưởng, kế hoạch hay hy vọng *(100%)*
+
+### Usage
+
+`Pour cold water on something` means react negatively to an idea, proposal, plan, or source of enthusiasm, causing people to feel less hopeful or excited about it. The image is of cold water putting out heat or enthusiasm. It is usually figurative.
+
+Common structures:
+
+* `pour cold water on + idea/plan/proposal`: phản đối hoặc làm giảm nhiệt tình đối với ý tưởng/kế hoạch/đề xuất
+* `pour cold water on + hopes/enthusiasm`: dập tắt hy vọng/sự hào hứng
+* `pour cold water on the suggestion that + clause`: bác bỏ hoặc nghi ngờ ý kiến cho rằng...
+* `someone's comments pour cold water on + noun`: lời nhận xét của ai làm giảm sự hào hứng về điều gì
+
+### Examples
+
+1. **Several experts poured cold water on the proposal because it lacked reliable evidence.**
+   → Một số chuyên gia đã tỏ ý nghi ngờ đề xuất vì nó thiếu bằng chứng đáng tin cậy.
+
+2. **I do not want to pour cold water on your plans, but the budget may be too limited.**
+   → Tôi không muốn làm bạn mất hứng với kế hoạch của mình, nhưng ngân sách có thể quá hạn chế.
+
+### Common collocations
+
+* **pour cold water on an idea**: làm giảm sự hào hứng đối với một ý tưởng
+* **pour cold water on a proposal**: phản đối hoặc nghi ngờ một đề xuất
+* **pour cold water on someone's hopes**: dập tắt hy vọng của ai
+* **pour cold water on speculation**: bác bỏ hoặc làm giảm sự tin tưởng vào suy đoán
+
+### Synonyms
+
+* **discourage** UK /dɪˈskʌr.ɪdʒ/ US /dɪˈskɝː.ɪdʒ/ *(transitive verb)*: làm nản lòng
+* **dampen enthusiasm** UK /ˌdæm.pən ɪnˈθjuː.zi.æz.əm/ US /ˌdæm.pən ɪnˈθuː.zi.æz.əm/ *(verb phrase)*: làm giảm sự nhiệt tình
+* **cast doubt on** UK /ˌkɑːst ˈdaʊt ɒn/ US /ˌkæst ˈdaʊt ɑːn/ *(verb phrase)*: khiến người ta nghi ngờ
+* **undermine** UK /ˌʌn.dəˈmaɪn/ US /ˌʌn.dɚˈmaɪn/ *(transitive verb)*: làm suy yếu niềm tin, uy tín hoặc hiệu quả
+
+### Word family
+
+* **pour** UK /pɔːr/ US /pɔːr/ *(transitive/intransitive verb)*: rót, đổ; trút xuống  
+  *Example:* She poured the remaining water into the bottle.  
+  → Cô ấy rót phần nước còn lại vào chai.
+
+* **pouring** UK /ˈpɔː.rɪŋ/ US /ˈpɔːr.ɪŋ/ *(adjective; verb form)*: đang trút xuống; mưa rất lớn  
+  *Example:* We postponed the trip because of the pouring rain.  
+  → Chúng tôi hoãn chuyến đi vì mưa như trút nước.
+
+* **downpour** UK /ˈdaʊn.pɔːr/ US /ˈdaʊn.pɔːr/ *(countable noun)*: trận mưa lớn, mưa như trút  
+  *Example:* A sudden downpour flooded several city streets.  
+  → Một trận mưa lớn bất ngờ làm ngập một số đường phố trong thành phố.
+
+### Notes
+
+The expression is figurative when the object is an idea, plan, hope, or proposal. `Throw cold water on something` is a common variant, especially in American English. The idiom can mean either openly criticize an idea or simply reduce people's optimism about it.
+
+---
+
+## 460. Tread /tred/
+
+* **Part of speech:** transitive/intransitive irregular verb; countable/uncountable noun
+* **Vietnamese meaning:** bước, giẫm hoặc đi trên một bề mặt *(40%)*; giẫm lên hoặc đè lên người/vật gì *(20%)*; bề mặt có rãnh của lốp xe/đế giày hoặc cách một người bước đi *(20%)*; đạp nước để giữ cơ thể nổi trong cụm `tread water` *(10%)*; hành động thận trọng trong các cụm nghĩa bóng như `tread carefully` *(10%)*
+
+### Usage
+
+`Tread` means put one's foot on something or walk in a particular way. Its main irregular forms are `tread – trod – trodden`. As a noun, it can mean the grooved surface of a tire or shoe, or the sound and manner of someone's steps.
+
+`Tread water` literally means **move your arms and legs in water to remain upright and afloat without moving forward**. Figuratively, it means **work to maintain the current situation without making real progress**, often while waiting for help, money, or a decision.
+
+Common structures:
+
+* `tread on + object/person's foot`: giẫm lên vật/chân của ai
+* `tread carefully/lightly`: bước đi hoặc hành động thận trọng
+* `tread a path/route`: đi theo một con đường/lộ trình
+* `tread water`: đạp nước; duy trì tình trạng hiện tại nhưng không tiến triển
+* `deep/worn tire tread`: rãnh lốp sâu/bị mòn
+
+### Examples
+
+1. **Be careful not to tread on the wet paint.**
+   → Hãy cẩn thận đừng giẫm lên lớp sơn ướt.
+
+2. **Without additional funding, the project will merely tread water.**
+   → Nếu không có thêm kinh phí, dự án sẽ chỉ duy trì cầm chừng mà không đạt được tiến triển thực sự.
+
+### Common collocations
+
+* **tread carefully**: hành động thận trọng
+* **tread lightly**: bước nhẹ; xử lý vấn đề một cách dè dặt
+* **tread water**: đạp nước; giậm chân tại chỗ
+* **tire tread**: rãnh lốp xe
+* **tread on someone's toes**: giẫm lên chân ai; làm ai phật ý hoặc xâm phạm phạm vi của họ
+
+### Synonyms
+
+* **step** /step/ *(intransitive verb; countable noun)*: bước, giẫm
+* **walk** UK /wɔːk/ US /wɑːk/ *(intransitive/transitive verb)*: đi bộ
+* **trample** /ˈtræm.pəl/ *(transitive/intransitive verb)*: giẫm đạp mạnh
+* **stamp** /stæmp/ *(transitive/intransitive verb)*: giậm mạnh
+* **stay afloat** UK /ˌsteɪ əˈfləʊt/ US /ˌsteɪ əˈfloʊt/ *(verb phrase)*: giữ nổi; gần nghĩa đen của `tread water`
+
+### Word family
+
+* **tread** /tred/ *(verb/noun)*: bước, giẫm; rãnh lốp hoặc cách bước đi  
+  *Example:* These boots provide a firm tread on slippery ground.  
+  → Đôi ủng này tạo độ bám chắc trên nền đất trơn trượt.
+
+* **trod** UK /trɒd/ US /trɑːd/ *(past-tense verb form)*: đã bước hoặc giẫm  
+  *Example:* We trod carefully across the icy pavement.  
+  → Chúng tôi bước cẩn thận qua vỉa hè phủ băng.
+
+* **trodden** UK /ˈtrɒd.ən/ US /ˈtrɑː.dən/ *(past-participle form; adjective)*: đã bị giẫm hoặc đi qua  
+  *Example:* Hikers should remain on well-trodden paths.  
+  → Người đi bộ đường dài nên ở trên những lối mòn đã có nhiều người qua lại.
+
+* **treadmill** /ˈtred.mɪl/ *(countable noun)*: máy chạy bộ; guồng quay đơn điệu  
+  *Example:* She exercises on a treadmill three times a week.  
+  → Cô ấy tập trên máy chạy bộ ba lần mỗi tuần.
+
+### Notes
+
+In `The company is treading water`, the company is surviving or maintaining its position but is not growing or solving its problems. This differs from `test the waters`, which means cautiously investigate people's reactions before acting. Do not confuse the past forms: `trod` is the usual past tense, and `trodden` is the usual past participle (`has trodden`).
+
+---
+
+## 461. Test the waters UK /ˌtest ðə ˈwɔː.təz/ US /ˌtest ðə ˈwɑː.t̬ɚz/
+
+* **Part of speech:** idiom; verb phrase
+* **Vietnamese meaning:** thăm dò phản ứng hoặc thử nghiệm thận trọng trước khi đưa ra quyết định hay cam kết lớn *(100%)*
+
+### Usage
+
+`Test the waters` means cautiously discover what people think, how a market may respond, or whether an idea is likely to succeed before fully committing to it. It often involves a small trial, an informal question, or a limited release.
+
+Common structures:
+
+* `test the waters before + V-ing`: thăm dò trước khi làm gì
+* `test the waters by + V-ing`: thăm dò bằng cách làm gì
+* `test the waters with + product/idea`: thử phản ứng với sản phẩm/ý tưởng
+* `test the waters in + market/field`: thăm dò trong thị trường/lĩnh vực
+* `use + trial/pilot + to test the waters`: dùng thử nghiệm/chương trình thí điểm để thăm dò
+
+### Examples
+
+1. **The company released a limited version of the app to test the waters.**
+   → Công ty phát hành một phiên bản giới hạn của ứng dụng để thăm dò phản ứng.
+
+2. **Before proposing a major change, the manager tested the waters by asking for informal feedback.**
+   → Trước khi đề xuất một thay đổi lớn, người quản lý đã thăm dò bằng cách xin ý kiến phản hồi không chính thức.
+
+### Common collocations
+
+* **test the waters first**: thăm dò trước
+* **test the waters cautiously**: thăm dò một cách thận trọng
+* **test the waters in a new market**: thăm dò một thị trường mới
+* **test the waters with consumers**: thăm dò phản ứng của người tiêu dùng
+
+### Synonyms
+
+* **gauge interest** UK /ˌɡeɪdʒ ˈɪn.trəst/ US /ˌɡeɪdʒ ˈɪn.trɪst/ *(verb phrase)*: đánh giá mức độ quan tâm
+* **sound someone out** /ˌsaʊnd ˌsʌm.wʌn ˈaʊt/ *(phrasal verb)*: thăm dò ý kiến hoặc thái độ của ai
+* **try out** /ˌtraɪ ˈaʊt/ *(phrasal verb)*: thử để xem có hiệu quả hay phù hợp không
+* **pilot** /ˈpaɪ.lət/ *(transitive verb)*: thử nghiệm ở quy mô nhỏ trước khi triển khai rộng
+
+### Word family
+
+* **test** /test/ *(countable noun; transitive verb)*: bài kiểm tra, phép thử; kiểm tra, thử nghiệm  
+  *Example:* The city will test the new traffic system for three months.  
+  → Thành phố sẽ thử nghiệm hệ thống giao thông mới trong ba tháng.
+
+* **testing** /ˈtes.tɪŋ/ *(uncountable noun; adjective; verb form)*: việc kiểm tra; đầy thử thách  
+  *Example:* Extensive testing revealed several technical problems.  
+  → Việc kiểm tra kỹ lưỡng đã phát hiện một số vấn đề kỹ thuật.
+
+* **tester** UK /ˈtes.tər/ US /ˈtes.tɚ/ *(countable noun)*: người hoặc thiết bị kiểm tra, sản phẩm dùng thử  
+  *Example:* Each software tester recorded the errors they discovered.  
+  → Mỗi nhân viên kiểm thử phần mềm ghi lại các lỗi họ phát hiện.
+
+### Notes
+
+The idiom usually uses plural `waters`, though `test the water` also occurs, especially in British English. Do not confuse the idiom with literally `test the water`, which may mean examine water quality or temperature. `Test the waters` involves gathering information before making a larger commitment.
+
+---
+
+## 462. In hot water UK /ɪn ˌhɒt ˈwɔː.tər/ US /ɪn ˌhɑːt ˈwɑː.t̬ɚ/
+
+* **Part of speech:** idiom; adjective/prepositional phrase, usually after `be` or `get`
+* **Vietnamese meaning:** gặp rắc rối, bị chỉ trích hoặc có nguy cơ bị trừng phạt vì đã làm điều sai hay gây tranh cãi *(100%)*
+
+### Usage
+
+`Be in hot water` means be in trouble, especially because someone has made a mistake, broken a rule, or caused offense. `Get into hot water` emphasizes entering that difficult situation, while `land someone in hot water` means cause another person to get into trouble.
+
+Common structures:
+
+* `be in hot water with + person/authority`: gặp rắc rối với ai/cơ quan nào
+* `be in hot water over + issue/decision`: bị chỉ trích hoặc gặp rắc rối vì vấn đề/quyết định nào
+* `be in hot water for + noun/V-ing`: gặp rắc rối vì điều gì/vì đã làm gì
+* `get into hot water`: rơi vào tình thế rắc rối
+* `land + someone + in hot water`: khiến ai gặp rắc rối
+
+### Examples
+
+1. **The company is in hot water over its failure to protect customer data.**
+   → Công ty đang gặp rắc rối vì không bảo vệ được dữ liệu khách hàng.
+
+2. **He got into hot water with his manager for missing another deadline.**
+   → Anh ấy gặp rắc rối với quản lý vì lại bỏ lỡ một thời hạn nữa.
+
+### Common collocations
+
+* **be in hot water**: đang gặp rắc rối
+* **get into hot water**: rơi vào rắc rối
+* **in hot water with the authorities**: gặp rắc rối với nhà chức trách
+* **in hot water over a decision**: bị chỉ trích hoặc gặp rắc rối vì một quyết định
+* **land someone in hot water**: khiến ai gặp rắc rối
+
+### Synonyms
+
+* **in trouble** /ɪn ˈtrʌb.əl/ *(adjective/prepositional phrase)*: gặp rắc rối
+* **under fire** UK /ˌʌn.də ˈfaɪər/ US /ˌʌn.dɚ ˈfaɪr/ *(idiom)*: đang bị chỉ trích mạnh
+* **in difficulty** /ɪn ˈdɪf.ɪ.kəl.ti/ *(prepositional phrase)*: đang trong hoàn cảnh khó khăn
+* **face criticism** /ˌfeɪs ˈkrɪt.ɪ.sɪ.zəm/ *(verb phrase)*: đối mặt với sự chỉ trích
+
+### Word family
+
+* **hot** UK /hɒt/ US /hɑːt/ *(adjective)*: nóng; gay gắt hoặc đầy tranh cãi  
+  *Example:* The proposal became a hot topic during the election.  
+  → Đề xuất này trở thành một chủ đề gây tranh luận sôi nổi trong cuộc bầu cử.
+
+* **heat** /hiːt/ *(uncountable noun; transitive/intransitive verb)*: nhiệt, sức nóng; làm nóng  
+  *Example:* Extreme heat can create serious health risks for outdoor workers.  
+  → Nắng nóng cực đoan có thể gây ra rủi ro sức khỏe nghiêm trọng cho người lao động ngoài trời.
+
+* **heated** /ˈhiː.tɪd/ *(adjective; past-participle form)*: được làm nóng; gay gắt, sôi nổi  
+  *Example:* The committee had a heated debate about public spending.  
+  → Ủy ban đã có một cuộc tranh luận gay gắt về chi tiêu công.
+
+* **heatedly** /ˈhiː.tɪd.li/ *(adverb)*: một cách gay gắt hoặc đầy cảm xúc  
+  *Example:* The two candidates argued heatedly about the proposed law.  
+  → Hai ứng viên tranh luận gay gắt về dự luật được đề xuất.
+
+### Notes
+
+The phrase is figurative and does not refer to actual hot water. `In hot water` often suggests blame or possible punishment, whereas `in deep water` more broadly means being in a serious or difficult situation. Say `She is in hot water` or `She got into hot water`, not `She has hot water` when you mean she is in trouble.
