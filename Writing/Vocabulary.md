@@ -25873,3 +25873,125 @@ Common structures:
 ### Notes
 
 The phrase is figurative and does not refer to actual hot water. `In hot water` often suggests blame or possible punishment, whereas `in deep water` more broadly means being in a serious or difficult situation. Say `She is in hot water` or `She got into hot water`, not `She has hot water` when you mean she is in trouble.
+
+---
+
+## 463. Disseminate /dɪˈsem.ɪ.neɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** phổ biến hoặc truyền bá rộng rãi thông tin, kiến thức, ý tưởng hay kết quả nghiên cứu *(90%)*; làm lan truyền rộng một chất, tác nhân hoặc sinh vật trong ngữ cảnh kỹ thuật/y học *(10%)*
+
+### Usage
+
+`Disseminate` means spread information, knowledge, ideas, or research findings widely so that they reach many people. It is formal and particularly common in academic, governmental, organizational, media, and public-health contexts.
+
+Common structures:
+
+* `disseminate + information/knowledge/findings`: phổ biến thông tin/kiến thức/kết quả nghiên cứu
+* `disseminate + something + to + audience/group`: phổ biến điều gì tới đối tượng/nhóm nào
+* `disseminate + something + among + people/groups`: truyền bá điều gì trong cộng đồng/các nhóm
+* `be disseminated through/via + channel`: được phổ biến qua kênh nào
+* `widely/rapidly disseminate + content`: phổ biến nội dung rộng rãi/nhanh chóng
+
+### Examples
+
+1. **Universities should disseminate research findings to the wider public.**
+   → Các trường đại học nên phổ biến kết quả nghiên cứu tới công chúng rộng rãi hơn.
+
+2. **False information can be disseminated rapidly through social media.**
+   → Thông tin sai lệch có thể được lan truyền nhanh chóng qua mạng xã hội.
+
+### Common collocations
+
+* **disseminate information**: phổ biến thông tin
+* **disseminate knowledge**: truyền bá kiến thức
+* **disseminate research findings**: phổ biến kết quả nghiên cứu
+* **widely disseminated**: được phổ biến rộng rãi
+* **disseminate best practices**: phổ biến những phương pháp thực hành hiệu quả
+
+### Synonyms
+
+* **spread** /spred/ *(transitive/intransitive verb)*: lan truyền, phổ biến; thông dụng và ít trang trọng hơn
+* **circulate** UK /ˈsɜː.kjə.leɪt/ US /ˈsɝː.kjə.leɪt/ *(transitive/intransitive verb)*: lưu hành, truyền tay hoặc phổ biến
+* **distribute** /dɪˈstrɪb.juːt/ *(transitive verb)*: phân phát hoặc phân phối
+* **publicize** /ˈpʌb.lɪ.saɪz/ *(transitive verb)*: công bố, quảng bá để công chúng biết
+* **propagate** UK /ˈprɒp.ə.ɡeɪt/ US /ˈprɑː.pə.ɡeɪt/ *(transitive verb)*: truyền bá hoặc làm lan rộng ý tưởng, niềm tin hay thông tin
+
+### Word family
+
+* **disseminate** /dɪˈsem.ɪ.neɪt/ *(transitive verb)*: phổ biến, truyền bá rộng rãi  
+  *Example:* Public agencies use online platforms to disseminate safety advice.  
+  → Các cơ quan công quyền sử dụng nền tảng trực tuyến để phổ biến lời khuyên an toàn.
+
+* **dissemination** /dɪˌsem.ɪˈneɪ.ʃən/ *(uncountable noun)*: sự phổ biến hoặc truyền bá rộng rãi  
+  *Example:* The rapid dissemination of misinformation can damage public trust.  
+  → Việc lan truyền nhanh chóng thông tin sai lệch có thể làm tổn hại niềm tin của công chúng.
+
+* **disseminator** UK /dɪˈsem.ɪ.neɪ.tər/ US /dɪˈsem.ə.neɪ.t̬ɚ/ *(countable noun)*: người hoặc tổ chức phổ biến thông tin  
+  *Example:* Libraries act as important disseminators of knowledge.  
+  → Thư viện đóng vai trò là những đơn vị phổ biến kiến thức quan trọng.
+
+### Notes
+
+`Disseminate` is more formal than `spread` and usually takes information-like objects, such as `knowledge`, `findings`, `guidelines`, or `ideas`. `Distribute` often emphasizes delivering separate copies or physical items, whereas `disseminate` emphasizes making content widely known. Use `disseminate information`, not `disseminate about information`.
+
+---
+
+## 464. Interleave UK /ˌɪn.təˈliːv/ US /ˌɪn.t̬ɚˈliːv/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** xếp hoặc xen kẽ các lớp, phần hay yếu tố của hai hoặc nhiều nhóm *(55%)*; đan xen dữ liệu, tác vụ, lệnh hoặc vùng nhớ trong điện toán *(35%)*; chèn các tờ giấy trắng hoặc tờ bổ sung xen giữa các trang sách *(10%)*
+
+### Usage
+
+`Interleave` means arrange elements from different sets in an alternating or interspersed order. It is useful in education and writing when theory is mixed with examples, and in software engineering when data, operations, or memory locations are arranged or processed alternately.
+
+Common structures:
+
+* `interleave + A + with + B`: xen kẽ A với B
+* `interleave + items/data/pages`: sắp xếp xen kẽ các mục/dữ liệu/trang
+* `A + be interleaved with + B`: A được xen kẽ với B
+* `interleave + elements + from + multiple sources`: xen kẽ các phần tử từ nhiều nguồn
+* `interleave + tasks/instructions/operations`: thực hiện xen kẽ các tác vụ/lệnh/thao tác
+
+### Examples
+
+1. **The course interleaves theoretical lessons with practical exercises.**
+   → Khóa học xen kẽ các bài học lý thuyết với bài tập thực hành.
+
+2. **The algorithm interleaves data from two input streams while preserving their original order.**
+   → Thuật toán xen kẽ dữ liệu từ hai luồng đầu vào trong khi vẫn giữ nguyên thứ tự ban đầu của từng luồng.
+
+### Common collocations
+
+* **interleave A with B**: xen kẽ A với B
+* **interleave data**: xen kẽ dữ liệu
+* **interleaved memory**: bộ nhớ được tổ chức xen kẽ
+* **interleaved execution**: việc thực thi xen kẽ
+* **interleaved practice**: phương pháp luyện tập xen kẽ nhiều dạng bài hoặc kỹ năng
+
+### Synonyms
+
+* **alternate** UK /ˈɔːl.tə.neɪt/ US /ˈɑːl.tɚ.neɪt/ *(transitive/intransitive verb)*: luân phiên, xen kẽ
+* **intersperse** UK /ˌɪn.təˈspɜːs/ US /ˌɪn.t̬ɚˈspɝːs/ *(transitive verb)*: rải hoặc xen một thứ vào giữa những thứ khác
+* **weave** /wiːv/ *(transitive/intransitive verb)*: đan, kết hợp các yếu tố với nhau
+* **layer** UK /ˈleɪ.ər/ US /ˈleɪ.ɚ/ *(transitive verb)*: xếp thành nhiều lớp
+* **merge** UK /mɜːdʒ/ US /mɝːdʒ/ *(transitive/intransitive verb)*: hợp nhất; không nhất thiết giữ cách sắp xếp xen kẽ
+
+### Word family
+
+* **interleave** UK /ˌɪn.təˈliːv/ US /ˌɪn.t̬ɚˈliːv/ *(transitive verb)*: xếp hoặc xử lý xen kẽ  
+  *Example:* Teachers can interleave grammar practice with speaking activities.  
+  → Giáo viên có thể xen kẽ bài tập ngữ pháp với các hoạt động nói.
+
+* **interleaved** UK /ˌɪn.təˈliːvd/ US /ˌɪn.t̬ɚˈliːvd/ *(adjective; past-participle form)*: được xen kẽ hoặc đan xen  
+  *Example:* The program processes the interleaved audio and video data.  
+  → Chương trình xử lý dữ liệu âm thanh và video được xen kẽ.
+
+* **interleaving** UK /ˌɪn.təˈliː.vɪŋ/ US /ˌɪn.t̬ɚˈliː.vɪŋ/ *(uncountable noun; verb form)*: sự xen kẽ, kỹ thuật sắp xếp xen kẽ  
+  *Example:* Interleaving different question types can strengthen long-term recall.  
+  → Việc xen kẽ các dạng câu hỏi khác nhau có thể củng cố khả năng ghi nhớ lâu dài.
+
+### Notes
+
+`Interleave A with B` emphasizes an alternating arrangement while the elements remain distinguishable. `Merge A and B` means combine them into one whole and does not necessarily imply alternation. In programming, interleaving operations does not automatically mean that they run at exactly the same time; their execution may simply alternate.
