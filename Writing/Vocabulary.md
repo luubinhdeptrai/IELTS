@@ -20444,14 +20444,14 @@ Common structures:
 
 ---
 
-## 370. Keen on UK /ˈkiːn ɒn/ US /ˈkiːn ɑːn/
+## 370. Keen; keen on /kiːn/
 
-* **Part of speech:** adjective phrase
-* **Vietnamese meaning:** rất thích hoặc hứng thú với một người, hoạt động hay sự vật *(80%)*; ủng hộ hoặc muốn thực hiện một ý tưởng *(20%)*
+* **Part of speech:** adjective; adjective phrase in `keen on`
+* **Vietnamese meaning:** rất thích, hứng thú hoặc nhiệt tình với người, vật hay hoạt động *(40%)*; rất muốn làm điều gì *(25%)*; sắc bén hoặc nhạy bén về giác quan, trí óc hay khả năng quan sát *(20%)*; mạnh mẽ, gay gắt hoặc sâu sắc như trong `keen competition/awareness` *(15%)*
 
 ### Usage
 
-`Be keen on` means like or be enthusiastic about something. It is especially common in British English; `be interested in` and `really like` are more common in American English.
+`Be keen on` means like or be enthusiastic about something. `Be keen to + verb` expresses a strong desire to act. Before nouns such as `eye`, `mind`, `sense`, or `interest`, `keen` means sharp, perceptive, or intense. The preference meaning is especially common in British English; `be interested in` and `really like` are more common in American English.
 
 Common structures:
 
@@ -20459,6 +20459,8 @@ Common structures:
 * `be keen on + verb-ing`: rất thích làm gì
 * `not be keen on`: không thích lắm
 * `be keen to + verb`: rất muốn làm gì; dùng `to` thay vì `on`
+* `have a keen eye/sense for + noun`: có con mắt/khả năng nhạy bén về điều gì
+* `keen competition/interest/awareness`: sự cạnh tranh/mối quan tâm/nhận thức mạnh mẽ
 
 ### Examples
 
@@ -20473,12 +20475,17 @@ Common structures:
 * **keen on sports**: rất thích thể thao
 * **keen on doing something**: rất thích làm gì
 * **not particularly keen on**: không đặc biệt thích
+* **keen to learn**: rất muốn học
+* **keen eye for detail**: con mắt tinh tường đối với chi tiết
+* **keen competition**: sự cạnh tranh gay gắt
 
 ### Synonyms
 
 * **fond of** UK /ˈfɒnd əv/ US /ˈfɑːnd əv/ *(adjective phrase)*: yêu thích
 * **interested in** /ˈɪn.trə.stɪd ɪn/ *(adjective phrase)*: quan tâm/hứng thú với
 * **enthusiastic about** /ɪnˌθjuː.ziˈæs.tɪk əˈbaʊt/ *(adjective phrase)*: nhiệt tình, hào hứng về
+* **eager** UK /ˈiː.ɡər/ US /ˈiː.ɡɚ/ *(adjective)*: háo hức, rất muốn
+* **sharp** UK /ʃɑːp/ US /ʃɑːrp/ *(adjective)*: sắc bén, nhạy bén; gần nghĩa khi nói về giác quan hoặc trí óc
 
 ### Word family
 
@@ -20496,7 +20503,7 @@ Common structures:
 
 ### Notes
 
-After `keen on`, use a noun or `verb-ing`: `keen on swimming`. Use `keen to + verb` for a strong desire to act: `keen to start`. Do not say `keen on to start`.
+After `keen on`, use a noun or `verb-ing`: `keen on swimming`. Use `keen to + verb` for a strong desire to act: `keen to start`. Do not say `keen on to start`. `A keen mind` means a sharp mind, not a mind that merely likes something; context determines which meaning is intended.
 
 ---
 
@@ -25995,3 +26002,1327 @@ Common structures:
 ### Notes
 
 `Interleave A with B` emphasizes an alternating arrangement while the elements remain distinguishable. `Merge A and B` means combine them into one whole and does not necessarily imply alternation. In programming, interleaving operations does not automatically mean that they run at exactly the same time; their execution may simply alternate.
+
+---
+
+## 465. Gum /ɡʌm/
+
+* **Part of speech:** countable/uncountable noun; transitive verb
+* **Vietnamese meaning:** lợi, phần mô mềm bao quanh chân răng, thường dùng ở dạng số nhiều `gums` *(40%)*; kẹo cao su trong `chewing gum` *(30%)*; chất dính, keo hoặc nhựa cây *(15%)*; cây bạch đàn hoặc một số cây tiết nhựa trong `gum tree` *(10%)*; làm dính hoặc làm tắc bằng chất dính *(5%)*
+
+### Usage
+
+`Gum` has several unrelated common meanings. In anatomy, `gums` are the soft tissues around the teeth. `Chewing gum` is an uncountable substance, though individual pieces can be counted. As a sticky substance or verb, `gum` can refer to adhesive material or something becoming blocked by it.
+
+Common structures:
+
+* `healthy/bleeding/swollen gums`: lợi khỏe/chảy máu/sưng
+* `a piece/stick of chewing gum`: một miếng/thanh kẹo cao su
+* `chew gum`: nhai kẹo cao su
+* `gum + surface/paper`: bôi keo lên bề mặt/giấy
+* `gum up + machine/process`: làm máy móc/quy trình bị tắc hoặc đình trệ
+
+### Examples
+
+1. **Regular dental check-ups can help prevent serious gum disease.**
+   → Khám răng định kỳ có thể giúp ngăn ngừa bệnh về lợi nghiêm trọng.
+
+2. **Please do not stick chewing gum under the desk.**
+   → Vui lòng không dán kẹo cao su dưới bàn.
+
+### Common collocations
+
+* **gum disease**: bệnh về lợi
+* **bleeding gums**: lợi chảy máu
+* **chewing gum**: kẹo cao su
+* **gum tree**: cây bạch đàn hoặc cây tiết nhựa
+* **gum up the works**: làm hệ thống hoặc công việc bị tắc nghẽn
+
+### Synonyms
+
+* **gingiva** /ˈdʒɪn.dʒɪ.və/ *(countable/uncountable noun; medical)*: lợi, nướu
+* **chewing gum** /ˈtʃuː.ɪŋ ˌɡʌm/ *(uncountable noun)*: kẹo cao su
+* **adhesive** /ədˈhiː.sɪv/ *(countable/uncountable noun)*: chất kết dính, keo
+* **resin** /ˈrez.ɪn/ *(countable/uncountable noun)*: nhựa cây hoặc nhựa tổng hợp
+
+### Word family
+
+* **gum** /ɡʌm/ *(noun/verb)*: lợi; kẹo cao su; chất dính; làm dính hoặc tắc  
+  *Example:* Sugar-free gum may be less harmful to teeth than sugary gum.  
+  → Kẹo cao su không đường có thể ít gây hại cho răng hơn kẹo cao su có đường.
+
+* **gummy** /ˈɡʌm.i/ *(adjective)*: dính như keo; mềm dẻo như kẹo dẻo  
+  *Example:* The glue left a gummy substance on the label.  
+  → Keo để lại một chất dính trên nhãn.
+
+* **gummed** /ɡʌmd/ *(adjective; past-participle form)*: được bôi keo hoặc bị làm dính/tắc  
+  *Example:* Dust had gummed up the printer mechanism.  
+  → Bụi đã làm tắc cơ chế của máy in.
+
+### Notes
+
+Use plural `gums` for the tissue around all your teeth: `My gums are sore.` `Chewing gum` is normally uncountable, so say `some gum` or `a piece of gum`, not `a gum` when referring to one piece. `Gum up` can be literal or figurative: `Excessive paperwork gums up the approval process.`
+
+---
+
+## 466. Horn UK /hɔːn/ US /hɔːrn/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** sừng của động vật *(35%)*; còi xe hoặc thiết bị phát tín hiệu âm thanh *(30%)*; nhạc cụ hơi bằng đồng hoặc nhóm kèn trong dàn nhạc *(20%)*; vật có hình dạng giống sừng *(10%)*; húc hoặc đâm bằng sừng *(5%)*
+
+### Usage
+
+`Horn` commonly means a hard pointed growth on an animal's head, a warning device in a vehicle, or a brass wind instrument. As a verb, it means strike or injure with horns, though this use is less common.
+
+Common structures:
+
+* `a bull's/deer's horn`: sừng bò/hươu
+* `sound/honk/blow the horn`: bấm hoặc thổi còi
+* `car/train horn`: còi ô tô/tàu hỏa
+* `play the horn`: chơi kèn
+* `be horned by + animal`: bị động vật dùng sừng húc
+
+### Examples
+
+1. **Drivers should use their horns only when it is necessary to warn others.**
+   → Người lái xe chỉ nên sử dụng còi khi cần cảnh báo người khác.
+
+2. **The animal uses its horns to defend itself against predators.**
+   → Con vật sử dụng sừng để tự bảo vệ khỏi thú săn mồi.
+
+### Common collocations
+
+* **car horn**: còi ô tô
+* **sound the horn**: bấm hoặc thổi còi
+* **animal horn**: sừng động vật
+* **horn section**: nhóm nhạc cụ kèn trong dàn nhạc
+* **horn-shaped**: có hình dạng giống sừng
+
+### Synonyms
+
+* **antler** UK /ˈænt.lər/ US /ˈænt.lɚ/ *(countable noun)*: gạc của hươu; khác sừng thật về cấu tạo và thường rụng hằng năm
+* **tusk** /tʌsk/ *(countable noun)*: ngà dài nhô ra từ miệng của một số động vật
+* **warning signal** UK /ˈwɔː.nɪŋ ˌsɪɡ.nəl/ US /ˈwɔːr.nɪŋ ˌsɪɡ.nəl/ *(countable noun phrase)*: tín hiệu cảnh báo
+* **brass instrument** UK /ˈbrɑːs ˌɪn.strə.mənt/ US /ˈbræs ˌɪn.strə.mənt/ *(countable noun phrase)*: nhạc cụ hơi bằng đồng
+
+### Word family
+
+* **horn** UK /hɔːn/ US /hɔːrn/ *(noun/verb)*: sừng, còi, kèn; húc bằng sừng  
+  *Example:* A loud horn warned pedestrians that the train was approaching.  
+  → Một tiếng còi lớn cảnh báo người đi bộ rằng tàu đang đến gần.
+
+* **horned** UK /hɔːnd/ US /hɔːrnd/ *(adjective)*: có sừng  
+  *Example:* The reserve protects several species of horned animals.  
+  → Khu bảo tồn bảo vệ một số loài động vật có sừng.
+
+* **hornless** UK /ˈhɔːn.ləs/ US /ˈhɔːrn.ləs/ *(adjective)*: không có sừng  
+  *Example:* Some breeds of cattle are naturally hornless.  
+  → Một số giống gia súc tự nhiên không có sừng.
+
+### Notes
+
+An animal's `horn` is usually permanent and has a bony core covered by keratin. An `antler`, found on deer, is bone and is usually shed and regrown. For vehicles, `honk the horn` and `sound the horn` are natural; `press the horn` is understandable but less idiomatic.
+
+---
+
+## 467. Ignorance UK /ˈɪɡ.nər.əns/ US /ˈɪɡ.nɚ.əns/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự thiếu kiến thức, hiểu biết hoặc nhận thức về một chủ đề, sự việc hay tình huống *(100%)*
+
+### Usage
+
+`Ignorance` means lack of knowledge or awareness. It does not necessarily mean lack of intelligence: an intelligent person can be ignorant of a subject they have never studied. The word can sound critical, so neutral alternatives such as `lack of awareness` may be more tactful.
+
+Common structures:
+
+* `ignorance of/about + subject`: sự thiếu hiểu biết về chủ đề nào
+* `out of/through ignorance`: do thiếu hiểu biết
+* `remain in ignorance of + fact`: vẫn không biết về sự thật nào
+* `overcome/combat ignorance`: khắc phục/chống lại sự thiếu hiểu biết
+* `ignorance leads to + consequence`: sự thiếu hiểu biết dẫn đến hậu quả nào
+
+### Examples
+
+1. **Public education can reduce ignorance about mental health.**
+   → Giáo dục cộng đồng có thể giảm sự thiếu hiểu biết về sức khỏe tinh thần.
+
+2. **He broke the rule out of ignorance rather than deliberate disobedience.**
+   → Anh ấy vi phạm quy định do thiếu hiểu biết chứ không phải cố ý không tuân thủ.
+
+### Common collocations
+
+* **widespread ignorance**: sự thiếu hiểu biết phổ biến
+* **ignorance of the law**: sự không hiểu biết về pháp luật
+* **out of ignorance**: do thiếu hiểu biết
+* **combat ignorance**: chống lại sự thiếu hiểu biết
+* **blissful ignorance**: trạng thái không biết nên không lo lắng
+
+### Synonyms
+
+* **unawareness** UK /ˌʌn.əˈweə.nəs/ US /ˌʌn.əˈwer.nəs/ *(uncountable noun)*: sự không nhận thức hoặc không biết
+* **lack of knowledge** /ˌlæk əv ˈnɒl.ɪdʒ/ *(noun phrase)*: sự thiếu kiến thức
+* **unfamiliarity** /ˌʌn.fə.mɪl.iˈær.ə.ti/ *(uncountable noun)*: sự không quen thuộc
+* **inexperience** UK /ˌɪn.ɪkˈspɪə.ri.əns/ US /ˌɪn.ɪkˈspɪr.i.əns/ *(uncountable noun)*: sự thiếu kinh nghiệm
+
+### Word family
+
+* **ignore** UK /ɪɡˈnɔːr/ US /ɪɡˈnɔːr/ *(transitive verb)*: phớt lờ, không chú ý đến  
+  *Example:* Governments should not ignore evidence of environmental damage.  
+  → Chính phủ không nên phớt lờ bằng chứng về thiệt hại môi trường.
+
+* **ignorant** UK /ˈɪɡ.nər.ənt/ US /ˈɪɡ.nɚ.ənt/ *(adjective)*: thiếu hiểu biết, không biết về điều gì  
+  *Example:* Many consumers remain ignorant of how their data is collected.  
+  → Nhiều người tiêu dùng vẫn không biết dữ liệu của họ được thu thập như thế nào.
+
+* **ignorance** UK /ˈɪɡ.nər.əns/ US /ˈɪɡ.nɚ.əns/ *(uncountable noun)*: sự thiếu hiểu biết  
+  *Example:* Ignorance can allow harmful stereotypes to persist.  
+  → Sự thiếu hiểu biết có thể khiến những định kiến có hại tiếp tục tồn tại.
+
+### Notes
+
+`Ignorance` is not the same as `stupidity`. `Ignorance` means not possessing particular knowledge; `stupidity` is an offensive judgment about poor thinking or judgment. Use `ignorant of a fact` and `ignorant about a subject`. Avoid calling a person `ignorant` without context because it can sound insulting.
+
+---
+
+## 468. Lineage /ˈlɪn.i.ɪdʒ/
+
+* **Part of speech:** countable/uncountable noun
+* **Vietnamese meaning:** dòng dõi, huyết thống hoặc chuỗi tổ tiên của người/gia đình *(60%)*; dòng tiến hóa hoặc nguồn gốc sinh học của loài/tế bào *(25%)*; nguồn gốc và quá trình phát triển của một truyền thống, ý tưởng hay sản phẩm *(15%)*
+
+### Usage
+
+`Lineage` describes a line of descent from an ancestor. It is used for families, animal breeds, evolutionary biology, cells, cultural traditions, and sometimes technologies or ideas whose development can be traced through earlier forms.
+
+Common structures:
+
+* `trace + lineage + back to + ancestor/origin`: truy nguyên dòng dõi/nguồn gốc về tổ tiên/khởi nguồn
+* `a family/royal lineage`: dòng dõi gia đình/hoàng gia
+* `a direct lineage from + ancestor`: dòng dõi trực tiếp từ tổ tiên nào
+* `an evolutionary/cell lineage`: dòng tiến hóa/dòng tế bào
+* `the lineage of + tradition/idea`: nguồn gốc và quá trình phát triển của truyền thống/ý tưởng
+
+### Examples
+
+1. **The family can trace its lineage back several centuries.**
+   → Gia đình này có thể truy nguyên dòng dõi của mình về vài thế kỷ trước.
+
+2. **Genetic evidence helps scientists identify the evolutionary lineage of a species.**
+   → Bằng chứng di truyền giúp các nhà khoa học xác định dòng tiến hóa của một loài.
+
+### Common collocations
+
+* **family lineage**: dòng dõi gia đình
+* **royal lineage**: dòng dõi hoàng gia
+* **direct lineage**: dòng dõi trực tiếp
+* **evolutionary lineage**: dòng tiến hóa
+* **trace one's lineage**: truy nguyên dòng dõi
+
+### Synonyms
+
+* **ancestry** /ˈæn.ses.tri/ *(countable/uncountable noun)*: tổ tiên, nguồn gốc gia đình
+* **descent** /dɪˈsent/ *(uncountable noun)*: dòng dõi, nguồn gốc huyết thống
+* **pedigree** /ˈped.ɪ.ɡriː/ *(countable/uncountable noun)*: phả hệ; nguồn gốc đã được ghi nhận, đặc biệt của động vật
+* **bloodline** /ˈblʌd.laɪn/ *(countable noun)*: dòng máu, dòng dõi
+* **heritage** /ˈher.ɪ.tɪdʒ/ *(countable/uncountable noun)*: di sản văn hóa hoặc nguồn gốc được thừa hưởng
+
+### Word family
+
+* **line** /laɪn/ *(countable noun; verb)*: dòng, hàng, đường; xếp thành hàng hoặc lót  
+  *Example:* The disease was passed through the maternal line.  
+  → Căn bệnh được truyền qua dòng họ bên mẹ.
+
+* **lineage** /ˈlɪn.i.ɪdʒ/ *(countable/uncountable noun)*: dòng dõi, nguồn gốc phát triển  
+  *Example:* Researchers reconstructed the lineage of the ancient crop.  
+  → Các nhà nghiên cứu tái dựng dòng phát triển của giống cây trồng cổ đại.
+
+* **lineal** /ˈlɪn.i.əl/ *(adjective; formal)*: thuộc dòng dõi trực tiếp  
+  *Example:* A lineal descendant can trace a direct family connection to an ancestor.  
+  → Hậu duệ trực hệ có thể truy ra mối liên hệ gia đình trực tiếp với một tổ tiên.
+
+### Notes
+
+`Lineage` focuses on a traceable line of descent or development. `Ancestry` focuses more generally on one's ancestors, while `heritage` includes cultural traditions, values, and property inherited from the past. In biology, `lineage` can refer to organisms or cells descended from a common ancestor.
+
+---
+
+## 469. Log UK /lɒɡ/ US /lɑːɡ/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** khúc gỗ hoặc đoạn thân cây đã bị cắt *(30%)*; bản ghi chính thức hoặc nhật ký về sự kiện/hoạt động *(30%)*; ghi lại dữ liệu, sự kiện, thời gian hoặc quãng đường *(25%)*; đăng nhập/đăng xuất trong `log in/log out` *(10%)*; lôgarit trong toán học *(5%)*
+
+### Usage
+
+As a noun, a `log` can be a thick piece of a tree trunk or a chronological record. As a verb, it means record information, time, distance, or activity. In computing, `log in` means enter a system using credentials, while a `log` or `log file` records system events.
+
+Common structures:
+
+* `a log of + events/activities`: bản ghi về sự kiện/hoạt động
+* `keep/maintain a log`: giữ/duy trì nhật ký hoặc bản ghi
+* `log + data/error/hours`: ghi dữ liệu/lỗi/số giờ
+* `log in to/out of + system`: đăng nhập vào/đăng xuất khỏi hệ thống
+* `log + distance/flight hours`: ghi nhận quãng đường/số giờ bay
+
+### Examples
+
+1. **The application keeps a detailed log of every system error.**
+   → Ứng dụng lưu một bản ghi chi tiết về mọi lỗi hệ thống.
+
+2. **Workers cut the fallen tree into logs for transport.**
+   → Công nhân cắt cây bị đổ thành các khúc gỗ để vận chuyển.
+
+### Common collocations
+
+* **log file**: tệp nhật ký hệ thống
+* **error log**: nhật ký lỗi
+* **keep a log**: lưu bản ghi
+* **log an incident**: ghi lại một sự cố
+* **log in/log out**: đăng nhập/đăng xuất
+
+### Synonyms
+
+* **record** UK noun /ˈrek.ɔːd/, verb /rɪˈkɔːd/; US noun /ˈrek.ɚd/, verb /rɪˈkɔːrd/ *(noun/verb)*: bản ghi; ghi lại
+* **register** UK /ˈredʒ.ɪ.stər/ US /ˈredʒ.ə.stɚ/ *(countable noun; verb)*: sổ đăng ký; ghi nhận
+* **journal** UK /ˈdʒɜː.nəl/ US /ˈdʒɝː.nəl/ *(countable noun)*: nhật ký hoặc tạp chí chuyên ngành
+* **wooden block** /ˌwʊd.ən ˈblɒk/ *(countable noun phrase)*: khối gỗ; gần nghĩa với nghĩa vật thể
+
+### Word family
+
+* **log** UK /lɒɡ/ US /lɑːɡ/ *(noun/verb)*: khúc gỗ, bản ghi; ghi lại  
+  *Example:* Please log all customer complaints in the database.  
+  → Vui lòng ghi lại mọi khiếu nại của khách hàng trong cơ sở dữ liệu.
+
+* **logging** UK /ˈlɒɡ.ɪŋ/ US /ˈlɑː.ɡɪŋ/ *(uncountable noun; verb form)*: việc khai thác gỗ; việc ghi nhật ký dữ liệu  
+  *Example:* Excessive logging can destroy wildlife habitats.  
+  → Việc khai thác gỗ quá mức có thể phá hủy môi trường sống của động vật hoang dã.
+
+* **logger** UK /ˈlɒɡ.ər/ US /ˈlɑː.ɡɚ/ *(countable noun)*: thợ khai thác gỗ; chương trình hoặc thiết bị ghi dữ liệu  
+  *Example:* A data logger recorded temperature changes throughout the experiment.  
+  → Thiết bị ghi dữ liệu ghi lại các thay đổi nhiệt độ trong suốt thí nghiệm.
+
+* **logbook** UK /ˈlɒɡ.bʊk/ US /ˈlɑːɡ.bʊk/ *(countable noun)*: sổ nhật ký hành trình hoặc hoạt động  
+  *Example:* The pilot entered the flight time in her logbook.  
+  → Phi công ghi thời gian bay vào sổ nhật ký của mình.
+
+### Notes
+
+Write the verb as two words: `log in` and `log out`. The corresponding noun or adjective is commonly one word: `a login`, `login details`, and `the login page`. In British English, processed wood is often called `timber`; a `log` is specifically a cut section of a trunk.
+
+---
+
+## 470. Mammal /ˈmæm.əl/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** động vật có xương sống thuộc lớp thú, thường có lông và con cái tiết sữa để nuôi con non *(100%)*
+
+### Usage
+
+A `mammal` is a warm-blooded vertebrate whose females produce milk for their young. Most mammals give birth to live young, though a few, such as the platypus, lay eggs. Humans, whales, bats, cats, and elephants are all mammals.
+
+Common structures:
+
+* `a land/marine mammal`: động vật có vú trên cạn/dưới biển
+* `a mammal species`: một loài động vật có vú
+* `small/large mammals`: động vật có vú nhỏ/lớn
+* `mammals give birth to/nurse + young`: động vật có vú sinh/nuôi con non
+* `be classified as a mammal`: được phân loại là động vật có vú
+
+### Examples
+
+1. **Whales are marine mammals that must surface to breathe.**
+   → Cá voi là động vật có vú sống ở biển và phải nổi lên mặt nước để thở.
+
+2. **Habitat loss threatens many mammal species around the world.**
+   → Mất môi trường sống đe dọa nhiều loài động vật có vú trên khắp thế giới.
+
+### Common collocations
+
+* **marine mammal**: động vật có vú sống ở biển
+* **mammal species**: loài động vật có vú
+* **small mammal**: động vật có vú nhỏ
+* **endangered mammal**: động vật có vú có nguy cơ tuyệt chủng
+* **mammal population**: quần thể động vật có vú
+
+### Synonyms
+
+* **animal** /ˈæn.ɪ.məl/ *(countable noun)*: động vật; nghĩa rộng hơn nhiều
+* **vertebrate** UK /ˈvɜː.tɪ.brət/ US /ˈvɝː.t̬ə.brət/ *(countable noun)*: động vật có xương sống; nhóm rộng hơn
+* **warm-blooded animal** UK /ˌwɔːm ˌblʌd.ɪd ˈæn.ɪ.məl/ US /ˌwɔːrm ˌblʌd.ɪd ˈæn.ɪ.məl/ *(countable noun phrase)*: động vật máu nóng; cụm mô tả, không phải từ đồng nghĩa chính xác
+
+### Word family
+
+* **mammal** /ˈmæm.əl/ *(countable noun)*: động vật có vú  
+  *Example:* Bats are the only mammals capable of sustained flight.  
+  → Dơi là nhóm động vật có vú duy nhất có khả năng bay liên tục.
+
+* **mammalian** /məˈmeɪ.li.ən/ *(adjective)*: thuộc động vật có vú  
+  *Example:* Scientists compared mammalian brain development across several species.  
+  → Các nhà khoa học so sánh sự phát triển não của động vật có vú ở một số loài.
+
+* **mammalogy** /mæmˈæl.ə.dʒi/ *(uncountable noun)*: ngành nghiên cứu động vật có vú  
+  *Example:* Her research in mammalogy focuses on endangered primates.  
+  → Nghiên cứu của cô trong ngành động vật học về thú tập trung vào các loài linh trưởng có nguy cơ tuyệt chủng.
+
+### Notes
+
+Do not confuse mammals with reptiles, birds, or amphibians. Whales and dolphins are mammals, not fish, because they breathe air, are warm-blooded, and nurse their young with milk. `Mammal` is countable: `a mammal`, `many mammals`.
+
+---
+
+## 471. Manure UK /məˈnjʊər/ US /məˈnʊr/
+
+* **Part of speech:** uncountable noun; transitive verb
+* **Vietnamese meaning:** phân động vật được dùng để bón và cải tạo đất *(85%)*; bón phân chuồng cho đất hoặc cây trồng *(15%)*
+
+### Usage
+
+As a noun, `manure` is animal waste used as an organic fertilizer. As a verb, it means spread manure on land. It is normally uncountable; use quantity expressions such as `some manure`, `a load of manure`, or `several tonnes of manure`.
+
+Common structures:
+
+* `apply/spread manure on + land`: bón/rải phân chuồng trên đất
+* `add manure to + soil`: thêm phân chuồng vào đất
+* `animal/cattle/poultry manure`: phân động vật/gia súc/gia cầm
+* `well-rotted manure`: phân chuồng đã hoai mục kỹ
+* `manure + field/soil`: bón phân chuồng cho cánh đồng/đất
+
+### Examples
+
+1. **Farmers use animal manure to improve soil fertility.**
+   → Nông dân sử dụng phân động vật để cải thiện độ phì nhiêu của đất.
+
+2. **Untreated manure can pollute rivers if it is stored carelessly.**
+   → Phân chuồng chưa qua xử lý có thể gây ô nhiễm sông nếu được lưu trữ bất cẩn.
+
+### Common collocations
+
+* **animal manure**: phân động vật
+* **organic manure**: phân hữu cơ có nguồn gốc động vật
+* **spread manure**: rải phân chuồng
+* **well-rotted manure**: phân chuồng hoai mục
+* **manure management**: việc quản lý phân chuồng
+
+### Synonyms
+
+* **dung** /dʌŋ/ *(uncountable noun)*: phân động vật
+* **animal waste** /ˈæn.ɪ.məl ˌweɪst/ *(uncountable noun phrase)*: chất thải động vật
+* **fertilizer** UK /ˈfɜː.tɪ.laɪ.zər/ US /ˈfɝː.t̬əl.aɪ.zɚ/ *(countable/uncountable noun)*: phân bón; nghĩa rộng hơn
+* **compost** UK /ˈkɒm.pɒst/ US /ˈkɑːm.poʊst/ *(uncountable noun)*: phân ủ từ vật liệu hữu cơ; không nhất thiết chứa chất thải động vật
+
+### Word family
+
+* **manure** UK /məˈnjʊər/ US /məˈnʊr/ *(noun/verb)*: phân chuồng; bón phân chuồng  
+  *Example:* The farmer manured the field before planting the next crop.  
+  → Người nông dân bón phân chuồng cho cánh đồng trước khi trồng vụ tiếp theo.
+
+* **manured** UK /məˈnjʊəd/ US /məˈnʊrd/ *(adjective; past-participle form)*: đã được bón phân chuồng  
+  *Example:* Crops grew well in the richly manured soil.  
+  → Cây trồng phát triển tốt trong đất được bón nhiều phân chuồng.
+
+* **manuring** UK /məˈnjʊə.rɪŋ/ US /məˈnʊr.ɪŋ/ *(uncountable noun; verb form)*: việc bón phân chuồng  
+  *Example:* Careful manuring can improve soil structure without excessive chemical use.  
+  → Việc bón phân chuồng cẩn thận có thể cải thiện cấu trúc đất mà không cần dùng quá nhiều hóa chất.
+
+### Notes
+
+`Manure` is uncountable, so do not say `a manure` when referring to the substance. `Fertilizer` is the broad category and may be organic or synthetic; `manure` specifically comes from animal waste. In formal environmental writing, `manure management` is useful when discussing agricultural pollution.
+
+---
+
+## 472. Mayor UK /meər/ US /ˈmeɪ.ɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thị trưởng, người đứng đầu hoặc đại diện cao nhất của chính quyền một thành phố/thị trấn *(100%)*
+
+### Usage
+
+A `mayor` is the elected or appointed head of a city, town, or municipal government. The exact powers of a mayor vary by country and local government system.
+
+Common structures:
+
+* `the mayor of + city/town`: thị trưởng của thành phố/thị trấn
+* `elect/appoint + someone + mayor`: bầu/bổ nhiệm ai làm thị trưởng
+* `serve as mayor`: giữ chức thị trưởng
+* `run for mayor`: tranh cử thị trưởng
+* `mayor announces/supports + policy`: thị trưởng công bố/ủng hộ chính sách
+
+### Examples
+
+1. **The mayor announced a new plan to improve public transportation.**
+   → Thị trưởng công bố một kế hoạch mới nhằm cải thiện giao thông công cộng.
+
+2. **She became the first woman to serve as mayor of the city.**
+   → Cô ấy trở thành người phụ nữ đầu tiên giữ chức thị trưởng thành phố.
+
+### Common collocations
+
+* **city mayor**: thị trưởng thành phố
+* **deputy mayor**: phó thị trưởng
+* **elect a mayor**: bầu thị trưởng
+* **run for mayor**: tranh cử thị trưởng
+* **mayoral election**: cuộc bầu cử thị trưởng
+
+### Synonyms
+
+* **civic leader** /ˌsɪv.ɪk ˈliː.dər/ *(countable noun phrase)*: lãnh đạo thành phố/cộng đồng
+* **city leader** UK /ˌsɪt.i ˈliː.dər/ US /ˌsɪt̬.i ˈliː.dɚ/ *(countable noun phrase)*: lãnh đạo thành phố
+* **municipal leader** UK /mjuːˌnɪs.ɪ.pəl ˈliː.dər/ US /mjuːˌnɪs.ə.pəl ˈliː.dɚ/ *(countable noun phrase)*: lãnh đạo chính quyền đô thị
+
+### Word family
+
+* **mayor** UK /meər/ US /ˈmeɪ.ɚ/ *(countable noun)*: thị trưởng  
+  *Example:* The mayor met residents to discuss housing costs.  
+  → Thị trưởng gặp cư dân để thảo luận về chi phí nhà ở.
+
+* **mayoral** UK /ˈmeə.rəl/ US /ˈmeɪ.ɚ.əl/ *(adjective)*: thuộc thị trưởng hoặc cuộc bầu cử thị trưởng  
+  *Example:* Public transport became a major issue in the mayoral campaign.  
+  → Giao thông công cộng trở thành một vấn đề lớn trong chiến dịch tranh cử thị trưởng.
+
+* **mayoralty** UK /ˈmeə.rəl.ti/ US /ˈmeɪ.ɚ.əl.ti/ *(countable noun)*: chức vụ hoặc nhiệm kỳ thị trưởng  
+  *Example:* Several parks were renovated during her mayoralty.  
+  → Một số công viên được cải tạo trong nhiệm kỳ thị trưởng của cô ấy.
+
+### Notes
+
+Capitalize `Mayor` when it is used as a title directly before a name: `Mayor Nguyen`. Use lowercase when speaking generally: `the mayor of the city`. A `mayor` leads a municipality; a `governor` usually leads a state, province, or larger administrative region.
+
+---
+
+## 473. Paradise /ˈpær.ə.daɪs/
+
+* **Part of speech:** countable/uncountable noun
+* **Vietnamese meaning:** nơi tuyệt đẹp, yên bình hoặc lý tưởng *(50%)*; thiên đường trong tôn giáo, nơi hạnh phúc sau khi chết *(30%)*; hoàn cảnh hoặc nơi đặc biệt lý tưởng cho một nhóm người/hoạt động *(20%)*
+
+### Usage
+
+`Paradise` can refer to heaven in religious belief or, more commonly in everyday language, an exceptionally beautiful, peaceful, or enjoyable place. It is also used figuratively for a place that offers ideal conditions for a particular person or activity.
+
+Common structures:
+
+* `a tropical/island paradise`: một thiên đường nhiệt đới/trên đảo
+* `paradise for + person/group`: thiên đường đối với ai/nhóm nào
+* `a shopper's/nature lover's paradise`: thiên đường của người mua sắm/người yêu thiên nhiên
+* `live in paradise`: sống ở nơi như thiên đường
+* `turn + place + into a paradise`: biến nơi nào thành thiên đường
+
+### Examples
+
+1. **The island was once regarded as an untouched tropical paradise.**
+   → Hòn đảo từng được xem là một thiên đường nhiệt đới còn nguyên sơ.
+
+2. **With its extensive cycling paths, the city is a paradise for cyclists.**
+   → Với mạng lưới đường dành cho xe đạp rộng khắp, thành phố là thiên đường đối với người đi xe đạp.
+
+### Common collocations
+
+* **tropical paradise**: thiên đường nhiệt đới
+* **island paradise**: hòn đảo thiên đường
+* **peaceful paradise**: thiên đường yên bình
+* **a paradise for tourists**: thiên đường dành cho du khách
+* **lost paradise**: thiên đường đã mất
+
+### Synonyms
+
+* **heaven** /ˈhev.ən/ *(uncountable noun)*: thiên đường; cũng dùng cho trạng thái vô cùng hạnh phúc
+* **utopia** UK /juːˈtəʊ.pi.ə/ US /juːˈtoʊ.pi.ə/ *(countable noun)*: xã hội hoặc nơi hoàn hảo nhưng thường khó có thật
+* **haven** /ˈheɪ.vən/ *(countable noun)*: nơi trú ẩn an toàn, yên bình
+* **idyll** UK /ˈɪd.əl/ US /ˈaɪ.dəl/ *(countable noun)*: khung cảnh hoặc giai đoạn bình yên lý tưởng
+
+### Word family
+
+* **paradise** /ˈpær.ə.daɪs/ *(countable/uncountable noun)*: thiên đường, nơi lý tưởng  
+  *Example:* The national park is a paradise for birdwatchers.  
+  → Công viên quốc gia là thiên đường đối với những người quan sát chim.
+
+* **paradisiacal** /ˌpær.ə.dɪˈsaɪ.ə.kəl/ *(adjective; formal)*: đẹp hoặc yên bình như thiên đường  
+  *Example:* Advertisements often present the resort as a paradisiacal escape.  
+  → Quảng cáo thường giới thiệu khu nghỉ dưỡng như một nơi trốn nghỉ đẹp tựa thiên đường.
+
+### Notes
+
+Use `a paradise` for one ideal place: `The valley is a paradise.` Use `paradise` without an article when referring to the religious state or the general idea: `They believed they would enter paradise.` `Utopia` often implies a perfect society, while `paradise` emphasizes beauty, pleasure, or peace.
+
+---
+
+## 474. Prejudice /ˈpredʒ.ə.dɪs/
+
+* **Part of speech:** countable/uncountable noun; transitive verb
+* **Vietnamese meaning:** định kiến hoặc thái độ thiếu công bằng đối với một người/nhóm, thường dựa trên chủng tộc, giới tính, tầng lớp hay đặc điểm khác *(75%)*; thành kiến hoặc nhận định hình thành trước khi biết đủ sự thật *(15%)*; gây ảnh hưởng bất lợi hoặc khiến ai có thành kiến *(10%)*
+
+### Usage
+
+As a noun, `prejudice` is an unfair and often negative opinion formed without sufficient knowledge or based on group identity. As a verb, it means influence someone unfairly or damage a person's interests or the fairness of a process.
+
+Common structures:
+
+* `prejudice against + person/group`: định kiến đối với người/nhóm nào
+* `racial/gender/class prejudice`: định kiến chủng tộc/giới tính/giai cấp
+* `overcome/challenge prejudice`: vượt qua/thách thức định kiến
+* `prejudice + someone + against + person/idea`: khiến ai có thành kiến với người/ý tưởng nào
+* `prejudice + case/trial/interests`: gây bất lợi cho vụ án/phiên tòa/quyền lợi
+
+### Examples
+
+1. **Education can help challenge prejudice against minority groups.**
+   → Giáo dục có thể giúp thách thức định kiến đối với các nhóm thiểu số.
+
+2. **Media coverage must not prejudice the defendant's right to a fair trial.**
+   → Việc đưa tin của truyền thông không được làm tổn hại quyền được xét xử công bằng của bị cáo.
+
+### Common collocations
+
+* **racial prejudice**: định kiến chủng tộc
+* **deep-rooted prejudice**: định kiến ăn sâu
+* **prejudice against women**: định kiến đối với phụ nữ
+* **overcome prejudice**: vượt qua định kiến
+* **without prejudice**: không làm phương hại đến quyền lợi hoặc lập trường pháp lý
+
+### Synonyms
+
+* **bias** /ˈbaɪ.əs/ *(countable/uncountable noun)*: thiên kiến, sự thiên vị
+* **preconception** /ˌpriː.kənˈsep.ʃən/ *(countable noun)*: quan niệm có sẵn trước khi biết đủ sự thật
+* **intolerance** UK /ɪnˈtɒl.ər.əns/ US /ɪnˈtɑː.lɚ.əns/ *(uncountable noun)*: sự không khoan dung
+* **discrimination** /dɪˌskrɪm.ɪˈneɪ.ʃən/ *(uncountable noun)*: sự phân biệt đối xử; thường là hành vi chứ không chỉ thái độ
+
+### Word family
+
+* **prejudice** /ˈpredʒ.ə.dɪs/ *(noun/verb)*: định kiến; gây bất lợi hoặc tạo thành kiến  
+  *Example:* Social contact can reduce prejudice between different communities.  
+  → Tiếp xúc xã hội có thể làm giảm định kiến giữa các cộng đồng khác nhau.
+
+* **prejudiced** /ˈpredʒ.ə.dɪst/ *(adjective)*: có thành kiến  
+  *Example:* Employers must not make prejudiced assumptions about applicants.  
+  → Nhà tuyển dụng không được đưa ra những giả định đầy thành kiến về ứng viên.
+
+* **prejudicial** /ˌpredʒ.əˈdɪʃ.əl/ *(adjective; formal)*: gây bất lợi, phương hại hoặc tạo thành kiến  
+  *Example:* The judge excluded evidence that might be prejudicial to the jury.  
+  → Thẩm phán loại bỏ bằng chứng có thể gây thành kiến cho bồi thẩm đoàn.
+
+* **prejudge** /ˌpriːˈdʒʌdʒ/ *(transitive verb)*: đánh giá trước khi có đủ thông tin  
+  *Example:* We should not prejudge students on the basis of their backgrounds.  
+  → Chúng ta không nên đánh giá trước học sinh dựa trên hoàn cảnh của họ.
+
+### Notes
+
+`Prejudice` is an attitude or belief; `discrimination` is usually unfair behavior based on that attitude. Use `prejudice against`, not `prejudice with`. `A prejudice` can mean one particular biased belief, while uncountable `prejudice` refers to the phenomenon generally.
+
+---
+
+## 475. Reptile UK /ˈrep.taɪl/ US /ˈrep.təl/
+
+* **Part of speech:** countable noun; adjective in technical use
+* **Vietnamese meaning:** bò sát, động vật có xương sống máu lạnh như rắn, thằn lằn, rùa hoặc cá sấu *(100%)*
+
+### Usage
+
+A `reptile` is a cold-blooded vertebrate that breathes air and usually has dry, scaly skin. Snakes, lizards, turtles, tortoises, crocodiles, and alligators are reptiles. The adjective `reptilian` is more common than attributive `reptile` when describing characteristics.
+
+Common structures:
+
+* `a reptile species`: một loài bò sát
+* `a venomous/endangered reptile`: loài bò sát có nọc độc/có nguy cơ tuyệt chủng
+* `reptiles lay + eggs`: bò sát đẻ trứng
+* `reptiles regulate + body temperature`: bò sát điều chỉnh nhiệt độ cơ thể
+* `be classified as a reptile`: được phân loại là bò sát
+
+### Examples
+
+1. **Many reptile species depend on external heat to regulate their body temperature.**
+   → Nhiều loài bò sát phụ thuộc vào nhiệt bên ngoài để điều chỉnh nhiệt độ cơ thể.
+
+2. **Illegal wildlife trade threatens several endangered reptiles.**
+   → Hoạt động buôn bán động vật hoang dã trái phép đe dọa một số loài bò sát có nguy cơ tuyệt chủng.
+
+### Common collocations
+
+* **reptile species**: loài bò sát
+* **endangered reptile**: bò sát có nguy cơ tuyệt chủng
+* **marine reptile**: bò sát biển
+* **reptile habitat**: môi trường sống của bò sát
+* **reptile skin**: da bò sát
+
+### Synonyms
+
+* **animal** /ˈæn.ɪ.məl/ *(countable noun)*: động vật; nghĩa rộng hơn
+* **vertebrate** UK /ˈvɜː.tɪ.brət/ US /ˈvɝː.t̬ə.brət/ *(countable noun)*: động vật có xương sống; nhóm rộng hơn
+* **cold-blooded animal** UK /ˌkəʊld ˌblʌd.ɪd ˈæn.ɪ.məl/ US /ˌkoʊld ˌblʌd.ɪd ˈæn.ɪ.məl/ *(countable noun phrase)*: động vật biến nhiệt; cụm mô tả rộng hơn
+
+### Word family
+
+* **reptile** UK /ˈrep.taɪl/ US /ˈrep.təl/ *(countable noun)*: bò sát  
+  *Example:* The saltwater crocodile is the world's largest living reptile.  
+  → Cá sấu nước mặn là loài bò sát còn sống lớn nhất thế giới.
+
+* **reptilian** /repˈtɪl.i.ən/ *(adjective)*: thuộc hoặc giống bò sát  
+  *Example:* The fossil displayed several reptilian features.  
+  → Hóa thạch cho thấy một số đặc điểm của bò sát.
+
+### Notes
+
+Reptiles are not mammals or amphibians. A frog is an amphibian, not a reptile, and a whale is a mammal. `Cold-blooded` is common learner-friendly language, while `ectothermic` is the more precise scientific term for relying heavily on external heat sources.
+
+---
+
+## 476. Retract /rɪˈtrækt/
+
+* **Part of speech:** transitive/intransitive verb
+* **Vietnamese meaning:** rút lại một tuyên bố, cáo buộc, lời hứa hoặc bài báo đã công bố *(45%)*; kéo, thu hoặc co một bộ phận/vật trở lại *(35%)*; chính thức rút lại đề nghị, yêu cầu hoặc nội dung vì sai sót *(20%)*
+
+### Usage
+
+`Retract` means formally withdraw something previously said, written, offered, or published. It also means pull something back into a structure or cause a body part, mechanism, or object to move inward.
+
+Common structures:
+
+* `retract + statement/claim/allegation`: rút lại tuyên bố/khẳng định/cáo buộc
+* `retract + article/paper`: rút lại bài báo/bài nghiên cứu
+* `retract + offer/request`: rút lại đề nghị/yêu cầu
+* `claws/wheels + retract`: móng vuốt/bánh xe thu vào
+* `be fully/partially retracted`: được thu vào hoàn toàn/một phần
+
+### Examples
+
+1. **The newspaper retracted the allegation after discovering that it was false.**
+   → Tờ báo rút lại cáo buộc sau khi phát hiện nó không đúng sự thật.
+
+2. **The camera lens retracts automatically when the device is switched off.**
+   → Ống kính máy ảnh tự động thu vào khi thiết bị được tắt.
+
+### Common collocations
+
+* **retract a statement**: rút lại tuyên bố
+* **retract an accusation**: rút lại lời buộc tội
+* **retract a research paper**: rút lại bài nghiên cứu
+* **fully retracted**: được thu vào hoàn toàn
+* **retractable roof**: mái có thể thu vào
+
+### Synonyms
+
+* **withdraw** /wɪðˈdrɔː/ *(transitive/intransitive verb)*: rút lại hoặc rút khỏi
+* **take back** /ˌteɪk ˈbæk/ *(phrasal verb)*: rút lại lời nói; thân mật hơn
+* **recant** /rɪˈkænt/ *(transitive/intransitive verb; formal)*: công khai rút bỏ niềm tin hoặc tuyên bố
+* **pull back** /ˌpʊl ˈbæk/ *(phrasal verb)*: kéo hoặc rút lại
+
+### Word family
+
+* **retract** /rɪˈtrækt/ *(verb)*: rút lại, thu vào  
+  *Example:* The researcher agreed to retract the inaccurate claim.  
+  → Nhà nghiên cứu đồng ý rút lại khẳng định không chính xác.
+
+* **retraction** /rɪˈtræk.ʃən/ *(countable/uncountable noun)*: sự rút lại; tuyên bố đính chính và rút lại  
+  *Example:* The journal issued a formal retraction of the paper.  
+  → Tạp chí đưa ra thông báo chính thức rút lại bài báo.
+
+* **retractable** /rɪˈtræk.tə.bəl/ *(adjective)*: có thể thu vào hoặc kéo lại  
+  *Example:* The stadium has a retractable roof.  
+  → Sân vận động có mái có thể thu vào.
+
+* **retracted** /rɪˈtræk.tɪd/ *(adjective; past-participle form)*: đã được rút lại hoặc thu vào  
+  *Example:* The retracted study should no longer be cited as reliable evidence.  
+  → Nghiên cứu đã bị rút lại không nên tiếp tục được trích dẫn như bằng chứng đáng tin cậy.
+
+### Notes
+
+Use `retract` for formal withdrawal: `retract a claim`. In everyday speech, `take back what you said` is more natural. `Retract` differs from `retreat`: `retract` pulls a statement or object back, while `retreat` means move away from danger or abandon a position.
+
+---
+
+## 477. Rodent UK /ˈrəʊ.dənt/ US /ˈroʊ.dənt/
+
+* **Part of speech:** countable noun; adjective in technical use
+* **Vietnamese meaning:** động vật gặm nhấm thuộc nhóm có răng cửa phát triển liên tục, như chuột, sóc, hải ly và nhím lông *(100%)*
+
+### Usage
+
+A `rodent` is a mammal with continuously growing front teeth adapted for gnawing. Rats and mice are familiar rodents, but squirrels, beavers, guinea pigs, and porcupines also belong to this group.
+
+Common structures:
+
+* `a rodent species`: một loài gặm nhấm
+* `rodent population/control`: quần thể/việc kiểm soát động vật gặm nhấm
+* `a rodent infestation`: tình trạng động vật gặm nhấm xâm nhập với số lượng lớn
+* `rodents gnaw + material`: động vật gặm nhấm cắn/gặm vật liệu
+* `protect + crops/buildings + from rodents`: bảo vệ cây trồng/tòa nhà khỏi động vật gặm nhấm
+
+### Examples
+
+1. **Poor waste management can lead to a serious rodent infestation.**
+   → Quản lý rác thải kém có thể dẫn đến tình trạng động vật gặm nhấm xâm nhập nghiêm trọng.
+
+2. **Beavers are large rodents that can transform river ecosystems.**
+   → Hải ly là loài gặm nhấm lớn có thể làm thay đổi hệ sinh thái sông.
+
+### Common collocations
+
+* **rodent infestation**: nạn động vật gặm nhấm
+* **rodent control**: việc kiểm soát động vật gặm nhấm
+* **rodent population**: quần thể động vật gặm nhấm
+* **rodent species**: loài gặm nhấm
+* **rodent damage**: thiệt hại do động vật gặm nhấm
+
+### Synonyms
+
+* **gnawing mammal** UK /ˌnɔː.ɪŋ ˈmæm.əl/ US /ˌnɑː.ɪŋ ˈmæm.əl/ *(countable noun phrase)*: động vật có vú chuyên gặm; cụm mô tả
+* **rat** /ræt/ *(countable noun)*: chuột cống; một loại động vật gặm nhấm
+* **mouse** /maʊs/ *(countable noun)*: chuột nhắt; một loại động vật gặm nhấm
+* **pest** /pest/ *(countable noun)*: sinh vật gây hại; nghĩa rộng hơn và không phải mọi loài gặm nhấm đều là sinh vật gây hại
+
+### Word family
+
+* **rodent** UK /ˈrəʊ.dənt/ US /ˈroʊ.dənt/ *(countable noun/adjective)*: động vật gặm nhấm; thuộc động vật gặm nhấm  
+  *Example:* The researchers monitored rodent activity near the farms.  
+  → Các nhà nghiên cứu theo dõi hoạt động của động vật gặm nhấm gần các trang trại.
+
+* **rodenticide** UK /rəʊˈden.tɪ.saɪd/ US /roʊˈden.t̬ə.saɪd/ *(countable/uncountable noun)*: thuốc diệt động vật gặm nhấm  
+  *Example:* Improper use of rodenticide can harm other wildlife.  
+  → Việc sử dụng thuốc diệt động vật gặm nhấm không đúng cách có thể gây hại cho các loài hoang dã khác.
+
+### Notes
+
+Rabbits are not rodents; they belong to a different group called lagomorphs. `Rodent` is a biological category, while `vermin` is a human judgment applied to animals considered harmful or troublesome. Therefore, not every rodent should be called vermin.
+
+---
+
+## 478. Saliva /səˈlaɪ.və/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** nước bọt, chất lỏng do các tuyến trong miệng tiết ra để làm ẩm thức ăn và hỗ trợ tiêu hóa *(100%)*
+
+### Usage
+
+`Saliva` is the clear liquid produced in the mouth by the salivary glands. It keeps the mouth moist, begins the digestion of some foods, and can be collected for medical or scientific testing. The word is neutral and suitable for formal or medical contexts.
+
+Common structures:
+
+* `produce/secrete saliva`: sản xuất/tiết nước bọt
+* `a saliva sample/test`: mẫu/xét nghiệm nước bọt
+* `saliva contains + substance`: nước bọt chứa chất gì
+* `collect/analyse saliva`: thu thập/phân tích nước bọt
+* `mix + food + with saliva`: trộn thức ăn với nước bọt
+
+### Examples
+
+1. **The researchers collected saliva samples from all participants.**
+   → Các nhà nghiên cứu thu thập mẫu nước bọt từ tất cả người tham gia.
+
+2. **Saliva helps soften food before it is swallowed.**
+   → Nước bọt giúp làm mềm thức ăn trước khi được nuốt.
+
+### Common collocations
+
+* **saliva sample**: mẫu nước bọt
+* **saliva test**: xét nghiệm nước bọt
+* **produce saliva**: tiết nước bọt
+* **human saliva**: nước bọt người
+* **saliva production**: sự tiết nước bọt
+
+### Synonyms
+
+* **spit** /spɪt/ *(uncountable noun; informal)*: nước bọt
+* **oral fluid** /ˌɔː.rəl ˈfluː.ɪd/ *(uncountable noun phrase; medical)*: dịch miệng
+* **spittle** /ˈspɪt.əl/ *(uncountable noun)*: nước bọt; ít trang trọng và ít phổ biến hơn `saliva`
+
+### Word family
+
+* **saliva** /səˈlaɪ.və/ *(uncountable noun)*: nước bọt  
+  *Example:* A lack of saliva can make speaking and swallowing difficult.  
+  → Thiếu nước bọt có thể khiến việc nói và nuốt trở nên khó khăn.
+
+* **salivary** UK /ˈsæl.ɪ.vər.i/ US /ˈsæl.ə.ver.i/ *(adjective)*: thuộc nước bọt hoặc tuyến nước bọt  
+  *Example:* Salivary glands produce fluid that keeps the mouth moist.  
+  → Các tuyến nước bọt tạo ra chất lỏng giúp giữ ẩm miệng.
+
+* **salivate** /ˈsæl.ɪ.veɪt/ *(intransitive verb)*: tiết nước bọt; thèm muốn mạnh mẽ theo nghĩa bóng  
+  *Example:* The smell of food can cause a hungry person to salivate.  
+  → Mùi thức ăn có thể khiến người đang đói tiết nước bọt.
+
+* **salivation** /ˌsæl.ɪˈveɪ.ʃən/ *(uncountable noun)*: sự tiết nước bọt  
+  *Example:* Excessive salivation may make swallowing uncomfortable.  
+  → Việc tiết quá nhiều nước bọt có thể khiến việc nuốt trở nên khó chịu.
+
+### Notes
+
+`Saliva` is uncountable: say `some saliva` or `a saliva sample`, not `a saliva`. `Spit` is common in everyday language but can sound crude; `saliva` is the appropriate term in academic, biological, and medical writing.
+
+---
+
+## 479. Scent /sent/
+
+* **Part of speech:** countable/uncountable noun; transitive verb
+* **Vietnamese meaning:** mùi đặc trưng, thường dễ chịu hoặc có thể nhận biết rõ *(40%)*; dấu vết mùi mà động vật/người có thể lần theo *(25%)*; hương liệu hoặc nước hoa nhẹ *(15%)*; ngửi thấy/phát hiện bằng mùi hoặc làm vật có hương *(20%)*
+
+### Usage
+
+As a noun, `scent` is a distinctive smell, often pleasant, or a trail of smell followed by an animal. As a verb, it means detect something by smell or give something a particular fragrance.
+
+Common structures:
+
+* `the scent of + flower/food`: hương của hoa/thức ăn
+* `a strong/faint/sweet scent`: mùi mạnh/thoang thoảng/ngọt ngào
+* `pick up/follow/lose a scent`: phát hiện/lần theo/mất dấu mùi
+* `scent + air/room`: làm không khí/căn phòng có hương
+* `be scented with + flower/spice`: được tạo hương bằng hoa/gia vị
+
+### Examples
+
+1. **The scent of fresh bread filled the kitchen.**
+   → Hương bánh mì mới nướng lan khắp nhà bếp.
+
+2. **The dogs followed the missing hiker's scent through the forest.**
+   → Những con chó lần theo dấu mùi của người đi bộ đường dài mất tích qua khu rừng.
+
+### Common collocations
+
+* **sweet scent**: hương thơm ngọt ngào
+* **faint scent**: mùi thoang thoảng
+* **pick up a scent**: phát hiện dấu mùi
+* **follow a scent**: lần theo dấu mùi
+* **scented candle**: nến thơm
+
+### Synonyms
+
+* **smell** /smel/ *(countable/uncountable noun)*: mùi; từ trung tính và rộng nhất
+* **aroma** /əˈrəʊ.mə/ *(countable noun)*: hương thơm, đặc biệt của thức ăn hoặc đồ uống
+* **fragrance** /ˈfreɪ.ɡrəns/ *(countable/uncountable noun)*: hương thơm dễ chịu
+* **odour/odor** UK /ˈəʊ.dər/ US /ˈoʊ.dɚ/ *(countable/uncountable noun)*: mùi; thường trung tính hoặc khó chịu
+* **perfume** UK /ˈpɜː.fjuːm/ US /ˈpɝː.fjuːm/ *(countable/uncountable noun)*: nước hoa hoặc hương thơm
+
+### Word family
+
+* **scent** /sent/ *(noun/verb)*: mùi hương, dấu mùi; phát hiện hoặc tạo hương  
+  *Example:* Bees can detect the scent of flowers from a distance.  
+  → Ong có thể phát hiện hương hoa từ xa.
+
+* **scented** /ˈsen.tɪd/ *(adjective; past-participle form)*: có hương thơm hoặc được tạo hương  
+  *Example:* Some people are sensitive to strongly scented products.  
+  → Một số người nhạy cảm với các sản phẩm có mùi thơm mạnh.
+
+* **scentless** /ˈsent.ləs/ *(adjective)*: không có mùi  
+  *Example:* The company developed a scentless cleaning product.  
+  → Công ty phát triển một sản phẩm tẩy rửa không mùi.
+
+### Notes
+
+`Smell` can be pleasant, unpleasant, or neutral. `Scent`, `aroma`, and `fragrance` often suggest a pleasant or distinctive smell, though `scent` also means an animal's odor trail. Do not confuse `scent` with `sent`; both are pronounced /sent/, but `sent` is the past form of `send`.
+
+---
+
+## 480. Solitary UK /ˈsɒl.ɪ.tər.i/ US /ˈsɑː.lə.ter.i/
+
+* **Part of speech:** adjective; uncountable noun in the informal prison expression `solitary`
+* **Vietnamese meaning:** một mình, không có người khác đi cùng *(45%)*; thích hoặc có tập tính sống một mình *(25%)*; duy nhất, đơn độc hoặc tách biệt khỏi những thứ khác *(20%)*; biệt giam trong cách dùng rút gọn `solitary` *(10%)*
+
+### Usage
+
+`Solitary` describes a person, animal, activity, or object that is alone or isolated. It can be neutral, as in `a solitary walk`, or suggest loneliness and separation. Some animal species are naturally solitary. In prison contexts, `solitary` is short for `solitary confinement`.
+
+Common structures:
+
+* `a solitary person/figure`: một người/hình bóng đơn độc
+* `a solitary life/existence`: cuộc sống cô độc
+* `a solitary activity`: hoạt động thực hiện một mình
+* `a solitary animal/species`: động vật/loài sống đơn độc
+* `be held/placed in solitary confinement`: bị giam/đưa vào biệt giam
+
+### Examples
+
+1. **Writing is often a solitary activity, although editors and colleagues may provide support.**
+   → Viết lách thường là một hoạt động thực hiện một mình, mặc dù biên tập viên và đồng nghiệp có thể hỗ trợ.
+
+2. **The camera captured a solitary tiger moving through the forest.**
+   → Máy ảnh ghi lại hình ảnh một con hổ đơn độc di chuyển qua khu rừng.
+
+### Common collocations
+
+* **solitary life**: cuộc sống cô độc
+* **solitary figure**: bóng người đơn độc
+* **solitary activity**: hoạt động làm một mình
+* **solitary animal**: động vật sống đơn độc
+* **solitary confinement**: biệt giam
+
+### Synonyms
+
+* **alone** UK /əˈləʊn/ US /əˈloʊn/ *(adjective/adverb)*: một mình
+* **isolated** /ˈaɪ.sə.leɪ.tɪd/ *(adjective)*: bị cô lập hoặc tách biệt
+* **lone** UK /ləʊn/ US /loʊn/ *(adjective)*: đơn độc, duy nhất
+* **reclusive** /rɪˈkluː.sɪv/ *(adjective)*: sống ẩn dật, tránh giao tiếp
+
+### Word family
+
+* **solitary** UK /ˈsɒl.ɪ.tər.i/ US /ˈsɑː.lə.ter.i/ *(adjective)*: đơn độc, sống một mình  
+  *Example:* Leopards are generally solitary animals.  
+  → Báo hoa mai nhìn chung là động vật sống đơn độc.
+
+* **solitude** UK /ˈsɒl.ɪ.tjuːd/ US /ˈsɑː.lə.tuːd/ *(uncountable noun)*: trạng thái ở một mình, sự tĩnh lặng riêng tư  
+  *Example:* She values the peace and solitude of the countryside.  
+  → Cô ấy trân trọng sự yên bình và tĩnh lặng riêng tư ở vùng nông thôn.
+
+### Notes
+
+`Solitary` describes being alone; `lonely` describes the unhappy feeling caused by isolation. A person can enjoy a solitary walk without feeling lonely. `Solitary confinement` is a fixed term for keeping a prisoner alone and separated from others.
+
+---
+
+## 481. Squeak /skwiːk/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** tiếng rít/chít ngắn và cao của chuột, cửa, giày hoặc vật khác *(65%)*; phát ra âm thanh cao, ngắn hoặc nói bằng giọng the thé *(20%)*; vừa đủ thành công, vượt qua hoặc thoát khỏi trong `squeak through/by/out` *(15%)*
+
+### Usage
+
+`Squeak` is a short, high-pitched sound made by a small animal or by surfaces rubbing together. As a verb, it means make that sound. In informal phrasal uses, it can mean narrowly pass, succeed, or escape.
+
+Common structures:
+
+* `a mouse/door/shoe squeaks`: chuột/cửa/giày phát ra tiếng chít/rít
+* `let out a squeak`: phát ra một tiếng chít hoặc kêu the thé
+* `squeak + words/reply`: nói lời/câu trả lời bằng giọng cao nhỏ
+* `squeak through + exam/round`: vừa đủ vượt qua kỳ thi/vòng thi
+* `squeak by/out`: vừa đủ thành công/thoát ra
+
+### Examples
+
+1. **The old door opened with a loud squeak.**
+   → Cánh cửa cũ mở ra với một tiếng rít lớn.
+
+2. **The team squeaked through to the final by one point.**
+   → Đội vừa đủ vượt qua để vào chung kết với cách biệt một điểm.
+
+### Common collocations
+
+* **high-pitched squeak**: tiếng chít cao
+* **let out a squeak**: phát ra tiếng chít
+* **door squeaks**: cửa kêu cót két
+* **squeak through an exam**: vừa đủ điểm vượt qua kỳ thi
+* **squeak out a victory**: giành chiến thắng sít sao
+
+### Synonyms
+
+* **squeal** /skwiːl/ *(countable noun; verb)*: tiếng kêu cao và thường kéo dài hơn
+* **creak** /kriːk/ *(countable noun; verb)*: tiếng cót két thấp của gỗ hoặc kim loại
+* **chirp** UK /tʃɜːp/ US /tʃɝːp/ *(countable noun; verb)*: tiếng chiêm chiếp của chim/côn trùng
+* **scrape through** /ˌskreɪp ˈθruː/ *(phrasal verb)*: vừa đủ vượt qua
+
+### Word family
+
+* **squeak** /skwiːk/ *(noun/verb)*: tiếng chít/rít; phát ra tiếng chít/rít  
+  *Example:* I heard a mouse squeak behind the cupboard.  
+  → Tôi nghe thấy một con chuột kêu chít chít phía sau tủ.
+
+* **squeaky** /ˈskwiː.ki/ *(adjective)*: phát ra tiếng rít/chít; the thé  
+  *Example:* The bicycle has a squeaky brake that needs repair.  
+  → Chiếc xe đạp có phanh kêu rít cần được sửa chữa.
+
+* **squeakily** /ˈskwiː.kəl.i/ *(adverb)*: bằng giọng hoặc âm thanh cao, chít chít  
+  *Example:* The child answered squeakily because she was nervous.  
+  → Đứa trẻ trả lời bằng giọng the thé vì em ấy lo lắng.
+
+### Notes
+
+`Squeak` is usually short and high-pitched. `Creak` is the lower sound often made by an old door or floorboard, while `squeal` is usually louder and longer. `Squeak through` is informal and means succeed by a very narrow margin.
+
+---
+
+## 482. Thorn UK /θɔːn/ US /θɔːrn/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** gai cứng và nhọn mọc trên thân/cành cây *(80%)*; người hoặc vấn đề gây khó chịu dai dẳng trong thành ngữ `a thorn in someone's side` *(20%)*
+
+### Usage
+
+A `thorn` is a hard, sharp point growing from a plant stem or branch. Figuratively, `a thorn in someone's side` is a person or problem that repeatedly causes difficulty or annoyance.
+
+Common structures:
+
+* `a sharp/long thorn`: chiếc gai nhọn/dài
+* `be covered in/with thorns`: phủ đầy gai
+* `be pricked by a thorn`: bị gai đâm
+* `remove/pull out a thorn`: lấy/rút gai ra
+* `a thorn in someone's side`: cái gai trong mắt; nguồn gây phiền toái dai dẳng cho ai
+
+### Examples
+
+1. **A thorn pierced the sole of his shoe.**
+   → Một chiếc gai đâm xuyên qua đế giày của anh ấy.
+
+2. **Traffic congestion remains a thorn in the mayor's side.**
+   → Ùn tắc giao thông vẫn là một vấn đề gây đau đầu dai dẳng cho thị trưởng.
+
+### Common collocations
+
+* **sharp thorn**: gai nhọn
+* **thorn bush**: bụi cây có gai
+* **rose thorn**: gai hoa hồng
+* **remove a thorn**: lấy gai ra
+* **a thorn in someone's side**: nguồn gây phiền toái dai dẳng cho ai
+
+### Synonyms
+
+* **spine** /spaɪn/ *(countable noun; botany)*: gai phát triển từ lá hoặc bộ phận của lá
+* **prickle** /ˈprɪk.əl/ *(countable noun)*: gai nhọn phát triển từ lớp ngoài của cây
+* **spike** /spaɪk/ *(countable noun)*: vật nhọn dài, gai nhọn
+* **nuisance** /ˈnjuː.səns/ *(countable noun)*: người hoặc vật gây phiền toái; gần nghĩa bóng
+
+### Word family
+
+* **thorn** UK /θɔːn/ US /θɔːrn/ *(countable noun)*: gai cây; nguồn gây phiền toái  
+  *Example:* The gardener wore gloves to protect her hands from thorns.  
+  → Người làm vườn đeo găng tay để bảo vệ tay khỏi gai.
+
+* **thorny** UK /ˈθɔː.ni/ US /ˈθɔːr.ni/ *(adjective)*: đầy gai; phức tạp và khó giải quyết  
+  *Example:* Housing affordability is a thorny political issue.  
+  → Khả năng chi trả nhà ở là một vấn đề chính trị phức tạp.
+
+* **thornless** UK /ˈθɔːn.ləs/ US /ˈθɔːrn.ləs/ *(adjective)*: không có gai  
+  *Example:* Thornless blackberry varieties are easier to harvest.  
+  → Các giống mâm xôi đen không gai dễ thu hoạch hơn.
+
+### Notes
+
+In everyday English, sharp plant points are often all called `thorns`, though botany distinguishes thorns, spines, and prickles by their origin. `A thorny issue` is a difficult and sensitive problem. The idiom is usually `a thorn in someone's side`.
+
+---
+
+## 483. Timber UK /ˈtɪm.bər/ US /ˈtɪm.bɚ/
+
+* **Part of speech:** uncountable noun; exclamation in `Timber!`
+* **Vietnamese meaning:** gỗ đã được chuẩn bị để xây dựng hoặc sản xuất, đặc biệt trong tiếng Anh-Anh *(45%)*; cây rừng được trồng hoặc khai thác để lấy gỗ *(35%)*; dầm hoặc khung gỗ xây dựng *(15%)*; tiếng hô cảnh báo khi cây sắp đổ `Timber!` *(5%)*
+
+### Usage
+
+`Timber` refers to wood prepared for building or to trees grown for that wood. British English commonly uses `timber` where American English often uses `lumber`. It is normally uncountable, although plural `timbers` can refer to individual structural beams.
+
+Common structures:
+
+* `produce/harvest timber`: sản xuất/khai thác gỗ
+* `timber industry/trade`: ngành/thương mại gỗ
+* `timber frame/building`: khung/công trình bằng gỗ
+* `a source/supply of timber`: nguồn/nguồn cung gỗ
+* `Timber!`: Cây đổ!; tiếng hô cảnh báo
+
+### Examples
+
+1. **The construction company uses timber from sustainably managed forests.**
+   → Công ty xây dựng sử dụng gỗ từ những khu rừng được quản lý bền vững.
+
+2. **Illegal timber harvesting can accelerate deforestation.**
+   → Hoạt động khai thác gỗ trái phép có thể đẩy nhanh nạn phá rừng.
+
+### Common collocations
+
+* **timber industry**: ngành công nghiệp gỗ
+* **timber production**: sản xuất gỗ
+* **timber frame**: khung gỗ
+* **sawn timber**: gỗ xẻ
+* **illegal timber**: gỗ khai thác trái phép
+
+### Synonyms
+
+* **wood** /wʊd/ *(uncountable noun)*: gỗ; từ rộng và thông dụng
+* **lumber** UK /ˈlʌm.bər/ US /ˈlʌm.bɚ/ *(uncountable noun)*: gỗ xẻ; đặc biệt phổ biến trong tiếng Anh-Mỹ
+* **building material** UK /ˈbɪl.dɪŋ məˌtɪə.ri.əl/ US /ˈbɪl.dɪŋ məˌtɪr.i.əl/ *(countable noun phrase)*: vật liệu xây dựng; nghĩa rộng hơn
+* **logs** UK /lɒɡz/ US /lɑːɡz/ *(plural noun)*: các khúc gỗ chưa được chế biến thành vật liệu
+
+### Word family
+
+* **timber** UK /ˈtɪm.bər/ US /ˈtɪm.bɚ/ *(uncountable noun)*: gỗ xây dựng; cây lấy gỗ  
+  *Example:* Timber is renewable when forests are managed responsibly.  
+  → Gỗ là tài nguyên có thể tái tạo khi rừng được quản lý có trách nhiệm.
+
+* **timbered** UK /ˈtɪm.bəd/ US /ˈtɪm.bɚd/ *(adjective)*: có khung gỗ hoặc có nhiều cây lấy gỗ  
+  *Example:* The village is known for its traditional timbered houses.  
+  → Ngôi làng nổi tiếng với những ngôi nhà khung gỗ truyền thống.
+
+* **timberland** UK /ˈtɪm.bə.lænd/ US /ˈtɪm.bɚ.lænd/ *(countable/uncountable noun)*: đất rừng được quản lý để sản xuất gỗ  
+  *Example:* The company manages thousands of hectares of timberland.  
+  → Công ty quản lý hàng nghìn hecta đất rừng sản xuất gỗ.
+
+### Notes
+
+`Timber` and `wood` are usually uncountable: `some timber`, not `a timber`. In construction, plural `timbers` means separate heavy beams. A `log` is a cut section of a tree trunk; `timber` is the material or trees intended for building and manufacturing.
+
+---
+
+## 484. Toll UK /təʊl/ US /toʊl/
+
+* **Part of speech:** countable noun; transitive/intransitive verb
+* **Vietnamese meaning:** phí phải trả để sử dụng đường, cầu hoặc dịch vụ cụ thể *(40%)*; số người chết, bị thương hoặc mức thiệt hại do sự kiện gây ra *(30%)*; tác động tiêu cực tích lũy trong `take a toll on` *(20%)*; tiếng chuông chậm hoặc hành động rung chuông *(10%)*
+
+### Usage
+
+A `toll` can be a fee for using a road or bridge, the number of deaths or injuries caused by an event, or the harmful effect of prolonged pressure. As a verb, it describes a bell ringing slowly and repeatedly.
+
+Common structures:
+
+* `pay/collect a toll`: trả/thu phí
+* `toll road/bridge/booth`: đường/cầu/trạm thu phí
+* `death/injury toll`: số người chết/bị thương
+* `take a heavy toll on + person/thing`: gây tổn hại nghiêm trọng cho ai/điều gì
+* `a bell tolls`: chuông ngân chậm và đều
+
+### Examples
+
+1. **Years of overwork took a serious toll on his health.**
+   → Nhiều năm làm việc quá sức đã gây tổn hại nghiêm trọng đến sức khỏe của anh ấy.
+
+2. **Drivers must pay a toll to cross the bridge.**
+   → Người lái xe phải trả phí để đi qua cầu.
+
+### Common collocations
+
+* **pay a toll**: trả phí đường/cầu
+* **toll road**: đường thu phí
+* **death toll**: số người tử vong
+* **take a toll on health**: gây tổn hại đến sức khỏe
+* **rising toll**: con số thiệt hại đang tăng
+
+### Synonyms
+
+* **fee** /fiː/ *(countable noun)*: khoản phí
+* **charge** UK /tʃɑːdʒ/ US /tʃɑːrdʒ/ *(countable noun)*: khoản tiền phải trả
+* **cost** UK /kɒst/ US /kɑːst/ *(countable/uncountable noun)*: chi phí; cái giá hoặc hậu quả
+* **casualty count** /ˈkæʒ.u.əl.ti ˌkaʊnt/ *(countable noun phrase)*: tổng số người chết và bị thương
+* **damage** /ˈdæm.ɪdʒ/ *(uncountable noun)*: thiệt hại
+
+### Word family
+
+* **toll** UK /təʊl/ US /toʊl/ *(noun/verb)*: phí; thương vong/thiệt hại; ngân chuông  
+  *Example:* The emotional toll of caring for a sick relative can be considerable.  
+  → Tác động về mặt cảm xúc của việc chăm sóc người thân bị bệnh có thể rất lớn.
+
+* **tollbooth** UK /ˈtəʊl.buːθ/ US /ˈtoʊl.buːθ/ *(countable noun)*: trạm hoặc cabin thu phí  
+  *Example:* Cars formed a long queue at the tollbooth.  
+  → Ô tô xếp thành một hàng dài tại trạm thu phí.
+
+* **toll-free** UK /ˌtəʊlˈfriː/ US /ˌtoʊlˈfriː/ *(adjective)*: miễn phí cuộc gọi hoặc không thu phí  
+  *Example:* Customers can call a toll-free support number.  
+  → Khách hàng có thể gọi số hỗ trợ miễn phí.
+
+### Notes
+
+`Take a toll on` is a fixed expression: `Stress took a toll on her health.` Do not say `took a toll to her health`. A `death toll` counts deaths, while a `casualty toll/count` may include both deaths and injuries. `Toll` as a road fee is countable: `a toll`, `several tolls`.
+
+---
+
+## 485. Urge UK /ɜːdʒ/ US /ɝːdʒ/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** mạnh mẽ khuyên, thúc giục hoặc kêu gọi ai làm gì *(50%)*; ham muốn hoặc thôi thúc mạnh mẽ muốn làm điều gì *(40%)*; thúc đẩy người/vật tiến về phía trước hoặc hướng tới hành động *(10%)*
+
+### Usage
+
+As a verb, `urge` means strongly advise or encourage someone to act. As a noun, an `urge` is a strong desire or impulse. It is useful in formal recommendations, public statements, reported advice, and everyday descriptions of impulses.
+
+Common structures:
+
+* `urge + someone + to + base verb`: thúc giục ai làm gì
+* `urge + action/caution/restraint`: kêu gọi hành động/sự thận trọng/kiềm chế
+* `urge that + subject + (should) + base verb`: kêu gọi rằng ai nên làm gì
+* `have/feel an urge to + base verb`: có/cảm thấy thôi thúc muốn làm gì
+* `resist/satisfy an urge`: cưỡng lại/thỏa mãn sự thôi thúc
+
+### Examples
+
+1. **Health experts urge governments to invest more in preventive care.**
+   → Các chuyên gia y tế kêu gọi chính phủ đầu tư nhiều hơn vào chăm sóc phòng ngừa.
+
+2. **She resisted the urge to check her phone during the meeting.**
+   → Cô ấy cưỡng lại thôi thúc muốn kiểm tra điện thoại trong cuộc họp.
+
+### Common collocations
+
+* **strongly urge**: mạnh mẽ kêu gọi
+* **urge caution**: kêu gọi thận trọng
+* **urge someone to act**: thúc giục ai hành động
+* **strong urge**: ham muốn/thôi thúc mạnh mẽ
+* **resist the urge**: cưỡng lại sự thôi thúc
+
+### Synonyms
+
+* **encourage** UK /ɪnˈkʌr.ɪdʒ/ US /ɪnˈkɝː.ɪdʒ/ *(transitive verb)*: khuyến khích
+* **press** /pres/ *(transitive verb)*: thúc ép hoặc khẩn khoản yêu cầu
+* **advocate** /ˈæd.və.keɪt/ *(transitive verb)*: công khai ủng hộ hoặc kêu gọi
+* **impulse** /ˈɪm.pʌls/ *(countable noun)*: sự thôi thúc bất chợt
+* **craving** /ˈkreɪ.vɪŋ/ *(countable noun)*: sự thèm muốn mạnh mẽ
+
+### Word family
+
+* **urge** UK /ɜːdʒ/ US /ɝːdʒ/ *(verb/countable noun)*: thúc giục; sự thôi thúc  
+  *Example:* The charity urged the public to donate essential supplies.  
+  → Tổ chức từ thiện kêu gọi công chúng quyên góp nhu yếu phẩm.
+
+* **urgent** UK /ˈɜː.dʒənt/ US /ˈɝː.dʒənt/ *(adjective)*: khẩn cấp, cần được xử lý ngay  
+  *Example:* Climate adaptation is an urgent priority for coastal cities.  
+  → Thích ứng với khí hậu là ưu tiên cấp bách đối với các thành phố ven biển.
+
+* **urgently** UK /ˈɜː.dʒənt.li/ US /ˈɝː.dʒənt.li/ *(adverb)*: một cách khẩn cấp  
+  *Example:* The hospital urgently needs additional medical staff.  
+  → Bệnh viện đang rất cần thêm nhân viên y tế.
+
+* **urgency** UK /ˈɜː.dʒən.si/ US /ˈɝː.dʒən.si/ *(uncountable noun)*: tính cấp bách  
+  *Example:* Policymakers must recognize the urgency of the housing crisis.  
+  → Các nhà hoạch định chính sách phải nhận ra tính cấp bách của cuộc khủng hoảng nhà ở.
+
+### Notes
+
+Use `urge someone to do something`, not `urge someone do something`. After `urge that`, formal English commonly uses the base verb: `They urged that the law be changed`; British English also commonly uses `should`: `They urged that the law should be changed.` As a noun, use `an urge to do something`.
+
+---
+
+## 486. Vermin UK /ˈvɜː.mɪn/ US /ˈvɝː.mɪn/
+
+* **Part of speech:** plural noun; collective expression without a normal singular form
+* **Vietnamese meaning:** động vật hoặc côn trùng bị xem là gây hại, phá hoại mùa màng/tài sản hoặc truyền bệnh *(85%)*; từ miệt thị chỉ những người bị xem là đáng khinh hoặc gây hại *(15%)*
+
+### Usage
+
+`Vermin` refers collectively to rats, mice, insects, or other creatures considered harmful or troublesome. It has no normal singular form. When applied to people, it is strongly insulting and dehumanizing, so this use should generally be avoided.
+
+Common structures:
+
+* `control/eliminate vermin`: kiểm soát/loại bỏ sinh vật gây hại
+* `an infestation of vermin`: tình trạng sinh vật gây hại xâm nhập
+* `be overrun with vermin`: bị sinh vật gây hại tràn ngập
+* `vermin damage crops/property`: sinh vật gây hại phá hoại mùa màng/tài sản
+* `treat people like vermin`: đối xử với con người như sinh vật đáng khinh; cách nói rất tiêu cực
+
+### Examples
+
+1. **Poor sanitation can attract vermin and increase the risk of disease.**
+   → Điều kiện vệ sinh kém có thể thu hút sinh vật gây hại và làm tăng nguy cơ bệnh tật.
+
+2. **The warehouse introduced stricter measures to control vermin.**
+   → Nhà kho áp dụng các biện pháp nghiêm ngặt hơn để kiểm soát sinh vật gây hại.
+
+### Common collocations
+
+* **vermin control**: việc kiểm soát sinh vật gây hại
+* **vermin infestation**: tình trạng sinh vật gây hại xâm nhập
+* **be overrun with vermin**: bị sinh vật gây hại tràn ngập
+* **destroy vermin**: tiêu diệt sinh vật gây hại
+* **disease-carrying vermin**: sinh vật gây hại mang mầm bệnh
+
+### Synonyms
+
+* **pests** /pests/ *(plural noun)*: sinh vật gây hại; từ trung tính và rộng hơn
+* **parasites** /ˈpær.ə.saɪts/ *(plural noun)*: ký sinh trùng; chỉ những sinh vật sống nhờ vật chủ
+* **rodents** UK /ˈrəʊ.dənts/ US /ˈroʊ.dənts/ *(plural noun)*: động vật gặm nhấm; chỉ một nhóm có thể bị xem là vermin
+* **scum** /skʌm/ *(uncountable/collective noun; highly offensive for people)*: hạng người đáng khinh
+
+### Word family
+
+* **vermin** UK /ˈvɜː.mɪn/ US /ˈvɝː.mɪn/ *(plural noun)*: sinh vật gây hại  
+  *Example:* Food waste should be stored securely to prevent vermin.  
+  → Rác thải thực phẩm nên được lưu trữ kín để ngăn sinh vật gây hại.
+
+* **verminous** UK /ˈvɜː.mɪ.nəs/ US /ˈvɝː.mɪ.nəs/ *(adjective; formal)*: đầy sinh vật gây hại hoặc liên quan đến chúng  
+  *Example:* The abandoned building had become damp and verminous.  
+  → Tòa nhà bị bỏ hoang đã trở nên ẩm thấp và đầy sinh vật gây hại.
+
+* **vermin-infested** UK /ˈvɜː.mɪn ɪnˌfes.tɪd/ US /ˈvɝː.mɪn ɪnˌfes.tɪd/ *(adjective)*: bị sinh vật gây hại xâm nhập  
+  *Example:* Residents reported unsafe conditions in the vermin-infested block.  
+  → Cư dân báo cáo điều kiện không an toàn trong khu nhà bị sinh vật gây hại xâm nhập.
+
+### Notes
+
+Do not say `a vermin`; use `a pest`, `a rat`, or another specific animal name. Use plural agreement in standard learner English: `Vermin are spreading`. Calling people `vermin` is highly offensive.
