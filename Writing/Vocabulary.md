@@ -27326,3 +27326,1582 @@ Common structures:
 ### Notes
 
 Do not say `a vermin`; use `a pest`, `a rat`, or another specific animal name. Use plural agreement in standard learner English: `Vermin are spreading`. Calling people `vermin` is highly offensive.
+
+---
+
+## 487. Acclimatise; acclimatize /əˈklaɪ.mə.taɪz/
+
+* **Part of speech:** intransitive verb; transitive verb, especially in the reflexive form
+* **Vietnamese meaning:** thích nghi với khí hậu, nhiệt độ, độ cao hoặc môi trường mới *(85%)*; làm cho người, động vật hoặc thực vật thích nghi với điều kiện mới *(15%)*
+
+### Usage
+
+`Acclimatise` is the usual British spelling, while `acclimatize` is common in American English; both spellings are accepted in British English. The verb describes gradual physical or practical adjustment to new environmental conditions. Use `acclimatise to`, not `acclimatise with`.
+
+Common structures:
+
+* `acclimatise to + noun`: thích nghi với điều kiện nào đó
+* `acclimatise oneself to + noun`: tự làm quen và thích nghi với điều gì
+* `become/get acclimatised to + noun`: dần quen với điều gì
+* `take time to acclimatise`: cần thời gian để thích nghi
+* `acclimatise plants/animals to + conditions`: giúp cây cối/động vật thích nghi với điều kiện nào đó
+
+### Examples
+
+1. **Climbers should spend several days acclimatising to the high altitude.**
+   → Những người leo núi nên dành vài ngày để thích nghi với độ cao lớn.
+
+2. **It took me a week to acclimatize to the humid climate.**
+   → Tôi mất một tuần để thích nghi với khí hậu ẩm ướt.
+
+### Common collocations
+
+* **acclimatise to high altitude**: thích nghi với độ cao lớn
+* **acclimatise to a new climate**: thích nghi với khí hậu mới
+* **become fully acclimatised**: thích nghi hoàn toàn
+* **acclimatisation period**: giai đoạn thích nghi
+
+### Synonyms
+
+* **adapt** /əˈdæpt/ *(intransitive/transitive verb)*: thích nghi; điều chỉnh cho phù hợp
+* **adjust** /əˈdʒʌst/ *(intransitive/transitive verb)*: điều chỉnh, làm quen
+* **get used to** /ɡet ˈjuːst tuː/ *(verb phrase)*: trở nên quen với
+
+### Word family
+
+* **acclimatise/acclimatize** /əˈklaɪ.mə.taɪz/ *(verb)*: thích nghi; làm cho thích nghi  
+  *Example:* New employees quickly acclimatized to the flexible working environment.  
+  → Nhân viên mới nhanh chóng thích nghi với môi trường làm việc linh hoạt.
+
+* **acclimatisation/acclimatization** /əˌklaɪ.mə.taɪˈzeɪ.ʃən/ *(uncountable noun)*: quá trình thích nghi  
+  *Example:* Proper acclimatisation reduces the risk of altitude sickness.  
+  → Việc thích nghi đúng cách làm giảm nguy cơ say độ cao.
+
+* **acclimatised/acclimatized** /əˈklaɪ.mə.taɪzd/ *(adjective/past-participle form)*: đã thích nghi  
+  *Example:* The seedlings must be fully acclimatised before they are planted outdoors.  
+  → Cây con phải thích nghi hoàn toàn trước khi được trồng ngoài trời.
+
+### Notes
+
+`Acclimatise` mainly concerns environmental conditions such as climate, heat, cold, or altitude. `Adapt` is broader and can describe changes in behavior, methods, technology, or biology. In everyday English, `get used to` is often more natural for ordinary routines.
+
+---
+
+## 488. Asteroid UK /ˈæs.tər.ɔɪd/ US /ˈæs.tɚ.ɔɪd/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tiểu hành tinh, thiên thể đá hoặc kim loại nhỏ quay quanh Mặt Trời *(100%)*
+
+### Usage
+
+An `asteroid` is a relatively small rocky or metallic object that travels around the Sun. Many asteroids lie in the asteroid belt between Mars and Jupiter. It differs from a `meteor`, which is the streak of light produced when a space object enters an atmosphere.
+
+Common structures:
+
+* `an asteroid orbits + a star/the Sun`: một tiểu hành tinh quay quanh một ngôi sao/Mặt Trời
+* `an asteroid passes close to + Earth`: một tiểu hành tinh đi gần Trái Đất
+* `an asteroid collides with + a planet`: một tiểu hành tinh va chạm với một hành tinh
+* `detect/track an asteroid`: phát hiện/theo dõi một tiểu hành tinh
+* `the asteroid belt`: vành đai tiểu hành tinh
+
+### Examples
+
+1. **Scientists track near-Earth asteroids to assess whether they pose a threat.**
+   → Các nhà khoa học theo dõi những tiểu hành tinh gần Trái Đất để đánh giá liệu chúng có gây nguy hiểm hay không.
+
+2. **The spacecraft collected samples from the surface of an asteroid.**
+   → Tàu vũ trụ đã thu thập mẫu từ bề mặt của một tiểu hành tinh.
+
+### Common collocations
+
+* **near-Earth asteroid**: tiểu hành tinh gần Trái Đất
+* **asteroid belt**: vành đai tiểu hành tinh
+* **asteroid impact**: vụ va chạm của tiểu hành tinh
+* **massive asteroid**: tiểu hành tinh khổng lồ
+* **track an asteroid**: theo dõi một tiểu hành tinh
+
+### Synonyms
+
+* **minor planet** UK /ˌmaɪ.nə ˈplæn.ɪt/ US /ˌmaɪ.nɚ ˈplæn.ɪt/ *(countable noun; technical)*: hành tinh nhỏ
+* **space rock** /ˈspeɪs rɒk/ *(countable noun phrase; informal)*: khối đá trong không gian
+* **planetoid** /ˈplæn.ɪ.tɔɪd/ *(countable noun; technical)*: thiên thể nhỏ giống hành tinh
+
+### Word family
+
+* **asteroid** UK /ˈæs.tər.ɔɪd/ US /ˈæs.tɚ.ɔɪd/ *(countable noun)*: tiểu hành tinh  
+  *Example:* The asteroid completed one orbit around the Sun.  
+  → Tiểu hành tinh hoàn thành một vòng quay quanh Mặt Trời.
+
+* **asteroidal** UK /ˌæs.təˈrɔɪ.dəl/ US /ˌæs.tɚˈɔɪ.dəl/ *(adjective; technical)*: thuộc tiểu hành tinh  
+  *Example:* Researchers examined asteroidal material returned by the probe.  
+  → Các nhà nghiên cứu đã kiểm tra vật chất tiểu hành tinh do tàu thăm dò mang về.
+
+### Notes
+
+Do not confuse `asteroid`, `meteoroid`, `meteor`, and `meteorite`. A `meteoroid` is a smaller object in space; a `meteor` is the visible light as it enters an atmosphere; a `meteorite` is material that reaches the ground.
+
+---
+
+## 489. Barely UK /ˈbeə.li/ US /ˈber.li/
+
+* **Part of speech:** adverb
+* **Vietnamese meaning:** hầu như không, gần như không *(55%)*; vừa đủ hoặc chỉ vừa mới *(35%)*; chỉ mới được một khoảng thời gian rất ngắn *(10%)*
+
+### Usage
+
+`Barely` gives a negative or limiting meaning: something almost did not happen, exist, or reach the required level. It commonly appears before a main verb but after `be`. Because it is already negative in meaning, do not normally add `not`.
+
+Common structures:
+
+* `barely + main verb`: hầu như không làm gì
+* `be + barely + adjective`: chỉ vừa đủ ở trạng thái nào đó
+* `can/could barely + base verb`: hầu như không thể làm gì
+* `barely enough + noun`: chỉ vừa đủ thứ gì
+* `barely ... when/before ...`: vừa mới... thì...
+
+### Examples
+
+1. **The instructions were so unclear that I could barely understand them.**
+   → Hướng dẫn không rõ đến mức tôi hầu như không thể hiểu được.
+
+2. **We had barely enough time to catch the last train.**
+   → Chúng tôi chỉ vừa đủ thời gian để bắt chuyến tàu cuối.
+
+### Common collocations
+
+* **barely visible**: hầu như không nhìn thấy
+* **barely noticeable**: gần như không đáng chú ý
+* **barely survive**: chỉ vừa đủ sống sót
+* **barely enough**: chỉ vừa đủ
+* **barely able to**: hầu như không thể
+
+### Synonyms
+
+* **hardly** UK /ˈhɑːd.li/ US /ˈhɑːrd.li/ *(adverb)*: hầu như không
+* **scarcely** UK /ˈskeə.sli/ US /ˈsker.sli/ *(adverb; slightly formal)*: hầu như không
+* **only just** UK /ˌəʊn.li ˈdʒʌst/ US /ˌoʊn.li ˈdʒʌst/ *(adverb phrase)*: chỉ vừa mới, vừa đủ
+
+### Word family
+
+* **barely** UK /ˈbeə.li/ US /ˈber.li/ *(adverb)*: hầu như không; chỉ vừa đủ  
+  *Example:* Her voice was barely audible above the traffic noise.  
+  → Giọng cô ấy gần như không thể nghe thấy vì tiếng xe cộ.
+
+* **bare** UK /beər/ US /ber/ *(adjective)*: trần trụi; tối thiểu, vừa đủ  
+  *Example:* The report provided only the bare facts of the incident.  
+  → Báo cáo chỉ cung cấp những sự thật cơ bản nhất về sự việc.
+
+* **bareness** UK /ˈbeə.nəs/ US /ˈber.nəs/ *(uncountable noun)*: sự trống trải, trần trụi  
+  *Example:* The bareness of the room made it feel cold and unwelcoming.  
+  → Sự trống trải của căn phòng khiến nó có cảm giác lạnh lẽo và thiếu thân thiện.
+
+### Notes
+
+`Barely`, `hardly`, and `scarcely` all mean “almost not.” Avoid a double negative such as `I don't barely know him`; say `I barely know him`. `Barely` is not related in meaning to `bear` despite their similar sound.
+
+---
+
+## 490. Cathedral /kəˈθiː.drəl/
+
+* **Part of speech:** countable noun; adjective used before a noun in specialized contexts
+* **Vietnamese meaning:** nhà thờ chính tòa, nhà thờ có ngai của giám mục *(95%)*; thuộc hoặc liên quan đến nhà thờ chính tòa *(5%)*
+
+### Usage
+
+A `cathedral` is the principal church of a diocese because it contains the official seat of a bishop. It is not simply any large church, although many cathedrals are architecturally impressive.
+
+Common structures:
+
+* `visit/enter a cathedral`: tham quan/bước vào một nhà thờ chính tòa
+* `a cathedral dates from + period`: một nhà thờ chính tòa có từ thời kỳ nào
+* `a cathedral is dedicated to + saint`: một nhà thờ chính tòa được dâng kính vị thánh nào
+* `hold a service in a cathedral`: tổ chức nghi lễ trong nhà thờ chính tòa
+* `the cathedral of + place`: nhà thờ chính tòa của địa phương nào
+
+### Examples
+
+1. **The medieval cathedral attracts thousands of visitors each year.**
+   → Nhà thờ chính tòa thời Trung Cổ thu hút hàng nghìn du khách mỗi năm.
+
+2. **Restoring the cathedral requires specialist knowledge of historic stonework.**
+   → Việc trùng tu nhà thờ chính tòa đòi hỏi kiến thức chuyên môn về công trình đá cổ.
+
+### Common collocations
+
+* **Gothic cathedral**: nhà thờ chính tòa kiểu Gothic
+* **medieval cathedral**: nhà thờ chính tòa thời Trung Cổ
+* **cathedral tower**: tháp nhà thờ chính tòa
+* **cathedral city**: thành phố có nhà thờ chính tòa
+* **cathedral service**: nghi lễ tại nhà thờ chính tòa
+
+### Synonyms
+
+* **principal church** /ˈprɪn.sə.pəl tʃɜːtʃ/ *(countable noun phrase)*: nhà thờ chính của một giáo phận
+* **bishop's church** /ˈbɪʃ.əps tʃɜːtʃ/ *(countable noun phrase; explanatory)*: nhà thờ của giám mục
+* **church** UK /tʃɜːtʃ/ US /tʃɝːtʃ/ *(countable noun; broader term)*: nhà thờ
+
+### Word family
+
+* **cathedral** /kəˈθiː.drəl/ *(countable noun)*: nhà thờ chính tòa  
+  *Example:* The cathedral stands in the historic center of the city.  
+  → Nhà thờ chính tòa nằm ở trung tâm lịch sử của thành phố.
+
+* **cathedral-like** /kəˈθiː.drəl laɪk/ *(adjective)*: giống nhà thờ chính tòa về quy mô hoặc không gian  
+  *Example:* The station's vast hall has a cathedral-like atmosphere.  
+  → Đại sảnh rộng lớn của nhà ga có bầu không khí giống một nhà thờ chính tòa.
+
+### Notes
+
+A `cathedral` is defined by its role as the bishop's church, not by its size. A `basilica` is a church granted a particular status in the Roman Catholic tradition, so one building may be both a cathedral and a basilica.
+
+---
+
+## 491. Collide /kəˈlaɪd/
+
+* **Part of speech:** intransitive verb
+* **Vietnamese meaning:** va chạm mạnh với nhau *(65%)*; xung đột về ý tưởng, lợi ích, lịch trình hoặc trách nhiệm *(35%)*
+
+### Usage
+
+`Collide` describes two moving objects hitting each other or one object hitting another. Figuratively, it describes incompatible ideas, interests, duties, or worlds coming into conflict. It is intransitive, so use `collide with`, not `collide something`.
+
+Common structures:
+
+* `A collides with B`: A va chạm/xung đột với B
+* `two vehicles/objects collide`: hai phương tiện/vật thể va chạm
+* `collide head-on`: đâm trực diện
+* `interests/values collide`: các lợi ích/giá trị xung đột
+* `worlds/cultures collide`: các thế giới/nền văn hóa va chạm với nhau
+
+### Examples
+
+1. **Two satellites could collide if their orbital paths are not adjusted.**
+   → Hai vệ tinh có thể va chạm nếu quỹ đạo của chúng không được điều chỉnh.
+
+2. **Personal freedom sometimes collides with the need to protect public safety.**
+   → Tự do cá nhân đôi khi xung đột với nhu cầu bảo vệ an toàn công cộng.
+
+### Common collocations
+
+* **collide with a vehicle**: va chạm với một phương tiện
+* **collide head-on**: đâm trực diện
+* **planets collide**: các hành tinh va chạm
+* **conflicting interests collide**: những lợi ích đối lập xung đột
+* **collision course**: hướng đi chắc chắn dẫn đến va chạm/xung đột
+
+### Synonyms
+
+* **crash** /kræʃ/ *(intransitive verb)*: đâm, va mạnh
+* **clash** /klæʃ/ *(intransitive verb)*: xung đột, đối đầu
+* **conflict** /kənˈflɪkt/ *(intransitive verb)*: mâu thuẫn, xung đột
+
+### Word family
+
+* **collide** /kəˈlaɪd/ *(intransitive verb)*: va chạm; xung đột  
+  *Example:* The cyclist collided with a parked car.  
+  → Người đi xe đạp va vào một chiếc ô tô đang đỗ.
+
+* **collision** /kəˈlɪʒ.ən/ *(countable/uncountable noun)*: vụ va chạm; sự xung đột  
+  *Example:* Better signaling systems can prevent train collisions.  
+  → Hệ thống tín hiệu tốt hơn có thể ngăn các vụ va chạm tàu hỏa.
+
+### Notes
+
+Say `The car collided with a bus`, not `The car collided a bus`. `Crash into` often suggests a forceful accident; `collide with` is more neutral and is also common in scientific writing.
+
+---
+
+## 492. Colonize; colonise UK /ˈkɒl.ə.naɪz/ US /ˈkɑː.lə.naɪz/
+
+* **Part of speech:** transitive verb; intransitive verb in biological contexts
+* **Vietnamese meaning:** chiếm và lập thuộc địa, kiểm soát một vùng đất hoặc dân tộc *(55%)*; đến định cư và thiết lập cộng đồng ở nơi mới *(20%)*; sinh vật phát triển hoặc lan đến một môi trường mới *(20%)*; thiết lập khu định cư ngoài Trái Đất *(5%)*
+
+### Usage
+
+`Colonize` is the usual American spelling; `colonise` is common in British English. In history and politics, it refers to taking control of another territory and settling there, often involving exploitation and unequal power. In biology, a species or microorganism can colonize a habitat or body surface.
+
+Common structures:
+
+* `colonize + a country/territory`: chiếm và lập thuộc địa tại một quốc gia/lãnh thổ
+* `be colonized by + power/group`: bị một cường quốc/nhóm đô hộ hoặc chiếm làm thuộc địa
+* `settlers colonize + an area`: người định cư lập cộng đồng ở một khu vực
+* `bacteria/species colonize + a habitat`: vi khuẩn/loài sinh vật phát triển trong môi trường sống
+* `colonize another planet`: thiết lập khu định cư trên hành tinh khác
+
+### Examples
+
+1. **European powers colonized many regions and reshaped their political institutions.**
+   → Các cường quốc châu Âu đã đô hộ nhiều khu vực và định hình lại các thể chế chính trị ở đó.
+
+2. **Certain plants can rapidly colonise land disturbed by fire.**
+   → Một số loài thực vật có thể nhanh chóng phát triển trên vùng đất bị xáo trộn bởi hỏa hoạn.
+
+### Common collocations
+
+* **colonize a territory**: chiếm và lập thuộc địa tại một lãnh thổ
+* **formerly colonized country**: quốc gia từng bị đô hộ
+* **colonize new habitats**: lan đến môi trường sống mới
+* **colonial rule**: chế độ thuộc địa
+* **space colonization**: quá trình thiết lập khu định cư ngoài không gian
+
+### Synonyms
+
+* **settle** /ˈset.əl/ *(transitive/intransitive verb)*: đến định cư
+* **occupy** UK /ˈɒk.jə.paɪ/ US /ˈɑː.kjə.paɪ/ *(transitive verb)*: chiếm đóng
+* **establish a colony** UK /ɪˌstæb.lɪʃ ə ˈkɒl.ə.ni/ US /ɪˌstæb.lɪʃ ə ˈkɑː.lə.ni/ *(verb phrase)*: thành lập một thuộc địa/khu định cư
+
+### Word family
+
+* **colonize/colonise** UK /ˈkɒl.ə.naɪz/ US /ˈkɑː.lə.naɪz/ *(verb)*: chiếm làm thuộc địa; phát triển ở môi trường mới  
+  *Example:* The bacteria can colonize the skin without causing disease.  
+  → Vi khuẩn có thể phát triển trên da mà không gây bệnh.
+
+* **colonization/colonisation** UK /ˌkɒl.ə.naɪˈzeɪ.ʃən/ US /ˌkɑː.lə.nəˈzeɪ.ʃən/ *(uncountable noun)*: quá trình thực dân hóa, định cư hoặc xâm chiếm môi trường sống  
+  *Example:* Colonization had lasting effects on local languages and cultures.  
+  → Quá trình thực dân hóa để lại những ảnh hưởng lâu dài đối với ngôn ngữ và văn hóa địa phương.
+
+* **colonial** UK /kəˈləʊ.ni.əl/ US /kəˈloʊ.ni.əl/ *(adjective/countable noun)*: thuộc địa, thuộc thời thực dân; người sống tại thuộc địa  
+  *Example:* The museum examines the country's colonial history.  
+  → Bảo tàng nghiên cứu lịch sử thuộc địa của đất nước.
+
+* **colony** UK /ˈkɒl.ə.ni/ US /ˈkɑː.lə.ni/ *(countable noun)*: thuộc địa; quần thể sinh vật  
+  *Example:* A colony of seabirds nests on the island.  
+  → Một quần thể chim biển làm tổ trên hòn đảo.
+
+* **colonist** UK /ˈkɒl.ə.nɪst/ US /ˈkɑː.lə.nɪst/ *(countable noun)*: người đến định cư ở thuộc địa  
+  *Example:* Early colonists depended heavily on local food sources.  
+  → Những người định cư thời kỳ đầu phụ thuộc nhiều vào nguồn thực phẩm địa phương.
+
+### Notes
+
+`Colonize` can be politically sensitive because historical colonization often involved violence, exploitation, and suppression. `Settle` is not always equivalent: people may settle in a place without taking political control of its existing population.
+
+---
+
+## 493. Composition UK /ˌkɒm.pəˈzɪʃ.ən/ US /ˌkɑːm.pəˈzɪʃ.ən/
+
+* **Part of speech:** countable noun; uncountable noun, depending on meaning
+* **Vietnamese meaning:** thành phần hoặc cấu tạo của một vật/nhóm *(35%)*; tác phẩm âm nhạc, nghệ thuật hoặc bài viết *(30%)*; quá trình hoặc kỹ năng sáng tác *(20%)*; cách sắp xếp các yếu tố trong hình ảnh/tác phẩm *(15%)*
+
+### Usage
+
+`Composition` can describe what something consists of, a created work, the activity of composing, or the arrangement of visual elements. It is countable for an individual work (`a composition`) and usually uncountable for the process or subject (`study composition`).
+
+Common structures:
+
+* `the composition of + noun`: thành phần/cấu tạo của thứ gì
+* `be composed of + components`: được cấu thành từ các thành phần
+* `write/perform a composition`: viết/trình diễn một tác phẩm
+* `study musical composition`: học sáng tác âm nhạc
+* `a balanced composition`: bố cục cân đối
+
+### Examples
+
+1. **Researchers analyzed the chemical composition of the soil.**
+   → Các nhà nghiên cứu đã phân tích thành phần hóa học của đất.
+
+2. **Her latest composition combines traditional instruments with electronic sounds.**
+   → Tác phẩm mới nhất của cô ấy kết hợp nhạc cụ truyền thống với âm thanh điện tử.
+
+### Common collocations
+
+* **chemical composition**: thành phần hóa học
+* **social composition**: cơ cấu xã hội
+* **musical composition**: tác phẩm hoặc việc sáng tác âm nhạc
+* **original composition**: tác phẩm nguyên bản
+* **visual composition**: bố cục hình ảnh
+
+### Synonyms
+
+* **makeup** /ˈmeɪk.ʌp/ *(uncountable noun)*: cấu tạo, thành phần
+* **structure** UK /ˈstrʌk.tʃər/ US /ˈstrʌk.tʃɚ/ *(countable/uncountable noun)*: cấu trúc
+* **work** UK /wɜːk/ US /wɝːk/ *(countable noun in this meaning)*: tác phẩm
+* **arrangement** /əˈreɪndʒ.mənt/ *(countable noun)*: sự sắp xếp, bố cục
+
+### Word family
+
+* **compose** UK /kəmˈpəʊz/ US /kəmˈpoʊz/ *(transitive/intransitive verb)*: cấu thành; sáng tác  
+  *Example:* Women compose nearly half of the research team.  
+  → Phụ nữ chiếm gần một nửa nhóm nghiên cứu.
+
+* **composition** UK /ˌkɒm.pəˈzɪʃ.ən/ US /ˌkɑːm.pəˈzɪʃ.ən/ *(countable/uncountable noun)*: thành phần; tác phẩm; việc sáng tác  
+  *Example:* The course covers both music theory and composition.  
+  → Khóa học bao gồm cả lý thuyết âm nhạc và sáng tác.
+
+* **composer** UK /kəmˈpəʊ.zər/ US /kəmˈpoʊ.zɚ/ *(countable noun)*: nhà soạn nhạc  
+  *Example:* The composer drew inspiration from folk music.  
+  → Nhà soạn nhạc lấy cảm hứng từ âm nhạc dân gian.
+
+* **composite** UK /ˈkɒm.pə.zɪt/ US /ˈkɑːm.pə.zɪt/ *(adjective/countable noun)*: tổng hợp, gồm nhiều phần; vật/tổng thể kết hợp  
+  *Example:* The bridge is made from a lightweight composite material.  
+  → Cây cầu được làm từ vật liệu composite nhẹ.
+
+### Notes
+
+Use `the composition of the population` for the way a population is constituted. `Comprise` and `compose` follow different patterns: `The team comprises ten people`, but `Ten people compose the team` and `The team is composed of ten people`.
+
+---
+
+## 494. Contemplate UK /ˈkɒn.təm.pleɪt/ US /ˈkɑːn.t̬əm.pleɪt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** cân nhắc kỹ một hành động hoặc khả năng *(55%)*; suy ngẫm sâu về một vấn đề *(30%)*; ngắm hoặc quan sát một cách chăm chú, trầm tư *(15%)*
+
+### Usage
+
+`Contemplate` means think carefully and often for some time. It can take a noun, a wh-clause, or a gerund. Do not use `contemplate to do`; use `contemplate doing`.
+
+Common structures:
+
+* `contemplate + noun`: suy ngẫm/cân nhắc điều gì
+* `contemplate + V-ing`: cân nhắc làm gì
+* `contemplate whether/how + clause`: suy xét liệu/bằng cách nào
+* `contemplate the possibility of + V-ing`: cân nhắc khả năng làm gì
+* `sit/stand contemplating + noun`: ngồi/đứng trầm ngâm suy ngẫm hoặc ngắm nhìn điều gì
+
+### Examples
+
+1. **Many graduates contemplate working abroad after completing their degrees.**
+   → Nhiều sinh viên tốt nghiệp cân nhắc làm việc ở nước ngoài sau khi hoàn thành bằng cấp.
+
+2. **The documentary encourages viewers to contemplate the long-term effects of climate change.**
+   → Bộ phim tài liệu khuyến khích người xem suy ngẫm về những tác động lâu dài của biến đổi khí hậu.
+
+### Common collocations
+
+* **seriously contemplate**: nghiêm túc cân nhắc
+* **contemplate a career change**: cân nhắc thay đổi nghề nghiệp
+* **contemplate the future**: suy ngẫm về tương lai
+* **contemplate the possibility**: cân nhắc khả năng
+* **quietly contemplate**: lặng lẽ suy ngẫm
+
+### Synonyms
+
+* **consider** /kənˈsɪd.ər/ *(transitive verb)*: cân nhắc, xem xét
+* **ponder** UK /ˈpɒn.dər/ US /ˈpɑːn.dɚ/ *(transitive/intransitive verb)*: suy ngẫm kỹ
+* **reflect on** /rɪˈflekt ɒn/ *(phrasal verb)*: suy ngẫm về
+* **think over** /θɪŋk ˈəʊ.vər/ *(separable phrasal verb)*: suy nghĩ kỹ trước khi quyết định
+
+### Word family
+
+* **contemplate** UK /ˈkɒn.təm.pleɪt/ US /ˈkɑːn.t̬əm.pleɪt/ *(transitive verb)*: cân nhắc; suy ngẫm  
+  *Example:* She contemplated the offer before making a decision.  
+  → Cô ấy cân nhắc lời đề nghị trước khi đưa ra quyết định.
+
+* **contemplation** UK /ˌkɒn.təmˈpleɪ.ʃən/ US /ˌkɑːn.t̬əmˈpleɪ.ʃən/ *(uncountable noun)*: sự suy ngẫm sâu  
+  *Example:* The garden provides a quiet space for contemplation.  
+  → Khu vườn tạo ra một không gian yên tĩnh để suy ngẫm.
+
+* **contemplative** UK /kənˈtem.plə.tɪv/ US /kənˈtem.plə.t̬ɪv/ *(adjective)*: trầm tư, suy ngẫm  
+  *Example:* He became contemplative when the conversation turned to his childhood.  
+  → Anh ấy trở nên trầm tư khi cuộc trò chuyện chuyển sang thời thơ ấu của mình.
+
+### Notes
+
+`Contemplate` is more deliberate and reflective than `think about`. It is common in formal writing but also natural in careful speech. Correct: `I am contemplating changing jobs`; incorrect: `I am contemplating to change jobs`.
+
+---
+
+## 495. Continual vs continuous /kənˈtɪn.ju.əl/; /kənˈtɪn.ju.əs/
+
+* **Part of speech:** adjectives
+* **Vietnamese meaning:** `continual`: liên tục tái diễn nhưng có những lúc gián đoạn *(50%)*; `continuous`: liên tục không ngừng, không bị gián đoạn *(50%)*
+
+### Usage
+
+Use `continual` for something that happens repeatedly over a period, with pauses between occurrences. Use `continuous` for something that continues without stopping or breaking. Casual English does not always maintain this distinction, but it is useful in precise academic and technical writing.
+
+Common structures:
+
+* `continual + repeated event/problem`: sự việc/vấn đề tái diễn nhiều lần
+* `a continual stream of + plural noun`: một dòng thứ gì nối tiếp nhau, có thể có gián đoạn nhỏ
+* `continuous + process/activity`: quá trình/hoạt động diễn ra không ngừng
+* `for a continuous period of + time`: trong một khoảng thời gian liên tục
+* `continuous from A to B`: liên tục từ A đến B
+
+### Examples
+
+1. **Continual interruptions made it difficult for her to concentrate.**
+   → Những lần gián đoạn liên tiếp khiến cô ấy khó tập trung.
+
+2. **The machine provides a continuous flow of air for twelve hours.**
+   → Máy cung cấp luồng không khí liên tục trong mười hai giờ.
+
+### Common collocations
+
+* **continual interruptions**: những lần gián đoạn liên tiếp
+* **continual improvement**: sự cải thiện liên tục qua nhiều lần
+* **continual complaints**: những lời phàn nàn lặp đi lặp lại
+* **continuous operation**: hoạt động không ngừng
+* **continuous flow**: dòng chảy liên tục
+* **continuous assessment**: đánh giá liên tục trong suốt khóa học
+
+### Synonyms
+
+* **repeated** /rɪˈpiː.tɪd/ *(adjective; close to `continual`)*: lặp đi lặp lại
+* **recurring** UK /rɪˈkɜː.rɪŋ/ US /rɪˈkɝː.ɪŋ/ *(adjective; close to `continual`)*: tái diễn
+* **uninterrupted** UK /ˌʌn.ɪn.təˈrʌp.tɪd/ US /ˌʌn.ɪn.t̬əˈrʌp.tɪd/ *(adjective; close to `continuous`)*: không bị gián đoạn
+* **nonstop** UK /ˌnɒnˈstɒp/ US /ˌnɑːnˈstɑːp/ *(adjective/adverb; close to `continuous`)*: không ngừng
+
+### Word family
+
+* **continue** /kənˈtɪn.juː/ *(transitive/intransitive verb)*: tiếp tục  
+  *Example:* The discussion continued after a short break.  
+  → Cuộc thảo luận tiếp tục sau một giờ nghỉ ngắn.
+
+* **continuation** /kənˌtɪn.juˈeɪ.ʃən/ *(countable/uncountable noun)*: sự tiếp tục; phần tiếp theo  
+  *Example:* The policy represents a continuation of the previous strategy.  
+  → Chính sách này thể hiện sự tiếp nối của chiến lược trước đó.
+
+* **continual** /kənˈtɪn.ju.əl/ *(adjective)*: tái diễn liên tục nhưng có gián đoạn  
+  *Example:* Continual software updates can frustrate users.  
+  → Những bản cập nhật phần mềm liên tiếp có thể khiến người dùng khó chịu.
+
+* **continually** /kənˈtɪn.ju.ə.li/ *(adverb)*: hết lần này đến lần khác  
+  *Example:* The team continually reviews its working methods.  
+  → Nhóm liên tục xem xét lại phương pháp làm việc của mình.
+
+* **continuous** /kənˈtɪn.ju.əs/ *(adjective)*: liên tục không gián đoạn  
+  *Example:* The patient requires continuous monitoring.  
+  → Bệnh nhân cần được theo dõi liên tục.
+
+* **continuously** /kənˈtɪn.ju.əs.li/ *(adverb)*: một cách liên tục, không ngừng  
+  *Example:* The sensor records temperature continuously.  
+  → Cảm biến ghi lại nhiệt độ liên tục.
+
+* **continuity** UK /ˌkɒn.tɪˈnjuː.ə.ti/ US /ˌkɑːn.təˈnuː.ə.t̬i/ *(uncountable noun)*: tính liên tục, sự tiếp nối ổn định  
+  *Example:* Reliable backups ensure business continuity during emergencies.  
+  → Các bản sao lưu đáng tin cậy bảo đảm hoạt động kinh doanh liên tục trong tình huống khẩn cấp.
+
+### Notes
+
+Think of `continual` as “again and again” and `continuous` as “without a break.” Rain that stops and starts all day is `continual`; rain that never stops for six hours is `continuous`. `Continuous assessment` is a fixed educational term for evaluation throughout a course.
+
+---
+
+## 496. Cosmic UK /ˈkɒz.mɪk/ US /ˈkɑːz.mɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc vũ trụ hoặc không gian ngoài Trái Đất *(85%)*; vô cùng rộng lớn, quan trọng hoặc phi thường *(15%)*
+
+### Usage
+
+`Cosmic` commonly describes phenomena, radiation, distances, or events connected with the universe. In informal or literary use, it can emphasize an extremely large scale or profound significance.
+
+Common structures:
+
+* `cosmic + phenomenon/event`: hiện tượng/sự kiện vũ trụ
+* `cosmic radiation/rays`: bức xạ/tia vũ trụ
+* `on a cosmic scale`: ở quy mô vũ trụ hoặc vô cùng lớn
+* `of cosmic importance`: có tầm quan trọng cực kỳ lớn
+* `study cosmic origins`: nghiên cứu nguồn gốc vũ trụ
+
+### Examples
+
+1. **Cosmic radiation can affect electronic equipment aboard spacecraft.**
+   → Bức xạ vũ trụ có thể ảnh hưởng đến thiết bị điện tử trên tàu vũ trụ.
+
+2. **Human history occupies only a tiny moment on the cosmic timescale.**
+   → Lịch sử loài người chỉ chiếm một khoảnh khắc rất nhỏ trên thang thời gian vũ trụ.
+
+### Common collocations
+
+* **cosmic radiation**: bức xạ vũ trụ
+* **cosmic rays**: tia vũ trụ
+* **cosmic event**: sự kiện vũ trụ
+* **cosmic scale**: quy mô vũ trụ
+* **cosmic dust**: bụi vũ trụ
+
+### Synonyms
+
+* **astronomical** UK /ˌæs.trəˈnɒm.ɪ.kəl/ US /ˌæs.trəˈnɑː.mɪ.kəl/ *(adjective)*: thuộc thiên văn; cực kỳ lớn
+* **celestial** /səˈles.ti.əl/ *(adjective)*: thuộc bầu trời hoặc thiên thể
+* **universal** UK /ˌjuː.nɪˈvɜː.səl/ US /ˌjuː.nəˈvɝː.səl/ *(adjective; broader)*: thuộc toàn vũ trụ; phổ quát
+
+### Word family
+
+* **cosmic** UK /ˈkɒz.mɪk/ US /ˈkɑːz.mɪk/ *(adjective)*: thuộc vũ trụ; vô cùng lớn  
+  *Example:* Astronomers observed a powerful cosmic explosion.  
+  → Các nhà thiên văn học quan sát thấy một vụ nổ vũ trụ mạnh mẽ.
+
+* **cosmically** UK /ˈkɒz.mɪ.kli/ US /ˈkɑːz.mɪ.kli/ *(adverb; uncommon)*: trên quy mô vũ trụ  
+  *Example:* The two events are cosmically close in time.  
+  → Hai sự kiện này diễn ra gần nhau nếu xét trên thang thời gian vũ trụ.
+
+### Notes
+
+`Cosmic` relates to the universe as a whole, while `astronomical` can mean either related to astronomy or extremely large, especially for prices and numbers. `Cosmic` commonly appears before a noun: `cosmic radiation`, `cosmic scale`.
+
+---
+
+## 497. Cosmos UK /ˈkɒz.mɒs/ US /ˈkɑːz.moʊs/
+
+* **Part of speech:** singular noun, usually used as `the cosmos`
+* **Vietnamese meaning:** vũ trụ được xem như một hệ thống có trật tự và hoàn chỉnh *(100%)*
+
+### Usage
+
+`The cosmos` means the universe considered as a complete, ordered system. It is common in astronomy, philosophy, and reflective writing. Unlike `universe`, it is rarely used with `a` in this meaning.
+
+Common structures:
+
+* `the origin of the cosmos`: nguồn gốc của vũ trụ
+* `the structure of the cosmos`: cấu trúc của vũ trụ
+* `our place in the cosmos`: vị trí của chúng ta trong vũ trụ
+* `explore/understand the cosmos`: khám phá/thấu hiểu vũ trụ
+* `throughout the cosmos`: khắp vũ trụ
+
+### Examples
+
+1. **Modern telescopes allow scientists to study the early cosmos.**
+   → Kính thiên văn hiện đại cho phép các nhà khoa học nghiên cứu vũ trụ thời kỳ đầu.
+
+2. **People have long wondered whether life exists elsewhere in the cosmos.**
+   → Con người từ lâu đã tự hỏi liệu sự sống có tồn tại ở nơi khác trong vũ trụ hay không.
+
+### Common collocations
+
+* **the observable cosmos**: vũ trụ có thể quan sát được
+* **the early cosmos**: vũ trụ thời kỳ đầu
+* **the vast cosmos**: vũ trụ bao la
+* **understand the cosmos**: thấu hiểu vũ trụ
+* **order in the cosmos**: trật tự trong vũ trụ
+
+### Synonyms
+
+* **universe** UK /ˈjuː.nɪ.vɜːs/ US /ˈjuː.nə.vɝːs/ *(singular noun)*: vũ trụ
+* **creation** /kriˈeɪ.ʃən/ *(singular/uncountable noun; religious or literary)*: thế giới hoặc vạn vật được tạo ra
+* **all existence** UK /ˌɔːl ɪɡˈzɪs.təns/ US /ˌɑːl ɪɡˈzɪs.təns/ *(noun phrase)*: toàn bộ sự tồn tại
+
+### Word family
+
+* **cosmos** UK /ˈkɒz.mɒs/ US /ˈkɑːz.moʊs/ *(singular noun)*: vũ trụ như một hệ thống có trật tự  
+  *Example:* The documentary explores humanity's relationship with the cosmos.  
+  → Bộ phim tài liệu khám phá mối quan hệ của nhân loại với vũ trụ.
+
+* **cosmology** UK /kɒzˈmɒl.ə.dʒi/ US /kɑːzˈmɑː.lə.dʒi/ *(uncountable noun)*: vũ trụ học  
+  *Example:* Cosmology examines the origin and development of the universe.  
+  → Vũ trụ học nghiên cứu nguồn gốc và sự phát triển của vũ trụ.
+
+* **cosmologist** UK /kɒzˈmɒl.ə.dʒɪst/ US /kɑːzˈmɑː.lə.dʒɪst/ *(countable noun)*: nhà vũ trụ học  
+  *Example:* The cosmologist proposed a new model of the early universe.  
+  → Nhà vũ trụ học đề xuất một mô hình mới về vũ trụ thời kỳ đầu.
+
+* **cosmological** UK /ˌkɒz.məˈlɒdʒ.ɪ.kəl/ US /ˌkɑːz.məˈlɑː.dʒɪ.kəl/ *(adjective)*: thuộc vũ trụ học  
+  *Example:* New observations may challenge existing cosmological theories.  
+  → Những quan sát mới có thể thách thức các lý thuyết vũ trụ học hiện có.
+
+### Notes
+
+`The universe` is the standard everyday and scientific term. `The cosmos` often emphasizes order, wholeness, or humanity's place within the universe. `Cosmos` can also name a flowering plant, but that separate meaning is less relevant here.
+
+---
+
+## 498. Crater UK /ˈkreɪ.tər/ US /ˈkreɪ.t̬ɚ/
+
+* **Part of speech:** countable noun; intransitive verb; transitive verb
+* **Vietnamese meaning:** miệng núi lửa hoặc hố lớn hình thành do va chạm/nổ *(75%)*; lao dốc hoặc sụt giảm đột ngột *(20%)*; tạo hố lớn trên bề mặt *(5%)*
+
+### Usage
+
+As a noun, a `crater` is a large bowl-shaped depression caused by volcanic activity, an impact, or an explosion. As a verb, it can mean create such a hole or, informally, fall sharply in value, performance, or popularity.
+
+Common structures:
+
+* `a crater formed by + impact/eruption`: hố được tạo ra bởi vụ va chạm/phun trào
+* `an asteroid leaves a crater`: một tiểu hành tinh để lại hố va chạm
+* `look into/cross a crater`: nhìn vào/băng qua một miệng hố
+* `prices/sales crater`: giá/doanh số lao dốc
+* `be cratered by + explosions`: bị tạo đầy hố bởi các vụ nổ
+
+### Examples
+
+1. **The impact created a crater several kilometers wide.**
+   → Vụ va chạm tạo ra một hố rộng vài kilômét.
+
+2. **Demand for the product cratered after the safety warning.**
+   → Nhu cầu đối với sản phẩm lao dốc sau cảnh báo an toàn.
+
+### Common collocations
+
+* **impact crater**: hố va chạm
+* **volcanic crater**: miệng núi lửa
+* **lunar crater**: hố trên Mặt Trăng
+* **crater rim**: vành miệng hố
+* **prices crater**: giá cả lao dốc
+
+### Synonyms
+
+* **depression** /dɪˈpreʃ.ən/ *(countable noun)*: chỗ lõm
+* **hollow** UK /ˈhɒl.əʊ/ US /ˈhɑː.loʊ/ *(countable noun)*: chỗ trũng, hốc
+* **plunge** /plʌndʒ/ *(intransitive verb)*: lao dốc
+* **collapse** /kəˈlæps/ *(intransitive verb)*: sụp đổ, giảm mạnh
+
+### Word family
+
+* **crater** UK /ˈkreɪ.tər/ US /ˈkreɪ.t̬ɚ/ *(noun/verb)*: miệng hố; tạo hố hoặc lao dốc  
+  *Example:* The explosion cratered the road and blocked traffic.  
+  → Vụ nổ tạo một hố lớn trên đường và chặn giao thông.
+
+* **cratered** UK /ˈkreɪ.təd/ US /ˈkreɪ.t̬ɚd/ *(adjective/past-participle form)*: đầy hố hoặc bị tạo hố  
+  *Example:* The Moon's cratered surface records a history of impacts.  
+  → Bề mặt đầy hố của Mặt Trăng lưu lại lịch sử các vụ va chạm.
+
+* **cratering** UK /ˈkreɪ.tər.ɪŋ/ US /ˈkreɪ.t̬ɚ.ɪŋ/ *(noun/verb form)*: sự tạo hố; sự lao dốc  
+  *Example:* The cratering of oil prices damaged the national economy.  
+  → Sự lao dốc của giá dầu gây thiệt hại cho nền kinh tế quốc gia.
+
+### Notes
+
+The verb meaning “fall dramatically” is informal and common in business news. In formal IELTS writing, `plummet`, `fall sharply`, or `collapse` may be clearer.
+
+---
+
+## 499. Crew /kruː/
+
+* **Part of speech:** countable collective noun; transitive and intransitive verb
+* **Vietnamese meaning:** đội ngũ làm việc trên tàu, máy bay hoặc tàu vũ trụ *(65%)*; nhóm người cùng thực hiện một công việc chuyên môn *(25%)*; nhóm bạn bè trong cách nói thân mật *(5%)*; cung cấp hoặc làm thành viên của một đội vận hành *(5%)*
+
+### Usage
+
+A `crew` is a group of people who operate a vehicle or work together on a particular task. In British English, it may take a singular or plural verb depending on whether the group or its members are emphasized; American English usually uses a singular verb. As a verb, `crew` means work as a crew member or provide a crew.
+
+Common structures:
+
+* `a crew of + number/people`: một đội gồm bao nhiêu người
+* `the crew of + ship/aircraft`: đội ngũ của tàu/máy bay
+* `a film/construction/rescue crew`: đoàn làm phim/đội xây dựng/cứu hộ
+* `join/lead a crew`: tham gia/lãnh đạo một đội
+* `crew + a ship/flight`: làm thành viên vận hành tàu/chuyến bay
+
+### Examples
+
+1. **The rescue crew reached the stranded climbers before nightfall.**
+   → Đội cứu hộ tiếp cận những người leo núi mắc kẹt trước khi trời tối.
+
+2. **Six astronauts will crew the spacecraft during the mission.**
+   → Sáu phi hành gia sẽ vận hành tàu vũ trụ trong nhiệm vụ.
+
+### Common collocations
+
+* **cabin crew**: tiếp viên hàng không
+* **flight crew**: tổ lái
+* **film crew**: đoàn làm phim
+* **rescue crew**: đội cứu hộ
+* **crew member**: thành viên đội ngũ
+
+### Synonyms
+
+* **team** /tiːm/ *(countable collective noun)*: đội, nhóm
+* **staff** UK /stɑːf/ US /stæf/ *(collective noun)*: đội ngũ nhân viên
+* **workforce** UK /ˈwɜːk.fɔːs/ US /ˈwɝːk.fɔːrs/ *(collective noun)*: lực lượng lao động
+* **personnel** UK /ˌpɜː.sənˈel/ US /ˌpɝː.sənˈel/ *(plural/collective noun)*: nhân sự
+
+### Word family
+
+* **crew** /kruː/ *(collective noun/verb)*: đội ngũ; làm thành viên vận hành  
+  *Example:* An experienced crew operates the research vessel.  
+  → Một đội ngũ giàu kinh nghiệm vận hành tàu nghiên cứu.
+
+* **crew member** UK /ˈkruː ˌmem.bər/ US /ˈkruː ˌmem.bɚ/ *(countable noun phrase)*: thành viên đội ngũ  
+  *Example:* Every crew member received emergency training.  
+  → Mỗi thành viên đội ngũ đều được đào tạo ứng phó khẩn cấp.
+
+* **crewed** /kruːd/ *(adjective/past-participle form)*: có người điều khiển hoặc có đội vận hành  
+  *Example:* The agency plans a crewed mission to the Moon.  
+  → Cơ quan này lên kế hoạch cho một nhiệm vụ có người lái đến Mặt Trăng.
+
+* **uncrewed** /ˌʌnˈkruːd/ *(adjective)*: không có người lái  
+  *Example:* An uncrewed probe collected data from the planet.  
+  → Một tàu thăm dò không người lái đã thu thập dữ liệu từ hành tinh.
+
+### Notes
+
+`Crew` refers to people operating a vehicle; `passengers` travel in it but do not operate it. In modern space contexts, `crewed` and `uncrewed` are often preferred to `manned` and `unmanned`.
+
+---
+
+## 500. Debris UK /ˈdeb.riː/ US /dəˈbriː/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** mảnh vỡ, vật liệu vụn còn lại sau sự phá hủy, tai nạn hoặc thiên tai *(80%)*; rác hoặc vật chất trôi nổi/rải rác, kể cả trong không gian *(20%)*
+
+### Usage
+
+`Debris` refers collectively to scattered remains or fragments. It is uncountable: say `some debris`, `a piece of debris`, or `pieces of debris`, not `a debris` or `debrises`.
+
+Common structures:
+
+* `debris from + accident/disaster`: mảnh vỡ từ tai nạn/thảm họa
+* `be covered with/in debris`: bị phủ đầy mảnh vụn
+* `clear/remove debris`: dọn/loại bỏ mảnh vỡ
+* `a piece of debris`: một mảnh vỡ
+* `debris is scattered across + area`: mảnh vỡ nằm rải rác khắp khu vực
+
+### Examples
+
+1. **Emergency workers searched the debris for survivors.**
+   → Nhân viên cứu hộ tìm kiếm người sống sót trong đống đổ nát.
+
+2. **Space debris can damage satellites traveling at high speed.**
+   → Mảnh vỡ không gian có thể làm hỏng các vệ tinh di chuyển với tốc độ cao.
+
+### Common collocations
+
+* **space debris**: mảnh vỡ không gian
+* **falling debris**: mảnh vỡ đang rơi
+* **storm debris**: mảnh vụn do bão
+* **clear away debris**: dọn sạch mảnh vụn
+* **a piece of debris**: một mảnh vỡ
+
+### Synonyms
+
+* **wreckage** /ˈrek.ɪdʒ/ *(uncountable noun)*: xác và mảnh vỡ của phương tiện/công trình bị phá hủy
+* **rubble** /ˈrʌb.əl/ *(uncountable noun)*: gạch đá vụn từ công trình sập
+* **fragments** /ˈfræɡ.mənts/ *(plural noun)*: các mảnh nhỏ
+* **remains** /rɪˈmeɪnz/ *(plural noun)*: phần còn lại
+
+### Word family
+
+* **debris** UK /ˈdeb.riː/ US /dəˈbriː/ *(uncountable noun)*: mảnh vỡ, vật liệu vụn  
+  *Example:* Volunteers removed debris from the beach after the storm.  
+  → Các tình nguyện viên dọn mảnh vụn khỏi bãi biển sau cơn bão.
+
+* **debris-covered** UK /ˈdeb.riː ˌkʌv.əd/ US /dəˈbriː ˌkʌv.ɚd/ *(adjective)*: bị phủ đầy mảnh vỡ  
+  *Example:* Rescue vehicles struggled to cross the debris-covered road.  
+  → Các phương tiện cứu hộ gặp khó khăn khi đi qua con đường đầy mảnh vỡ.
+
+### Notes
+
+The final `s` in `debris` is silent. `Wreckage` usually comes from a badly damaged vehicle or structure; `rubble` mainly refers to broken stone and bricks; `debris` is the broadest term.
+
+---
+
+## 501. Eclipse /ɪˈklɪps/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** hiện tượng thiên thực, gồm nhật thực hoặc nguyệt thực *(60%)*; sự suy giảm hoặc bị che mờ về danh tiếng, quyền lực hoặc tầm quan trọng *(20%)*; làm lu mờ hoặc vượt xa một người/vật khác *(20%)*
+
+### Usage
+
+An `eclipse` occurs when one celestial body blocks the light from or view of another. As a verb, `eclipse` means block light literally or make another achievement, person, or thing seem less important.
+
+Common structures:
+
+* `a solar/lunar eclipse occurs`: một nhật thực/nguyệt thực xảy ra
+* `observe/watch an eclipse`: quan sát/xem thiên thực
+* `be in eclipse`: ở trong giai đoạn suy giảm hoặc bị che khuất
+* `A eclipses B`: A làm lu mờ B
+* `be eclipsed by + noun`: bị thứ gì làm lu mờ
+
+### Examples
+
+1. **People must use proper eye protection when viewing a solar eclipse.**
+   → Mọi người phải sử dụng thiết bị bảo vệ mắt phù hợp khi quan sát nhật thực.
+
+2. **The new discovery eclipsed the team's previous achievements.**
+   → Phát hiện mới đã làm lu mờ những thành tựu trước đây của nhóm.
+
+### Common collocations
+
+* **solar eclipse**: nhật thực
+* **lunar eclipse**: nguyệt thực
+* **total eclipse**: thiên thực toàn phần
+* **partial eclipse**: thiên thực một phần
+* **eclipse a record**: làm lu mờ hoặc vượt xa một kỷ lục
+
+### Synonyms
+
+* **obscure** UK /əbˈskjʊər/ US /əbˈskjʊr/ *(transitive verb)*: che khuất, làm mờ
+* **overshadow** UK /ˌəʊ.vəˈʃæd.əʊ/ US /ˌoʊ.vɚˈʃæd.oʊ/ *(transitive verb)*: làm lu mờ
+* **outshine** /ˌaʊtˈʃaɪn/ *(transitive verb)*: nổi bật hơn, vượt trội hơn
+
+### Word family
+
+* **eclipse** /ɪˈklɪps/ *(noun/verb)*: thiên thực; làm lu mờ  
+  *Example:* The Moon briefly eclipsed the Sun.  
+  → Mặt Trăng tạm thời che khuất Mặt Trời.
+
+* **eclipsed** /ɪˈklɪpst/ *(adjective/past-participle form)*: bị che khuất hoặc làm lu mờ  
+  *Example:* Smaller local concerns were eclipsed by the national crisis.  
+  → Những mối quan tâm nhỏ ở địa phương bị cuộc khủng hoảng quốc gia làm lu mờ.
+
+* **eclipsing** /ɪˈklɪp.sɪŋ/ *(adjective/verb form)*: đang che khuất hoặc vượt xa  
+  *Example:* Online sales are rapidly eclipsing sales in physical stores.  
+  → Doanh số trực tuyến đang nhanh chóng vượt doanh số tại cửa hàng thực tế.
+
+### Notes
+
+Use `solar eclipse` when the Moon blocks the Sun from Earth's perspective and `lunar eclipse` when Earth blocks sunlight from reaching the Moon. As a verb, `eclipse` is transitive: `The result eclipsed expectations`.
+
+---
+
+## 502. Eventuality /ɪˌven.tʃuˈæl.ə.ti/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** sự việc có thể xảy ra trong tương lai, đặc biệt là tình huống khó khăn hoặc không mong muốn *(100%)*
+
+### Usage
+
+An `eventuality` is a possible future event or outcome for which people may need to prepare. It commonly appears in the plural after `every`, `all`, or `possible`, and in the phrase `in the eventuality that`.
+
+Common structures:
+
+* `prepare/plan for every eventuality`: chuẩn bị/lập kế hoạch cho mọi tình huống có thể xảy ra
+* `cover all eventualities`: tính đến mọi khả năng
+* `in the eventuality that + clause`: trong trường hợp mà
+* `a possible/unforeseen eventuality`: một tình huống có thể xảy ra/không lường trước
+* `deal with an eventuality`: xử lý một tình huống có thể xảy ra
+
+### Examples
+
+1. **The emergency plan prepares staff for every eventuality.**
+   → Kế hoạch khẩn cấp chuẩn bị cho nhân viên ứng phó với mọi tình huống có thể xảy ra.
+
+2. **We stored backup copies in the eventuality that the main server failed.**
+   → Chúng tôi lưu các bản sao dự phòng phòng trường hợp máy chủ chính gặp sự cố.
+
+### Common collocations
+
+* **every eventuality**: mọi tình huống có thể xảy ra
+* **possible eventuality**: khả năng có thể xảy ra
+* **unforeseen eventuality**: tình huống không lường trước
+* **plan for eventualities**: lập kế hoạch cho các tình huống có thể xảy ra
+* **cover all eventualities**: tính đến mọi khả năng
+
+### Synonyms
+
+* **possibility** UK /ˌpɒs.əˈbɪl.ə.ti/ US /ˌpɑː.səˈbɪl.ə.t̬i/ *(countable noun)*: khả năng
+* **contingency** /kənˈtɪn.dʒən.si/ *(countable noun)*: tình huống bất ngờ cần có kế hoạch dự phòng
+* **outcome** /ˈaʊt.kʌm/ *(countable noun)*: kết quả
+* **scenario** UK /sɪˈnɑː.ri.əʊ/ US /səˈner.i.oʊ/ *(countable noun)*: kịch bản, tình huống giả định
+
+### Word family
+
+* **eventuality** /ɪˌven.tʃuˈæl.ə.ti/ *(countable noun)*: tình huống có thể xảy ra  
+  *Example:* Insurance protects households against certain eventualities.  
+  → Bảo hiểm bảo vệ các hộ gia đình trước một số tình huống có thể xảy ra.
+
+* **eventual** /ɪˈven.tʃu.əl/ *(adjective)*: cuối cùng xảy ra sau một thời gian  
+  *Example:* The negotiations contributed to the eventual peace agreement.  
+  → Các cuộc đàm phán góp phần dẫn đến thỏa thuận hòa bình cuối cùng.
+
+* **eventually** /ɪˈven.tʃu.ə.li/ *(adverb)*: cuối cùng, sau một thời gian  
+  *Example:* The company eventually recovered from the financial crisis.  
+  → Cuối cùng công ty đã phục hồi sau cuộc khủng hoảng tài chính.
+
+### Notes
+
+`Eventuality` does not mean “the final result.” It means a possible event that may occur. `Eventually` means “in the end after some time,” not “possibly.”
+
+---
+
+## 503. Terrestrial /təˈres.tri.əl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc Trái Đất, đối lập với ngoài Trái Đất *(50%)*; sống hoặc xảy ra trên đất liền, đối lập với dưới nước hoặc trên cây *(40%)*; được phát sóng bằng hệ thống trên mặt đất thay vì vệ tinh/cáp *(10%)*
+
+### Usage
+
+`Terrestrial` is a formal or technical adjective. In astronomy it means related to Earth or Earth-like rocky planets; in biology it means living on land; in broadcasting it refers to signals transmitted from stations on Earth.
+
+Common structures:
+
+* `terrestrial life/environment`: sự sống/môi trường trên Trái Đất hoặc đất liền
+* `a terrestrial animal/species`: động vật/loài sống trên cạn
+* `a terrestrial planet`: hành tinh đất đá giống Trái Đất
+* `terrestrial television/broadcasting`: truyền hình/phát sóng mặt đất
+* `terrestrial and aquatic ecosystems`: hệ sinh thái trên cạn và dưới nước
+
+### Examples
+
+1. **Pollution threatens both terrestrial and marine ecosystems.**
+   → Ô nhiễm đe dọa cả hệ sinh thái trên cạn và hệ sinh thái biển.
+
+2. **Mars is a terrestrial planet with a rocky surface.**
+   → Sao Hỏa là một hành tinh đất đá có bề mặt rắn.
+
+### Common collocations
+
+* **terrestrial ecosystem**: hệ sinh thái trên cạn
+* **terrestrial species**: loài sống trên cạn
+* **terrestrial planet**: hành tinh đất đá
+* **terrestrial radiation**: bức xạ từ Trái Đất
+* **terrestrial television**: truyền hình mặt đất
+
+### Synonyms
+
+* **earthly** UK /ˈɜːθ.li/ US /ˈɝːθ.li/ *(adjective)*: thuộc thế gian hoặc Trái Đất
+* **land-based** /ˈlænd.beɪst/ *(adjective)*: hoạt động hoặc tồn tại trên đất liền
+* **land-dwelling** /ˈlændˌdwel.ɪŋ/ *(adjective)*: sống trên cạn
+
+### Word family
+
+* **terrestrial** /təˈres.tri.əl/ *(adjective)*: thuộc Trái Đất hoặc sống trên cạn  
+  *Example:* Terrestrial mammals evolved to occupy diverse habitats.  
+  → Động vật có vú trên cạn tiến hóa để sinh sống trong nhiều môi trường khác nhau.
+
+* **terrestrially** /təˈres.tri.ə.li/ *(adverb; technical and uncommon)*: theo cách thuộc mặt đất hoặc trên cạn  
+  *Example:* The channel is transmitted terrestrially in several regions.  
+  → Kênh này được truyền phát bằng hệ thống mặt đất ở một số khu vực.
+
+### Notes
+
+`Terrestrial` does not simply mean “natural.” In biology, a frog may spend time both in water and on land, while a fully terrestrial animal lives mainly on land. The opposite in astronomy is `extraterrestrial`; in ecology, common contrasts are `aquatic`, `marine`, and `arboreal`.
+
+---
+
+## 504. Extraterrestrial /ˌek.strə.təˈres.tri.əl/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** tồn tại, xảy ra hoặc bắt nguồn bên ngoài Trái Đất *(80%)*; sinh vật ngoài Trái Đất, người ngoài hành tinh *(20%)*
+
+### Usage
+
+As an adjective, `extraterrestrial` describes matter, life, intelligence, or phenomena originating beyond Earth. As a noun, it means a hypothetical being from another world. The abbreviation `ET` is common in informal contexts.
+
+Common structures:
+
+* `extraterrestrial life/intelligence`: sự sống/trí tuệ ngoài Trái Đất
+* `extraterrestrial origin`: nguồn gốc ngoài Trái Đất
+* `search for extraterrestrial life`: tìm kiếm sự sống ngoài Trái Đất
+* `evidence of extraterrestrial activity`: bằng chứng về hoạt động ngoài Trái Đất
+* `an extraterrestrial visits + place`: một sinh vật ngoài Trái Đất đến thăm nơi nào
+
+### Examples
+
+1. **Scientists search for chemical signs of extraterrestrial life.**
+   → Các nhà khoa học tìm kiếm các dấu hiệu hóa học của sự sống ngoài Trái Đất.
+
+2. **The film tells the story of an extraterrestrial stranded on Earth.**
+   → Bộ phim kể câu chuyện về một sinh vật ngoài hành tinh bị mắc kẹt trên Trái Đất.
+
+### Common collocations
+
+* **extraterrestrial life**: sự sống ngoài Trái Đất
+* **extraterrestrial intelligence**: trí tuệ ngoài Trái Đất
+* **extraterrestrial civilization**: nền văn minh ngoài Trái Đất
+* **extraterrestrial signal**: tín hiệu ngoài Trái Đất
+* **extraterrestrial material**: vật chất ngoài Trái Đất
+
+### Synonyms
+
+* **alien** /ˈeɪ.li.ən/ *(adjective/countable noun)*: ngoài hành tinh; sinh vật ngoài hành tinh
+* **non-terrestrial** UK /ˌnɒn.təˈres.tri.əl/ US /ˌnɑːn.təˈres.tri.əl/ *(adjective; technical)*: không thuộc Trái Đất
+* **from outer space** UK /frəm ˌaʊ.tə ˈspeɪs/ US /frəm ˌaʊ.t̬ɚ ˈspeɪs/ *(prepositional phrase)*: đến từ ngoài không gian
+
+### Word family
+
+* **extraterrestrial** /ˌek.strə.təˈres.tri.əl/ *(adjective/countable noun)*: thuộc ngoài Trái Đất; sinh vật ngoài hành tinh  
+  *Example:* No confirmed extraterrestrial signal has been detected.  
+  → Chưa có tín hiệu ngoài Trái Đất nào được xác nhận là đã được phát hiện.
+
+### Notes
+
+`Extraterrestrial` is more formal and scientific than `alien`. `Alien` also has unrelated meanings such as a foreign national or something unfamiliar. Do not confuse `extraterrestrial` with `extra terrestrial`; it is written as one word.
+
+---
+
+## 505. Extreme /ɪkˈstriːm/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** rất nghiêm trọng, dữ dội hoặc vượt xa mức thông thường *(65%)*; ở mức xa nhất hoặc cao/thấp nhất *(20%)*; trạng thái, quan điểm hoặc giới hạn cực đoan *(15%)*
+
+### Usage
+
+As an adjective, `extreme` intensifies conditions, measures, emotions, or actions that are far beyond normal. As a noun, `an extreme` is one of the furthest possible points or positions. It is stronger than `very` and should not be overused for ordinary situations.
+
+Common structures:
+
+* `extreme + weather/heat/poverty`: thời tiết/nắng nóng/nghèo đói khắc nghiệt
+* `under extreme pressure`: chịu áp lực cực lớn
+* `go to extremes to + base verb`: làm những điều cực đoan để làm gì
+* `at the opposite extreme`: ở thái cực ngược lại
+* `in extreme cases`: trong những trường hợp nghiêm trọng nhất
+
+### Examples
+
+1. **Extreme weather events are becoming more frequent in many regions.**
+   → Các hiện tượng thời tiết cực đoan đang xảy ra thường xuyên hơn ở nhiều khu vực.
+
+2. **Some people go to extremes to achieve rapid weight loss.**
+   → Một số người thực hiện những biện pháp cực đoan để giảm cân nhanh chóng.
+
+### Common collocations
+
+* **extreme weather**: thời tiết cực đoan
+* **extreme poverty**: nghèo cùng cực
+* **extreme pressure**: áp lực cực lớn
+* **extreme measures**: biện pháp cực đoan
+* **opposite extremes**: hai thái cực đối lập
+
+### Synonyms
+
+* **severe** UK /sɪˈvɪər/ US /sɪˈvɪr/ *(adjective)*: nghiêm trọng, khắc nghiệt
+* **intense** /ɪnˈtens/ *(adjective)*: dữ dội, mãnh liệt
+* **drastic** /ˈdræs.tɪk/ *(adjective)*: quyết liệt, cực đoan
+* **utmost** /ˈʌt.məʊst/ *(adjective/noun)*: cao nhất, tối đa
+
+### Word family
+
+* **extreme** /ɪkˈstriːm/ *(adjective/countable noun)*: cực độ; thái cực  
+  *Example:* The region experiences extremes of heat and cold.  
+  → Khu vực này trải qua những mức nóng và lạnh cực đoan.
+
+* **extremely** /ɪkˈstriːm.li/ *(adverb)*: cực kỳ  
+  *Example:* Reliable public transport is extremely important in large cities.  
+  → Giao thông công cộng đáng tin cậy cực kỳ quan trọng ở các thành phố lớn.
+
+* **extremity** /ɪkˈstrem.ə.ti/ *(countable noun)*: điểm cực xa; mức độ nghiêm trọng; tay hoặc chân  
+  *Example:* Patients may lose feeling in their extremities.  
+  → Bệnh nhân có thể mất cảm giác ở tay hoặc chân.
+
+* **extremism** /ɪkˈstriː.mɪ.zəm/ *(uncountable noun)*: chủ nghĩa cực đoan  
+  *Example:* Education can help young people resist violent extremism.  
+  → Giáo dục có thể giúp người trẻ chống lại chủ nghĩa cực đoan bạo lực.
+
+* **extremist** /ɪkˈstriː.mɪst/ *(countable noun/adjective)*: người cực đoan; thuộc chủ nghĩa cực đoan  
+  *Example:* The organization rejected extremist views.  
+  → Tổ chức bác bỏ những quan điểm cực đoan.
+
+### Notes
+
+`Extreme` is gradable in ordinary usage (`more extreme`, `very extreme`), although it already expresses a high degree. In careful writing, avoid weak combinations such as `slightly extreme` unless you are deliberately comparing degrees.
+
+---
+
+## 506. Faith /feɪθ/
+
+* **Part of speech:** uncountable noun; countable noun when referring to a religion
+* **Vietnamese meaning:** niềm tin hoặc sự tin tưởng mạnh mẽ vào ai/điều gì *(55%)*; đức tin tôn giáo *(30%)*; một tôn giáo cụ thể *(15%)*
+
+### Usage
+
+`Faith` means strong trust that may not depend on direct proof. It is uncountable in `faith in someone` and general religious belief, but countable when referring to a particular religion: `different faiths`. The phrase `in good faith` means honestly and with sincere intentions.
+
+Common structures:
+
+* `have/put faith in + person/system`: có/đặt niềm tin vào người hoặc hệ thống
+* `lose/restore faith in + noun`: mất/khôi phục niềm tin vào điều gì
+* `have faith that + clause`: tin rằng điều gì sẽ xảy ra
+* `people of different faiths`: những người thuộc các tôn giáo khác nhau
+* `act in good faith`: hành động với thiện chí và sự chân thành
+
+### Examples
+
+1. **Public scandals can weaken people's faith in government institutions.**
+   → Các vụ bê bối công khai có thể làm suy yếu niềm tin của người dân vào các cơ quan chính phủ.
+
+2. **The charity supports families of all faiths and backgrounds.**
+   → Tổ chức từ thiện hỗ trợ các gia đình thuộc mọi tôn giáo và hoàn cảnh.
+
+### Common collocations
+
+* **faith in humanity**: niềm tin vào con người
+* **religious faith**: đức tin tôn giáo
+* **blind faith**: niềm tin mù quáng
+* **lose faith**: mất niềm tin
+* **in good faith**: với thiện chí, chân thành
+
+### Synonyms
+
+* **trust** /trʌst/ *(uncountable noun)*: sự tin tưởng
+* **confidence** UK /ˈkɒn.fɪ.dəns/ US /ˈkɑːn.fə.dəns/ *(uncountable noun)*: sự tin cậy, lòng tin
+* **belief** /bɪˈliːf/ *(countable/uncountable noun)*: niềm tin, tín ngưỡng
+* **conviction** /kənˈvɪk.ʃən/ *(countable/uncountable noun)*: niềm tin chắc chắn
+
+### Word family
+
+* **faith** /feɪθ/ *(countable/uncountable noun)*: niềm tin; đức tin; tôn giáo  
+  *Example:* Her faith in her abilities helped her persevere.  
+  → Niềm tin vào khả năng của bản thân đã giúp cô ấy kiên trì.
+
+* **faithful** /ˈfeɪθ.fəl/ *(adjective)*: trung thành; đúng với bản gốc  
+  *Example:* The film is a faithful adaptation of the novel.  
+  → Bộ phim là bản chuyển thể trung thành với tiểu thuyết.
+
+* **faithfully** /ˈfeɪθ.fəl.i/ *(adverb)*: một cách trung thành hoặc chính xác  
+  *Example:* The machine faithfully reproduced the original pattern.  
+  → Cỗ máy tái tạo chính xác mẫu ban đầu.
+
+* **faithfulness** /ˈfeɪθ.fəl.nəs/ *(uncountable noun)*: sự trung thành; độ chính xác so với bản gốc  
+  *Example:* Critics praised the adaptation's faithfulness to the source material.  
+  → Các nhà phê bình ca ngợi sự trung thành của bản chuyển thể đối với nguyên tác.
+
+* **faithless** /ˈfeɪθ.ləs/ *(adjective; literary or old-fashioned)*: không chung thủy, phản bội  
+  *Example:* The novel portrays him as a faithless partner.  
+  → Tiểu thuyết khắc họa anh ta là một người bạn đời không chung thủy.
+
+### Notes
+
+Say `faith in someone/something`, not `faith on`. `Faith` can involve religion, but it does not always do so. `Trust` is often based more directly on experience or evidence, while `faith` may remain even without proof.
+
+---
+
+## 507. Fatality /fəˈtæl.ə.ti/
+
+* **Part of speech:** countable noun; uncountable noun in a rare formal sense
+* **Vietnamese meaning:** ca tử vong do tai nạn, thảm họa, bạo lực hoặc bệnh tật *(95%)*; tính tất yếu do số phận hoặc cảm giác không thể tránh khỏi *(5%)*
+
+### Usage
+
+In modern news, health, and safety contexts, a `fatality` is a death caused by a particular event. It counts deaths, not injuries. The abstract meaning connected with fate is rare and usually avoided in everyday English.
+
+Common structures:
+
+* `cause/result in fatalities`: gây ra/dẫn đến các ca tử vong
+* `report/record a fatality`: báo cáo/ghi nhận một ca tử vong
+* `reduce/prevent fatalities`: giảm/ngăn ngừa các ca tử vong
+* `a traffic/workplace fatality`: ca tử vong do giao thông/tại nơi làm việc
+* `a fatality rate`: tỷ lệ tử vong do một nguyên nhân cụ thể
+
+### Examples
+
+1. **Stricter road-safety laws could reduce traffic fatalities.**
+   → Luật an toàn đường bộ nghiêm ngặt hơn có thể làm giảm số ca tử vong do giao thông.
+
+2. **The fire caused extensive damage but no fatalities.**
+   → Vụ cháy gây thiệt hại lớn nhưng không có ca tử vong nào.
+
+### Common collocations
+
+* **traffic fatality**: ca tử vong do giao thông
+* **workplace fatality**: ca tử vong tại nơi làm việc
+* **multiple fatalities**: nhiều ca tử vong
+* **fatality rate**: tỷ lệ tử vong
+* **prevent fatalities**: ngăn ngừa tử vong
+
+### Synonyms
+
+* **death** /deθ/ *(countable/uncountable noun)*: cái chết, ca tử vong
+* **loss of life** UK /ˌlɒs əv ˈlaɪf/ US /ˌlɑːs əv ˈlaɪf/ *(noun phrase)*: sự thiệt mạng
+* **casualty** /ˈkæʒ.u.əl.ti/ *(countable noun; broader)*: người chết hoặc bị thương trong tai nạn/xung đột
+
+### Word family
+
+* **fatality** /fəˈtæl.ə.ti/ *(countable noun)*: ca tử vong  
+  *Example:* The new barrier prevented a potential fatality.  
+  → Rào chắn mới đã ngăn chặn một ca tử vong có thể xảy ra.
+
+* **fatal** /ˈfeɪ.təl/ *(adjective)*: gây tử vong; tai hại mang tính quyết định  
+  *Example:* Early treatment can prevent the infection from becoming fatal.  
+  → Điều trị sớm có thể ngăn bệnh nhiễm trùng trở nên gây tử vong.
+
+* **fatally** /ˈfeɪ.təl.i/ *(adverb)*: đến mức gây tử vong; một cách tai hại  
+  *Example:* Two passengers were fatally injured in the crash.  
+  → Hai hành khách bị thương chí mạng trong vụ tai nạn.
+
+### Notes
+
+`Fatality` refers to a death, whereas `casualty` may refer to someone killed or injured. Say `There were three fatalities`, not `There were three fatality`. `Fatal` describes something that causes or results in death.
+
+---
+
+## 508. Fellow UK /ˈfel.əʊ/ US /ˈfel.oʊ/
+
+* **Part of speech:** adjective used before a noun; countable noun
+* **Vietnamese meaning:** cùng thuộc một nhóm, nghề nghiệp, quốc gia hoặc hoàn cảnh *(40%)*; thành viên hoặc đồng nghiệp trong một tổ chức *(25%)*; người đàn ông hoặc người nào đó trong cách nói thân mật *(20%)*; nghiên cứu viên hoặc thành viên học thuật có chức danh *(15%)*
+
+### Usage
+
+Before a noun, `fellow` means sharing the same status, activity, or group: `fellow students`. As a noun, it can refer to a man informally, a member of an organization, or a person holding an academic fellowship. The informal noun can sound old-fashioned in some contexts.
+
+Common structures:
+
+* `fellow + student/citizen/worker`: bạn học/đồng bào/đồng nghiệp
+* `a fellow member of + organization`: một thành viên khác cùng tổ chức
+* `a research/teaching fellow`: nghiên cứu viên/trợ giảng nghiên cứu
+* `be elected a fellow of + institution`: được bầu làm hội viên của tổ chức
+* `help/support one's fellow + plural noun`: giúp đỡ/hỗ trợ những người cùng nhóm
+
+### Examples
+
+1. **She asked her fellow students to review the presentation.**
+   → Cô ấy nhờ các bạn cùng lớp xem lại bài thuyết trình.
+
+2. **He works as a research fellow at the university.**
+   → Anh ấy làm nghiên cứu viên tại trường đại học.
+
+### Common collocations
+
+* **fellow student**: bạn học
+* **fellow citizen**: đồng bào, công dân cùng nước
+* **fellow worker**: đồng nghiệp
+* **research fellow**: nghiên cứu viên
+* **fellow member**: thành viên khác cùng tổ chức
+
+### Synonyms
+
+* **colleague** UK /ˈkɒl.iːɡ/ US /ˈkɑː.liːɡ/ *(countable noun)*: đồng nghiệp
+* **peer** UK /pɪər/ US /pɪr/ *(countable noun)*: người ngang hàng hoặc cùng địa vị
+* **companion** /kəmˈpæn.jən/ *(countable noun)*: bạn đồng hành
+* **man** /mæn/ *(countable noun; for the informal noun sense)*: người đàn ông
+
+### Word family
+
+* **fellow** UK /ˈfel.əʊ/ US /ˈfel.oʊ/ *(adjective/countable noun)*: cùng nhóm; thành viên; người đàn ông  
+  *Example:* Fellow researchers questioned the study's methodology.  
+  → Các nhà nghiên cứu đồng nghiệp đặt câu hỏi về phương pháp của nghiên cứu.
+
+* **fellowship** UK /ˈfel.əʊ.ʃɪp/ US /ˈfel.oʊ.ʃɪp/ *(countable/uncountable noun)*: học bổng nghiên cứu; tư cách hội viên; tình bằng hữu  
+  *Example:* She received a fellowship to study public health.  
+  → Cô ấy nhận được học bổng nghiên cứu để học về y tế công cộng.
+
+### Notes
+
+`Fellow` before a noun is neutral and useful: `fellow employees`. Do not normally place it after the noun in this sense. A `fellowship` is often funding or a position for advanced study or research, while a general university `scholarship` commonly supports degree study.
+
+---
+
+## 509. Frontier UK /ˈfrʌn.tɪər/ US /frʌnˈtɪr/
+
+* **Part of speech:** countable noun; adjective used before a noun
+* **Vietnamese meaning:** ranh giới hoặc biên giới giữa các quốc gia/vùng lãnh thổ *(45%)*; giới hạn xa nhất của kiến thức, nghiên cứu hoặc phát triển *(45%)*; vùng giáp ranh giữa khu định cư và đất chưa khai phá trong lịch sử *(10%)*
+
+### Usage
+
+`Frontier` can mean a national boundary, especially in historical or literary contexts. More commonly in academic writing, `the frontiers of` refers to the newest limits of knowledge or technology. As an adjective, it describes advanced or boundary-related research.
+
+Common structures:
+
+* `cross/guard a frontier`: vượt qua/bảo vệ biên giới
+* `the frontier between A and B`: ranh giới giữa A và B
+* `the frontiers of + knowledge/science`: những giới hạn mới nhất của kiến thức/khoa học
+* `push/expand the frontiers of + field`: mở rộng giới hạn của một lĩnh vực
+* `frontier research/technology`: nghiên cứu/công nghệ tiên phong
+
+### Examples
+
+1. **Artificial intelligence is expanding the frontiers of medical research.**
+   → Trí tuệ nhân tạo đang mở rộng giới hạn của nghiên cứu y khoa.
+
+2. **Traders once crossed the mountain frontier on horseback.**
+   → Các thương nhân từng vượt qua vùng biên giới miền núi bằng ngựa.
+
+### Common collocations
+
+* **national frontier**: biên giới quốc gia
+* **remote frontier**: vùng biên giới xa xôi
+* **frontier research**: nghiên cứu tiên phong
+* **new frontier**: lĩnh vực hoặc giới hạn mới
+* **push back the frontiers of knowledge**: mở rộng giới hạn tri thức
+
+### Synonyms
+
+* **border** UK /ˈbɔː.dər/ US /ˈbɔːr.dɚ/ *(countable noun)*: biên giới
+* **boundary** /ˈbaʊn.dər.i/ *(countable noun)*: ranh giới
+* **leading edge** /ˌliː.dɪŋ ˈedʒ/ *(singular noun phrase)*: vị trí tiên phong
+* **limit** /ˈlɪm.ɪt/ *(countable noun)*: giới hạn
+
+### Word family
+
+* **frontier** UK /ˈfrʌn.tɪər/ US /frʌnˈtɪr/ *(countable noun/adjective)*: biên giới; giới hạn tiên phong  
+  *Example:* Gene editing represents a new frontier in medicine.  
+  → Chỉnh sửa gen đại diện cho một lĩnh vực tiên phong mới trong y học.
+
+* **frontiersman** UK /ˈfrʌn.tɪəz.mən/ US /frʌnˈtɪrz.mən/ *(countable noun; historical)*: người đàn ông sống hoặc thám hiểm vùng biên cương  
+  *Example:* The frontiersman relied on detailed knowledge of the landscape.  
+  → Người đàn ông sống ở vùng biên cương dựa vào hiểu biết sâu sắc về địa hình.
+
+* **frontierswoman** UK /ˈfrʌn.tɪəzˌwʊm.ən/ US /frʌnˈtɪrzˌwʊm.ən/ *(countable noun; historical)*: phụ nữ sống hoặc thám hiểm vùng biên cương  
+  *Example:* The diary describes the hardships faced by a frontierswoman.  
+  → Cuốn nhật ký mô tả những khó khăn mà một phụ nữ vùng biên cương phải đối mặt.
+
+### Notes
+
+`Border` is the normal modern word for the official line between countries. `Frontier` often sounds historical or emphasizes a remote border region. In `the frontiers of science`, it means the limits of current knowledge, not a physical boundary.
+
+---
+
+## 510. Gravitational /ˌɡræv.ɪˈteɪ.ʃən.əl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc lực hấp dẫn hoặc do lực hấp dẫn gây ra *(100%)*
+
+### Usage
+
+`Gravitational` is a scientific adjective describing attraction between objects with mass. It commonly modifies words such as `force`, `field`, `pull`, `wave`, and `effect`.
+
+Common structures:
+
+* `gravitational force between + objects`: lực hấp dẫn giữa các vật thể
+* `be held by gravitational attraction`: được giữ lại bởi lực hút hấp dẫn
+* `a gravitational field surrounds + object`: trường hấp dẫn bao quanh một vật thể
+* `detect gravitational waves`: phát hiện sóng hấp dẫn
+* `escape a gravitational pull`: thoát khỏi lực hút hấp dẫn
+
+### Examples
+
+1. **The Moon's gravitational pull influences ocean tides.**
+   → Lực hút hấp dẫn của Mặt Trăng ảnh hưởng đến thủy triều đại dương.
+
+2. **Scientists use sensitive instruments to detect gravitational waves.**
+   → Các nhà khoa học sử dụng thiết bị nhạy để phát hiện sóng hấp dẫn.
+
+### Common collocations
+
+* **gravitational force**: lực hấp dẫn
+* **gravitational pull**: lực hút hấp dẫn
+* **gravitational field**: trường hấp dẫn
+* **gravitational wave**: sóng hấp dẫn
+* **gravitational attraction**: sự hút hấp dẫn
+
+### Synonyms
+
+* **gravity-related** /ˈɡræv.ə.ti rɪˌleɪ.tɪd/ *(adjective phrase)*: liên quan đến lực hấp dẫn
+* **gravitative** /ˈɡræv.ɪ.teɪ.tɪv/ *(adjective; rare and technical)*: thuộc lực hấp dẫn
+* **attractive** /əˈtræk.tɪv/ *(adjective; only in a broad physical sense)*: có tính hút
+
+### Word family
+
+* **gravity** /ˈɡræv.ə.ti/ *(uncountable noun)*: lực hấp dẫn; tính nghiêm trọng  
+  *Example:* Gravity keeps the planets in orbit around the Sun.  
+  → Lực hấp dẫn giữ các hành tinh trên quỹ đạo quanh Mặt Trời.
+
+* **gravitation** /ˌɡræv.ɪˈteɪ.ʃən/ *(uncountable noun; technical)*: hiện tượng hoặc lực hấp dẫn  
+  *Example:* Newton developed a mathematical theory of gravitation.  
+  → Newton đã phát triển một lý thuyết toán học về lực hấp dẫn.
+
+* **gravitational** /ˌɡræv.ɪˈteɪ.ʃən.əl/ *(adjective)*: thuộc lực hấp dẫn  
+  *Example:* Black holes have extremely strong gravitational fields.  
+  → Hố đen có trường hấp dẫn cực kỳ mạnh.
+
+* **gravitationally** /ˌɡræv.ɪˈteɪ.ʃən.ə.li/ *(adverb; technical)*: về mặt hấp dẫn  
+  *Example:* The two galaxies are gravitationally bound.  
+  → Hai thiên hà bị ràng buộc với nhau bởi lực hấp dẫn.
+
+* **gravitate** /ˈɡræv.ɪ.teɪt/ *(intransitive verb)*: bị hút về; tự nhiên hướng đến  
+  *Example:* Young professionals often gravitate toward cities with more opportunities.  
+  → Người trẻ có chuyên môn thường có xu hướng hướng đến các thành phố có nhiều cơ hội hơn.
+
+### Notes
+
+`Gravitational` is the standard adjective from `gravity`. `Grave` and `gravity` can also relate to seriousness, but `gravitational` is almost exclusively scientific. `Gravitate toward/towards` is the most common pattern; `gravitate to` also occurs, especially when the destination is emphasized.
+
+---
+
+## 511. Graze /ɡreɪz/
+
+* **Part of speech:** transitive verb; intransitive verb; countable noun
+* **Vietnamese meaning:** ăn cỏ hoặc cho gia súc ăn cỏ trên đồng *(50%)*; làm trầy xước nhẹ da hoặc bề mặt *(25%)*; lướt/chạm nhẹ qua một vật *(15%)*; vết trầy xước nhẹ *(10%)*
+
+### Usage
+
+Animals `graze` when they feed on grass, and farmers may `graze cattle` on land. In another sense, something grazes a surface when it touches it lightly, often causing a small injury called `a graze` in British English.
+
+Common structures:
+
+* `animals graze on + grass/plants`: động vật ăn cỏ/thực vật
+* `graze cattle/sheep on + land`: cho gia súc/cừu ăn cỏ trên vùng đất
+* `graze one's knee/arm`: làm trầy đầu gối/cánh tay
+* `a bullet/object grazes + body part`: viên đạn/vật thể sượt qua bộ phận cơ thể
+* `suffer/treat a graze`: bị/xử lý một vết trầy nhẹ
+
+### Examples
+
+1. **Farmers allow cattle to graze on the hillside during summer.**
+   → Nông dân cho gia súc ăn cỏ trên sườn đồi vào mùa hè.
+
+2. **She fell off her bicycle and grazed her knee.**
+   → Cô ấy ngã khỏi xe đạp và làm trầy đầu gối.
+
+### Common collocations
+
+* **graze on grass**: ăn cỏ
+* **grazing land**: đất chăn thả
+* **graze cattle**: chăn thả gia súc
+* **graze one's skin**: làm trầy da
+* **a minor graze**: vết trầy nhẹ
+
+### Synonyms
+
+* **feed** /fiːd/ *(intransitive verb)*: ăn, kiếm ăn
+* **pasture** UK /ˈpɑːs.tʃər/ US /ˈpæs.tʃɚ/ *(transitive verb)*: chăn thả trên đồng cỏ
+* **scrape** /skreɪp/ *(transitive verb)*: làm trầy, cọ xước
+* **brush against** /brʌʃ əˈɡenst/ *(verb phrase)*: lướt nhẹ qua
+
+### Word family
+
+* **graze** /ɡreɪz/ *(verb/countable noun)*: ăn cỏ; làm trầy; vết trầy  
+  *Example:* A branch grazed his shoulder as he ran past.  
+  → Một cành cây sượt qua vai anh ấy khi anh ấy chạy ngang qua.
+
+* **grazing** /ˈɡreɪ.zɪŋ/ *(uncountable noun/adjective)*: việc chăn thả; dùng để chăn thả  
+  *Example:* Overgrazing can severely damage fragile grasslands.  
+  → Việc chăn thả quá mức có thể gây tổn hại nghiêm trọng cho các đồng cỏ mong manh.
+
+* **grazer** UK /ˈɡreɪ.zər/ US /ˈɡreɪ.zɚ/ *(countable noun)*: động vật ăn cỏ  
+  *Example:* Zebras are grazers that mainly feed on grass.  
+  → Ngựa vằn là động vật ăn cỏ, chủ yếu ăn các loại cỏ.
+
+* **overgraze** UK /ˌəʊ.vəˈɡreɪz/ US /ˌoʊ.vɚˈɡreɪz/ *(transitive/intransitive verb)*: chăn thả quá mức  
+  *Example:* Herds can overgraze the land during prolonged droughts.  
+  → Các đàn gia súc có thể chăn thả quá mức trên đất trong những đợt hạn hán kéo dài.
+
+### Notes
+
+In American English, the noun for a minor skin injury is more often `scrape`; British English commonly uses `graze`. Do not confuse `graze` /ɡreɪz/ with `gaze` /ɡeɪz/, which means look steadily.
+
+---
+
+## 512. Interference UK /ˌɪn.təˈfɪə.rəns/ US /ˌɪn.t̬ɚˈfɪr.əns/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự can thiệp không được mong muốn vào công việc hoặc quyết định của người khác *(55%)*; sự nhiễu hoặc gián đoạn tín hiệu *(30%)*; hiện tượng giao thoa giữa các sóng trong vật lý *(15%)*
+
+### Usage
+
+`Interference` can describe unwelcome involvement, signal disruption, or the interaction of waves. Use `interference in` for involvement in an activity or matter, and `interference with` for obstruction or disruption of something.
+
+Common structures:
+
+* `interference in + affairs/process`: sự can thiệp vào công việc/quá trình
+* `interference with + signal/system`: sự gây nhiễu/cản trở tín hiệu hoặc hệ thống
+* `without outside interference`: không có sự can thiệp từ bên ngoài
+* `cause/reduce interference`: gây ra/làm giảm nhiễu
+* `detect wave interference`: phát hiện sự giao thoa sóng
+
+### Examples
+
+1. **Independent courts should be protected from political interference.**
+   → Các tòa án độc lập nên được bảo vệ khỏi sự can thiệp chính trị.
+
+2. **Radio interference disrupted communication with the aircraft.**
+   → Nhiễu vô tuyến làm gián đoạn liên lạc với máy bay.
+
+### Common collocations
+
+* **political interference**: sự can thiệp chính trị
+* **government interference**: sự can thiệp của chính phủ
+* **outside interference**: sự can thiệp từ bên ngoài
+* **radio interference**: nhiễu vô tuyến
+* **electromagnetic interference**: nhiễu điện từ
+
+### Synonyms
+
+* **intervention** /ˌɪn.təˈven.ʃən/ *(countable/uncountable noun)*: sự can thiệp, thường nhằm cải thiện tình hình
+* **meddling** /ˈmed.əl.ɪŋ/ *(uncountable noun; disapproving)*: sự xen vào chuyện người khác
+* **disruption** /dɪsˈrʌp.ʃən/ *(countable/uncountable noun)*: sự gián đoạn
+* **disturbance** UK /dɪˈstɜː.bəns/ US /dɪˈstɝː.bəns/ *(countable/uncountable noun)*: sự nhiễu loạn, xáo trộn
+
+### Word family
+
+* **interfere** UK /ˌɪn.təˈfɪər/ US /ˌɪn.t̬ɚˈfɪr/ *(intransitive verb)*: can thiệp; gây cản trở  
+  *Example:* Parents should guide children without interfering excessively in their choices.  
+  → Cha mẹ nên hướng dẫn con cái mà không can thiệp quá mức vào lựa chọn của chúng.
+
+* **interference** UK /ˌɪn.təˈfɪə.rəns/ US /ˌɪn.t̬ɚˈfɪr.əns/ *(uncountable noun)*: sự can thiệp; sự gây nhiễu; sự giao thoa  
+  *Example:* Thick walls can cause interference with wireless signals.  
+  → Những bức tường dày có thể gây nhiễu tín hiệu không dây.
+
+* **interfering** UK /ˌɪn.təˈfɪə.rɪŋ/ US /ˌɪn.t̬ɚˈfɪr.ɪŋ/ *(adjective; disapproving)*: hay xen vào chuyện người khác  
+  *Example:* She found her neighbor's interfering behavior irritating.  
+  → Cô ấy thấy hành vi hay xen vào chuyện người khác của người hàng xóm thật khó chịu.
+
+* **non-interference** UK /ˌnɒn ɪn.təˈfɪə.rəns/ US /ˌnɑːn ɪn.t̬ɚˈfɪr.əns/ *(uncountable noun)*: nguyên tắc không can thiệp  
+  *Example:* The agreement is based on mutual respect and non-interference.  
+  → Thỏa thuận dựa trên sự tôn trọng lẫn nhau và nguyên tắc không can thiệp.
+
+### Notes
+
+`Interfere` is intransitive: use `interfere in`, `interfere with`, or `interfere between`, not a direct object. `Intervention` can be neutral or positive, whereas `interference` usually suggests that the involvement is unwanted or harmful.
