@@ -28905,3 +28905,688 @@ Common structures:
 ### Notes
 
 `Interfere` is intransitive: use `interfere in`, `interfere with`, or `interfere between`, not a direct object. `Intervention` can be neutral or positive, whereas `interference` usually suggests that the involvement is unwanted or harmful.
+
+---
+
+## 513. Manned /mænd/
+
+* **Part of speech:** adjective; past-tense and past-participle form of the transitive verb `man`
+* **Vietnamese meaning:** có người điều khiển hoặc có người trên tàu/phương tiện *(70%)*; có nhân viên trực hoặc vận hành *(25%)*; được bố trí người bảo vệ hoặc kiểm soát *(5%)*
+
+### Usage
+
+`Manned` describes a vehicle, station, or operation that has people aboard or in control. It can also mean staffed or guarded by people. In modern aerospace and inclusive professional English, `crewed` is often preferred for vehicles and missions, while `staffed` is clearer for workplaces and service points.
+
+Common structures:
+
+* `a manned spacecraft/mission`: tàu vũ trụ/nhiệm vụ có người lái
+* `a manned station/checkpoint`: trạm/chốt có nhân viên trực
+* `be manned by + people/team`: được vận hành hoặc trực bởi người/đội nào
+* `remain fully manned`: luôn có đủ nhân viên trực
+* `man + a desk/station`: bố trí người trực bàn/trạm
+
+### Examples
+
+1. **The agency is preparing its first manned mission to Mars.**
+   → Cơ quan này đang chuẩn bị nhiệm vụ có người lái đầu tiên đến Sao Hỏa.
+
+2. **The emergency hotline is manned around the clock.**
+   → Đường dây nóng khẩn cấp có nhân viên trực suốt ngày đêm.
+
+### Common collocations
+
+* **manned mission**: nhiệm vụ có người lái
+* **manned spacecraft**: tàu vũ trụ có người lái
+* **manned checkpoint**: chốt có người trực
+* **fully manned**: có đầy đủ nhân viên trực
+* **permanently manned station**: trạm có người trực thường xuyên
+
+### Synonyms
+
+* **crewed** /kruːd/ *(adjective)*: có người lái hoặc có đội vận hành
+* **staffed** UK /stɑːft/ US /stæft/ *(adjective)*: có nhân viên làm việc
+* **human-operated** UK /ˌhjuː.mən ˈɒp.ər.eɪ.tɪd/ US /ˌhjuː.mən ˈɑː.pə.reɪ.t̬ɪd/ *(adjective)*: do con người vận hành
+
+### Word family
+
+* **man** /mæn/ *(transitive verb)*: bố trí người vận hành, trực hoặc bảo vệ  
+  *Example:* Two technicians man the control room during each shift.  
+  → Hai kỹ thuật viên trực phòng điều khiển trong mỗi ca.
+
+* **manned** /mænd/ *(adjective/past-participle form)*: có người lái hoặc có người trực  
+  *Example:* A manned booth stands at the entrance to the site.  
+  → Một chốt có người trực nằm ở lối vào khu vực.
+
+* **unmanned** /ˌʌnˈmænd/ *(adjective)*: không người lái hoặc không có người trực  
+  *Example:* An unmanned aircraft surveyed the damaged area.  
+  → Một máy bay không người lái đã khảo sát khu vực bị hư hại.
+
+### Notes
+
+`Manned` remains common and correct, especially in established terms. However, use `crewed spacecraft`, `crewed mission`, or `staffed desk` when you want more precise, gender-neutral wording. `Uncrewed` is increasingly used instead of `unmanned` for spacecraft.
+
+---
+
+## 514. Propel /prəˈpel/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** đẩy hoặc làm cho vật chuyển động về phía trước *(65%)*; thúc đẩy ai/điều gì tiến đến thành công hoặc vị trí mới *(25%)*; khiến một quá trình phát triển nhanh chóng *(10%)*
+
+### Usage
+
+`Propel` means apply force that moves something forward. Figuratively, it means cause a person, organization, idea, or trend to advance rapidly. It must take an object: something `propels` someone or something.
+
+Common structures:
+
+* `propel + object + forward`: đẩy vật gì về phía trước
+* `be propelled by + force/engine`: được đẩy bởi lực/động cơ
+* `propel someone to + success/fame`: đưa ai đến thành công/danh tiếng
+* `propel something into + position/state`: đưa điều gì vào một vị trí/trạng thái
+* `propel growth/change`: thúc đẩy tăng trưởng/thay đổi
+
+### Examples
+
+1. **Powerful engines propel the rocket beyond Earth's atmosphere.**
+   → Những động cơ mạnh đẩy tên lửa ra ngoài khí quyển Trái Đất.
+
+2. **Her research propelled her to the forefront of the field.**
+   → Nghiên cứu của cô ấy đã đưa cô ấy lên vị trí tiên phong trong lĩnh vực này.
+
+### Common collocations
+
+* **propel a vehicle**: đẩy phương tiện chuyển động
+* **propel forward**: đẩy về phía trước
+* **propel someone to fame**: đưa ai đến danh tiếng
+* **propel economic growth**: thúc đẩy tăng trưởng kinh tế
+* **rocket propulsion**: lực đẩy tên lửa
+
+### Synonyms
+
+* **drive** /draɪv/ *(transitive verb)*: thúc đẩy, làm chuyển động
+* **push** /pʊʃ/ *(transitive verb)*: đẩy
+* **thrust** /θrʌst/ *(transitive verb)*: đẩy mạnh
+* **spur** UK /spɜːr/ US /spɝː/ *(transitive verb)*: thúc đẩy, khuyến khích
+
+### Word family
+
+* **propel** /prəˈpel/ *(transitive verb)*: đẩy tới; thúc đẩy  
+  *Example:* Expanding exports could propel further economic growth.  
+  → Việc mở rộng xuất khẩu có thể thúc đẩy tăng trưởng kinh tế hơn nữa.
+
+* **propelled** /prəˈpeld/ *(past-tense/past-participle form)*: được đẩy hoặc thúc đẩy  
+  *Example:* The boat is propelled by an electric motor.  
+  → Con thuyền được đẩy bằng động cơ điện.
+
+* **propulsion** /prəˈpʌl.ʃən/ *(uncountable noun)*: lực đẩy; hệ thống tạo lực đẩy  
+  *Example:* Engineers are developing cleaner propulsion systems for aircraft.  
+  → Các kỹ sư đang phát triển hệ thống động lực sạch hơn cho máy bay.
+
+* **propulsive** /prəˈpʌl.sɪv/ *(adjective; technical)*: tạo ra lực đẩy  
+  *Example:* The fins generate propulsive force in the water.  
+  → Các vây tạo ra lực đẩy trong nước.
+
+* **propellant** /prəˈpel.ənt/ *(countable/uncountable noun)*: chất đẩy, nhiên liệu tạo lực đẩy  
+  *Example:* The rocket carries a liquid propellant in insulated tanks.  
+  → Tên lửa mang chất đẩy dạng lỏng trong các bể cách nhiệt.
+
+### Notes
+
+The past tense and past participle double the final consonant: `propelled`, not `propeled`. The noun for the force or system is `propulsion`; a `propellant` is the substance used to produce that force.
+
+---
+
+## 515. Pyramid /ˈpɪr.ə.mɪd/
+
+* **Part of speech:** countable noun; transitive and intransitive verb in specialized contexts
+* **Vietnamese meaning:** công trình cổ hình kim tự tháp, đặc biệt là lăng mộ Ai Cập *(45%)*; vật hoặc hình khối có đáy đa giác và các mặt tam giác gặp nhau tại đỉnh *(35%)*; sơ đồ thể hiện hệ thống phân cấp hoặc các tầng *(15%)*; xếp chồng hoặc tăng theo dạng kim tự tháp *(5%)*
+
+### Usage
+
+A `pyramid` can be an ancient monumental structure, a geometric solid, or a diagram arranged in levels. The verb is less common and means stack things in a pyramid shape or build up progressively.
+
+Common structures:
+
+* `build/construct a pyramid`: xây dựng một kim tự tháp
+* `a pyramid is made of + material`: một kim tự tháp được làm bằng vật liệu gì
+* `at the base/top of the pyramid`: ở đáy/đỉnh kim tự tháp hoặc hệ thống phân cấp
+* `a pyramid of + objects`: một chồng vật hình kim tự tháp
+* `arrange objects in a pyramid`: sắp xếp các vật thành hình kim tự tháp
+
+### Examples
+
+1. **The ancient pyramid was built from millions of stone blocks.**
+   → Kim tự tháp cổ được xây từ hàng triệu khối đá.
+
+2. **The diagram places basic needs at the bottom of the pyramid.**
+   → Sơ đồ đặt các nhu cầu cơ bản ở đáy kim tự tháp.
+
+### Common collocations
+
+* **ancient pyramid**: kim tự tháp cổ
+* **pyramid-shaped structure**: công trình hình kim tự tháp
+* **food pyramid**: tháp dinh dưỡng
+* **population pyramid**: tháp dân số
+* **pyramid scheme**: mô hình lừa đảo kim tự tháp
+
+### Synonyms
+
+* **monument** UK /ˈmɒn.jə.mənt/ US /ˈmɑːn.jə.mənt/ *(countable noun; broader)*: công trình tưởng niệm
+* **hierarchy** UK /ˈhaɪə.rɑː.ki/ US /ˈhaɪ.rɑːr.ki/ *(countable noun; for the figurative structure)*: hệ thống phân cấp
+* **pyramidal structure** /pɪˌræm.ɪ.dəl ˈstrʌk.tʃər/ *(countable noun phrase)*: cấu trúc hình chóp
+
+### Word family
+
+* **pyramid** /ˈpɪr.ə.mɪd/ *(noun/verb)*: kim tự tháp; xếp thành hình tháp  
+  *Example:* The acrobats pyramided themselves into a balanced formation.  
+  → Các nghệ sĩ nhào lộn xếp người thành một đội hình tháp cân bằng.
+
+* **pyramidal** /pɪˈræm.ɪ.dəl/ *(adjective; formal or technical)*: có dạng kim tự tháp  
+  *Example:* The temple has a distinctive pyramidal roof.  
+  → Ngôi đền có mái hình kim tự tháp đặc trưng.
+
+* **pyramid-shaped** /ˈpɪr.ə.mɪd ʃeɪpt/ *(adjective)*: có hình kim tự tháp  
+  *Example:* The museum displays a pyramid-shaped crystal.  
+  → Bảo tàng trưng bày một tinh thể hình kim tự tháp.
+
+### Notes
+
+In geometry, a pyramid has a polygonal base and triangular sides. A `pyramid scheme` is an illegal or unsustainable business model in which returns depend mainly on recruiting new participants rather than selling genuine products or services.
+
+---
+
+## 516. Radiation /ˌreɪ.diˈeɪ.ʃən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** năng lượng truyền đi dưới dạng sóng hoặc hạt, như bức xạ điện từ/hạt nhân *(80%)*; sự tiếp xúc hoặc điều trị bằng bức xạ *(20%)*
+
+### Usage
+
+`Radiation` is energy emitted and transmitted as waves or particles. Some forms, such as visible light and radio waves, are non-ionizing; others, such as X-rays and gamma rays, are ionizing and can damage living tissue at sufficient doses. It is uncountable in general use.
+
+Common structures:
+
+* `emit/absorb radiation`: phát ra/hấp thụ bức xạ
+* `be exposed to radiation`: bị phơi nhiễm bức xạ
+* `protect someone from radiation`: bảo vệ ai khỏi bức xạ
+* `a dose/level of radiation`: một liều/mức bức xạ
+* `radiation spreads from + source`: bức xạ lan ra từ một nguồn
+
+### Examples
+
+1. **Protective shielding reduces astronauts' exposure to cosmic radiation.**
+   → Lớp che chắn bảo vệ làm giảm mức phơi nhiễm của phi hành gia với bức xạ vũ trụ.
+
+2. **Doctors may use radiation to destroy cancer cells.**
+   → Bác sĩ có thể sử dụng bức xạ để tiêu diệt tế bào ung thư.
+
+### Common collocations
+
+* **ionizing radiation**: bức xạ ion hóa
+* **background radiation**: bức xạ nền
+* **radiation exposure**: sự phơi nhiễm bức xạ
+* **radiation dose**: liều bức xạ
+* **radiation therapy**: xạ trị
+
+### Synonyms
+
+* **radiant energy** /ˌreɪ.di.ənt ˈen.ə.dʒi/ *(uncountable noun phrase)*: năng lượng bức xạ
+* **emission** /iˈmɪʃ.ən/ *(countable/uncountable noun)*: sự phát ra hoặc thứ được phát ra
+* **rays** /reɪz/ *(plural noun; context-dependent)*: các tia bức xạ
+
+### Word family
+
+* **radiation** /ˌreɪ.diˈeɪ.ʃən/ *(uncountable noun)*: bức xạ; sự phát xạ  
+  *Example:* Sensors continuously measure radiation levels near the facility.  
+  → Các cảm biến liên tục đo mức bức xạ gần cơ sở.
+
+* **radiate** /ˈreɪ.di.eɪt/ *(transitive/intransitive verb)*: phát ra hoặc tỏa ra từ một điểm  
+  *Example:* The heated surface radiates energy into the surrounding air.  
+  → Bề mặt được nung nóng tỏa năng lượng vào không khí xung quanh.
+
+* **radioactive** UK /ˌreɪ.di.əʊˈæk.tɪv/ US /ˌreɪ.di.oʊˈæk.tɪv/ *(adjective)*: có tính phóng xạ  
+  *Example:* Radioactive waste must be stored securely for long periods.  
+  → Chất thải phóng xạ phải được lưu trữ an toàn trong thời gian dài.
+
+* **radioactivity** UK /ˌreɪ.di.əʊ.ækˈtɪv.ə.ti/ US /ˌreɪ.di.oʊ.ækˈtɪv.ə.t̬i/ *(uncountable noun)*: tính phóng xạ, hiện tượng phóng xạ  
+  *Example:* Scientists monitored radioactivity in the soil and water.  
+  → Các nhà khoa học theo dõi mức phóng xạ trong đất và nước.
+
+* **radiative** /ˈreɪ.di.ə.tɪv/ *(adjective; technical)*: liên quan đến sự truyền năng lượng bằng bức xạ  
+  *Example:* Greenhouse gases alter Earth's radiative balance.  
+  → Khí nhà kính làm thay đổi cân bằng bức xạ của Trái Đất.
+
+### Notes
+
+Not all radiation is radioactive or dangerous. `Radioactivity` is the property of unstable atomic nuclei that emit radiation. In medical English, `radiation therapy` and `radiotherapy` refer to treatment using high-energy radiation.
+
+---
+
+## 517. Revolution /ˌrev.əˈluː.ʃən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** cuộc cách mạng thay đổi hệ thống chính trị hoặc xã hội *(35%)*; sự thay đổi sâu rộng trong công nghệ, ngành nghề hoặc cách sống *(30%)*; một vòng quay hoàn chỉnh quanh một điểm/trục *(25%)*; một vòng quay của động cơ hoặc bộ phận máy *(10%)*
+
+### Usage
+
+`Revolution` can describe a major political change, a dramatic transformation in a field, or one complete circular movement. In astronomy, `revolution` is movement around another body, while `rotation` is spinning around one's own axis.
+
+Common structures:
+
+* `lead/start a revolution`: lãnh đạo/khởi xướng một cuộc cách mạng
+* `a revolution in + field`: cuộc cách mạng trong lĩnh vực nào
+* `bring about/spark a revolution`: tạo ra/châm ngòi một cuộc cách mạng
+* `make/complete one revolution`: thực hiện/hoàn thành một vòng quay
+* `revolutions per minute (rpm)`: số vòng quay mỗi phút
+
+### Examples
+
+1. **Digital technology has caused a revolution in global communication.**
+   → Công nghệ số đã tạo ra một cuộc cách mạng trong truyền thông toàn cầu.
+
+2. **Earth completes one revolution around the Sun each year.**
+   → Trái Đất hoàn thành một vòng quay quanh Mặt Trời mỗi năm.
+
+### Common collocations
+
+* **political revolution**: cách mạng chính trị
+* **industrial revolution**: cách mạng công nghiệp
+* **technological revolution**: cách mạng công nghệ
+* **complete revolution**: vòng quay hoàn chỉnh
+* **revolutions per minute**: số vòng quay mỗi phút
+
+### Synonyms
+
+* **uprising** /ˈʌpˌraɪ.zɪŋ/ *(countable noun)*: cuộc nổi dậy
+* **transformation** UK /ˌtræns.fəˈmeɪ.ʃən/ US /ˌtræns.fɚˈmeɪ.ʃən/ *(countable/uncountable noun)*: sự biến đổi sâu rộng
+* **turnaround** UK /ˈtɜːn.ə.raʊnd/ US /ˈtɝːn.ə.raʊnd/ *(countable noun)*: sự thay đổi lớn theo hướng khác
+* **orbit** UK /ˈɔː.bɪt/ US /ˈɔːr.bɪt/ *(countable noun; related astronomical sense)*: quỹ đạo hoặc một vòng quỹ đạo
+
+### Word family
+
+* **revolution** /ˌrev.əˈluː.ʃən/ *(countable noun)*: cuộc cách mạng; một vòng quay  
+  *Example:* The agricultural revolution transformed food production.  
+  → Cuộc cách mạng nông nghiệp đã làm thay đổi hoạt động sản xuất lương thực.
+
+* **revolutionary** UK /ˌrev.əˈluː.ʃən.ər.i/ US /ˌrev.əˈluː.ʃə.ner.i/ *(adjective/countable noun)*: mang tính cách mạng; nhà cách mạng  
+  *Example:* The invention introduced a revolutionary method of diagnosis.  
+  → Phát minh này đưa ra một phương pháp chẩn đoán mang tính cách mạng.
+
+* **revolutionize/revolutionise** /ˌrev.əˈluː.ʃən.aɪz/ *(transitive verb)*: cách mạng hóa, thay đổi hoàn toàn  
+  *Example:* Artificial intelligence could revolutionize personalized education.  
+  → Trí tuệ nhân tạo có thể cách mạng hóa giáo dục cá nhân hóa.
+
+* **revolutionary** UK /ˌrev.əˈluː.ʃən.ər.i/ US /ˌrev.əˈluː.ʃə.ner.i/ *(countable noun)*: nhà cách mạng  
+  *Example:* The revolutionary called for major political reform.  
+  → Nhà cách mạng kêu gọi cải cách chính trị lớn.
+
+### Notes
+
+In astronomy, do not confuse `revolution` with `rotation`: Earth rotates on its axis once a day and revolves around the Sun once a year. In general English, `revolutionary` means radically new, while `evolutionary` describes gradual development.
+
+---
+
+## 518. Shuttle /ˈʃʌt.əl/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** phương tiện chạy thường xuyên qua lại giữa hai địa điểm *(55%)*; tàu con thoi hoặc phương tiện vận chuyển người/hàng trong không gian *(25%)*; đưa người/vật qua lại thường xuyên *(15%)*; con thoi dệt hoặc quả cầu lông trong một số ngữ cảnh *(5%)*
+
+### Usage
+
+A `shuttle` is a bus, train, aircraft, or other vehicle that travels repeatedly between two places. As a verb, it means transport or travel back and forth. `Space Shuttle` is the name of NASA's former reusable spacecraft program and is capitalized when referring to that program.
+
+Common structures:
+
+* `a shuttle between A and B`: phương tiện đưa đón giữa A và B
+* `take/catch a shuttle to + place`: đi/bắt xe đưa đón đến nơi nào
+* `a shuttle runs every + time period`: xe đưa đón chạy mỗi khoảng thời gian
+* `shuttle passengers between A and B`: đưa hành khách qua lại giữa A và B
+* `shuttle back and forth`: đi qua đi lại
+
+### Examples
+
+1. **A free shuttle runs between the airport and the hotel.**
+   → Xe đưa đón miễn phí chạy giữa sân bay và khách sạn.
+
+2. **Small boats shuttle passengers across the river throughout the day.**
+   → Những chiếc thuyền nhỏ đưa hành khách qua lại sông suốt cả ngày.
+
+### Common collocations
+
+* **airport shuttle**: xe đưa đón sân bay
+* **shuttle bus**: xe buýt đưa đón
+* **free shuttle service**: dịch vụ đưa đón miễn phí
+* **space shuttle**: tàu con thoi
+* **shuttle back and forth**: đi qua đi lại
+
+### Synonyms
+
+* **transfer service** UK /ˈtræns.fɜː ˌsɜː.vɪs/ US /ˈtræns.fɝː ˌsɝː.vɪs/ *(countable noun phrase)*: dịch vụ trung chuyển
+* **transport** UK /ˈtræn.spɔːt/ US /ˈtræn.spɔːrt/ *(uncountable noun)*: phương tiện hoặc hoạt động vận chuyển
+* **ferry** /ˈfer.i/ *(countable noun/transitive verb)*: phà; chở qua lại
+
+### Word family
+
+* **shuttle** /ˈʃʌt.əl/ *(noun/verb)*: phương tiện đưa đón; đưa qua lại  
+  *Example:* Employees shuttle between the company's two offices.  
+  → Nhân viên đi qua lại giữa hai văn phòng của công ty.
+
+* **shuttle service** UK /ˈʃʌt.əl ˌsɜː.vɪs/ US /ˈʃʌt̬.əl ˌsɝː.vɪs/ *(countable noun phrase)*: dịch vụ đưa đón  
+  *Example:* The resort offers a shuttle service to the beach.  
+  → Khu nghỉ dưỡng cung cấp dịch vụ đưa đón đến bãi biển.
+
+* **shuttlecock** UK /ˈʃʌt.əl.kɒk/ US /ˈʃʌt̬.əl.kɑːk/ *(countable noun)*: quả cầu lông  
+  *Example:* The shuttlecock landed just outside the court.  
+  → Quả cầu lông rơi ngay bên ngoài sân.
+
+### Notes
+
+`Shuttle` emphasizes repeated movement along a short, fixed route. A `transfer` may be a single journey. In everyday speech, `shuttle` in badminton is common in American English, while `shuttlecock` is widely understood in both British and American English.
+
+---
+
+## 519. Spacecraft UK /ˈspeɪs.krɑːft/ US /ˈspeɪs.kræft/
+
+* **Part of speech:** countable noun with an unchanged plural form
+* **Vietnamese meaning:** tàu vũ trụ, phương tiện được thiết kế để di chuyển hoặc hoạt động ngoài không gian *(100%)*
+
+### Usage
+
+A `spacecraft` is any vehicle or machine designed to operate in space, including satellites, probes, capsules, and crewed vehicles. The singular and plural forms are identical: `one spacecraft`, `two spacecraft`.
+
+Common structures:
+
+* `launch a spacecraft into + space/orbit`: phóng tàu vũ trụ vào không gian/quỹ đạo
+* `a spacecraft orbits + celestial body`: tàu vũ trụ quay quanh một thiên thể
+* `a spacecraft carries + people/equipment`: tàu vũ trụ chở người/thiết bị
+* `communicate with/control a spacecraft`: liên lạc với/điều khiển tàu vũ trụ
+* `aboard/on board a spacecraft`: ở trên tàu vũ trụ
+
+### Examples
+
+1. **The spacecraft entered orbit around Mars successfully.**
+   → Tàu vũ trụ đã đi vào quỹ đạo quanh Sao Hỏa thành công.
+
+2. **Engineers lost contact with two unmanned spacecraft.**
+   → Các kỹ sư đã mất liên lạc với hai tàu vũ trụ không người lái.
+
+### Common collocations
+
+* **crewed spacecraft**: tàu vũ trụ có người lái
+* **uncrewed spacecraft**: tàu vũ trụ không người lái
+* **spacecraft launch**: vụ phóng tàu vũ trụ
+* **spacecraft design**: thiết kế tàu vũ trụ
+* **aboard a spacecraft**: trên tàu vũ trụ
+
+### Synonyms
+
+* **space vehicle** UK /ˈspeɪs ˌvɪə.kəl/ US /ˈspeɪs ˌviː.ə.kəl/ *(countable noun phrase)*: phương tiện không gian
+* **space vessel** /ˈspeɪs ˌves.əl/ *(countable noun phrase; less common)*: tàu không gian
+* **spaceship** /ˈspeɪs.ʃɪp/ *(countable noun; especially fictional or crewed)*: phi thuyền
+
+### Word family
+
+* **spacecraft** UK /ˈspeɪs.krɑːft/ US /ˈspeɪs.kræft/ *(countable noun)*: tàu vũ trụ  
+  *Example:* Several spacecraft are studying the Sun at the same time.  
+  → Một số tàu vũ trụ đang nghiên cứu Mặt Trời cùng lúc.
+
+### Notes
+
+Do not add `-s` to form the plural: say `three spacecraft`, not `three spacecrafts`. `Spacecraft` is a broad technical term; `spaceship` often suggests a crewed or fictional craft, and a `satellite` is an object placed in orbit.
+
+---
+
+## 520. Stellar UK /ˈstel.ər/ US /ˈstel.ɚ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc các ngôi sao hoặc do sao tạo ra *(65%)*; xuất sắc, nổi bật vượt trội *(35%)*
+
+### Usage
+
+In astronomy, `stellar` describes stars, their properties, or processes involving them. In everyday and business English, it informally means excellent or exceptionally impressive.
+
+Common structures:
+
+* `stellar + object/system`: vật thể/hệ thống sao
+* `stellar formation/evolution`: sự hình thành/tiến hóa của sao
+* `stellar performance/result`: màn trình diễn/kết quả xuất sắc
+* `have a stellar reputation`: có danh tiếng xuất sắc
+* `be less than stellar`: không được tốt lắm; cách nói giảm nhẹ
+
+### Examples
+
+1. **The telescope captured detailed images of a stellar nursery.**
+   → Kính thiên văn chụp được hình ảnh chi tiết của một vùng hình thành sao.
+
+2. **The team delivered a stellar performance despite limited preparation.**
+   → Nhóm đã có màn thể hiện xuất sắc dù thời gian chuẩn bị hạn chế.
+
+### Common collocations
+
+* **stellar evolution**: sự tiến hóa của sao
+* **stellar mass**: khối lượng sao
+* **stellar system**: hệ sao
+* **stellar performance**: màn trình diễn xuất sắc
+* **stellar reputation**: danh tiếng xuất sắc
+
+### Synonyms
+
+* **astral** /ˈæs.trəl/ *(adjective; technical or literary)*: thuộc các vì sao
+* **astronomical** UK /ˌæs.trəˈnɒm.ɪ.kəl/ US /ˌæs.trəˈnɑː.mɪ.kəl/ *(adjective; related technical sense)*: thuộc thiên văn học
+* **outstanding** /aʊtˈstæn.dɪŋ/ *(adjective)*: xuất sắc
+* **exceptional** /ɪkˈsep.ʃən.əl/ *(adjective)*: đặc biệt xuất sắc
+
+### Word family
+
+* **star** UK /stɑː/ US /stɑːr/ *(countable noun/intransitive verb)*: ngôi sao; đóng vai chính  
+  *Example:* The nearest star to Earth is the Sun.  
+  → Ngôi sao gần Trái Đất nhất là Mặt Trời.
+
+* **stellar** UK /ˈstel.ər/ US /ˈstel.ɚ/ *(adjective)*: thuộc sao; xuất sắc  
+  *Example:* Scientists modeled the final stage of stellar evolution.  
+  → Các nhà khoa học mô hình hóa giai đoạn cuối của sự tiến hóa sao.
+
+* **interstellar** UK /ˌɪn.təˈstel.ər/ US /ˌɪn.t̬ɚˈstel.ɚ/ *(adjective)*: giữa các ngôi sao  
+  *Example:* The probe has entered interstellar space.  
+  → Tàu thăm dò đã đi vào không gian liên sao.
+
+### Notes
+
+The “excellent” sense is common but slightly informal, making it useful in speaking and reviews rather than highly formal academic prose. `A stellar performance` means an outstanding performance, not necessarily one related to stars.
+
+---
+
+## 521. Uninhabitable /ˌʌn.ɪnˈhæb.ɪ.tə.bəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** không thể sinh sống được vì điều kiện nguy hiểm, khắc nghiệt hoặc không phù hợp *(100%)*
+
+### Usage
+
+`Uninhabitable` describes a place that is not suitable or safe for humans, animals, or other specified life to live in. It focuses on conditions, not merely on whether anyone currently lives there.
+
+Common structures:
+
+* `be/become uninhabitable`: không thể/trở nên không thể sinh sống
+* `render/make + place + uninhabitable`: khiến một nơi không thể sinh sống
+* `uninhabitable due to/because of + cause`: không thể sinh sống do nguyên nhân nào
+* `uninhabitable for + people/species`: không thể sinh sống đối với người/loài nào
+* `consider/deem a building uninhabitable`: coi một tòa nhà là không thể ở được
+
+### Examples
+
+1. **Rising sea levels could make some coastal areas uninhabitable.**
+   → Mực nước biển dâng có thể khiến một số vùng ven biển không thể sinh sống được.
+
+2. **Inspectors declared the damaged apartment building uninhabitable.**
+   → Thanh tra tuyên bố tòa chung cư bị hư hại không còn an toàn để ở.
+
+### Common collocations
+
+* **render a place uninhabitable**: khiến một nơi không thể sinh sống
+* **virtually uninhabitable**: hầu như không thể sinh sống
+* **uninhabitable planet**: hành tinh không thể có sự sống cư trú
+* **uninhabitable conditions**: điều kiện không thể sinh sống
+* **deemed uninhabitable**: bị đánh giá là không thể ở được
+
+### Synonyms
+
+* **unlivable** /ʌnˈlɪv.ə.bəl/ *(adjective)*: không thể ở được
+* **inhospitable** UK /ˌɪn.hɒsˈpɪt.ə.bəl/ US /ˌɪn.hɑːˈspɪt̬.ə.bəl/ *(adjective)*: khắc nghiệt, không thuận lợi cho sự sống
+* **unsuitable for habitation** /ʌnˈsuː.tə.bəl fə ˌhæb.ɪˈteɪ.ʃən/ *(adjective phrase)*: không phù hợp để cư trú
+
+### Word family
+
+* **inhabit** /ɪnˈhæb.ɪt/ *(transitive verb)*: sinh sống ở  
+  *Example:* Several rare species inhabit the island's forests.  
+  → Một số loài quý hiếm sinh sống trong các khu rừng trên đảo.
+
+* **inhabitable** /ɪnˈhæb.ɪ.tə.bəl/ *(adjective)*: có thể sinh sống được  
+  *Example:* Scientists are searching for inhabitable environments beyond Earth.  
+  → Các nhà khoa học đang tìm kiếm những môi trường có thể sinh sống ngoài Trái Đất.
+
+* **uninhabitable** /ˌʌn.ɪnˈhæb.ɪ.tə.bəl/ *(adjective)*: không thể sinh sống được  
+  *Example:* Toxic gases made the valley temporarily uninhabitable.  
+  → Khí độc khiến thung lũng tạm thời không thể sinh sống được.
+
+* **inhabitant** /ɪnˈhæb.ɪ.tənt/ *(countable noun)*: cư dân, sinh vật sống tại một nơi  
+  *Example:* The island's inhabitants depend heavily on fishing.  
+  → Cư dân trên đảo phụ thuộc nhiều vào nghề đánh cá.
+
+* **habitation** /ˌhæb.ɪˈteɪ.ʃən/ *(uncountable noun; formal)*: sự cư trú; nơi cư trú  
+  *Example:* The building is no longer fit for human habitation.  
+  → Tòa nhà không còn phù hợp cho con người cư trú.
+
+### Notes
+
+`Uninhabitable` means living there is impossible or unsafe. It does not mean that nobody currently lives there. A place may be `uninhabited` but perfectly habitable, such as an empty island with fresh water. `Habitable` is more common than the synonymous form `inhabitable`.
+
+---
+
+## 522. Uninhabited /ˌʌn.ɪnˈhæb.ɪ.tɪd/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** không có người ở hoặc không có cư dân sinh sống tại thời điểm được nói đến *(100%)*
+
+### Usage
+
+`Uninhabited` describes a place where no people live. It says nothing about whether the place is safe or suitable for habitation. It commonly modifies `island`, `house`, `region`, and `area`.
+
+Common structures:
+
+* `an uninhabited island/area`: hòn đảo/khu vực không có người ở
+* `remain largely/completely uninhabited`: phần lớn/hoàn toàn không có người ở
+* `be uninhabited for + period`: không có người ở trong khoảng thời gian nào
+* `previously uninhabited land`: vùng đất trước đây không có người ở
+* `find/discover a place uninhabited`: phát hiện một nơi không có người ở
+
+### Examples
+
+1. **The research team spent a month on an uninhabited island.**
+   → Nhóm nghiên cứu đã dành một tháng trên một hòn đảo không có người ở.
+
+2. **Many houses in the village have remained uninhabited for years.**
+   → Nhiều ngôi nhà trong làng đã không có người ở suốt nhiều năm.
+
+### Common collocations
+
+* **uninhabited island**: đảo không có người ở
+* **uninhabited region**: vùng không có người ở
+* **largely uninhabited**: phần lớn không có người ở
+* **previously uninhabited**: trước đây không có người ở
+* **remote and uninhabited**: xa xôi và không có người ở
+
+### Synonyms
+
+* **unoccupied** UK /ˌʌnˈɒk.jə.paɪd/ US /ˌʌnˈɑː.kjə.paɪd/ *(adjective)*: không có người sử dụng hoặc chiếm chỗ
+* **deserted** UK /dɪˈzɜː.tɪd/ US /dɪˈzɝː.t̬ɪd/ *(adjective)*: bị bỏ hoang, vắng người
+* **vacant** /ˈveɪ.kənt/ *(adjective)*: đang để trống
+* **empty** /ˈemp.ti/ *(adjective; broader)*: trống, không có người hoặc vật
+
+### Word family
+
+* **inhabit** /ɪnˈhæb.ɪt/ *(transitive verb)*: sinh sống ở  
+  *Example:* Indigenous communities have inhabited the region for centuries.  
+  → Các cộng đồng bản địa đã sinh sống trong khu vực này suốt nhiều thế kỷ.
+
+* **inhabited** /ɪnˈhæb.ɪ.tɪd/ *(adjective/past-participle form)*: có người ở  
+  *Example:* Only a small part of the island is permanently inhabited.  
+  → Chỉ một phần nhỏ của hòn đảo có người ở thường xuyên.
+
+* **uninhabited** /ˌʌn.ɪnˈhæb.ɪ.tɪd/ *(adjective)*: không có người ở  
+  *Example:* The explorers mapped several uninhabited islands.  
+  → Các nhà thám hiểm lập bản đồ một số hòn đảo không có người ở.
+
+* **inhabitant** /ɪnˈhæb.ɪ.tənt/ *(countable noun)*: cư dân  
+  *Example:* The town has fewer than five hundred inhabitants.  
+  → Thị trấn có chưa đến năm trăm cư dân.
+
+* **inhabited area** UK /ɪnˈhæb.ɪ.tɪd ˈeə.ri.ə/ US /ɪnˈhæb.ə.t̬ɪd ˈer.i.ə/ *(countable noun phrase)*: khu vực có người ở  
+  *Example:* The wildfire moved closer to an inhabited area.  
+  → Đám cháy rừng tiến gần hơn đến một khu vực có người ở.
+
+### Notes
+
+`Uninhabited` means “nobody lives there”; `uninhabitable` means “people cannot safely live there.” An uninhabited house may simply be empty, while an uninhabitable house may be structurally dangerous.
+
+---
+
+## 523. Weightlessness /ˈweɪt.ləs.nəs/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** trạng thái dường như không có trọng lượng, thường xảy ra khi rơi tự do hoặc ở trong tàu vũ trụ đang bay theo quỹ đạo *(100%)*
+
+### Usage
+
+`Weightlessness` is the sensation and condition of having no apparent weight. Astronauts in orbit still experience gravity, but they and their spacecraft are falling together continuously, creating apparent weightlessness or `microgravity`.
+
+Common structures:
+
+* `experience weightlessness`: trải nghiệm trạng thái không trọng lượng
+* `a state/period of weightlessness`: trạng thái/khoảng thời gian không trọng lượng
+* `adapt to weightlessness`: thích nghi với trạng thái không trọng lượng
+* `weightlessness affects + body/object`: trạng thái không trọng lượng ảnh hưởng đến cơ thể/vật thể
+* `float in weightlessness`: trôi nổi trong trạng thái không trọng lượng
+
+### Examples
+
+1. **Astronauts must learn to move safely in weightlessness.**
+   → Các phi hành gia phải học cách di chuyển an toàn trong trạng thái không trọng lượng.
+
+2. **Long periods of weightlessness can weaken muscles and bones.**
+   → Thời gian dài trong trạng thái không trọng lượng có thể làm yếu cơ và xương.
+
+### Common collocations
+
+* **experience weightlessness**: trải nghiệm trạng thái không trọng lượng
+* **complete weightlessness**: trạng thái hoàn toàn không trọng lượng
+* **temporary weightlessness**: trạng thái không trọng lượng tạm thời
+* **adapt to weightlessness**: thích nghi với trạng thái không trọng lượng
+* **effects of weightlessness**: tác động của trạng thái không trọng lượng
+
+### Synonyms
+
+* **zero gravity** UK /ˌzɪə.rəʊ ˈɡræv.ə.ti/ US /ˌzɪr.oʊ ˈɡræv.ə.t̬i/ *(uncountable noun phrase; common but less scientifically precise)*: trạng thái không trọng lực
+* **microgravity** UK /ˈmaɪ.krəʊˌɡræv.ə.ti/ US /ˈmaɪ.kroʊˌɡræv.ə.t̬i/ *(uncountable noun; technical)*: vi trọng lực
+* **apparent weightlessness** /əˌpær.ənt ˈweɪt.ləs.nəs/ *(uncountable noun phrase; precise)*: trạng thái không trọng lượng biểu kiến
+
+### Word family
+
+* **weight** /weɪt/ *(countable/uncountable noun)*: trọng lượng; cân nặng  
+  *Example:* An object's weight depends on the gravitational field around it.  
+  → Trọng lượng của một vật phụ thuộc vào trường hấp dẫn xung quanh nó.
+
+* **weightless** /ˈweɪt.ləs/ *(adjective)*: không trọng lượng, có cảm giác không có trọng lượng  
+  *Example:* The astronauts appeared weightless inside the orbiting spacecraft.  
+  → Các phi hành gia dường như không có trọng lượng bên trong tàu vũ trụ đang bay theo quỹ đạo.
+
+* **weightlessly** /ˈweɪt.ləs.li/ *(adverb)*: trong trạng thái không trọng lượng  
+  *Example:* Small objects floated weightlessly around the cabin.  
+  → Những vật nhỏ trôi nổi không trọng lượng quanh khoang tàu.
+
+* **weightlessness** /ˈweɪt.ləs.nəs/ *(uncountable noun)*: trạng thái không trọng lượng  
+  *Example:* Training flights can produce brief periods of weightlessness.  
+  → Các chuyến bay huấn luyện có thể tạo ra những khoảng thời gian ngắn không trọng lượng.
+
+### Notes
+
+`Weightlessness` does not usually mean that gravity is completely absent. In orbit, a spacecraft and everything inside it are in continuous free fall. `Microgravity` is the more precise scientific term for the very low apparent-gravity conditions experienced in orbit.
