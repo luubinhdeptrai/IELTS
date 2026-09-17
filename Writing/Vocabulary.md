@@ -3473,17 +3473,19 @@ Common structures:
 ## 63. Tension /ˈten.ʃən/
 
 * **Part of speech:** countable noun; uncountable noun
-* **Vietnamese meaning:** sự căng thẳng trong quan hệ, gia đình, xã hội hoặc chính trị *(55%)*; cảm giác lo lắng/áp lực tinh thần *(25%)*; độ căng vật lý của dây, cơ, bề mặt *(20%)*
+* **Vietnamese meaning:** sự căng thẳng hoặc xung đột trong quan hệ, xã hội hay chính trị *(40%)*; cảm giác lo lắng hoặc áp lực tinh thần *(25%)*; độ căng vật lý của dây, cơ hoặc bề mặt *(20%)*; sự hồi hộp, căng thẳng trong truyện hoặc phim *(15%)*
 
 ### Usage
 
-`Tension` refers to stress, pressure, or conflict between people, groups, ideas, or forces. It is very useful in IELTS topics about family relationships, social conflict, politics, workplaces, and mental health.
+`Tension` refers to stress, pressure, or conflict between people, groups, ideas, or forces. In physics and anatomy, it can mean a pulling force or tightness. In storytelling, it means suspense created by uncertainty or danger. It is useful in IELTS topics about relationships, politics, workplaces, health, and media.
 
 Common structures:
 
 * `tension between A and B`: sự căng thẳng giữa A và B
 * `family/social/political tension`: căng thẳng gia đình/xã hội/chính trị
 * `reduce/ease tension`: giảm căng thẳng
+* `be under tension`: chịu lực căng
+* `build/create tension in + story`: tạo sự hồi hộp trong câu chuyện
 
 ### Examples
 
@@ -3498,12 +3500,16 @@ Common structures:
 * **family tension**: căng thẳng gia đình
 * **political tension**: căng thẳng chính trị
 * **ease tension**: làm dịu căng thẳng
+* **muscle tension**: tình trạng căng cơ
+* **narrative tension**: sự căng thẳng, hồi hộp trong mạch truyện
 
 ### Synonyms
 
-* **strain** /streɪn/ *(noun)*: sự căng thẳng trong quan hệ/tình huống
-* **stress** /strɛs/ *(noun)*: áp lực tinh thần
-* **hostility** /hɑˈstɪləti/ *(noun)*: sự thù địch; gần với nghĩa căng thẳng giữa các bên
+* **strain** /streɪn/ *(countable/uncountable noun)*: sự căng thẳng trong quan hệ hoặc tình huống
+* **stress** /stres/ *(uncountable noun)*: áp lực tinh thần
+* **suspense** /səˈspens/ *(uncountable noun)*: sự hồi hộp, chờ đợi căng thẳng
+* **friction** /ˈfrɪk.ʃən/ *(uncountable noun)*: sự bất hòa hoặc xung đột
+* **hostility** UK /hɒˈstɪl.ə.ti/ US /hɑːˈstɪl.ə.t̬i/ *(uncountable noun)*: sự thù địch
 
 ### Word family
 
@@ -3519,9 +3525,13 @@ Common structures:
   *Example:* The two sides waited tensely for the final decision.  
   → Hai bên chờ đợi quyết định cuối cùng một cách căng thẳng.
 
+* **tenseness** /ˈtens.nəs/ *(uncountable noun)*: trạng thái căng thẳng hoặc cứng lại  
+  *Example:* The tenseness in his shoulders suggested that he was anxious.  
+  → Sự căng cứng ở vai cho thấy anh ấy đang lo lắng.
+
 ### Notes
 
-`Tension` can be emotional, social, political, or physical. For relationships, use `tension between A and B`; for reducing conflict, use `ease tension` or `reduce tension`.
+`Tension` can be emotional, social, political, physical, or narrative. For relationships, use `tension between A and B`; for reducing conflict, use `ease tension` or `reduce tension`. `Suspense` is more specific to uncertainty about what will happen next in a story.
 
 ---
 
@@ -29590,3 +29600,3054 @@ Common structures:
 ### Notes
 
 `Weightlessness` does not usually mean that gravity is completely absent. In orbit, a spacecraft and everything inside it are in continuous free fall. `Microgravity` is the more precise scientific term for the very low apparent-gravity conditions experienced in orbit.
+
+---
+
+## 524. Airy UK /ˈeə.ri/ US /ˈer.i/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thoáng đãng, rộng và có nhiều không khí/ánh sáng *(60%)*; nhẹ nhàng, thanh thoát hoặc có vẻ không nặng nề *(20%)*; hời hợt, thản nhiên hoặc không thực tế *(20%)*
+
+### Usage
+
+`Airy` most often describes a room or building that feels spacious, bright, and well ventilated. It can also describe a light style or manner. When applied to an attitude, promise, or idea, it may be critical and suggest a lack of seriousness or practical detail.
+
+Common structures:
+
+* `a bright and airy + room`: một căn phòng sáng sủa và thoáng đãng
+* `feel/look airy`: tạo cảm giác/trông thoáng đãng
+* `an airy design/style`: thiết kế/phong cách nhẹ nhàng, thanh thoát
+* `an airy dismissal of + concern`: sự gạt bỏ mối lo ngại một cách thản nhiên
+* `airy promises/ideas`: những lời hứa/ý tưởng hời hợt hoặc thiếu thực tế
+
+### Examples
+
+1. **Large windows make the apartment feel bright and airy.**
+   → Những cửa sổ lớn khiến căn hộ có cảm giác sáng sủa và thoáng đãng.
+
+2. **His airy promise lacked any practical plan for implementation.**
+   → Lời hứa hời hợt của anh ấy không có bất kỳ kế hoạch thực tế nào để thực hiện.
+
+### Common collocations
+
+* **bright and airy**: sáng sủa và thoáng đãng
+* **airy room**: căn phòng thoáng
+* **airy interior**: nội thất thoáng đãng
+* **airy design**: thiết kế nhẹ và thoáng
+* **airy confidence**: sự tự tin thản nhiên, đôi khi thiếu cơ sở
+
+### Synonyms
+
+* **spacious** /ˈspeɪ.ʃəs/ *(adjective)*: rộng rãi
+* **well-ventilated** /ˌwelˈven.tɪ.leɪ.tɪd/ *(adjective)*: thông gió tốt
+* **breezy** /ˈbriː.zi/ *(adjective)*: thoáng gió; thản nhiên
+* **light** /laɪt/ *(adjective)*: nhẹ, sáng hoặc không nặng nề
+
+### Word family
+
+* **air** UK /eər/ US /er/ *(uncountable noun/transitive verb)*: không khí; làm thông thoáng  
+  *Example:* Open the windows to air the room.  
+  → Hãy mở cửa sổ để làm thông thoáng căn phòng.
+
+* **airy** UK /ˈeə.ri/ US /ˈer.i/ *(adjective)*: thoáng đãng; nhẹ nhàng; hời hợt  
+  *Example:* The café has an airy dining area overlooking the garden.  
+  → Quán cà phê có khu vực ăn uống thoáng đãng nhìn ra khu vườn.
+
+* **airily** UK /ˈeə.rə.li/ US /ˈer.ə.li/ *(adverb)*: một cách thản nhiên hoặc nhẹ nhàng  
+  *Example:* She airily dismissed the possibility of further delays.  
+  → Cô ấy thản nhiên gạt bỏ khả năng xảy ra thêm sự chậm trễ.
+
+* **airiness** UK /ˈeə.ri.nəs/ US /ˈer.i.nəs/ *(uncountable noun)*: sự thoáng đãng, nhẹ nhàng  
+  *Example:* White walls enhance the airiness of the small apartment.  
+  → Những bức tường trắng làm tăng cảm giác thoáng đãng của căn hộ nhỏ.
+
+### Notes
+
+`Airy` is generally positive for buildings, suggesting light, space, and fresh air. `Breezy` emphasizes moving air or a casual manner, while `spacious` emphasizes physical size. An `airy idea` may sound attractive but impractical.
+
+---
+
+## 525. Brick /brɪk/
+
+* **Part of speech:** countable noun; uncountable noun when referring to the building material; transitive verb in technical and informal usage
+* **Vietnamese meaning:** viên gạch dùng trong xây dựng *(50%)*; vật liệu xây bằng gạch *(25%)*; vật hình khối giống viên gạch *(10%)*; người tốt bụng và đáng tin trong tiếng Anh-Anh thân mật *(5%)*; làm thiết bị điện tử ngừng hoạt động hoàn toàn *(10%)*
+
+### Usage
+
+A `brick` is a rectangular building block, usually made from fired clay or concrete. As uncountable material, use expressions such as `a brick wall` or `built of brick`. In technology, `brick a device` means make it unusable, often through a failed update or modification.
+
+Common structures:
+
+* `build something with/from bricks`: xây thứ gì bằng các viên gạch
+* `be made/built of brick`: được làm/xây bằng gạch
+* `lay bricks`: xây hoặc đặt các viên gạch
+* `a brick of + substance`: một khối chất gì hình viên gạch
+* `brick + a phone/device`: làm điện thoại/thiết bị ngừng hoạt động hoàn toàn
+
+### Examples
+
+1. **The old factory was built of red brick.**
+   → Nhà máy cũ được xây bằng gạch đỏ.
+
+2. **Installing unofficial software could brick the device.**
+   → Việc cài đặt phần mềm không chính thức có thể khiến thiết bị hoàn toàn không sử dụng được.
+
+### Common collocations
+
+* **red brick**: gạch đỏ
+* **brick wall**: tường gạch
+* **lay bricks**: xây gạch
+* **brick building**: tòa nhà bằng gạch
+* **brick a device**: làm hỏng hoàn toàn một thiết bị điện tử
+
+### Synonyms
+
+* **building block** /ˈbɪl.dɪŋ blɒk/ *(countable noun phrase)*: khối xây dựng
+* **masonry unit** UK /ˈmeɪ.sən.ri ˌjuː.nɪt/ US /ˈmeɪ.sən.ri ˌjuː.nɪt/ *(countable noun phrase; technical)*: khối xây
+* **disable** /dɪsˈeɪ.bəl/ *(transitive verb; technical sense)*: làm mất khả năng hoạt động
+* **render unusable** /ˌren.dər ʌnˈjuː.zə.bəl/ *(verb phrase)*: khiến không thể sử dụng
+
+### Word family
+
+* **brick** /brɪk/ *(countable/uncountable noun; transitive verb)*: viên gạch; vật liệu gạch; làm hỏng thiết bị  
+  *Example:* A faulty update bricked several older phones.  
+  → Một bản cập nhật lỗi đã khiến một số điện thoại đời cũ hoàn toàn không sử dụng được.
+
+* **brickwork** UK /ˈbrɪk.wɜːk/ US /ˈbrɪk.wɝːk/ *(uncountable noun)*: phần công trình xây bằng gạch  
+  *Example:* Moisture has damaged the building's exterior brickwork.  
+  → Độ ẩm đã làm hư hại phần tường gạch bên ngoài của tòa nhà.
+
+* **bricklayer** UK /ˈbrɪkˌleɪ.ər/ US /ˈbrɪkˌleɪ.ɚ/ *(countable noun)*: thợ xây gạch  
+  *Example:* The bricklayer checked that each row was level.  
+  → Người thợ xây gạch kiểm tra để bảo đảm mỗi hàng gạch đều cân bằng.
+
+* **bricklaying** /ˈbrɪkˌleɪ.ɪŋ/ *(uncountable noun)*: nghề hoặc công việc xây gạch  
+  *Example:* Bricklaying requires accuracy and physical endurance.  
+  → Công việc xây gạch đòi hỏi sự chính xác và sức bền thể chất.
+
+### Notes
+
+Use `brick` without an article when describing the material: `The house is built of brick`. Use the countable form for individual units: `They bought 500 bricks`. The technology sense is informal but widespread.
+
+---
+
+## 526. Built-in /ˌbɪltˈɪn/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** được lắp cố định hoặc tích hợp sẵn như một phần của đồ vật/tòa nhà *(75%)*; vốn có, sẵn có trong hệ thống hoặc tình huống *(25%)*
+
+### Usage
+
+`Built-in` appears before a noun and means permanently installed or included as an integral part. It can also describe an inherent advantage, protection, or limitation. When the phrase follows a noun with a form of `be`, it is normally written without a hyphen: `The wardrobe is built in`.
+
+Common structures:
+
+* `a built-in + appliance/feature`: thiết bị/tính năng được tích hợp sẵn
+* `come with a built-in + noun`: đi kèm thứ gì được tích hợp sẵn
+* `have built-in protection`: có cơ chế bảo vệ tích hợp
+* `be built into + object/system`: được tích hợp vào vật/hệ thống
+* `be built in`: được lắp cố định sẵn
+
+### Examples
+
+1. **The kitchen has a built-in oven and dishwasher.**
+   → Nhà bếp có lò nướng và máy rửa bát được lắp âm sẵn.
+
+2. **The application includes built-in protection against data loss.**
+   → Ứng dụng có cơ chế bảo vệ tích hợp chống mất dữ liệu.
+
+### Common collocations
+
+* **built-in wardrobe**: tủ quần áo âm tường
+* **built-in appliance**: thiết bị lắp âm/tích hợp
+* **built-in feature**: tính năng tích hợp sẵn
+* **built-in protection**: cơ chế bảo vệ tích hợp
+* **built-in advantage**: lợi thế vốn có
+
+### Synonyms
+
+* **integrated** /ˈɪn.tɪ.ɡreɪ.tɪd/ *(adjective)*: được tích hợp
+* **inbuilt** /ˈɪn.bɪlt/ *(adjective)*: tích hợp sẵn; vốn có
+* **embedded** /ɪmˈbed.ɪd/ *(adjective)*: được nhúng hoặc gắn sâu bên trong
+* **inherent** /ɪnˈher.ənt/ *(adjective; abstract sense)*: vốn có
+
+### Word family
+
+* **build** /bɪld/ *(transitive/intransitive verb; countable noun)*: xây dựng; cấu tạo; vóc dáng  
+  *Example:* The company plans to build more affordable housing.  
+  → Công ty dự định xây thêm nhà ở giá phải chăng.
+
+* **built** /bɪlt/ *(past-tense/past-participle form)*: đã xây dựng  
+  *Example:* The bridge was built to withstand strong winds.  
+  → Cây cầu được xây để chịu được gió mạnh.
+
+* **builder** UK /ˈbɪl.dər/ US /ˈbɪl.dɚ/ *(countable noun)*: thợ xây; nhà thầu xây dựng  
+  *Example:* The builder completed the repairs ahead of schedule.  
+  → Nhà thầu xây dựng hoàn thành việc sửa chữa sớm hơn kế hoạch.
+
+* **building** /ˈbɪl.dɪŋ/ *(countable noun)*: tòa nhà  
+  *Example:* The building contains several energy-efficient features.  
+  → Tòa nhà có một số tính năng tiết kiệm năng lượng.
+
+* **built-in** /ˌbɪltˈɪn/ *(adjective)*: được tích hợp hoặc lắp cố định sẵn  
+  *Example:* The laptop has a built-in camera.  
+  → Máy tính xách tay có camera tích hợp sẵn.
+
+### Notes
+
+Hyphenate `built-in` before a noun: `a built-in cupboard`. Write `built in` without a hyphen when it follows the noun: `The cupboard is built in`. Use `built into` before the containing object: `The cupboard is built into the wall`.
+
+---
+
+## 527. Ceiling /ˈsiː.lɪŋ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** trần nhà hoặc bề mặt phía trên của một căn phòng *(65%)*; mức giới hạn cao nhất được phép hoặc có thể đạt tới *(35%)*
+
+### Usage
+
+A `ceiling` is the upper interior surface of a room. Figuratively, it is a maximum limit placed on prices, spending, wages, borrowing, or achievement. In aviation, `ceiling` can also mean the greatest altitude an aircraft can reach or the height of the lowest cloud layer.
+
+Common structures:
+
+* `the ceiling of + room`: trần của căn phòng
+* `hang something from the ceiling`: treo thứ gì từ trần nhà
+* `set/impose a ceiling on + amount`: đặt/áp mức trần cho một khoản
+* `raise/lower the ceiling`: nâng/hạ mức trần
+* `reach/hit a ceiling`: chạm mức giới hạn cao nhất
+
+### Examples
+
+1. **Water was leaking through the bathroom ceiling.**
+   → Nước đang rò qua trần phòng tắm.
+
+2. **The government imposed a ceiling on annual rent increases.**
+   → Chính phủ áp mức trần đối với mức tăng tiền thuê hằng năm.
+
+### Common collocations
+
+* **high ceiling**: trần cao
+* **ceiling fan**: quạt trần
+* **price ceiling**: giá trần
+* **spending ceiling**: mức trần chi tiêu
+* **glass ceiling**: rào cản vô hình ngăn một nhóm thăng tiến
+
+### Synonyms
+
+* **upper surface** UK /ˌʌp.ə ˈsɜː.fɪs/ US /ˌʌp.ɚ ˈsɝː.fɪs/ *(countable noun phrase)*: bề mặt phía trên
+* **upper limit** /ˌʌp.ə ˈlɪm.ɪt/ *(countable noun phrase)*: giới hạn trên
+* **cap** /kæp/ *(countable noun)*: mức trần, giới hạn tối đa
+* **maximum** /ˈmæk.sɪ.məm/ *(countable noun)*: mức tối đa
+
+### Word family
+
+* **ceiling** /ˈsiː.lɪŋ/ *(countable noun)*: trần nhà; mức giới hạn trên  
+  *Example:* The central bank raised the ceiling for certain transactions.  
+  → Ngân hàng trung ương nâng mức trần cho một số giao dịch.
+
+* **high-ceilinged** /ˌhaɪˈsiː.lɪŋd/ *(adjective)*: có trần cao  
+  *Example:* The restaurant has a high-ceilinged dining room.  
+  → Nhà hàng có phòng ăn trần cao.
+
+### Notes
+
+`Ceiling` is the inside upper surface; `roof` is the external structure covering a building. A `price ceiling` is a legal maximum price, while a `glass ceiling` is a metaphorical barrier to career advancement.
+
+---
+
+## 528. Combustion /kəmˈbʌs.tʃən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** quá trình cháy khi một chất phản ứng với oxy và giải phóng nhiệt/năng lượng *(85%)*; việc đốt nhiên liệu trong động cơ hoặc hệ thống công nghiệp *(15%)*
+
+### Usage
+
+`Combustion` is the chemical process of burning. It may be complete, producing mainly carbon dioxide and water, or incomplete, producing pollutants such as carbon monoxide and soot. The word is common in engineering, environmental science, and discussions of energy.
+
+Common structures:
+
+* `combustion of + fuel/material`: sự đốt cháy nhiên liệu/vật liệu
+* `combustion produces/releases + substance`: quá trình cháy tạo ra/giải phóng chất gì
+* `undergo combustion`: trải qua quá trình cháy
+* `support/prevent combustion`: duy trì/ngăn chặn sự cháy
+* `occur during combustion`: xảy ra trong quá trình cháy
+
+### Examples
+
+1. **Incomplete combustion can produce dangerous carbon monoxide.**
+   → Quá trình cháy không hoàn toàn có thể tạo ra khí carbon monoxide nguy hiểm.
+
+2. **Electric vehicles do not rely on internal combustion engines.**
+   → Xe điện không phụ thuộc vào động cơ đốt trong.
+
+### Common collocations
+
+* **internal combustion engine**: động cơ đốt trong
+* **complete combustion**: sự cháy hoàn toàn
+* **incomplete combustion**: sự cháy không hoàn toàn
+* **combustion process**: quá trình cháy
+* **combustion chamber**: buồng đốt
+
+### Synonyms
+
+* **burning** UK /ˈbɜː.nɪŋ/ US /ˈbɝː.nɪŋ/ *(uncountable noun)*: sự cháy, việc đốt
+* **ignition** /ɪɡˈnɪʃ.ən/ *(uncountable noun)*: sự bắt lửa hoặc khởi động quá trình cháy
+* **oxidation** UK /ˌɒk.sɪˈdeɪ.ʃən/ US /ˌɑːk.səˈdeɪ.ʃən/ *(uncountable noun; broader chemical process)*: sự oxy hóa
+
+### Word family
+
+* **combust** /kəmˈbʌst/ *(intransitive/transitive verb; technical)*: cháy; đốt cháy  
+  *Example:* The fuel combusts inside a sealed chamber.  
+  → Nhiên liệu cháy bên trong một buồng kín.
+
+* **combustion** /kəmˈbʌs.tʃən/ *(uncountable noun)*: sự cháy, quá trình đốt  
+  *Example:* Efficient combustion reduces fuel waste.  
+  → Quá trình đốt hiệu quả làm giảm lãng phí nhiên liệu.
+
+* **combustible** /kəmˈbʌs.tə.bəl/ *(adjective/countable noun)*: dễ cháy; chất dễ cháy  
+  *Example:* Combustible materials must be stored away from heat sources.  
+  → Vật liệu dễ cháy phải được lưu trữ xa các nguồn nhiệt.
+
+* **combustibility** /kəmˌbʌs.təˈbɪl.ə.ti/ *(uncountable noun; technical)*: tính dễ cháy  
+  *Example:* The test measures the combustibility of construction materials.  
+  → Thử nghiệm đo tính dễ cháy của vật liệu xây dựng.
+
+### Notes
+
+`Ignition` is the start of burning, whereas `combustion` is the burning process itself. `Flammable` and `combustible` both mean capable of burning, although technical safety standards may distinguish them by ignition temperature.
+
+---
+
+## 529. Concrete UK /ˈkɒŋ.kriːt/ US /ˈkɑːn.kriːt/
+
+* **Part of speech:** uncountable noun; adjective; transitive verb
+* **Vietnamese meaning:** bê tông, vật liệu xây dựng từ xi măng, cát, đá và nước *(45%)*; cụ thể, rõ ràng, có thật thay vì trừu tượng *(45%)*; phủ hoặc cố định bằng bê tông *(10%)*
+
+### Usage
+
+As a noun, `concrete` is an uncountable building material, so say `some concrete`, not `a concrete`. As an adjective, it describes facts, evidence, plans, or examples that are specific and definite. As a verb, it means cover or secure something with concrete.
+
+Common structures:
+
+* `be made of/from concrete`: được làm bằng bê tông
+* `pour/mix concrete`: đổ/trộn bê tông
+* `concrete + evidence/example/plan`: bằng chứng/ví dụ/kế hoạch cụ thể
+* `provide concrete proof of + noun`: cung cấp bằng chứng cụ thể về điều gì
+* `concrete over/in + area/object`: phủ bê tông lên/cố định bằng bê tông
+
+### Examples
+
+1. **The bridge is supported by reinforced concrete columns.**
+   → Cây cầu được chống đỡ bởi các cột bê tông cốt thép.
+
+2. **The proposal needs concrete evidence and a realistic budget.**
+   → Đề xuất cần bằng chứng cụ thể và một ngân sách thực tế.
+
+### Common collocations
+
+* **reinforced concrete**: bê tông cốt thép
+* **concrete structure**: kết cấu bê tông
+* **concrete evidence**: bằng chứng cụ thể
+* **concrete example**: ví dụ cụ thể
+* **concrete action**: hành động cụ thể
+
+### Synonyms
+
+* **cement-based material** /sɪˈment beɪst məˈtɪə.ri.əl/ *(uncountable noun phrase)*: vật liệu gốc xi măng
+* **specific** /spəˈsɪf.ɪk/ *(adjective)*: cụ thể
+* **tangible** /ˈtæn.dʒə.bəl/ *(adjective)*: hữu hình, rõ rệt
+* **definite** /ˈdef.ɪ.nət/ *(adjective)*: rõ ràng, xác định
+
+### Word family
+
+* **concrete** UK /ˈkɒŋ.kriːt/ US /ˈkɑːn.kriːt/ *(noun/adjective/verb)*: bê tông; cụ thể; phủ bê tông  
+  *Example:* The council concreted the path to improve accessibility.  
+  → Hội đồng đã đổ bê tông lối đi để cải thiện khả năng tiếp cận.
+
+* **concretely** UK /ˈkɒŋ.kriːt.li/ US /ˈkɑːn.kriːt.li/ *(adverb)*: một cách cụ thể  
+  *Example:* The report explains concretely how the policy will affect families.  
+  → Báo cáo giải thích cụ thể chính sách sẽ ảnh hưởng đến các gia đình như thế nào.
+
+* **concreteness** UK /ˈkɒŋ.kriːt.nəs/ US /ˈkɑːn.kriːt.nəs/ *(uncountable noun)*: tính cụ thể, rõ ràng  
+  *Example:* The concreteness of the examples makes the theory easier to understand.  
+  → Tính cụ thể của các ví dụ khiến lý thuyết dễ hiểu hơn.
+
+### Notes
+
+`Concrete` and `cement` are not identical. Cement is a binding ingredient used to make concrete. In academic writing, contrast `concrete` with `abstract`: a concrete example illustrates a general or abstract idea.
+
+---
+
+## 530. Contraption /kənˈtræp.ʃən/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** thiết bị hoặc cỗ máy trông kỳ lạ, phức tạp hay vụng về, thường không biết rõ tên *(100%)*
+
+### Usage
+
+`Contraption` is an informal, often humorous word for a machine or device that looks unusual, complicated, or improvised. It can express curiosity, amusement, or mild criticism.
+
+Common structures:
+
+* `a strange/complicated contraption`: một thiết bị kỳ lạ/phức tạp
+* `a contraption for + V-ing`: một thiết bị dùng để làm gì
+* `build/invent a contraption`: chế tạo/phát minh một thiết bị kỳ lạ
+* `some kind of contraption`: một loại thiết bị kỳ lạ nào đó
+* `a homemade contraption`: thiết bị tự chế
+
+### Examples
+
+1. **He built a homemade contraption for collecting rainwater.**
+   → Anh ấy chế tạo một thiết bị tự chế để thu gom nước mưa.
+
+2. **What is that strange contraption in the corner?**
+   → Thiết bị kỳ lạ ở góc kia là gì vậy?
+
+### Common collocations
+
+* **strange contraption**: thiết bị kỳ lạ
+* **complicated contraption**: cỗ máy phức tạp
+* **homemade contraption**: thiết bị tự chế
+* **mechanical contraption**: cỗ máy cơ khí kỳ lạ
+* **ingenious contraption**: thiết bị khéo léo, sáng tạo
+
+### Synonyms
+
+* **device** /dɪˈvaɪs/ *(countable noun)*: thiết bị
+* **gadget** /ˈɡædʒ.ɪt/ *(countable noun)*: đồ dùng hoặc thiết bị nhỏ
+* **apparatus** UK /ˌæp.əˈreɪ.təs/ US /ˌæp.əˈræt̬.əs/ *(countable/uncountable noun)*: thiết bị, bộ máy
+* **machine** /məˈʃiːn/ *(countable noun)*: máy móc
+
+### Word family
+
+* **contraption** /kənˈtræp.ʃən/ *(countable noun)*: thiết bị kỳ lạ hoặc phức tạp  
+  *Example:* The contraption uses pedals to generate electricity.  
+  → Thiết bị kỳ lạ này sử dụng bàn đạp để tạo ra điện.
+
+### Notes
+
+`Contraption` is less neutral than `device` or `machine`. It often implies that the speaker finds the object odd, overly complicated, or cleverly improvised. Avoid it in formal technical specifications.
+
+---
+
+## 531. Cottage UK /ˈkɒt.ɪdʒ/ US /ˈkɑː.t̬ɪdʒ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** ngôi nhà nhỏ, thường ở nông thôn và mang nét truyền thống *(80%)*; nhà nghỉ nhỏ ở vùng quê, ven hồ hoặc ven biển *(20%)*
+
+### Usage
+
+A `cottage` is traditionally a small house in the countryside. In some varieties of English, especially Canadian English, it may also be a vacation home near a lake or in a rural area. The word often carries a cozy or picturesque association.
+
+Common structures:
+
+* `live/stay in a cottage`: sống/lưu trú trong một ngôi nhà nhỏ
+* `a cottage in + rural place`: một ngôi nhà nhỏ ở vùng quê nào
+* `rent a cottage for + period`: thuê nhà nghỉ nhỏ trong khoảng thời gian
+* `convert something into a cottage`: chuyển đổi thứ gì thành một ngôi nhà nhỏ
+* `a cottage overlooks + landscape`: ngôi nhà nhỏ nhìn ra phong cảnh nào
+
+### Examples
+
+1. **They restored a stone cottage in a quiet rural village.**
+   → Họ trùng tu một ngôi nhà nhỏ bằng đá trong một ngôi làng nông thôn yên tĩnh.
+
+2. **We rented a lakeside cottage for the weekend.**
+   → Chúng tôi thuê một căn nhà nghỉ ven hồ vào cuối tuần.
+
+### Common collocations
+
+* **country cottage**: nhà nhỏ ở nông thôn
+* **thatched cottage**: nhà nhỏ mái tranh
+* **stone cottage**: nhà nhỏ bằng đá
+* **holiday cottage**: nhà nghỉ cho kỳ nghỉ
+* **cottage garden**: khu vườn kiểu nhà quê
+
+### Synonyms
+
+* **small house** /ˌsmɔːl ˈhaʊs/ *(countable noun phrase)*: ngôi nhà nhỏ
+* **country house** /ˈkʌn.tri haʊs/ *(countable noun phrase)*: nhà ở nông thôn
+* **cabin** /ˈkæb.ɪn/ *(countable noun)*: nhà gỗ nhỏ
+* **lodge** UK /lɒdʒ/ US /lɑːdʒ/ *(countable noun)*: nhà nghỉ nhỏ
+
+### Word family
+
+* **cottage** UK /ˈkɒt.ɪdʒ/ US /ˈkɑː.t̬ɪdʒ/ *(countable noun)*: ngôi nhà nhỏ ở nông thôn; nhà nghỉ nhỏ  
+  *Example:* The family owns a cottage near the coast.  
+  → Gia đình sở hữu một ngôi nhà nghỉ nhỏ gần bờ biển.
+
+* **cottager** UK /ˈkɒt.ɪ.dʒər/ US /ˈkɑː.t̬ɪ.dʒɚ/ *(countable noun; uncommon)*: người sống hoặc nghỉ tại nhà nhỏ vùng quê  
+  *Example:* Local cottagers opposed the proposed development.  
+  → Những người sống tại các căn nhà nhỏ địa phương phản đối dự án phát triển được đề xuất.
+
+* **cottage-style** UK /ˈkɒt.ɪdʒ staɪl/ US /ˈkɑː.t̬ɪdʒ staɪl/ *(adjective)*: theo phong cách nhà quê nhỏ  
+  *Example:* The kitchen has simple cottage-style cabinets.  
+  → Nhà bếp có những chiếc tủ đơn giản theo phong cách nhà quê.
+
+### Notes
+
+A `cottage` is usually a small, traditional house; a `cabin` is often simpler and made of wood; a `villa` is typically larger and more luxurious. `Cottage industry` is a separate fixed expression for small-scale work done at home.
+
+---
+
+## 532. Cramped /kræmpt/
+
+* **Part of speech:** adjective; past-tense and past-participle form of `cramp`
+* **Vietnamese meaning:** chật chội, không có đủ không gian để di chuyển thoải mái *(75%)*; gò bó, bị hạn chế về phong cách hoặc khả năng *(15%)*; bị co rút hoặc chuột rút *(10%)*
+
+### Usage
+
+`Cramped` commonly describes a room, vehicle, or working condition with too little space. It can also describe small, difficult-to-read handwriting or a restricted style. For muscles, it means affected by a painful involuntary contraction.
+
+Common structures:
+
+* `a cramped + room/apartment`: căn phòng/căn hộ chật chội
+* `feel cramped`: cảm thấy chật chội hoặc gò bó
+* `be cramped for + space`: thiếu không gian
+* `work/live in cramped conditions`: làm việc/sống trong điều kiện chật chội
+* `cramped handwriting/style`: chữ viết nhỏ khó đọc/phong cách gò bó
+
+### Examples
+
+1. **Five workers shared a cramped office with little natural light.**
+   → Năm nhân viên dùng chung một văn phòng chật chội và ít ánh sáng tự nhiên.
+
+2. **Her cramped handwriting was difficult to read.**
+   → Chữ viết nhỏ và sít của cô ấy rất khó đọc.
+
+### Common collocations
+
+* **cramped conditions**: điều kiện chật chội
+* **cramped apartment**: căn hộ chật chội
+* **cramped office**: văn phòng chật chội
+* **feel cramped**: cảm thấy gò bó/chật chội
+* **cramped handwriting**: chữ viết nhỏ và sít
+
+### Synonyms
+
+* **confined** /kənˈfaɪnd/ *(adjective)*: chật hẹp, bị giới hạn
+* **crowded** /ˈkraʊ.dɪd/ *(adjective)*: đông đúc
+* **tight** /taɪt/ *(adjective)*: chật, sít
+* **constricted** /kənˈstrɪk.tɪd/ *(adjective)*: bị co hẹp, hạn chế
+
+### Word family
+
+* **cramp** /kræmp/ *(countable/uncountable noun; transitive verb)*: chuột rút; làm gò bó hoặc cản trở  
+  *Example:* Limited funding cramped the team's ability to expand.  
+  → Nguồn kinh phí hạn chế cản trở khả năng mở rộng của nhóm.
+
+* **cramped** /kræmpt/ *(adjective)*: chật chội; gò bó  
+  *Example:* Passengers complained about the cramped seating.  
+  → Hành khách phàn nàn về chỗ ngồi chật chội.
+
+* **cramping** /ˈkræm.pɪŋ/ *(uncountable noun/verb form)*: tình trạng co rút hoặc chuột rút  
+  *Example:* Dehydration may cause muscle cramping during exercise.  
+  → Mất nước có thể gây chuột rút cơ khi tập thể dục.
+
+### Notes
+
+`Cramped` focuses on insufficient space; `crowded` focuses on too many people or things. A room can be cramped even when only one person is inside it. `Cramp` as a muscle condition may be countable (`a cramp`) or uncountable (`suffer from cramp`).
+
+---
+
+## 533. Depict /dɪˈpɪkt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** miêu tả hoặc thể hiện người/vật/cảnh bằng hình ảnh *(55%)*; mô tả hoặc khắc họa bằng từ ngữ, phim ảnh hay phương tiện nghệ thuật *(45%)*
+
+### Usage
+
+`Depict` means represent someone or something visually or describe them in a particular way. It is common in academic analysis of art, media, literature, advertising, and historical sources. It must take an object.
+
+Common structures:
+
+* `depict + person/event`: khắc họa một người/sự kiện
+* `depict someone/something as + noun/adjective`: miêu tả ai/điều gì là hoặc có đặc điểm nào
+* `be depicted in + image/text`: được mô tả trong hình ảnh/văn bản
+* `accurately/vividly depict + noun`: khắc họa chính xác/sinh động điều gì
+* `depict how + clause`: mô tả cách một điều xảy ra
+
+### Examples
+
+1. **The mural depicts workers rebuilding the city after the war.**
+   → Bức tranh tường khắc họa những người lao động xây dựng lại thành phố sau chiến tranh.
+
+2. **Some advertisements depict success as a result of material wealth.**
+   → Một số quảng cáo mô tả thành công như là kết quả của sự giàu có vật chất.
+
+### Common collocations
+
+* **accurately depict**: miêu tả chính xác
+* **vividly depict**: khắc họa sinh động
+* **depict a scene**: khắc họa một cảnh
+* **depict someone as**: miêu tả ai như là
+* **graphically depict**: mô tả bằng hình ảnh hoặc cực kỳ sinh động
+
+### Synonyms
+
+* **portray** UK /pɔːˈtreɪ/ US /pɔːrˈtreɪ/ *(transitive verb)*: khắc họa
+* **represent** /ˌrep.rɪˈzent/ *(transitive verb)*: thể hiện, đại diện
+* **illustrate** /ˈɪl.ə.streɪt/ *(transitive verb)*: minh họa
+* **describe** /dɪˈskraɪb/ *(transitive verb)*: mô tả bằng lời
+
+### Word family
+
+* **depict** /dɪˈpɪkt/ *(transitive verb)*: miêu tả, khắc họa  
+  *Example:* The novel depicts the challenges faced by migrant families.  
+  → Cuốn tiểu thuyết khắc họa những thách thức mà các gia đình di cư phải đối mặt.
+
+* **depiction** /dɪˈpɪk.ʃən/ *(countable/uncountable noun)*: sự miêu tả; hình ảnh khắc họa  
+  *Example:* Critics praised the film's realistic depiction of rural life.  
+  → Các nhà phê bình ca ngợi cách bộ phim khắc họa chân thực cuộc sống nông thôn.
+
+* **depicted** /dɪˈpɪk.tɪd/ *(adjective/past-participle form)*: được miêu tả hoặc khắc họa  
+  *Example:* The events depicted in the painting occurred centuries ago.  
+  → Những sự kiện được khắc họa trong bức tranh đã xảy ra từ nhiều thế kỷ trước.
+
+### Notes
+
+Use `depict someone as`, not `depict someone to be` in most contexts. `Depict` is more formal than `show` and often draws attention to the way a subject is represented, which may not be objectively accurate.
+
+---
+
+## 534. Dinnerware UK /ˈdɪn.ə.weər/ US /ˈdɪn.ɚ.wer/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** bộ đồ dùng để ăn và phục vụ bữa ăn, đặc biệt là đĩa, bát và tách *(100%)*
+
+### Usage
+
+`Dinnerware` is a collective term for plates, bowls, cups, and similar items used at meals. It is uncountable, so say `some dinnerware`, `a dinnerware set`, or `pieces of dinnerware`, not `a dinnerware`.
+
+Common structures:
+
+* `a set of dinnerware`: một bộ đồ dùng ăn uống
+* `dinnerware made of/from + material`: đồ dùng ăn uống làm từ vật liệu nào
+* `buy/choose/replace dinnerware`: mua/chọn/thay bộ đồ dùng ăn uống
+* `a piece of dinnerware`: một món trong bộ đồ dùng ăn uống
+* `be suitable for everyday dinnerware`: phù hợp làm đồ dùng ăn uống hằng ngày
+
+### Examples
+
+1. **The restaurant uses durable ceramic dinnerware.**
+   → Nhà hàng sử dụng bộ đồ ăn bằng gốm bền.
+
+2. **We bought a new dinnerware set for special occasions.**
+   → Chúng tôi mua một bộ đồ ăn mới cho những dịp đặc biệt.
+
+### Common collocations
+
+* **ceramic dinnerware**: đồ ăn bằng gốm
+* **fine dinnerware**: bộ đồ ăn cao cấp
+* **disposable dinnerware**: đồ ăn dùng một lần
+* **dinnerware set**: bộ đồ ăn
+* **everyday dinnerware**: đồ ăn dùng hằng ngày
+
+### Synonyms
+
+* **tableware** UK /ˈteɪ.bəl.weər/ US /ˈteɪ.bəl.wer/ *(uncountable noun; broader)*: đồ dùng trên bàn ăn
+* **crockery** UK /ˈkrɒk.ər.i/ US /ˈkrɑː.kɚ.i/ *(uncountable noun; especially British English)*: bát đĩa bằng sành sứ
+* **dishes** /ˈdɪʃ.ɪz/ *(plural noun)*: bát đĩa
+* **dishware** UK /ˈdɪʃ.weər/ US /ˈdɪʃ.wer/ *(uncountable noun)*: đồ đựng thức ăn như bát và đĩa
+
+### Word family
+
+* **dinnerware** UK /ˈdɪn.ə.weər/ US /ˈdɪn.ɚ.wer/ *(uncountable noun)*: bộ đồ dùng ăn uống  
+  *Example:* This dinnerware is safe to use in a dishwasher.  
+  → Bộ đồ ăn này an toàn khi sử dụng trong máy rửa bát.
+
+### Notes
+
+`Dinnerware` mainly includes plates, bowls, and cups. `Tableware` is broader and may also include cutlery, glasses, and serving items. Although `dinnerware` contains `dinner`, it can be used for dishes used at any meal.
+
+---
+
+## 535. Dwelling /ˈdwel.ɪŋ/
+
+* **Part of speech:** countable noun; present-participle form of `dwell`
+* **Vietnamese meaning:** nơi ở, nhà ở hoặc chỗ cư trú, thường dùng trong văn phong trang trọng/pháp lý *(90%)*; hành động suy nghĩ quá lâu về điều gì khi là dạng `dwelling on` *(10%)*
+
+### Usage
+
+As a noun, a `dwelling` is a house, apartment, or other place where someone lives. It is more formal than `home` or `house` and is common in housing statistics, planning, and law. `Dwelling` is also the `-ing` form of `dwell`, especially in `dwell on`.
+
+Common structures:
+
+* `a private/residential dwelling`: nhà ở tư nhân/dân cư
+* `a dwelling consists of + rooms`: một căn nhà gồm các phòng nào
+* `convert something into a dwelling`: chuyển đổi thứ gì thành nơi ở
+* `a dwelling is occupied by + person`: một căn nhà do ai cư trú
+* `dwell on + topic/problem`: nghĩ hoặc nói quá lâu về chủ đề/vấn đề nào
+
+### Examples
+
+1. **The development will contain 200 affordable dwellings.**
+   → Khu phát triển sẽ có 200 căn nhà ở giá phải chăng.
+
+2. **The cave may once have served as a temporary dwelling.**
+   → Hang động có thể từng được dùng làm nơi ở tạm thời.
+
+### Common collocations
+
+* **private dwelling**: nhà ở tư nhân
+* **residential dwelling**: nhà ở dân cư
+* **permanent dwelling**: nơi ở lâu dài
+* **temporary dwelling**: nơi ở tạm thời
+* **dwelling place**: nơi cư trú
+
+### Synonyms
+
+* **residence** /ˈrez.ɪ.dəns/ *(countable noun)*: nơi cư trú
+* **home** UK /həʊm/ US /hoʊm/ *(countable noun)*: nhà, tổ ấm
+* **housing unit** /ˈhaʊ.zɪŋ ˌjuː.nɪt/ *(countable noun phrase)*: đơn vị nhà ở
+* **abode** UK /əˈbəʊd/ US /əˈboʊd/ *(countable noun; formal or humorous)*: nơi ở
+
+### Word family
+
+* **dwell** /dwel/ *(intransitive verb)*: cư trú; nghĩ hoặc nói quá lâu về  
+  *Example:* The report does not dwell on minor administrative problems.  
+  → Báo cáo không tập trung quá lâu vào những vấn đề hành chính nhỏ.
+
+* **dwelling** /ˈdwel.ɪŋ/ *(countable noun)*: nơi ở  
+  *Example:* Every dwelling must have access to clean water.  
+  → Mọi nơi ở phải được tiếp cận nước sạch.
+
+* **dweller** UK /ˈdwel.ər/ US /ˈdwel.ɚ/ *(countable noun)*: cư dân, sinh vật sống ở một loại nơi cụ thể  
+  *Example:* City dwellers often rely on public transport.  
+  → Cư dân thành phố thường phụ thuộc vào giao thông công cộng.
+
+### Notes
+
+`Dwelling` is a physical place of residence, while `home` often includes an emotional sense of belonging. The verb is usually found in `dwell on/upon something`, meaning think or talk about it for too long.
+
+---
+
+## 536. Ebb /eb/
+
+* **Part of speech:** countable/uncountable noun; intransitive verb
+* **Vietnamese meaning:** sự rút xuống của thủy triều hoặc thủy triều xuống *(45%)*; suy giảm dần về sức mạnh, số lượng, cảm xúc hoặc ảnh hưởng *(45%)*; giai đoạn thấp hoặc yếu nhất trong cụm `at a low ebb` *(10%)*
+
+### Usage
+
+When the tide `ebbs`, seawater moves away from the shore. Figuratively, feelings, strength, support, or influence can ebb when they gradually become weaker. The fixed expression `ebb and flow` describes a repeated pattern of increase and decrease.
+
+Common structures:
+
+* `the tide ebbs`: thủy triều rút
+* `ebb away`: dần suy yếu hoặc biến mất
+* `confidence/support begins to ebb`: sự tự tin/ủng hộ bắt đầu suy giảm
+* `be at a low ebb`: ở mức rất thấp hoặc yếu
+* `the ebb and flow of + noun`: sự thăng trầm/tăng giảm của điều gì
+
+### Examples
+
+1. **As the tide ebbed, more of the beach became visible.**
+   → Khi thủy triều rút, phần bãi biển lộ ra nhiều hơn.
+
+2. **Public confidence in the policy began to ebb.**
+   → Niềm tin của công chúng vào chính sách bắt đầu suy giảm.
+
+### Common collocations
+
+* **ebb tide**: thủy triều xuống
+* **ebb away**: dần suy yếu hoặc mất đi
+* **at a low ebb**: ở mức thấp hoặc yếu
+* **ebb and flow**: sự thăng trầm, lên xuống
+* **strength begins to ebb**: sức lực bắt đầu suy giảm
+
+### Synonyms
+
+* **recede** /rɪˈsiːd/ *(intransitive verb)*: rút xuống, lùi xa
+* **decline** /dɪˈklaɪn/ *(intransitive verb/countable or uncountable noun)*: suy giảm
+* **wane** /weɪn/ *(intransitive verb)*: suy yếu dần
+* **subside** /səbˈsaɪd/ *(intransitive verb)*: lắng xuống, giảm dần
+
+### Word family
+
+* **ebb** /eb/ *(noun/intransitive verb)*: thủy triều rút; suy giảm  
+  *Example:* Her anxiety slowly ebbed as the situation improved.  
+  → Sự lo lắng của cô ấy từ từ giảm xuống khi tình hình được cải thiện.
+
+* **ebbing** /ˈeb.ɪŋ/ *(adjective/verb form)*: đang rút hoặc suy yếu dần  
+  *Example:* He used his ebbing strength to reach the shore.  
+  → Anh ấy dùng chút sức lực đang cạn dần để đến được bờ.
+
+### Notes
+
+`Ebb` suggests a gradual decrease, not a sudden drop. Its opposite is `flow` for tides and often `rise`, `grow`, or `increase` in figurative contexts. In `ebb and flow`, neither word needs an article.
+
+---
+
+## 537. Exhort UK /ɪɡˈzɔːt/ US /ɪɡˈzɔːrt/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** mạnh mẽ khuyên bảo, kêu gọi hoặc thúc giục ai làm điều gì, thường trong văn phong trang trọng *(100%)*
+
+### Usage
+
+`Exhort` is a formal verb used when a speaker strongly encourages a person or group to act, often for moral, political, or public purposes. It is stronger and more formal than `encourage`.
+
+Common structures:
+
+* `exhort + someone + to + base verb`: mạnh mẽ kêu gọi ai làm gì
+* `exhort + audience/group + to act`: thúc giục khán giả/nhóm hành động
+* `exhort that + subject + base verb`: kêu gọi rằng ai đó làm gì; cấu trúc trang trọng
+* `be exhorted to + base verb`: được mạnh mẽ khuyên hoặc kêu gọi làm gì
+* `repeatedly/publicly exhort + someone`: liên tục/công khai kêu gọi ai
+
+### Examples
+
+1. **Health officials exhorted the public to follow the safety guidelines.**
+   → Các quan chức y tế mạnh mẽ kêu gọi công chúng tuân thủ hướng dẫn an toàn.
+
+2. **The speaker exhorted young people to participate in civic life.**
+   → Diễn giả kêu gọi mạnh mẽ người trẻ tham gia vào đời sống công dân.
+
+### Common collocations
+
+* **exhort someone to act**: thúc giục ai hành động
+* **exhort the public**: kêu gọi công chúng
+* **repeatedly exhort**: liên tục thúc giục
+* **moral exhortation**: lời khuyên bảo mang tính đạo đức
+* **exhortation to action**: lời kêu gọi hành động
+
+### Synonyms
+
+* **urge** UK /ɜːdʒ/ US /ɝːdʒ/ *(transitive verb)*: thúc giục, kêu gọi
+* **encourage** UK /ɪnˈkʌr.ɪdʒ/ US /ɪnˈkɝː.ɪdʒ/ *(transitive verb)*: khuyến khích
+* **implore** /ɪmˈplɔːr/ *(transitive verb)*: khẩn cầu
+* **call on** UK /ˈkɔːl ɒn/ US /ˈkɑːl ɑːn/ *(phrasal verb)*: kêu gọi
+
+### Word family
+
+* **exhort** UK /ɪɡˈzɔːt/ US /ɪɡˈzɔːrt/ *(transitive verb)*: mạnh mẽ khuyên hoặc kêu gọi  
+  *Example:* Teachers exhorted students to question unreliable sources.  
+  → Giáo viên mạnh mẽ khuyên học sinh đặt câu hỏi về những nguồn không đáng tin cậy.
+
+* **exhortation** UK /ˌeɡ.zɔːˈteɪ.ʃən/ US /ˌeɡ.zɔːrˈteɪ.ʃən/ *(countable/uncountable noun)*: lời kêu gọi hoặc khuyên nhủ mạnh mẽ  
+  *Example:* The campaign ended with an exhortation to vote.  
+  → Chiến dịch kết thúc bằng lời kêu gọi đi bỏ phiếu.
+
+### Notes
+
+Use `exhort someone to do something`, not `exhort someone doing something`. Because the word is formal, `urge` or `strongly encourage` is usually more natural in everyday conversation.
+
+---
+
+## 538. Interior UK /ɪnˈtɪə.ri.ər/ US /ɪnˈtɪr.i.ɚ/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** phần bên trong của một tòa nhà, phương tiện hoặc vật thể *(55%)*; thuộc phía bên trong *(30%)*; vùng nằm sâu trong đất liền, xa bờ biển hoặc biên giới *(15%)*
+
+### Usage
+
+As a noun, `interior` means the inside part of something. As an adjective, it modifies an inside feature or inland region. It is more formal and design-focused than the everyday noun `inside`.
+
+Common structures:
+
+* `the interior of + building/vehicle`: phần bên trong của tòa nhà/phương tiện
+* `design/decorate/renovate the interior`: thiết kế/trang trí/cải tạo nội thất
+* `interior + wall/door/surface`: tường/cửa/bề mặt bên trong
+* `the country's interior`: vùng nội địa của đất nước
+* `an interior leads/opens onto + space`: không gian bên trong dẫn/mở ra nơi nào
+
+### Examples
+
+1. **Natural wood gives the interior a warm and welcoming appearance.**
+   → Gỗ tự nhiên mang lại cho không gian bên trong vẻ ấm áp và thân thiện.
+
+2. **The expedition traveled deep into the country's interior.**
+   → Đoàn thám hiểm đi sâu vào vùng nội địa của đất nước.
+
+### Common collocations
+
+* **interior design**: thiết kế nội thất
+* **interior wall**: tường bên trong
+* **car interior**: nội thất ô tô
+* **spacious interior**: không gian bên trong rộng rãi
+* **the remote interior**: vùng nội địa xa xôi
+
+### Synonyms
+
+* **inside** /ˌɪnˈsaɪd/ *(singular noun/adjective)*: phần bên trong; phía trong
+* **inner part** UK /ˌɪn.ə ˈpɑːt/ US /ˌɪn.ɚ ˈpɑːrt/ *(countable noun phrase)*: phần bên trong
+* **inland region** /ˌɪn.lænd ˈriː.dʒən/ *(countable noun phrase)*: vùng nội địa
+
+### Word family
+
+* **interior** UK /ɪnˈtɪə.ri.ər/ US /ɪnˈtɪr.i.ɚ/ *(noun/adjective)*: phần bên trong; thuộc phía trong  
+  *Example:* Interior doors were painted a lighter color.  
+  → Các cửa bên trong được sơn màu sáng hơn.
+
+### Notes
+
+`Interior` contrasts with `exterior`. Use `interior design` for the professional planning of indoor spaces, while `interior decoration` focuses more narrowly on colors, furnishings, and appearance. In everyday English, `inside` is often more natural than `interior`.
+
+---
+
+## 539. Exterior UK /ɪkˈstɪə.ri.ər/ US /ɪkˈstɪr.i.ɚ/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** mặt hoặc phần bên ngoài của một tòa nhà, phương tiện hay vật thể *(60%)*; thuộc phía bên ngoài *(30%)*; vẻ bề ngoài hoặc cách thể hiện ra ngoài của một người *(10%)*
+
+### Usage
+
+As a noun, `exterior` means the outer surface or appearance of something. As an adjective, it describes an outside wall, door, or feature. It is more formal than `outside` and is common in architecture, design, vehicles, and descriptions of appearance.
+
+Common structures:
+
+* `the exterior of + building/vehicle`: phần bên ngoài của tòa nhà/phương tiện
+* `paint/clean/inspect the exterior`: sơn/làm sạch/kiểm tra phần bên ngoài
+* `exterior + wall/door/surface`: tường/cửa/bề mặt bên ngoài
+* `have a tough/calm exterior`: có vẻ ngoài cứng rắn/bình tĩnh
+* `beneath the exterior`: bên dưới vẻ bề ngoài
+
+### Examples
+
+1. **The building's exterior combines brick, glass, and concrete.**
+   → Mặt ngoài của tòa nhà kết hợp gạch, kính và bê tông.
+
+2. **Beneath his calm exterior, he was deeply worried.**
+   → Bên dưới vẻ ngoài bình tĩnh, anh ấy vô cùng lo lắng.
+
+### Common collocations
+
+* **building exterior**: mặt ngoài tòa nhà
+* **exterior wall**: tường bên ngoài
+* **exterior paint**: sơn ngoại thất
+* **car exterior**: phần ngoài ô tô
+* **tough exterior**: vẻ ngoài cứng rắn
+
+### Synonyms
+
+* **outside** /ˌaʊtˈsaɪd/ *(singular noun/adjective)*: phần bên ngoài; phía ngoài
+* **outer surface** UK /ˌaʊ.tə ˈsɜː.fɪs/ US /ˌaʊ.t̬ɚ ˈsɝː.fɪs/ *(countable noun phrase)*: bề mặt bên ngoài
+* **facade** /fəˈsɑːd/ *(countable noun)*: mặt tiền; vẻ bề ngoài che giấu thực chất
+* **outward appearance** UK /ˌaʊt.wəd əˈpɪə.rəns/ US /ˌaʊt.wɚd əˈpɪr.əns/ *(noun phrase)*: vẻ bề ngoài
+
+### Word family
+
+* **exterior** UK /ɪkˈstɪə.ri.ər/ US /ɪkˈstɪr.i.ɚ/ *(noun/adjective)*: phần bên ngoài; thuộc phía ngoài  
+  *Example:* Exterior lighting improves safety around the entrance.  
+  → Hệ thống chiếu sáng bên ngoài cải thiện an toàn quanh lối vào.
+
+### Notes
+
+`Exterior` contrasts with `interior`. `Facade` usually refers specifically to the front face of a building and can figuratively mean a false outward appearance. In ordinary conversation, `outside` is often more natural than `exterior`.
+
+---
+
+## 540. Feature UK /ˈfiː.tʃər/ US /ˈfiː.tʃɚ/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** đặc điểm hoặc đặc trưng đáng chú ý *(35%)*; tính năng của sản phẩm, phần mềm hoặc hệ thống *(25%)*; bộ phận trên khuôn mặt, thường ở số nhiều `features` *(15%)*; bài viết/chương trình chuyên đề *(10%)*; có, giới thiệu hoặc làm nổi bật ai/điều gì *(15%)*
+
+### Usage
+
+As a noun, a `feature` is an important characteristic, function, facial part, or substantial media article. As a verb, it means include something prominently or present someone in a leading role. It can be transitive (`The app features...`) or intransitive with `in` (`She features in the film`).
+
+Common structures:
+
+* `a key/distinctive feature of + noun`: một đặc điểm chính/đặc trưng của điều gì
+* `a product features + function`: một sản phẩm có tính năng gì
+* `feature someone/something in + publication/show`: giới thiệu ai/điều gì trong ấn phẩm/chương trình
+* `someone features in + film/program`: ai đó xuất hiện nổi bật trong phim/chương trình
+* `facial features`: các đường nét khuôn mặt
+
+### Examples
+
+1. **The software includes a built-in translation feature.**
+   → Phần mềm có tính năng dịch được tích hợp sẵn.
+
+2. **The documentary features interviews with local residents.**
+   → Bộ phim tài liệu có các cuộc phỏng vấn với cư dân địa phương.
+
+### Common collocations
+
+* **key feature**: đặc điểm/tính năng chính
+* **distinctive feature**: đặc điểm nổi bật
+* **safety feature**: tính năng an toàn
+* **facial features**: đường nét khuôn mặt
+* **feature article**: bài viết chuyên đề
+
+### Synonyms
+
+* **characteristic** /ˌkær.ək.təˈrɪs.tɪk/ *(countable noun)*: đặc điểm
+* **attribute** /ˈæt.rɪ.bjuːt/ *(countable noun)*: thuộc tính
+* **function** /ˈfʌŋk.ʃən/ *(countable noun; product sense)*: chức năng
+* **highlight** /ˈhaɪ.laɪt/ *(transitive verb)*: làm nổi bật
+
+### Word family
+
+* **feature** UK /ˈfiː.tʃər/ US /ˈfiː.tʃɚ/ *(noun/verb)*: đặc điểm, tính năng; giới thiệu nổi bật  
+  *Example:* Accessibility is a central feature of the new design.  
+  → Khả năng tiếp cận là một đặc điểm trọng tâm của thiết kế mới.
+
+* **featured** UK /ˈfiː.tʃəd/ US /ˈfiː.tʃɚd/ *(adjective/past-participle form)*: được giới thiệu hoặc làm nổi bật  
+  *Example:* The featured speaker discussed renewable energy.  
+  → Diễn giả nổi bật được giới thiệu đã thảo luận về năng lượng tái tạo.
+
+* **featureless** UK /ˈfiː.tʃə.ləs/ US /ˈfiː.tʃɚ.ləs/ *(adjective)*: không có đặc điểm nổi bật, đơn điệu  
+  *Example:* The desert looked flat and featureless from a distance.  
+  → Sa mạc trông bằng phẳng và không có điểm nổi bật khi nhìn từ xa.
+
+* **feature-rich** UK /ˈfiː.tʃə rɪtʃ/ US /ˈfiː.tʃɚ rɪtʃ/ *(adjective)*: có nhiều tính năng  
+  *Example:* The feature-rich application may be confusing for beginners.  
+  → Ứng dụng có nhiều tính năng có thể gây khó hiểu cho người mới bắt đầu.
+
+### Notes
+
+`Feature` is countable: `a useful feature`, `several features`. In software, it means a capability available to users; `function` can mean either a purpose or a specific operation. Use `feature in` when the subject appears prominently in something.
+
+---
+
+## 541. Feminine /ˈfem.ə.nɪn/
+
+* **Part of speech:** adjective; singular noun in grammar
+* **Vietnamese meaning:** thuộc hoặc thường được xã hội gắn với phụ nữ và bé gái *(55%)*; có phong cách, vẻ ngoài hoặc phẩm chất truyền thống được xem là nữ tính *(30%)*; thuộc giống cái trong ngữ pháp *(15%)*
+
+### Usage
+
+`Feminine` describes qualities, styles, roles, or forms conventionally associated with women or girls. These associations vary across cultures and time. In grammar, `the feminine` or `feminine gender` classifies certain nouns, pronouns, or adjective forms.
+
+Common structures:
+
+* `a feminine + appearance/style/voice`: vẻ ngoài/phong cách/giọng nói nữ tính
+* `traditionally considered feminine`: theo truyền thống được xem là nữ tính
+* `feminine and masculine qualities`: những phẩm chất nữ tính và nam tính
+* `the feminine form of + word`: dạng giống cái của một từ
+* `express one's feminine side`: thể hiện khía cạnh nữ tính của mình
+
+### Examples
+
+1. **The designer combines feminine details with practical materials.**
+   → Nhà thiết kế kết hợp các chi tiết nữ tính với vật liệu thiết thực.
+
+2. **In French, some nouns have feminine grammatical gender.**
+   → Trong tiếng Pháp, một số danh từ mang giống cái về mặt ngữ pháp.
+
+### Common collocations
+
+* **feminine appearance**: vẻ ngoài nữ tính
+* **feminine style**: phong cách nữ tính
+* **feminine qualities**: phẩm chất nữ tính
+* **feminine form**: dạng giống cái
+* **feminine gender**: giống cái trong ngữ pháp
+
+### Synonyms
+
+* **womanly** /ˈwʊm.ən.li/ *(adjective; sometimes old-fashioned)*: mang nét của phụ nữ trưởng thành
+* **female-associated** /ˈfiː.meɪl əˌsəʊ.si.eɪ.tɪd/ *(adjective; descriptive)*: thường được gắn với nữ giới
+* **graceful** /ˈɡreɪs.fəl/ *(adjective; only in some style contexts)*: duyên dáng
+* **delicate** /ˈdel.ɪ.kət/ *(adjective; only in some design contexts)*: thanh mảnh, tinh tế
+
+### Word family
+
+* **feminine** /ˈfem.ə.nɪn/ *(adjective/noun)*: nữ tính; giống cái trong ngữ pháp  
+  *Example:* The adjective takes a different feminine form in this language.  
+  → Tính từ có một dạng giống cái khác trong ngôn ngữ này.
+
+* **femininity** /ˌfem.əˈnɪn.ə.ti/ *(uncountable noun)*: tính nữ, những phẩm chất được xem là nữ tính  
+  *Example:* Ideas about femininity differ across cultures and generations.  
+  → Quan niệm về tính nữ khác nhau giữa các nền văn hóa và thế hệ.
+
+* **feminize/feminise** /ˈfem.ə.naɪz/ *(transitive verb)*: làm cho mang tính nữ hơn; tăng tỷ lệ nữ  
+  *Example:* Some industries have become increasingly feminized over time.  
+  → Một số ngành nghề đã ngày càng có tỷ lệ phụ nữ cao hơn theo thời gian.
+
+### Notes
+
+`Feminine` concerns social, stylistic, or grammatical associations and is not an exact synonym of biological `female`. Avoid treating all women or girls as naturally possessing the same “feminine” traits. The opposite term in conventional contrasts is `masculine`.
+
+---
+
+## 542. Freezer UK /ˈfriː.zər/ US /ˈfriː.zɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tủ đông hoặc ngăn đông dùng để bảo quản thực phẩm ở nhiệt độ dưới điểm đóng băng *(100%)*
+
+### Usage
+
+A `freezer` is an appliance or refrigerator compartment that keeps food frozen. Use `in the freezer` for something stored inside it and `put something in the freezer` for the action of storing it.
+
+Common structures:
+
+* `put/store/keep something in the freezer`: cho/lưu trữ/giữ thứ gì trong tủ đông
+* `take something out of the freezer`: lấy thứ gì ra khỏi tủ đông
+* `a freezer is full of + food`: tủ đông chứa đầy thực phẩm gì
+* `defrost/clean the freezer`: xả đông/làm sạch tủ đông
+* `be safe for the freezer`: an toàn để bảo quản trong tủ đông
+
+### Examples
+
+1. **Store the leftovers in the freezer if you will not eat them soon.**
+   → Hãy bảo quản thức ăn thừa trong tủ đông nếu bạn không ăn sớm.
+
+2. **The power cut caused food in the freezer to thaw.**
+   → Việc mất điện khiến thực phẩm trong tủ đông rã đông.
+
+### Common collocations
+
+* **chest freezer**: tủ đông nằm ngang
+* **freezer compartment**: ngăn đông
+* **freezer bag**: túi bảo quản trong tủ đông
+* **freezer temperature**: nhiệt độ tủ đông
+* **put something in the freezer**: cho thứ gì vào tủ đông
+
+### Synonyms
+
+* **deep freeze** /ˌdiːp ˈfriːz/ *(countable noun)*: tủ đông sâu
+* **freezing compartment** /ˈfriː.zɪŋ kəmˌpɑːt.mənt/ *(countable noun phrase)*: ngăn đông
+* **icebox** UK /ˈaɪs.bɒks/ US /ˈaɪs.bɑːks/ *(countable noun; old-fashioned or regional)*: thùng/tủ giữ lạnh
+
+### Word family
+
+* **freeze** /friːz/ *(transitive/intransitive verb; countable noun)*: đóng băng; làm đông lạnh; đợt rét  
+  *Example:* Freeze the soup in small containers.  
+  → Hãy đông lạnh súp trong những hộp nhỏ.
+
+* **froze** UK /frəʊz/ US /froʊz/ *(past-tense form)*: đã đóng băng  
+  *Example:* The lake froze during the coldest week of winter.  
+  → Hồ đã đóng băng trong tuần lạnh nhất của mùa đông.
+
+* **frozen** UK /ˈfrəʊ.zən/ US /ˈfroʊ.zən/ *(adjective/past-participle form)*: đông lạnh; bị đóng băng  
+  *Example:* Frozen vegetables can retain much of their nutritional value.  
+  → Rau củ đông lạnh có thể giữ lại phần lớn giá trị dinh dưỡng.
+
+* **freezing** /ˈfriː.zɪŋ/ *(adjective/uncountable noun)*: rất lạnh; sự đông lạnh  
+  *Example:* Temperatures remained below freezing overnight.  
+  → Nhiệt độ duy trì dưới mức đóng băng suốt đêm.
+
+* **freezer** UK /ˈfriː.zər/ US /ˈfriː.zɚ/ *(countable noun)*: tủ đông, ngăn đông  
+  *Example:* Our freezer needs to be defrosted.  
+  → Tủ đông của chúng tôi cần được xả đông.
+
+### Notes
+
+A `freezer` keeps food frozen, while a `fridge/refrigerator` keeps it cold but normally above freezing. `Frozen` is the past participle of `freeze`; `froze` is the simple past.
+
+---
+
+## 543. Haul UK /hɔːl/ US /hɑːl/
+
+* **Part of speech:** transitive and intransitive verb; countable noun
+* **Vietnamese meaning:** kéo hoặc lôi vật nặng bằng sức lực *(40%)*; vận chuyển người/hàng hóa, thường trên quãng đường đáng kể *(25%)*; chuyến đi hoặc quãng đường vận chuyển *(15%)*; lượng hàng, cá, chiến lợi phẩm hoặc đồ thu được trong một lần *(20%)*
+
+### Usage
+
+As a verb, `haul` means pull something heavy with effort or transport a load. As a noun, it can mean the journey, the amount obtained, or a large collection of purchases. `The long haul` figuratively means a long and difficult period requiring continued effort.
+
+Common structures:
+
+* `haul + object + into/out of + place`: kéo vật vào/ra khỏi nơi nào
+* `haul goods/freight by + transport`: vận chuyển hàng hóa bằng phương tiện nào
+* `a long/short haul`: chuyến hoặc quãng vận chuyển dài/ngắn
+* `a haul of + fish/goods`: một mẻ cá/lô hàng thu được
+* `be in something for the long haul`: cam kết theo đuổi điều gì lâu dài
+
+### Examples
+
+1. **Workers hauled the damaged boat onto the shore.**
+   → Các công nhân kéo chiếc thuyền bị hư hại lên bờ.
+
+2. **The police recovered a large haul of stolen electronics.**
+   → Cảnh sát thu hồi một lô lớn thiết bị điện tử bị đánh cắp.
+
+### Common collocations
+
+* **haul a heavy load**: kéo/vận chuyển một tải trọng nặng
+* **long-haul flight**: chuyến bay đường dài
+* **short-haul transport**: vận tải quãng đường ngắn
+* **a large haul**: một lượng lớn thu được
+* **for the long haul**: trong thời gian dài, với cam kết lâu dài
+
+### Synonyms
+
+* **drag** /dræɡ/ *(transitive verb)*: kéo lê
+* **pull** /pʊl/ *(transitive verb)*: kéo
+* **transport** UK /trænˈspɔːt/ US /trænˈspɔːrt/ *(transitive verb)*: vận chuyển
+* **carry** /ˈkær.i/ *(transitive verb)*: mang, chở
+
+### Word family
+
+* **haul** UK /hɔːl/ US /hɑːl/ *(verb/countable noun)*: kéo, vận chuyển; lượng thu được  
+  *Example:* Trucks haul construction materials to the site each morning.  
+  → Xe tải vận chuyển vật liệu xây dựng đến công trường mỗi sáng.
+
+* **hauling** UK /ˈhɔː.lɪŋ/ US /ˈhɑː.lɪŋ/ *(uncountable noun/verb form)*: việc kéo hoặc vận chuyển hàng nặng  
+  *Example:* Heavy hauling requires specialized vehicles.  
+  → Việc vận chuyển hàng nặng đòi hỏi phương tiện chuyên dụng.
+
+* **haulier/hauler** UK /ˈhɔː.li.ər/ US /ˈhɑː.lɚ/ *(countable noun)*: người hoặc công ty vận tải hàng hóa  
+  *Example:* The haulier delivers freight throughout the region.  
+  → Công ty vận tải giao hàng khắp khu vực.
+
+* **haulage** UK /ˈhɔː.lɪdʒ/ US /ˈhɑː.lɪdʒ/ *(uncountable noun)*: hoạt động hoặc chi phí vận tải hàng hóa  
+  *Example:* Rising fuel prices have increased road haulage costs.  
+  → Giá nhiên liệu tăng đã làm tăng chi phí vận tải đường bộ.
+
+### Notes
+
+`Haul` suggests effort, weight, or distance and is stronger than the general verbs `carry` and `transport`. Hyphenate attributive compounds such as `long-haul flight`, but write `for the long haul` without a hyphen.
+
+---
+
+## 544. Hectic /ˈhek.tɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** cực kỳ bận rộn, gấp gáp và có nhiều hoạt động gây căng thẳng *(85%)*; hỗn loạn, cuống cuồng vì diễn ra quá nhanh *(15%)*
+
+### Usage
+
+`Hectic` describes a period, schedule, place, or lifestyle with too much activity and little time to rest. It usually carries a mildly negative sense of pressure or disorder, not merely productive busyness.
+
+Common structures:
+
+* `a hectic + day/week/schedule`: một ngày/tuần/lịch trình cực kỳ bận rộn
+* `have a hectic time at + place`: có khoảng thời gian bận rộn tại nơi nào
+* `things get/become hectic`: mọi việc trở nên cuống cuồng
+* `lead a hectic life`: sống một cuộc sống tất bật
+* `despite a hectic schedule`: mặc dù có lịch trình bận rộn
+
+### Examples
+
+1. **I had a hectic day and barely had time for lunch.**
+   → Tôi đã có một ngày cực kỳ bận rộn và hầu như không có thời gian ăn trưa.
+
+2. **The emergency department becomes especially hectic at night.**
+   → Khoa cấp cứu trở nên đặc biệt bận rộn và gấp gáp vào ban đêm.
+
+### Common collocations
+
+* **hectic schedule**: lịch trình dày đặc
+* **hectic lifestyle**: lối sống tất bật
+* **hectic pace**: nhịp độ gấp gáp
+* **hectic day**: ngày cực kỳ bận rộn
+* **increasingly hectic**: ngày càng bận rộn, cuống cuồng
+
+### Synonyms
+
+* **frantic** /ˈfræn.tɪk/ *(adjective)*: cuống cuồng, hối hả
+* **chaotic** /keɪˈɒt.ɪk/ *(adjective)*: hỗn loạn
+* **intense** /ɪnˈtens/ *(adjective)*: căng thẳng, cường độ cao
+* **very busy** /ˌver.i ˈbɪz.i/ *(adjective phrase)*: rất bận rộn
+
+### Word family
+
+* **hectic** /ˈhek.tɪk/ *(adjective)*: cực kỳ bận rộn, gấp gáp  
+  *Example:* The office is hectic before the end-of-year deadline.  
+  → Văn phòng cực kỳ bận rộn trước hạn chót cuối năm.
+
+* **hectically** /ˈhek.tɪ.kəl.i/ *(adverb)*: một cách hối hả, cuống cuồng  
+  *Example:* Staff worked hectically to prepare the venue on time.  
+  → Nhân viên làm việc hối hả để chuẩn bị địa điểm đúng giờ.
+
+### Notes
+
+`Busy` is neutral and can be positive; `hectic` suggests that the activity is difficult to manage or stressful. A person can have a busy but organized day, whereas a hectic day usually feels rushed.
+
+---
+
+## 545. High-rise /ˈhaɪ.raɪz/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** tòa nhà cao nhiều tầng *(70%)*; thuộc hoặc nằm trong một tòa nhà cao tầng *(30%)*
+
+### Usage
+
+As a noun, a `high-rise` is a tall building with many storeys, usually containing apartments or offices. As an adjective, it appears before a noun: `high-rise housing`. There is no universal number of floors that makes a building a high-rise.
+
+Common structures:
+
+* `live/work in a high-rise`: sống/làm việc trong tòa nhà cao tầng
+* `build/demolish a high-rise`: xây/phá dỡ một tòa nhà cao tầng
+* `a high-rise + apartment/office`: căn hộ/văn phòng trong tòa nhà cao tầng
+* `high-rise development`: dự án phát triển nhà cao tầng
+* `a cluster of high-rises`: một cụm các tòa nhà cao tầng
+
+### Examples
+
+1. **Many city residents live in high-rise apartment buildings.**
+   → Nhiều cư dân thành phố sống trong các tòa chung cư cao tầng.
+
+2. **The new high-rise will contain offices, shops, and public facilities.**
+   → Tòa nhà cao tầng mới sẽ có văn phòng, cửa hàng và các tiện ích công cộng.
+
+### Common collocations
+
+* **high-rise building**: tòa nhà cao tầng
+* **high-rise apartment**: căn hộ cao tầng
+* **high-rise housing**: nhà ở cao tầng
+* **high-rise development**: dự án cao tầng
+* **residential high-rise**: tòa nhà cao tầng để ở
+
+### Synonyms
+
+* **tower block** UK /ˈtaʊ.ə blɒk/ US /ˈtaʊ.ɚ blɑːk/ *(countable noun; especially British English)*: khối nhà cao tầng
+* **tall building** /ˌtɔːl ˈbɪl.dɪŋ/ *(countable noun phrase)*: tòa nhà cao
+* **skyscraper** UK /ˈskaɪˌskreɪ.pər/ US /ˈskaɪˌskreɪ.pɚ/ *(countable noun; usually very tall)*: nhà chọc trời
+
+### Word family
+
+* **high-rise** /ˈhaɪ.raɪz/ *(noun/adjective)*: tòa nhà cao tầng; thuộc nhà cao tầng  
+  *Example:* High-rise living can reduce pressure on limited urban land.  
+  → Việc sống trong nhà cao tầng có thể giảm áp lực lên quỹ đất đô thị hạn chế.
+
+### Notes
+
+Hyphenate `high-rise` as both a noun and an adjective. A `skyscraper` is generally exceptionally tall, while `high-rise` is a broader term for a multi-storey building of substantial height.
+
+---
+
+## 546. Hoist /hɔɪst/
+
+* **Part of speech:** transitive verb; countable noun
+* **Vietnamese meaning:** kéo hoặc nâng vật/người lên cao, thường bằng dây hay máy *(70%)*; thiết bị dùng để nâng vật nặng *(20%)*; giương cờ hoặc kéo buồm lên *(10%)*
+
+### Usage
+
+As a verb, `hoist` means raise something heavy or awkward, often with ropes, chains, or machinery. As a noun, a `hoist` is the lifting device itself. The object being raised follows the verb directly.
+
+Common structures:
+
+* `hoist + object + onto/into + place`: nâng vật lên/vào vị trí nào
+* `hoist something by + rope/cable`: kéo vật lên bằng dây/thép cáp
+* `be hoisted into position`: được nâng vào đúng vị trí
+* `hoist a flag/sail`: kéo cờ/buồm lên
+* `use a hoist to + base verb`: dùng thiết bị nâng để làm gì
+
+### Examples
+
+1. **A crane hoisted the steel beam into position.**
+   → Một cần cẩu nâng dầm thép vào đúng vị trí.
+
+2. **The crew hoisted the flag at sunrise.**
+   → Đội ngũ kéo cờ lên lúc bình minh.
+
+### Common collocations
+
+* **hoist a flag**: kéo cờ lên
+* **hoist a sail**: kéo buồm lên
+* **electric hoist**: thiết bị nâng điện
+* **cargo hoist**: tời nâng hàng
+* **hoist into position**: nâng vào vị trí
+
+### Synonyms
+
+* **lift** /lɪft/ *(transitive verb)*: nâng lên
+* **raise** /reɪz/ *(transitive verb)*: đưa lên cao
+* **winch** /wɪntʃ/ *(transitive verb)*: kéo bằng tời
+* **heave** /hiːv/ *(transitive verb)*: kéo hoặc nâng bằng sức mạnh
+
+### Word family
+
+* **hoist** /hɔɪst/ *(verb/countable noun)*: nâng, kéo lên; thiết bị nâng  
+  *Example:* Workers used a hoist to lift the engine.  
+  → Công nhân dùng thiết bị nâng để nhấc động cơ lên.
+
+* **hoisting** /ˈhɔɪ.stɪŋ/ *(uncountable noun/verb form)*: việc nâng hoặc kéo lên  
+  *Example:* Hoisting heavy equipment requires careful coordination.  
+  → Việc nâng thiết bị nặng đòi hỏi sự phối hợp cẩn thận.
+
+### Notes
+
+`Hoist` usually suggests vertical movement and often the use of equipment. `Lift` is the broad everyday verb. The fixed expression `hoist with/by one's own petard` means harmed by one's own plan, but it is literary and uncommon.
+
+---
+
+## 547. Hose UK /həʊz/ US /hoʊz/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** ống mềm dùng để dẫn nước, khí hoặc chất lỏng *(70%)*; phun, rửa hoặc tưới bằng ống mềm *(25%)*; hàng dệt bó sát chân như tất dài trong cách dùng lịch sử/chuyên biệt *(5%)*
+
+### Usage
+
+A `hose` is a long flexible tube used to carry water, gas, or another substance. As a verb, it means spray or wash something with water from a hose. The plural is `hoses` /ˈhəʊ.zɪz/ in British English and /ˈhoʊ.zɪz/ in American English.
+
+Common structures:
+
+* `connect/attach a hose to + source`: nối ống mềm với nguồn nào
+* `water something with a hose`: tưới thứ gì bằng ống nước
+* `hose down + object`: xịt rửa vật gì
+* `a hose carries + liquid/gas`: ống dẫn chất lỏng/khí
+* `spray water through a hose`: phun nước qua ống
+
+### Examples
+
+1. **She watered the garden with a hose.**
+   → Cô ấy tưới khu vườn bằng ống nước.
+
+2. **Firefighters connected the hose to a nearby hydrant.**
+   → Lính cứu hỏa nối vòi với một trụ cứu hỏa gần đó.
+
+### Common collocations
+
+* **garden hose**: ống tưới vườn
+* **fire hose**: vòi chữa cháy
+* **rubber hose**: ống cao su
+* **hose down**: xịt rửa
+* **hose connection**: đầu nối ống
+
+### Synonyms
+
+* **flexible tube** /ˌflek.sə.bəl ˈtjuːb/ *(countable noun phrase)*: ống mềm
+* **hosepipe** UK /ˈhəʊz.paɪp/ US /ˈhoʊz.paɪp/ *(countable noun; especially British English)*: ống nước mềm
+* **spray** /spreɪ/ *(transitive verb)*: phun, xịt
+* **rinse** /rɪns/ *(transitive verb)*: xả rửa
+
+### Word family
+
+* **hose** UK /həʊz/ US /hoʊz/ *(noun/verb)*: ống mềm; phun hoặc rửa bằng ống  
+  *Example:* Please hose the mud off the driveway.  
+  → Vui lòng dùng vòi xịt sạch bùn khỏi lối xe vào.
+
+* **hosing** UK /ˈhəʊ.zɪŋ/ US /ˈhoʊ.zɪŋ/ *(uncountable noun/verb form)*: việc phun hoặc rửa bằng ống  
+  *Example:* Regular hosing keeps the outdoor tiles clean.  
+  → Việc xịt rửa thường xuyên giữ cho gạch lát ngoài trời sạch sẽ.
+
+* **hosepipe** UK /ˈhəʊz.paɪp/ US /ˈhoʊz.paɪp/ *(countable noun)*: ống nước mềm  
+  *Example:* A hosepipe ban was introduced during the drought.  
+  → Lệnh cấm sử dụng ống nước được ban hành trong đợt hạn hán.
+
+### Notes
+
+`Hose` is standard in both British and American English; `hosepipe` is especially British. `Pantyhose` in American English means thin tights worn on the legs and is a separate fixed word.
+
+---
+
+## 548. Idyllic UK /ɪˈdɪl.ɪk/ US /aɪˈdɪl.ɪk/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** bình dị, đẹp như tranh và yên bình một cách gần như lý tưởng *(85%)*; quá hoàn hảo hoặc lý tưởng hóa so với thực tế *(15%)*
+
+### Usage
+
+`Idyllic` usually describes a peaceful, attractive place, lifestyle, or period that seems almost perfect. It is strongly positive, but it can sometimes imply that the image is idealized and overlooks real difficulties.
+
+Common structures:
+
+* `an idyllic + setting/location`: khung cảnh/địa điểm đẹp và yên bình
+* `an idyllic life/childhood`: cuộc sống/tuổi thơ lý tưởng
+* `seem/look idyllic`: có vẻ/trông đẹp và yên bình
+* `far from idyllic`: hoàn toàn không lý tưởng
+* `an idyllic image of + noun`: hình ảnh lý tưởng hóa về điều gì
+
+### Examples
+
+1. **The cottage stands in an idyllic valley beside a clear stream.**
+   → Ngôi nhà nhỏ nằm trong một thung lũng đẹp yên bình bên dòng suối trong.
+
+2. **Their life on the island seemed idyllic, but it involved hard work.**
+   → Cuộc sống của họ trên đảo có vẻ lý tưởng, nhưng đòi hỏi lao động vất vả.
+
+### Common collocations
+
+* **idyllic setting**: khung cảnh đẹp yên bình
+* **idyllic location**: địa điểm lý tưởng
+* **idyllic childhood**: tuổi thơ êm đềm
+* **idyllic lifestyle**: lối sống bình dị lý tưởng
+* **seem idyllic**: có vẻ hoàn hảo và yên bình
+
+### Synonyms
+
+* **picturesque** /ˌpɪk.tʃərˈesk/ *(adjective)*: đẹp như tranh
+* **peaceful** /ˈpiːs.fəl/ *(adjective)*: yên bình
+* **ideal** /aɪˈdɪəl/ *(adjective)*: lý tưởng
+* **pastoral** UK /ˈpɑː.stər.əl/ US /ˈpæs.tɚ.əl/ *(adjective)*: thuộc cảnh đồng quê thanh bình
+
+### Word family
+
+* **idyll** UK /ˈɪd.əl/ US /ˈaɪ.dəl/ *(countable noun)*: cảnh hoặc giai đoạn bình yên lý tưởng  
+  *Example:* Their rural idyll ended when the highway was built nearby.  
+  → Cuộc sống đồng quê lý tưởng của họ kết thúc khi đường cao tốc được xây gần đó.
+
+* **idyllic** UK /ɪˈdɪl.ɪk/ US /aɪˈdɪl.ɪk/ *(adjective)*: đẹp, bình yên như lý tưởng  
+  *Example:* We spent an idyllic afternoon by the lake.  
+  → Chúng tôi trải qua một buổi chiều lý tưởng bên hồ.
+
+* **idyllically** UK /ɪˈdɪl.ɪ.kəl.i/ US /aɪˈdɪl.ɪ.kəl.i/ *(adverb)*: một cách đẹp đẽ và yên bình  
+  *Example:* The village is idyllically situated between the hills and the sea.  
+  → Ngôi làng tọa lạc một cách tuyệt đẹp và yên bình giữa đồi núi và biển.
+
+### Notes
+
+`Picturesque` focuses mainly on visual attractiveness; `idyllic` combines beauty, peace, and an almost perfect quality of life. An idyllic description may be unrealistic if it ignores hardship.
+
+---
+
+## 549. Limestone UK /ˈlaɪm.stəʊn/ US /ˈlaɪm.stoʊn/
+
+* **Part of speech:** uncountable noun; countable noun when referring to a type or formation
+* **Vietnamese meaning:** đá vôi, loại đá trầm tích chủ yếu gồm canxi cacbonat *(90%)*; một loại hoặc khối địa chất đá vôi cụ thể *(10%)*
+
+### Usage
+
+`Limestone` is a sedimentary rock formed largely from calcium carbonate, often from the remains of marine organisms. It is used in construction and in the production of cement and lime. In general material use, it is uncountable.
+
+Common structures:
+
+* `be made/built of limestone`: được làm/xây bằng đá vôi
+* `limestone consists mainly of + substance`: đá vôi chủ yếu gồm chất gì
+* `extract/quarry limestone`: khai thác đá vôi
+* `limestone forms + landscape/feature`: đá vôi hình thành địa hình/đặc điểm nào
+* `a layer/deposit of limestone`: một lớp/mỏ đá vôi
+
+### Examples
+
+1. **Rainwater gradually dissolves limestone and forms caves.**
+   → Nước mưa dần hòa tan đá vôi và tạo thành hang động.
+
+2. **The cathedral was constructed from locally quarried limestone.**
+   → Nhà thờ chính tòa được xây từ đá vôi khai thác tại địa phương.
+
+### Common collocations
+
+* **limestone cave**: hang đá vôi
+* **limestone quarry**: mỏ đá vôi
+* **limestone formation**: cấu tạo hoặc khối địa chất đá vôi
+* **limestone deposit**: mỏ/trầm tích đá vôi
+* **crushed limestone**: đá vôi nghiền
+
+### Synonyms
+
+* **sedimentary rock** /ˌsed.ɪˈmen.tər.i rɒk/ *(countable/uncountable noun phrase; broader)*: đá trầm tích
+* **calcareous rock** /kælˌkeə.ri.əs ˈrɒk/ *(noun phrase; technical)*: đá chứa nhiều canxi cacbonat
+* **carbonate rock** /ˈkɑː.bə.neɪt rɒk/ *(noun phrase; technical and broader)*: đá cacbonat
+
+### Word family
+
+* **limestone** UK /ˈlaɪm.stəʊn/ US /ˈlaɪm.stoʊn/ *(countable/uncountable noun)*: đá vôi  
+  *Example:* Limestone is an important raw material in cement production.  
+  → Đá vôi là nguyên liệu thô quan trọng trong sản xuất xi măng.
+
+* **lime** /laɪm/ *(uncountable noun)*: vôi, chất thu được bằng cách nung đá vôi  
+  *Example:* Farmers sometimes add lime to acidic soil.  
+  → Nông dân đôi khi thêm vôi vào đất chua.
+
+### Notes
+
+`Limestone` is the rock; `lime` is a processed calcium-containing material made from limestone and used in construction or agriculture. Do not confuse `lime` in this sense with the citrus fruit.
+
+---
+
+## 550. Masculine /ˈmæs.kjə.lɪn/
+
+* **Part of speech:** adjective; singular noun in grammar
+* **Vietnamese meaning:** thuộc hoặc thường được xã hội gắn với đàn ông và bé trai *(55%)*; có phong cách, vẻ ngoài hoặc phẩm chất truyền thống được xem là nam tính *(30%)*; thuộc giống đực trong ngữ pháp *(15%)*
+
+### Usage
+
+`Masculine` describes qualities, styles, roles, or forms conventionally associated with men or boys. These associations vary across cultures and historical periods. In grammar, `the masculine` or `masculine gender` classifies certain nouns, pronouns, or adjective forms.
+
+Common structures:
+
+* `a masculine + appearance/style/voice`: vẻ ngoài/phong cách/giọng nói nam tính
+* `traditionally considered masculine`: theo truyền thống được xem là nam tính
+* `masculine and feminine qualities`: những phẩm chất nam tính và nữ tính
+* `the masculine form of + word`: dạng giống đực của một từ
+* `express one's masculine side`: thể hiện khía cạnh nam tính của mình
+
+### Examples
+
+1. **The fashion collection combines traditionally masculine cuts with bright colors.**
+   → Bộ sưu tập thời trang kết hợp các đường cắt truyền thống mang nét nam tính với màu sắc tươi sáng.
+
+2. **This adjective has separate masculine and feminine forms.**
+   → Tính từ này có các dạng giống đực và giống cái riêng biệt.
+
+### Common collocations
+
+* **masculine appearance**: vẻ ngoài nam tính
+* **masculine style**: phong cách nam tính
+* **masculine qualities**: phẩm chất nam tính
+* **masculine form**: dạng giống đực
+* **masculine gender**: giống đực trong ngữ pháp
+
+### Synonyms
+
+* **manly** /ˈmæn.li/ *(adjective; sometimes old-fashioned)*: nam tính, mạnh mẽ theo quan niệm truyền thống
+* **male-associated** /ˈmeɪl əˌsəʊ.si.eɪ.tɪd/ *(adjective; descriptive)*: thường được gắn với nam giới
+* **virile** UK /ˈvɪr.aɪl/ US /ˈvɪr.əl/ *(adjective; context-dependent)*: mạnh mẽ, đầy nam tính
+
+### Word family
+
+* **masculine** /ˈmæs.kjə.lɪn/ *(adjective/noun)*: nam tính; giống đực trong ngữ pháp  
+  *Example:* The pronoun is masculine in this context.  
+  → Đại từ này mang giống đực trong ngữ cảnh này.
+
+* **masculinity** /ˌmæs.kjəˈlɪn.ə.ti/ *(uncountable noun)*: nam tính; quan niệm về vai trò và phẩm chất nam giới  
+  *Example:* Media representations can shape ideas about masculinity.  
+  → Cách truyền thông khắc họa có thể định hình quan niệm về nam tính.
+
+* **masculinize/masculinise** /ˈmæs.kjə.lɪ.naɪz/ *(transitive verb; formal)*: làm cho mang tính nam hơn  
+  *Example:* The costume was designed to masculinize the character's appearance.  
+  → Trang phục được thiết kế để làm cho vẻ ngoài của nhân vật mang nét nam tính hơn.
+
+### Notes
+
+`Masculine` concerns social, stylistic, or grammatical associations and is not an exact synonym of biological `male`. Avoid assuming that all men naturally share the same masculine traits. The conventional opposite is `feminine`.
+
+---
+
+## 551. Mesh /meʃ/
+
+* **Part of speech:** countable/uncountable noun; transitive and intransitive verb
+* **Vietnamese meaning:** lưới làm từ các sợi hoặc dây đan nhau *(35%)*; kích thước hoặc cấu trúc các mắt lưới *(15%)*; sự ăn khớp của các bộ phận cơ khí *(10%)*; hòa hợp hoặc phối hợp tốt với nhau *(30%)*; mắc hoặc làm mắc vào lưới *(10%)*
+
+### Usage
+
+As a noun, `mesh` is material made from interwoven strands or the openings in that material. As a verb, it can mean fit or work together smoothly, engage like gears, or become caught in a net-like structure. Use `mesh with` for compatibility.
+
+Common structures:
+
+* `be made of + wire/plastic mesh`: được làm bằng lưới kim loại/nhựa
+* `a fine/coarse mesh`: lưới mắt nhỏ/lớn
+* `mesh with + plan/system`: phù hợp hoặc phối hợp với kế hoạch/hệ thống
+* `gears mesh`: các bánh răng ăn khớp
+* `become/be meshed in + net`: bị mắc vào lưới
+
+### Examples
+
+1. **A fine mesh prevents insects from entering through the window.**
+   → Một lớp lưới mắt nhỏ ngăn côn trùng bay vào qua cửa sổ.
+
+2. **The new timetable does not mesh with employees' childcare needs.**
+   → Lịch trình mới không phù hợp với nhu cầu chăm sóc con cái của nhân viên.
+
+### Common collocations
+
+* **wire mesh**: lưới kim loại
+* **fine mesh**: lưới mắt nhỏ
+* **mesh screen**: tấm chắn lưới
+* **mesh well with**: phối hợp tốt với
+* **gears mesh**: bánh răng ăn khớp
+
+### Synonyms
+
+* **netting** /ˈnet.ɪŋ/ *(uncountable noun)*: vật liệu lưới
+* **network** UK /ˈnet.wɜːk/ US /ˈnet.wɝːk/ *(countable noun)*: mạng lưới
+* **fit together** /ˌfɪt təˈɡeð.ər/ *(phrasal verb)*: khớp với nhau
+* **integrate** /ˈɪn.tɪ.ɡreɪt/ *(intransitive/transitive verb)*: hòa nhập, tích hợp
+
+### Word family
+
+* **mesh** /meʃ/ *(noun/verb)*: lưới; ăn khớp hoặc phối hợp  
+  *Example:* The two teams' working styles mesh surprisingly well.  
+  → Phong cách làm việc của hai nhóm phối hợp tốt một cách đáng ngạc nhiên.
+
+* **meshed** /meʃt/ *(adjective/past-participle form)*: được đan lưới hoặc ăn khớp  
+  *Example:* The meshed gears transfer power to the rear wheels.  
+  → Các bánh răng ăn khớp truyền lực đến bánh sau.
+
+* **meshing** /ˈmeʃ.ɪŋ/ *(uncountable noun/verb form)*: sự ăn khớp hoặc kết hợp  
+  *Example:* Proper meshing of the gears reduces noise and wear.  
+  → Sự ăn khớp đúng của các bánh răng làm giảm tiếng ồn và hao mòn.
+
+### Notes
+
+`Mesh with` means be compatible with or complement something: `The idea meshes with our goals`. `Network` is broader and describes connected people, systems, or lines; `mesh` emphasizes an interwoven pattern or close fit.
+
+---
+
+## 552. Ornate UK /ɔːˈneɪt/ US /ɔːrˈneɪt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** được trang trí công phu với nhiều chi tiết phức tạp *(80%)*; có văn phong hoặc phong cách cầu kỳ, hoa mỹ *(20%)*
+
+### Usage
+
+`Ornate` describes buildings, furniture, objects, designs, or language with elaborate decoration and many details. It can be neutral or admiring, but it may also imply excessive decoration.
+
+Common structures:
+
+* `an ornate + building/frame/design`: tòa nhà/khung/thiết kế trang trí công phu
+* `be ornately decorated with + detail`: được trang trí cầu kỳ bằng chi tiết gì
+* `an ornate style of + architecture/writing`: phong cách kiến trúc/văn chương hoa mỹ
+* `highly/richly ornate`: vô cùng/cực kỳ cầu kỳ
+* `ornate details cover + surface`: các chi tiết cầu kỳ phủ bề mặt
+
+### Examples
+
+1. **The cathedral has an ornate ceiling decorated with gold.**
+   → Nhà thờ chính tòa có trần trang trí công phu bằng vàng.
+
+2. **The author's ornate prose can be difficult to follow.**
+   → Văn phong hoa mỹ của tác giả có thể khó theo dõi.
+
+### Common collocations
+
+* **ornate decoration**: sự trang trí cầu kỳ
+* **ornate design**: thiết kế công phu
+* **ornate architecture**: kiến trúc cầu kỳ
+* **ornate frame**: khung trang trí công phu
+* **ornate language**: ngôn ngữ hoa mỹ
+
+### Synonyms
+
+* **elaborate** /ɪˈlæb.ər.ət/ *(adjective)*: công phu, nhiều chi tiết
+* **decorative** /ˈdek.ər.ə.tɪv/ *(adjective)*: có tính trang trí
+* **embellished** /ɪmˈbel.ɪʃt/ *(adjective)*: được tô điểm
+* **florid** UK /ˈflɒr.ɪd/ US /ˈflɔːr.ɪd/ *(adjective; often critical)*: quá hoa mỹ
+
+### Word family
+
+* **ornate** UK /ɔːˈneɪt/ US /ɔːrˈneɪt/ *(adjective)*: cầu kỳ, trang trí công phu  
+  *Example:* Ornate stone carvings surround the entrance.  
+  → Những hình chạm khắc đá cầu kỳ bao quanh lối vào.
+
+* **ornately** UK /ɔːˈneɪt.li/ US /ɔːrˈneɪt.li/ *(adverb)*: một cách cầu kỳ  
+  *Example:* The hall is ornately furnished in a traditional style.  
+  → Đại sảnh được bài trí công phu theo phong cách truyền thống.
+
+* **ornament** UK /ˈɔː.nə.mənt/ US /ˈɔːr.nə.mənt/ *(countable noun/transitive verb)*: đồ trang trí; trang trí  
+  *Example:* Sculptures ornament the building's exterior.  
+  → Các tác phẩm điêu khắc trang trí mặt ngoài của tòa nhà.
+
+* **ornamental** UK /ˌɔː.nəˈmen.təl/ US /ˌɔːr.nəˈmen.t̬əl/ *(adjective)*: dùng để trang trí  
+  *Example:* The garden contains several ornamental trees.  
+  → Khu vườn có một số cây cảnh.
+
+* **ornamentation** UK /ˌɔː.nə.menˈteɪ.ʃən/ US /ˌɔːr.nə.menˈteɪ.ʃən/ *(uncountable noun)*: sự hoặc các chi tiết trang trí  
+  *Example:* The room's heavy ornamentation makes it feel smaller.  
+  → Các chi tiết trang trí dày đặc khiến căn phòng có cảm giác nhỏ hơn.
+
+### Notes
+
+`Ornate` describes a high degree of decoration. `Decorative` simply means intended to look attractive and does not necessarily imply complexity. `Florid` is more clearly critical, especially for writing.
+
+---
+
+## 553. Overriding UK /ˌəʊ.vəˈraɪ.dɪŋ/ US /ˌoʊ.vɚˈraɪ.dɪŋ/
+
+* **Part of speech:** adjective; present-participle form of the transitive verb `override`
+* **Vietnamese meaning:** quan trọng hơn tất cả các yếu tố khác, có tính quyết định *(75%)*; đang bác bỏ hoặc thay thế một quyết định/quy tắc *(15%)*; đang điều khiển thủ công thay cho hệ thống tự động *(10%)*
+
+### Usage
+
+As an adjective, `overriding` means more important than every other consideration. As a verb form, it describes using authority or a control to cancel, replace, or take priority over an existing decision or automatic process.
+
+Common structures:
+
+* `an overriding + concern/priority/objective`: mối quan tâm/ưu tiên/mục tiêu quan trọng nhất
+* `of overriding importance`: có tầm quan trọng cao nhất
+* `override + decision/rule`: bác bỏ hoặc thay thế quyết định/quy tắc
+* `override + automatic system`: giành quyền điều khiển từ hệ thống tự động
+* `be overridden by + authority/factor`: bị bác bỏ hoặc lấn át bởi quyền lực/yếu tố nào
+
+### Examples
+
+1. **Public safety must be the overriding priority.**
+   → An toàn công cộng phải là ưu tiên quan trọng nhất.
+
+2. **The judge's overriding concern was the welfare of the child.**
+   → Mối quan tâm quan trọng nhất của thẩm phán là phúc lợi của đứa trẻ.
+
+### Common collocations
+
+* **overriding concern**: mối quan tâm hàng đầu
+* **overriding priority**: ưu tiên cao nhất
+* **overriding objective**: mục tiêu quan trọng nhất
+* **overriding importance**: tầm quan trọng vượt trội
+* **manual override**: cơ chế điều khiển thủ công thay thế tự động
+
+### Synonyms
+
+* **paramount** /ˈpær.ə.maʊnt/ *(adjective)*: quan trọng hàng đầu
+* **dominant** UK /ˈdɒm.ɪ.nənt/ US /ˈdɑː.mə.nənt/ *(adjective)*: chi phối
+* **principal** /ˈprɪn.sə.pəl/ *(adjective)*: chính, quan trọng nhất
+* **supreme** /suːˈpriːm/ *(adjective)*: tối cao
+
+### Word family
+
+* **override** UK /ˌəʊ.vəˈraɪd/ US /ˌoʊ.vɚˈraɪd/ *(transitive verb/countable noun)*: bác bỏ, thay thế; cơ chế giành quyền điều khiển  
+  *Example:* A supervisor can override the automated decision.  
+  → Người giám sát có thể bác bỏ quyết định tự động.
+
+* **overrode** UK /ˌəʊ.vəˈrəʊd/ US /ˌoʊ.vɚˈroʊd/ *(past-tense form)*: đã bác bỏ hoặc thay thế  
+  *Example:* The director overrode the committee's recommendation.  
+  → Giám đốc đã bác bỏ khuyến nghị của ủy ban.
+
+* **overridden** UK /ˌəʊ.vəˈrɪd.ən/ US /ˌoʊ.vɚˈrɪd.ən/ *(past-participle form)*: đã bị bác bỏ hoặc thay thế  
+  *Example:* The safety lock cannot be overridden remotely.  
+  → Khóa an toàn không thể bị vô hiệu hóa từ xa.
+
+* **overriding** UK /ˌəʊ.vəˈraɪ.dɪŋ/ US /ˌoʊ.vɚˈraɪ.dɪŋ/ *(adjective/verb form)*: quan trọng nhất; đang thay thế  
+  *Example:* Cost should not be the overriding factor in medical decisions.  
+  → Chi phí không nên là yếu tố quan trọng nhất trong các quyết định y tế.
+
+### Notes
+
+As an adjective, `overriding` almost always comes before a noun. Do not confuse `overriding` with `overarching`: an `overriding priority` is more important than all others, while an `overarching theme` includes or influences many parts.
+
+---
+
+## 554. Pejorative UK /pɪˈdʒɒr.ə.tɪv/ US /pɪˈdʒɔːr.ə.t̬ɪv/
+
+* **Part of speech:** adjective; countable noun
+* **Vietnamese meaning:** mang tính miệt thị, chê bai hoặc thể hiện thái độ tiêu cực *(85%)*; từ hoặc cách diễn đạt mang nghĩa miệt thị *(15%)*
+
+### Usage
+
+`Pejorative` describes a word or expression that conveys criticism, contempt, or a negative judgment. As a noun, `a pejorative` is such a word. It is a formal linguistic term and does not necessarily mean the expression is a severe slur.
+
+Common structures:
+
+* `a pejorative + term/label/meaning`: thuật ngữ/nhãn/nghĩa mang tính miệt thị
+* `use something pejoratively`: dùng điều gì theo nghĩa miệt thị
+* `be regarded as pejorative`: bị xem là mang tính miệt thị
+* `have/acquire a pejorative sense`: có/dần mang nghĩa tiêu cực
+* `avoid pejorative language`: tránh ngôn ngữ miệt thị
+
+### Examples
+
+1. **The label is widely considered pejorative and should be avoided.**
+   → Cách gọi này bị xem rộng rãi là mang tính miệt thị và nên được tránh.
+
+2. **A word that was once neutral may acquire a pejorative meaning.**
+   → Một từ từng mang nghĩa trung tính có thể dần mang nghĩa chê bai.
+
+### Common collocations
+
+* **pejorative term**: thuật ngữ miệt thị
+* **pejorative label**: nhãn mang tính chê bai
+* **pejorative meaning**: nghĩa tiêu cực/miệt thị
+* **racial pejorative**: từ miệt thị chủng tộc
+* **use pejoratively**: dùng với ý chê bai
+
+### Synonyms
+
+* **derogatory** UK /dɪˈrɒɡ.ə.tər.i/ US /dɪˈrɑː.ɡə.tɔːr.i/ *(adjective)*: mang tính hạ thấp, xúc phạm
+* **disparaging** /dɪˈspær.ɪ.dʒɪŋ/ *(adjective)*: mang tính coi thường
+* **insulting** /ɪnˈsʌl.tɪŋ/ *(adjective)*: xúc phạm
+* **belittling** /bɪˈlɪt.əl.ɪŋ/ *(adjective)*: hạ thấp
+
+### Word family
+
+* **pejorative** UK /pɪˈdʒɒr.ə.tɪv/ US /pɪˈdʒɔːr.ə.t̬ɪv/ *(adjective/countable noun)*: mang tính miệt thị; từ miệt thị  
+  *Example:* The expression began as a pejorative but was later reclaimed by the group.  
+  → Cách diễn đạt ban đầu là một từ miệt thị nhưng sau đó được chính nhóm đó sử dụng lại theo hướng tích cực.
+
+* **pejoratively** UK /pɪˈdʒɒr.ə.tɪv.li/ US /pɪˈdʒɔːr.ə.t̬ɪv.li/ *(adverb)*: theo cách miệt thị hoặc chê bai  
+  *Example:* The term is sometimes used pejoratively in political debate.  
+  → Thuật ngữ này đôi khi được dùng theo cách miệt thị trong tranh luận chính trị.
+
+### Notes
+
+`Pejorative` describes negative connotation; it is not itself always a pejorative word. `Derogatory` and `insulting` often suggest a more direct attack, while a pejorative expression may communicate subtler disapproval.
+
+---
+
+## 555. Platform UK /ˈplæt.fɔːm/ US /ˈplæt.fɔːrm/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** bề mặt hoặc sân nâng cao để đứng, làm việc hay biểu diễn *(25%)*; sân ga nơi hành khách lên xuống tàu *(20%)*; hệ thống công nghệ làm nền tảng cho ứng dụng/dịch vụ *(20%)*; chính sách hoặc chương trình hành động của đảng/ứng viên *(15%)*; cơ hội hoặc phương tiện để trình bày quan điểm *(15%)*; công trình ngoài khơi phục vụ khai thác *(5%)*
+
+### Usage
+
+`Platform` has several common specialized meanings united by the idea of a supporting base. In technology, it is an environment on which services or software operate. In politics, especially American English, it is a set of policies. It can also mean a public opportunity to communicate ideas.
+
+Common structures:
+
+* `stand/wait on a platform`: đứng/chờ trên sân nâng hoặc sân ga
+* `a train departs from platform + number`: tàu khởi hành từ sân ga số mấy
+* `build/run something on a platform`: xây dựng/vận hành thứ gì trên một nền tảng
+* `provide a platform for + person/idea`: tạo diễn đàn cho người/ý tưởng
+* `campaign on a platform of + policies`: vận động dựa trên chương trình chính sách nào
+
+### Examples
+
+1. **The train to Oxford leaves from platform six.**
+   → Chuyến tàu đi Oxford khởi hành từ sân ga số sáu.
+
+2. **The website provides a platform for independent artists.**
+   → Trang web cung cấp một nền tảng cho các nghệ sĩ độc lập.
+
+### Common collocations
+
+* **railway platform**: sân ga đường sắt
+* **digital platform**: nền tảng số
+* **online platform**: nền tảng trực tuyến
+* **political platform**: cương lĩnh chính trị
+* **oil platform**: giàn khoan dầu
+
+### Synonyms
+
+* **raised stage** /ˌreɪzd ˈsteɪdʒ/ *(countable noun phrase)*: bục hoặc sân nâng cao
+* **boarding area** UK /ˈbɔː.dɪŋ ˌeə.ri.ə/ US /ˈbɔːr.dɪŋ ˌer.i.ə/ *(countable noun phrase)*: khu vực lên phương tiện
+* **framework** /ˈfreɪm.wɜːk/ *(countable noun; technical sense)*: khuôn khổ nền tảng
+* **forum** /ˈfɔː.rəm/ *(countable noun)*: diễn đàn
+
+### Word family
+
+* **platform** UK /ˈplæt.fɔːm/ US /ˈplæt.fɔːrm/ *(countable noun)*: bục, sân ga, nền tảng hoặc cương lĩnh  
+  *Example:* The company moved its services to a cloud platform.  
+  → Công ty chuyển các dịch vụ của mình sang một nền tảng đám mây.
+
+* **cross-platform** UK /ˌkrɒsˈplæt.fɔːm/ US /ˌkrɑːsˈplæt.fɔːrm/ *(adjective)*: hoạt động trên nhiều nền tảng  
+  *Example:* The team developed a cross-platform mobile application.  
+  → Nhóm đã phát triển một ứng dụng di động đa nền tảng.
+
+* **multiplatform** UK /ˌmʌl.tiˈplæt.fɔːm/ US /ˌmʌl.t̬iˈplæt.fɔːrm/ *(adjective)*: sử dụng hoặc xuất hiện trên nhiều nền tảng  
+  *Example:* The broadcaster adopted a multiplatform content strategy.  
+  → Đài truyền hình áp dụng chiến lược nội dung trên nhiều nền tảng.
+
+### Notes
+
+At a station, use `on the platform`, not `in the platform`. In technology, a `platform` is a base environment, whereas an `application` is a program that may run on that platform.
+
+---
+
+## 556. Postwar UK /ˌpəʊstˈwɔːr/ US /ˌpoʊstˈwɔːr/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thuộc giai đoạn sau một cuộc chiến tranh, đặc biệt thường chỉ thời kỳ sau Chiến tranh thế giới thứ hai *(100%)*
+
+### Usage
+
+`Postwar` describes events, policies, society, architecture, or economic conditions after a war. Without additional context, it often refers to the years after the Second World War. Both `postwar` and `post-war` occur, but the closed form is common in modern dictionaries.
+
+Common structures:
+
+* `the postwar + period/era`: thời kỳ sau chiến tranh
+* `postwar + reconstruction/recovery`: công cuộc tái thiết/phục hồi sau chiến tranh
+* `postwar + society/economy`: xã hội/nền kinh tế sau chiến tranh
+* `in the early postwar years`: trong những năm đầu sau chiến tranh
+* `a feature of postwar + life`: một đặc điểm của đời sống sau chiến tranh
+
+### Examples
+
+1. **The country experienced rapid economic growth during the postwar period.**
+   → Đất nước trải qua tăng trưởng kinh tế nhanh chóng trong thời kỳ hậu chiến.
+
+2. **Many postwar housing projects used prefabricated materials.**
+   → Nhiều dự án nhà ở sau chiến tranh sử dụng vật liệu đúc sẵn.
+
+### Common collocations
+
+* **postwar period**: thời kỳ hậu chiến
+* **postwar reconstruction**: công cuộc tái thiết sau chiến tranh
+* **postwar economy**: nền kinh tế hậu chiến
+* **postwar generation**: thế hệ hậu chiến
+* **postwar architecture**: kiến trúc sau chiến tranh
+
+### Synonyms
+
+* **after the war** UK /ˌɑːf.tə ðə ˈwɔːr/ US /ˌæf.tɚ ðə ˈwɔːr/ *(adverbial phrase)*: sau chiến tranh
+* **post-conflict** UK /ˌpəʊstˈkɒn.flɪkt/ US /ˌpoʊstˈkɑːn.flɪkt/ *(adjective; broader policy term)*: sau xung đột
+* **peacetime** /ˈpiːs.taɪm/ *(adjective/noun; not exact)*: thời bình
+
+### Word family
+
+* **war** UK /wɔː/ US /wɔːr/ *(countable/uncountable noun)*: chiến tranh  
+  *Example:* The war displaced millions of civilians.  
+  → Cuộc chiến khiến hàng triệu thường dân phải di dời.
+
+* **wartime** UK /ˈwɔː.taɪm/ US /ˈwɔːr.taɪm/ *(adjective/uncountable noun)*: thuộc thời chiến; thời chiến  
+  *Example:* Food was rationed during wartime.  
+  → Thực phẩm được phân phối theo định mức trong thời chiến.
+
+* **prewar** UK /ˌpriːˈwɔːr/ US /ˌpriːˈwɔːr/ *(adjective)*: thuộc thời kỳ trước chiến tranh  
+  *Example:* The city restored several prewar buildings.  
+  → Thành phố trùng tu một số tòa nhà có từ trước chiến tranh.
+
+* **postwar** UK /ˌpəʊstˈwɔːr/ US /ˌpoʊstˈwɔːr/ *(adjective)*: thuộc thời kỳ sau chiến tranh  
+  *Example:* Postwar reforms expanded access to education.  
+  → Các cải cách hậu chiến mở rộng khả năng tiếp cận giáo dục.
+
+### Notes
+
+`Postwar` is relative to a particular war, so identify the conflict when the context is unclear. `Post-conflict` is common in international development and can refer to the period after a civil conflict that was not formally declared a war.
+
+---
+
+## 557. Prefabricated /ˌpriːˈfæb.rɪ.keɪ.tɪd/
+
+* **Part of speech:** adjective; past-tense and past-participle form of `prefabricate`
+* **Vietnamese meaning:** được sản xuất sẵn thành các bộ phận tại nhà máy rồi vận chuyển đến nơi để lắp ráp *(90%)*; có vẻ được làm theo công thức, thiếu tính cá nhân hoặc sáng tạo *(10%)*
+
+### Usage
+
+`Prefabricated` most commonly describes buildings or components manufactured off-site and assembled at their final location. It can also be used critically for ideas or responses that seem ready-made rather than original. `Prefab` is the common informal short form.
+
+Common structures:
+
+* `a prefabricated + house/building/component`: nhà/tòa nhà/bộ phận đúc hoặc chế tạo sẵn
+* `be prefabricated in/at + place`: được chế tạo sẵn tại nơi nào
+* `be assembled from prefabricated sections`: được lắp ráp từ các phần chế tạo sẵn
+* `use prefabricated materials`: sử dụng vật liệu chế tạo sẵn
+* `a prefabricated response/idea`: câu trả lời/ý tưởng rập khuôn
+
+### Examples
+
+1. **The school was assembled from prefabricated concrete panels.**
+   → Trường học được lắp ráp từ các tấm bê tông đúc sẵn.
+
+2. **Prefabricated housing can reduce construction time and waste.**
+   → Nhà ở lắp ghép có thể giảm thời gian xây dựng và chất thải.
+
+### Common collocations
+
+* **prefabricated house**: nhà lắp ghép
+* **prefabricated building**: tòa nhà chế tạo sẵn
+* **prefabricated components**: các bộ phận chế tạo sẵn
+* **prefabricated concrete**: bê tông đúc sẵn
+* **prefabricated structure**: kết cấu lắp ghép
+
+### Synonyms
+
+* **precast** UK /ˌpriːˈkɑːst/ US /ˌpriːˈkæst/ *(adjective; especially concrete)*: đúc sẵn
+* **modular** UK /ˈmɒd.jə.lər/ US /ˈmɑː.dʒə.lɚ/ *(adjective)*: dạng mô-đun
+* **factory-built** UK /ˈfæk.tər.i bɪlt/ US /ˈfæk.tɚ.i bɪlt/ *(adjective)*: được sản xuất tại nhà máy
+* **ready-made** /ˌred.iˈmeɪd/ *(adjective)*: làm sẵn
+
+### Word family
+
+* **prefabricate** /ˌpriːˈfæb.rɪ.keɪt/ *(transitive verb)*: chế tạo sẵn các bộ phận để lắp ráp sau  
+  *Example:* The company prefabricates wall sections in a controlled factory environment.  
+  → Công ty chế tạo sẵn các phần tường trong môi trường nhà máy được kiểm soát.
+
+* **prefabricated** /ˌpriːˈfæb.rɪ.keɪ.tɪd/ *(adjective/past-participle form)*: được chế tạo sẵn  
+  *Example:* Prefabricated units were delivered directly to the site.  
+  → Các mô-đun chế tạo sẵn được giao thẳng đến công trường.
+
+* **prefabrication** /ˌpriː.fæb.rɪˈkeɪ.ʃən/ *(uncountable noun)*: quá trình chế tạo sẵn  
+  *Example:* Prefabrication improves consistency and reduces on-site labor.  
+  → Việc chế tạo sẵn cải thiện tính đồng nhất và giảm lao động tại công trường.
+
+* **prefab** /ˈpriː.fæb/ *(countable noun/adjective; informal)*: nhà lắp ghép; thuộc loại lắp ghép  
+  *Example:* The family moved into a small prefab after the storm.  
+  → Gia đình chuyển vào một căn nhà lắp ghép nhỏ sau cơn bão.
+
+### Notes
+
+`Prefabricated` describes where and how components are made; `modular` describes a system built from standardized units. A building can be both prefabricated and modular, but the terms are not identical.
+
+---
+
+## 558. Quarry UK /ˈkwɒr.i/ US /ˈkwɔːr.i/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** mỏ lộ thiên nơi khai thác đá, cát hoặc khoáng vật *(50%)*; khai thác đá/vật liệu từ mỏ *(25%)*; con vật hoặc người bị săn đuổi, mục tiêu truy tìm *(25%)*
+
+### Usage
+
+A `quarry` is an open excavation from which stone or other materials are extracted. As a verb, it means remove material from such a site. In another noun sense, `quarry` is a hunted animal or a person being pursued.
+
+Common structures:
+
+* `work in/operate a quarry`: làm việc/vận hành một mỏ đá
+* `extract stone from a quarry`: khai thác đá từ mỏ
+* `quarry + limestone/marble`: khai thác đá vôi/đá cẩm thạch
+* `be quarried from + place`: được khai thác từ nơi nào
+* `pursue/track one's quarry`: truy đuổi/theo dấu con mồi hoặc mục tiêu
+
+### Examples
+
+1. **The abandoned limestone quarry has filled with water.**
+   → Mỏ đá vôi bị bỏ hoang đã ngập đầy nước.
+
+2. **The builders used stone quarried from the nearby hills.**
+   → Những người xây dựng sử dụng đá được khai thác từ các ngọn đồi gần đó.
+
+### Common collocations
+
+* **limestone quarry**: mỏ đá vôi
+* **stone quarry**: mỏ đá
+* **abandoned quarry**: mỏ đá bỏ hoang
+* **quarry stone**: khai thác đá
+* **track one's quarry**: theo dấu mục tiêu/con mồi
+
+### Synonyms
+
+* **open-pit mine** /ˌəʊ.pən pɪt ˈmaɪn/ *(countable noun phrase)*: mỏ lộ thiên
+* **excavation** /ˌek.skəˈveɪ.ʃən/ *(countable noun)*: khu hoặc hoạt động đào khai thác
+* **prey** /preɪ/ *(uncountable/collective noun)*: con mồi
+* **target** UK /ˈtɑː.ɡɪt/ US /ˈtɑːr.ɡɪt/ *(countable noun)*: mục tiêu
+
+### Word family
+
+* **quarry** UK /ˈkwɒr.i/ US /ˈkwɔːr.i/ *(noun/verb)*: mỏ khai thác; khai thác; con mồi  
+  *Example:* The company plans to quarry granite from the site.  
+  → Công ty dự định khai thác đá granit tại khu vực này.
+
+* **quarried** UK /ˈkwɒr.id/ US /ˈkwɔːr.id/ *(adjective/past-participle form)*: được khai thác từ mỏ  
+  *Example:* The walls are made from locally quarried stone.  
+  → Những bức tường được làm từ đá khai thác tại địa phương.
+
+* **quarrying** UK /ˈkwɒr.i.ɪŋ/ US /ˈkwɔːr.i.ɪŋ/ *(uncountable noun/verb form)*: hoạt động khai thác đá  
+  *Example:* Quarrying can alter landscapes and damage habitats.  
+  → Hoạt động khai thác đá có thể làm thay đổi cảnh quan và gây hại môi trường sống.
+
+### Notes
+
+A `quarry` usually supplies stone and construction materials from the surface. A `mine` more broadly extracts minerals or fuel and may extend underground. The prey sense is countable in context: `The hunter followed his quarry`.
+
+---
+
+## 559. Recognition /ˌrek.əɡˈnɪʃ.ən/
+
+* **Part of speech:** uncountable noun; singular noun in some fixed expressions
+* **Vietnamese meaning:** sự nhận ra hoặc xác định một người/vật đã biết *(30%)*; sự công nhận, khen ngợi hoặc ghi nhận thành tích *(35%)*; sự thừa nhận chính thức về địa vị, quyền hoặc tính hợp pháp *(20%)*; sự hiểu và thừa nhận rằng một vấn đề/sự thật tồn tại *(15%)*
+
+### Usage
+
+`Recognition` can mean identifying something familiar, acknowledging achievement, granting official status, or accepting the existence and importance of a fact. It is generally uncountable: `receive recognition`, not `receive a recognition`, except in rare specialized uses.
+
+Common structures:
+
+* `recognition of + person/fact/right`: sự nhận ra/công nhận người, sự thật hoặc quyền
+* `receive/gain recognition for + achievement`: nhận được sự công nhận cho thành tựu
+* `in recognition of + contribution`: để ghi nhận đóng góp
+* `give official recognition to + group`: chính thức công nhận nhóm nào
+* `beyond recognition`: đến mức không thể nhận ra
+
+### Examples
+
+1. **The scientist received international recognition for her research.**
+   → Nhà khoa học nhận được sự công nhận quốc tế cho nghiên cứu của mình.
+
+2. **Facial recognition systems raise serious privacy concerns.**
+   → Hệ thống nhận dạng khuôn mặt làm dấy lên những lo ngại nghiêm trọng về quyền riêng tư.
+
+### Common collocations
+
+* **international recognition**: sự công nhận quốc tế
+* **official recognition**: sự công nhận chính thức
+* **facial recognition**: nhận dạng khuôn mặt
+* **gain recognition**: được công nhận
+* **in recognition of**: để ghi nhận
+
+### Synonyms
+
+* **identification** /aɪˌden.tɪ.fɪˈkeɪ.ʃən/ *(uncountable noun)*: sự nhận dạng
+* **acknowledgment** /əkˈnɒl.ɪdʒ.mənt/ *(countable/uncountable noun)*: sự thừa nhận, ghi nhận
+* **appreciation** /əˌpriː.ʃiˈeɪ.ʃən/ *(uncountable noun)*: sự trân trọng
+* **acceptance** /əkˈsep.təns/ *(uncountable noun)*: sự chấp nhận, công nhận
+
+### Word family
+
+* **recognize/recognise** /ˈrek.əɡ.naɪz/ *(transitive verb)*: nhận ra; công nhận  
+  *Example:* Governments increasingly recognize access to clean water as a basic right.  
+  → Các chính phủ ngày càng công nhận việc tiếp cận nước sạch là một quyền cơ bản.
+
+* **recognition** /ˌrek.əɡˈnɪʃ.ən/ *(uncountable noun)*: sự nhận ra hoặc công nhận  
+  *Example:* The award provides recognition for outstanding teaching.  
+  → Giải thưởng ghi nhận hoạt động giảng dạy xuất sắc.
+
+* **recognizable/recognisable** /ˈrek.əɡ.naɪ.zə.bəl/ *(adjective)*: có thể nhận ra  
+  *Example:* The city remains recognizable despite rapid development.  
+  → Thành phố vẫn có thể nhận ra được dù phát triển nhanh chóng.
+
+* **recognizably/recognisably** /ˈrek.əɡ.naɪ.zə.bli/ *(adverb)*: theo cách có thể nhận ra  
+  *Example:* The renovated facade is still recognizably Victorian.  
+  → Mặt tiền đã cải tạo vẫn mang nét thời Victoria có thể nhận ra rõ ràng.
+
+* **unrecognized/unrecognised** /ʌnˈrek.əɡ.naɪzd/ *(adjective)*: không được nhận ra hoặc công nhận  
+  *Example:* Many unpaid caregivers make an unrecognized contribution to society.  
+  → Nhiều người chăm sóc không lương có đóng góp chưa được xã hội ghi nhận.
+
+### Notes
+
+`Recognition` is usually uncountable. `Acknowledgment` emphasizes admitting or mentioning something; `recognition` often implies broader appreciation, status, or identification. The British spelling is `recognise`; American English uses `recognize`.
+
+---
+
+## 560. Rosy UK /ˈrəʊ.zi/ US /ˈroʊ.zi/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** lạc quan, hứa hẹn kết quả tốt đẹp, đôi khi quá lạc quan *(50%)*; hồng hào khỏe mạnh, đặc biệt về má *(30%)*; có màu hồng hoặc đỏ hồng *(20%)*
+
+### Usage
+
+`Rosy` can describe a healthy pink complexion, a pinkish color, or an optimistic view of the future. In `a rosy picture/outlook`, it may imply that the optimism ignores possible problems.
+
+Common structures:
+
+* `a rosy + future/outlook/picture`: tương lai/triển vọng/bức tranh lạc quan
+* `look/seem rosy`: có vẻ đầy triển vọng
+* `paint a rosy picture of + situation`: vẽ ra bức tranh lạc quan về tình hình
+* `rosy cheeks`: đôi má hồng hào
+* `far from rosy`: hoàn toàn không khả quan
+
+### Examples
+
+1. **The report paints a rosy picture of the country's economic future.**
+   → Báo cáo vẽ ra một bức tranh lạc quan về tương lai kinh tế của đất nước.
+
+2. **The cold air gave the child rosy cheeks.**
+   → Không khí lạnh khiến đôi má đứa trẻ hồng hào.
+
+### Common collocations
+
+* **rosy outlook**: triển vọng lạc quan
+* **rosy future**: tương lai tươi sáng
+* **rosy picture**: bức tranh lạc quan
+* **rosy cheeks**: đôi má hồng hào
+* **rosy glow**: ánh hồng
+
+### Synonyms
+
+* **optimistic** UK /ˌɒp.tɪˈmɪs.tɪk/ US /ˌɑːp.təˈmɪs.tɪk/ *(adjective)*: lạc quan
+* **promising** /ˈprɒm.ɪ.sɪŋ/ *(adjective)*: đầy hứa hẹn
+* **pinkish** /ˈpɪŋ.kɪʃ/ *(adjective)*: hơi hồng
+* **healthy-looking** /ˈhel.θi ˌlʊk.ɪŋ/ *(adjective)*: trông khỏe mạnh
+
+### Word family
+
+* **rose** UK /rəʊz/ US /roʊz/ *(countable noun/adjective)*: hoa hồng; màu hồng  
+  *Example:* She chose a soft rose shade for the walls.  
+  → Cô ấy chọn tông hồng dịu cho các bức tường.
+
+* **rosy** UK /ˈrəʊ.zi/ US /ˈroʊ.zi/ *(adjective)*: hồng hào; lạc quan  
+  *Example:* Initial predictions were too rosy.  
+  → Những dự đoán ban đầu quá lạc quan.
+
+* **rosiness** UK /ˈrəʊ.zi.nəs/ US /ˈroʊ.zi.nəs/ *(uncountable noun)*: sắc hồng; tính quá lạc quan  
+  *Example:* The rosiness of the forecast concealed significant risks.  
+  → Tính quá lạc quan của dự báo che giấu những rủi ro đáng kể.
+
+### Notes
+
+`Rosy` is positive in `rosy cheeks`, but `a rosy picture` can be mildly critical if the account is unrealistically optimistic. `Rose-colored glasses` similarly means an overly optimistic way of viewing reality.
+
+---
+
+## 561. Self-indulgence /ˌself.ɪnˈdʌl.dʒəns/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự chiều chuộng bản thân quá mức, thỏa mãn mong muốn hoặc thú vui của mình mà ít quan tâm đến hậu quả hay trách nhiệm *(100%)*
+
+### Usage
+
+`Self-indulgence` is excessive enjoyment of comfort, pleasure, food, spending, or emotion. It is usually disapproving and implies weak self-control or neglect of responsibilities. A small occasional pleasure is not necessarily self-indulgence.
+
+Common structures:
+
+* `an act/moment of self-indulgence`: một hành động/khoảnh khắc chiều chuộng bản thân
+* `avoid/resist self-indulgence`: tránh/cưỡng lại sự nuông chiều bản thân
+* `be criticized as self-indulgence`: bị chỉ trích là sự chiều chuộng bản thân
+* `self-indulgence in + activity`: sự nuông chiều bản thân trong hoạt động nào
+* `a tendency toward self-indulgence`: xu hướng nuông chiều bản thân
+
+### Examples
+
+1. **Buying expensive items on credit can become a form of self-indulgence.**
+   → Mua những món đồ đắt tiền bằng tín dụng có thể trở thành một hình thức chiều chuộng bản thân quá mức.
+
+2. **Resting after months of hard work is not necessarily self-indulgence.**
+   → Nghỉ ngơi sau nhiều tháng làm việc chăm chỉ không nhất thiết là nuông chiều bản thân.
+
+### Common collocations
+
+* **excessive self-indulgence**: sự nuông chiều bản thân quá mức
+* **act of self-indulgence**: hành động chiều chuộng bản thân
+* **avoid self-indulgence**: tránh nuông chiều bản thân
+* **emotional self-indulgence**: sự đắm chìm quá mức trong cảm xúc cá nhân
+* **tendency toward self-indulgence**: xu hướng chiều chuộng bản thân
+
+### Synonyms
+
+* **overindulgence** /ˌəʊ.vər.ɪnˈdʌl.dʒəns/ *(uncountable noun)*: sự hưởng thụ quá mức
+* **self-gratification** /ˌselfˌɡræt.ɪ.fɪˈkeɪ.ʃən/ *(uncountable noun)*: sự thỏa mãn ham muốn cá nhân
+* **excess** /ɪkˈses/ *(uncountable noun)*: sự quá mức
+* **pampering oneself** /ˈpæm.pər.ɪŋ wʌnˈself/ *(verb phrase)*: tự nuông chiều bản thân
+
+### Word family
+
+* **self-indulgence** /ˌself.ɪnˈdʌl.dʒəns/ *(uncountable noun)*: sự nuông chiều bản thân quá mức  
+  *Example:* The essay distinguishes self-care from self-indulgence.  
+  → Bài luận phân biệt việc chăm sóc bản thân với sự nuông chiều bản thân quá mức.
+
+* **self-indulgent** /ˌself.ɪnˈdʌl.dʒənt/ *(adjective)*: quá nuông chiều bản thân; quá đắm chìm vào mình  
+  *Example:* Reviewers described the film as long and self-indulgent.  
+  → Các nhà phê bình mô tả bộ phim là dài dòng và quá đắm chìm vào bản thân.
+
+* **self-indulgently** /ˌself.ɪnˈdʌl.dʒənt.li/ *(adverb)*: theo cách nuông chiều bản thân quá mức  
+  *Example:* The memoir dwells self-indulgently on minor personal grievances.  
+  → Cuốn hồi ký quá đắm chìm vào những bất mãn cá nhân nhỏ nhặt.
+
+### Notes
+
+`Self-care` supports long-term health and functioning; `self-indulgence` prioritizes immediate pleasure, often excessively. Context matters: enjoying a treat occasionally is not automatically self-indulgent.
+
+---
+
+## 562. Shaft UK /ʃɑːft/ US /ʃæft/
+
+* **Part of speech:** countable noun; transitive verb in informal usage
+* **Vietnamese meaning:** thanh dài, trục hoặc cán của dụng cụ/máy *(35%)*; lối hoặc khoang thẳng đứng trong mỏ/tòa nhà *(25%)*; tia hoặc luồng ánh sáng hẹp *(20%)*; phần thân dài thẳng của vật như cột hoặc mũi tên *(10%)*; đối xử bất công hoặc lừa ai trong cách nói thân mật *(10%)*
+
+### Usage
+
+`Shaft` commonly refers to a long, narrow part that transmits movement or forms the body of an object. It also means a vertical passage, especially a mine or elevator shaft, and a narrow beam of light. The informal verb is negative and means cheat or treat someone unfairly.
+
+Common structures:
+
+* `a shaft of + light/sunlight`: một tia ánh sáng/nắng
+* `an elevator/lift/mine shaft`: giếng thang máy/giếng mỏ
+* `a drive/propeller shaft`: trục truyền động/trục chân vịt
+* `the shaft of + tool/weapon`: cán hoặc thân của dụng cụ/vũ khí
+* `get/be shafted by + person/system`: bị người/hệ thống đối xử bất công
+
+### Examples
+
+1. **A shaft of sunlight entered through a gap in the roof.**
+   → Một tia nắng chiếu vào qua khe hở trên mái nhà.
+
+2. **The workers descended through the mine shaft.**
+   → Các công nhân đi xuống qua giếng mỏ.
+
+### Common collocations
+
+* **elevator shaft**: giếng thang máy
+* **mine shaft**: giếng mỏ
+* **shaft of light**: tia sáng
+* **drive shaft**: trục truyền động
+* **arrow shaft**: thân mũi tên
+
+### Synonyms
+
+* **rod** UK /rɒd/ US /rɑːd/ *(countable noun)*: thanh dài
+* **axle** /ˈæk.səl/ *(countable noun; mechanical)*: trục bánh xe
+* **passage** /ˈpæs.ɪdʒ/ *(countable noun)*: lối đi hoặc đường thông
+* **beam** /biːm/ *(countable noun; light sense)*: tia, chùm sáng
+
+### Word family
+
+* **shaft** UK /ʃɑːft/ US /ʃæft/ *(noun/verb)*: trục, cán, giếng đứng, tia sáng; đối xử bất công  
+  *Example:* The motor turns a shaft connected to the wheels.  
+  → Động cơ quay một trục nối với các bánh xe.
+
+* **shafted** UK /ˈʃɑːf.tɪd/ US /ˈʃæf.tɪd/ *(adjective/past-participle form; informal)*: bị đối xử bất công hoặc lừa  
+  *Example:* Customers felt shafted by the unexpected fees.  
+  → Khách hàng cảm thấy bị đối xử bất công bởi các khoản phí bất ngờ.
+
+### Notes
+
+The intended meaning depends heavily on the following noun: `drive shaft`, `mine shaft`, and `shaft of light` are unrelated physical applications of the same shape concept. The verb sense is informal and should be avoided in formal writing.
+
+---
+
+## 563. Speculate /ˈspek.jə.leɪt/
+
+* **Part of speech:** intransitive verb; transitive verb when followed by a clause
+* **Vietnamese meaning:** suy đoán về điều gì khi chưa có đủ bằng chứng *(70%)*; đầu cơ tài chính với hy vọng kiếm lời nhưng có rủi ro cao *(30%)*
+
+### Usage
+
+`Speculate` means form ideas about something without firm evidence. It can take `about/on`, a wh-clause, or a `that`-clause. In finance, `speculate in/on` means buy or sell assets in the hope of profiting from price changes.
+
+Common structures:
+
+* `speculate about/on + noun`: suy đoán về điều gì
+* `speculate that + clause`: suy đoán rằng
+* `speculate as to whether/why + clause`: suy đoán liệu/tại sao; trang trọng
+* `speculate in/on + asset/market`: đầu cơ vào tài sản/thị trường
+* `refuse/decline to speculate`: từ chối suy đoán
+
+### Examples
+
+1. **Scientists continue to speculate about the origin of the signal.**
+   → Các nhà khoa học tiếp tục suy đoán về nguồn gốc của tín hiệu.
+
+2. **Some investors speculate in property during periods of rapid growth.**
+   → Một số nhà đầu tư đầu cơ bất động sản trong các giai đoạn tăng trưởng nhanh.
+
+### Common collocations
+
+* **be widely speculated**: được suy đoán rộng rãi
+* **refuse to speculate**: từ chối suy đoán
+* **speculate about the cause**: suy đoán về nguyên nhân
+* **speculate in financial markets**: đầu cơ trên các thị trường tài chính
+* **pure speculation**: suy đoán thuần túy
+
+### Synonyms
+
+* **conjecture** UK /kənˈdʒek.tʃər/ US /kənˈdʒek.tʃɚ/ *(intransitive/transitive verb)*: phỏng đoán
+* **theorize** /ˈθɪə.raɪz/ *(intransitive/transitive verb)*: đưa ra giả thuyết
+* **guess** /ɡes/ *(intransitive/transitive verb)*: đoán
+* **gamble** /ˈɡæm.bəl/ *(intransitive verb; financial-risk sense)*: đánh cược
+
+### Word family
+
+* **speculate** /ˈspek.jə.leɪt/ *(verb)*: suy đoán; đầu cơ  
+  *Example:* Analysts speculated that interest rates would fall.  
+  → Các nhà phân tích suy đoán rằng lãi suất sẽ giảm.
+
+* **speculation** /ˌspek.jəˈleɪ.ʃən/ *(countable/uncountable noun)*: sự suy đoán; hoạt động đầu cơ  
+  *Example:* The announcement ended months of speculation.  
+  → Thông báo chấm dứt nhiều tháng suy đoán.
+
+* **speculative** /ˈspek.jə.lə.tɪv/ *(adjective)*: mang tính suy đoán hoặc đầu cơ rủi ro  
+  *Example:* The claim remains highly speculative.  
+  → Tuyên bố này vẫn mang tính suy đoán rất cao.
+
+* **speculatively** /ˈspek.jə.lə.tɪv.li/ *(adverb)*: theo cách suy đoán hoặc đầu cơ  
+  *Example:* The land was purchased speculatively before prices rose.  
+  → Mảnh đất được mua với mục đích đầu cơ trước khi giá tăng.
+
+* **speculator** UK /ˈspek.jə.leɪ.tər/ US /ˈspek.jə.leɪ.t̬ɚ/ *(countable noun)*: người đầu cơ  
+  *Example:* Property speculators pushed local prices upward.  
+  → Những người đầu cơ bất động sản đẩy giá địa phương lên cao.
+
+### Notes
+
+`Speculate` signals uncertainty, so do not present speculation as established fact. `Conjecture` is more formal and often intellectual; `speculate` is common in news and also has the separate financial sense.
+
+---
+
+## 564. Spring /sprɪŋ/
+
+* **Part of speech:** countable/uncountable noun; intransitive and transitive verb
+* **Vietnamese meaning:** mùa xuân *(30%)*; lò xo hoặc vật có tính đàn hồi *(20%)*; nguồn nước tự nhiên chảy từ lòng đất *(15%)*; nhảy, bật hoặc xuất hiện đột ngột *(15%)*; phát sinh hoặc bắt nguồn từ điều gì *(10%)*; bất ngờ trả tiền cho thứ gì hoặc giải thoát ai trong cách nói thân mật *(10%)*
+
+### Usage
+
+`Spring` has several unrelated-looking senses linked to sudden movement or emergence. It names the season after winter, a coiled elastic device, and a natural water source. As an irregular verb, its forms are `spring–sprang–sprung`.
+
+Common structures:
+
+* `in (the) spring`: vào mùa xuân
+* `a spring in + machine/mattress`: một lò xo trong máy/nệm
+* `water flows from a spring`: nước chảy từ một mạch nước
+* `spring from/out of + place`: bật ra hoặc xuất hiện từ nơi nào
+* `spring from + cause/origin`: bắt nguồn từ nguyên nhân/nguồn gốc nào
+* `spring into + action/life`: bất ngờ bắt đầu hành động/trở nên sống động
+* `spring for + cost/item`: trả tiền cho một khoản hoặc món đồ; cách nói thân mật
+* `spring someone from + place`: giải thoát ai khỏi nơi giam giữ; cách nói thân mật
+
+### Examples
+
+1. **Wildflowers cover the hillside in spring.**
+   → Hoa dại phủ kín sườn đồi vào mùa xuân.
+
+2. **Many social conflicts spring from inequality and mistrust.**
+   → Nhiều xung đột xã hội bắt nguồn từ bất bình đẳng và sự thiếu tin tưởng.
+
+### Common collocations
+
+* **early spring**: đầu mùa xuân
+* **natural spring**: mạch nước tự nhiên
+* **coil spring**: lò xo cuộn
+* **spring into action**: lập tức bắt tay hành động
+* **spring from**: bắt nguồn từ
+
+### Synonyms
+
+* **springtime** /ˈsprɪŋ.taɪm/ *(uncountable noun)*: mùa xuân
+* **coil** /kɔɪl/ *(countable noun; mechanical sense)*: cuộn/lò xo
+* **water source** UK /ˈwɔː.tə sɔːs/ US /ˈwɑː.t̬ɚ sɔːrs/ *(countable noun phrase)*: nguồn nước
+* **leap** /liːp/ *(intransitive verb)*: nhảy, bật
+* **arise from** /əˈraɪz frəm/ *(phrasal verb)*: phát sinh từ
+
+### Word family
+
+* **spring** /sprɪŋ/ *(noun/verb)*: mùa xuân; lò xo; mạch nước; bật lên; bắt nguồn  
+  *Example:* A hidden spring supplies fresh water to the village.  
+  → Một mạch nước ngầm cung cấp nước ngọt cho ngôi làng.
+
+* **sprang** /spræŋ/ *(past-tense form)*: đã bật, nhảy hoặc phát sinh  
+  *Example:* She sprang from her seat when the alarm sounded.  
+  → Cô ấy bật dậy khỏi ghế khi chuông báo động vang lên.
+
+* **sprung** /sprʌŋ/ *(past-participle form/adjective)*: đã bật hoặc phát sinh; có lò xo  
+  *Example:* Several small businesses have sprung up near the station.  
+  → Một số doanh nghiệp nhỏ đã mọc lên gần nhà ga.
+
+* **springy** /ˈsprɪŋ.i/ *(adjective)*: đàn hồi, nảy  
+  *Example:* The running track has a firm but springy surface.  
+  → Đường chạy có bề mặt chắc nhưng đàn hồi.
+
+### Notes
+
+The verb is irregular: `spring–sprang–sprung`, not `springed`. British English commonly says `in spring`, while American English often uses `in the spring`; both are correct. `Spring up` means appear quickly; informal `spring for something` means pay for it.
+
+---
+
+## 565. Staircase UK /ˈsteə.keɪs/ US /ˈster.keɪs/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** toàn bộ cầu thang trong một tòa nhà, gồm các bậc thang và thường cả tay vịn/kết cấu đỡ *(100%)*
+
+### Usage
+
+A `staircase` is the complete structure connecting floors. `Stairs` refers more directly to the individual steps or the route formed by them, while `stairway` is a near synonym emphasizing the passage.
+
+Common structures:
+
+* `go/climb up the staircase`: đi/leo lên cầu thang
+* `go/come down the staircase`: đi xuống cầu thang
+* `a staircase leads to + floor/room`: cầu thang dẫn đến tầng/phòng nào
+* `install/build a staircase`: lắp đặt/xây cầu thang
+* `at the top/bottom of the staircase`: ở đầu/cuối cầu thang
+
+### Examples
+
+1. **A narrow staircase leads to the bedrooms upstairs.**
+   → Một cầu thang hẹp dẫn đến các phòng ngủ ở tầng trên.
+
+2. **The hotel preserved its ornate wooden staircase.**
+   → Khách sạn bảo tồn cầu thang gỗ trang trí công phu của mình.
+
+### Common collocations
+
+* **spiral staircase**: cầu thang xoắn ốc
+* **wooden staircase**: cầu thang gỗ
+* **narrow staircase**: cầu thang hẹp
+* **grand staircase**: cầu thang lớn, trang trọng
+* **staircase railing**: lan can cầu thang
+
+### Synonyms
+
+* **stairs** UK /steəz/ US /sterz/ *(plural noun)*: cầu thang, các bậc thang
+* **stairway** UK /ˈsteə.weɪ/ US /ˈster.weɪ/ *(countable noun)*: lối cầu thang
+* **flight of stairs** UK /ˌflaɪt əv ˈsteəz/ US /ˌflaɪt əv ˈsterz/ *(countable noun phrase)*: một dãy bậc thang liên tục
+
+### Word family
+
+* **stair** UK /steər/ US /ster/ *(countable noun)*: bậc thang  
+  *Example:* One stair near the top is loose.  
+  → Một bậc thang gần phía trên bị lỏng.
+
+* **stairs** UK /steəz/ US /sterz/ *(plural noun)*: cầu thang hoặc các bậc thang  
+  *Example:* Please take the stairs instead of the lift.  
+  → Vui lòng đi cầu thang bộ thay vì thang máy.
+
+* **staircase** UK /ˈsteə.keɪs/ US /ˈster.keɪs/ *(countable noun)*: toàn bộ kết cấu cầu thang  
+  *Example:* The central staircase receives natural light from above.  
+  → Cầu thang trung tâm nhận ánh sáng tự nhiên từ phía trên.
+
+* **stairway** UK /ˈsteə.weɪ/ US /ˈster.weɪ/ *(countable noun)*: lối cầu thang  
+  *Example:* Boxes must not block the emergency stairway.  
+  → Các thùng hàng không được chặn lối cầu thang khẩn cấp.
+
+### Notes
+
+`A stair` is one step; `stairs` is the usual everyday word for the route between floors; `a staircase` is the whole architectural structure. Do not say `a stairs`; say `a staircase` or `a flight of stairs`.
+
+---
+
+## 566. Stark UK /stɑːk/ US /stɑːrk/
+
+* **Part of speech:** adjective; adverb in a few fixed expressions
+* **Vietnamese meaning:** rõ rệt, hoàn toàn và thường gây sốc hoặc khó chịu *(40%)*; trơ trụi, khắc nghiệt, không có trang trí hay sự mềm mại *(35%)*; tương phản mạnh và dễ thấy *(25%)*
+
+### Usage
+
+`Stark` emphasizes something severe, plain, or impossible to ignore. It commonly modifies `contrast`, `difference`, `reality`, `warning`, and `choice`. In the fixed phrase `stark naked`, it functions as an intensifying adverb.
+
+Common structures:
+
+* `a stark + contrast/difference`: sự tương phản/khác biệt rõ rệt
+* `a stark + reality/warning/choice`: thực tế/cảnh báo/lựa chọn khắc nghiệt
+* `stand in stark contrast to + noun`: tương phản rõ rệt với điều gì
+* `be stark and bare`: trơ trụi và không trang trí
+* `stark naked`: hoàn toàn khỏa thân; cách nói nhấn mạnh
+
+### Examples
+
+1. **The luxury apartments stand in stark contrast to nearby poor housing.**
+   → Những căn hộ sang trọng tương phản rõ rệt với khu nhà nghèo gần đó.
+
+2. **The report offers a stark warning about water shortages.**
+   → Báo cáo đưa ra lời cảnh báo nghiêm khắc và rõ ràng về tình trạng thiếu nước.
+
+### Common collocations
+
+* **stark contrast**: sự tương phản rõ rệt
+* **stark difference**: sự khác biệt rõ rệt
+* **stark reality**: thực tế khắc nghiệt
+* **stark warning**: lời cảnh báo nghiêm khắc
+* **stark landscape**: phong cảnh trơ trụi, khắc nghiệt
+
+### Synonyms
+
+* **striking** /ˈstraɪ.kɪŋ/ *(adjective; contrast sense)*: nổi bật, rõ rệt
+* **severe** UK /sɪˈvɪər/ US /sɪˈvɪr/ *(adjective)*: khắc nghiệt
+* **bare** UK /beər/ US /ber/ *(adjective)*: trơ trụi
+* **blunt** /blʌnt/ *(adjective; message sense)*: thẳng thừng
+
+### Word family
+
+* **stark** UK /stɑːk/ US /stɑːrk/ *(adjective/adverb)*: rõ rệt, khắc nghiệt, trơ trụi  
+  *Example:* The room's stark white walls created a cold atmosphere.  
+  → Những bức tường trắng trơ trọi của căn phòng tạo ra bầu không khí lạnh lẽo.
+
+* **starkly** UK /ˈstɑːk.li/ US /ˈstɑːrk.li/ *(adverb)*: một cách rõ rệt hoặc khắc nghiệt  
+  *Example:* The figures starkly reveal the scale of inequality.  
+  → Các con số phơi bày rõ rệt quy mô của bất bình đẳng.
+
+* **starkness** UK /ˈstɑːk.nəs/ US /ˈstɑːrk.nəs/ *(uncountable noun)*: tính trơ trụi hoặc tương phản rõ rệt  
+  *Example:* The starkness of the landscape made it strangely beautiful.  
+  → Sự trơ trụi của cảnh quan khiến nó đẹp một cách kỳ lạ.
+
+### Notes
+
+`Stark` is stronger and often more negative than `clear`. `A stark contrast` is immediately obvious; `a sharp contrast` is a close synonym. The expression `stark naked` is informal and emphatic.
+
+---
+
+## 567. Stationary UK /ˈsteɪ.ʃən.ər.i/ US /ˈsteɪ.ʃə.ner.i/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** đứng yên, không di chuyển *(85%)*; giữ nguyên mức hoặc trạng thái, không thay đổi *(15%)*
+
+### Usage
+
+`Stationary` describes a person, vehicle, or object that is not moving. In technical and economic contexts, it can describe a quantity or state that remains constant. It is frequently confused with `stationery`, meaning writing materials.
+
+Common structures:
+
+* `remain/keep stationary`: giữ nguyên vị trí, không di chuyển
+* `a stationary + vehicle/object`: phương tiện/vật thể đứng yên
+* `be stationary at + location`: đứng yên tại địa điểm nào
+* `a stationary state/level`: trạng thái/mức không thay đổi
+* `hit/collide with a stationary object`: đâm/va vào vật đứng yên
+
+### Examples
+
+1. **The cyclist collided with a stationary vehicle.**
+   → Người đi xe đạp va vào một phương tiện đang đứng yên.
+
+2. **Hold the camera stationary while the image is being captured.**
+   → Hãy giữ máy ảnh đứng yên trong khi hình ảnh được chụp.
+
+### Common collocations
+
+* **stationary vehicle**: phương tiện đứng yên
+* **stationary object**: vật đứng yên
+* **stationary position**: vị trí cố định
+* **stationary bike**: xe đạp tập tại chỗ
+* **remain stationary**: giữ nguyên, không di chuyển
+
+### Synonyms
+
+* **motionless** /ˈməʊ.ʃən.ləs/ *(adjective)*: bất động
+* **still** /stɪl/ *(adjective)*: đứng yên
+* **immobile** UK /ɪˈməʊ.baɪl/ US /ɪˈmoʊ.bəl/ *(adjective)*: không thể hoặc không di chuyển
+* **fixed** /fɪkst/ *(adjective)*: cố định
+
+### Word family
+
+* **stationary** UK /ˈsteɪ.ʃən.ər.i/ US /ˈsteɪ.ʃə.ner.i/ *(adjective)*: đứng yên, không thay đổi  
+  *Example:* The train remained stationary outside the station.  
+  → Đoàn tàu vẫn đứng yên bên ngoài nhà ga.
+
+* **stationarity** UK /ˌsteɪ.ʃənˈær.ə.ti/ US /ˌsteɪ.ʃəˈner.ə.t̬i/ *(uncountable noun; technical)*: tính dừng, tính ổn định theo thời gian  
+  *Example:* The model assumes stationarity in the time-series data.  
+  → Mô hình giả định tính dừng trong dữ liệu chuỗi thời gian.
+
+### Notes
+
+`Stationary` with `-ary` means not moving. `Stationery` with `-ery` means writing supplies such as paper and envelopes. A useful memory aid is that `stationery` contains `e` for `envelope`.
+
+---
+
+## 568. Storey UK /ˈstɔː.ri/; Story US /ˈstɔːr.i/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** tầng của một tòa nhà, tức toàn bộ khoảng không giữa hai mặt sàn liên tiếp *(100%)*
+
+### Usage
+
+`Storey` is the British spelling for a level of a building; American English spells this meaning `story`. The plural forms are `storeys` and `stories`. It often appears in compounds before a noun, such as `a two-storey house`.
+
+Common structures:
+
+* `a building has + number + storeys`: một tòa nhà có bao nhiêu tầng
+* `on the first/second storey`: ở tầng một/hai
+* `a two-/multi-storey + building`: tòa nhà hai/nhiều tầng
+* `add another storey to + building`: xây thêm một tầng cho tòa nhà
+* `the upper/lower storeys of + building`: các tầng trên/dưới của tòa nhà
+
+### Examples
+
+1. **The library occupies the top three storeys of the building.**
+   → Thư viện chiếm ba tầng trên cùng của tòa nhà.
+
+2. **They plan to add another storey to the house.**
+   → Họ dự định xây thêm một tầng cho ngôi nhà.
+
+### Common collocations
+
+* **two-storey house**: nhà hai tầng
+* **multi-storey building**: tòa nhà nhiều tầng
+* **upper storey**: tầng trên
+* **top storey**: tầng trên cùng
+* **storey height**: chiều cao một tầng
+
+### Synonyms
+
+* **floor** UK /flɔː/ US /flɔːr/ *(countable noun)*: tầng; cũng có nghĩa là sàn nhà
+* **level** /ˈlev.əl/ *(countable noun)*: tầng, mức
+* **story** US /ˈstɔːr.i/ *(countable noun; American spelling)*: tầng của tòa nhà
+
+### Word family
+
+* **storey** UK /ˈstɔː.ri/ US **story** /ˈstɔːr.i/ *(countable noun)*: tầng của tòa nhà  
+  *Example:* The offices are located on the fifth storey.  
+  → Các văn phòng nằm ở tầng năm.
+
+* **multi-storey** UK /ˌmʌl.tiˈstɔː.ri/ US **multistory** /ˌmʌl.t̬iˈstɔːr.i/ *(adjective)*: có nhiều tầng  
+  *Example:* A multi-storey car park stands beside the station.  
+  → Một bãi đỗ xe nhiều tầng nằm cạnh nhà ga.
+
+* **single-storey** UK /ˌsɪŋ.ɡəlˈstɔː.ri/ US **single-story** /ˌsɪŋ.ɡəlˈstɔːr.i/ *(adjective)*: có một tầng  
+  *Example:* The clinic is a single-storey building with step-free access.  
+  → Phòng khám là một tòa nhà một tầng có lối đi không bậc thang.
+
+### Notes
+
+Use `storey/storeys` in British English and `story/stories` in American English for building levels. In British usage, the `ground floor` is at street level and the `first floor` is above it; in American usage, the `first floor` is normally at street level.
+
+---
+
+## 569. Striking /ˈstraɪ.kɪŋ/
+
+* **Part of speech:** adjective; present-participle form of the transitive and intransitive verb `strike`
+* **Vietnamese meaning:** rất nổi bật, ấn tượng hoặc dễ gây chú ý *(50%)*; rõ rệt, đáng chú ý về sự giống nhau/khác biệt *(20%)*; đang đánh, va hoặc tác động vào thứ gì *(20%)*; đang đình công, ngừng làm việc để phản đối *(10%)*
+
+### Usage
+
+As an adjective, `striking` means visually impressive or notably clear. It commonly describes appearances, images, similarities, contrasts, and examples. As a verb form, it can refer to hitting, occurring suddenly, or workers taking industrial action.
+
+Common structures:
+
+* `a striking + appearance/image/example`: vẻ ngoài/hình ảnh/ví dụ nổi bật
+* `a striking similarity between A and B`: sự giống nhau đáng chú ý giữa A và B
+* `a striking contrast to/with + noun`: sự tương phản rõ rệt với điều gì
+* `strike + object/person`: đánh hoặc va vào vật/người
+* `workers are striking for/over + issue`: công nhân đang đình công vì vấn đề nào
+
+### Examples
+
+1. **The two cities show a striking contrast in urban design.**
+   → Hai thành phố cho thấy sự tương phản nổi bật trong thiết kế đô thị.
+
+2. **Her most striking feature is her confident voice.**
+   → Đặc điểm nổi bật nhất của cô ấy là giọng nói tự tin.
+
+### Common collocations
+
+* **striking contrast**: sự tương phản nổi bật
+* **striking similarity**: sự giống nhau đáng chú ý
+* **striking feature**: đặc điểm nổi bật
+* **striking image**: hình ảnh ấn tượng
+* **visually striking**: nổi bật về mặt thị giác
+
+### Synonyms
+
+* **noticeable** UK /ˈnəʊ.tɪ.sə.bəl/ US /ˈnoʊ.t̬ɪ.sə.bəl/ *(adjective)*: đáng chú ý
+* **remarkable** UK /rɪˈmɑː.kə.bəl/ US /rɪˈmɑːr.kə.bəl/ *(adjective)*: đáng chú ý, phi thường
+* **eye-catching** /ˈaɪˌkætʃ.ɪŋ/ *(adjective)*: bắt mắt
+* **dramatic** /drəˈmæt.ɪk/ *(adjective)*: ấn tượng, rõ rệt
+
+### Word family
+
+* **strike** /straɪk/ *(verb/countable noun)*: đánh, va; đình công; cuộc đình công  
+  *Example:* Lightning struck a tree near the house.  
+  → Sét đánh vào một cái cây gần ngôi nhà.
+
+* **struck** /strʌk/ *(past-tense/past-participle form)*: đã đánh, va hoặc gây ấn tượng  
+  *Example:* I was struck by the clarity of her explanation.  
+  → Tôi bị ấn tượng bởi sự rõ ràng trong lời giải thích của cô ấy.
+
+* **striking** /ˈstraɪ.kɪŋ/ *(adjective/verb form)*: nổi bật; đang đánh hoặc đình công  
+  *Example:* The renovated exterior is visually striking.  
+  → Mặt ngoài đã cải tạo nổi bật về mặt thị giác.
+
+* **strikingly** /ˈstraɪ.kɪŋ.li/ *(adverb)*: một cách nổi bật hoặc rõ rệt  
+  *Example:* The two accounts are strikingly similar.  
+  → Hai lời kể giống nhau một cách đáng chú ý.
+
+* **striker** UK /ˈstraɪ.kər/ US /ˈstraɪ.kɚ/ *(countable noun)*: người đình công; tiền đạo trong bóng đá  
+  *Example:* The striker scored twice in the second half.  
+  → Tiền đạo ghi hai bàn trong hiệp hai.
+
+### Notes
+
+`Striking` is stronger than `noticeable` and often suggests immediate impact. Do not confuse it with `stark`: both occur with `contrast`, but `stark contrast` often emphasizes a severe opposition, while `striking contrast` emphasizes how noticeable it is.
+
+---
+
+## 570. Synthetic /sɪnˈθet.ɪk/
+
+* **Part of speech:** adjective; countable noun, often used in the plural
+* **Vietnamese meaning:** nhân tạo, được tạo ra bằng quá trình hóa học thay vì có nguồn gốc tự nhiên *(60%)*; được sản xuất để mô phỏng vật liệu hoặc chất tự nhiên *(25%)*; được tạo bằng cách kết hợp các yếu tố thành một tổng thể *(10%)*; chất hoặc vật liệu tổng hợp *(5%)*
+
+### Usage
+
+`Synthetic` most commonly describes chemicals, fibers, fuels, or materials manufactured artificially. It does not automatically mean low quality or harmful. In academic contexts, it can also describe something produced by synthesis or combination.
+
+Common structures:
+
+* `synthetic + material/fiber/fuel`: vật liệu/sợi/nhiên liệu tổng hợp
+* `be made from synthetic + substance`: được làm từ chất tổng hợp
+* `produce/create something synthetically`: sản xuất/tạo ra thứ gì bằng phương pháp tổng hợp
+* `a blend of natural and synthetic fibers`: hỗn hợp sợi tự nhiên và tổng hợp
+* `replace natural material with a synthetic`: thay vật liệu tự nhiên bằng chất tổng hợp
+
+### Examples
+
+1. **Synthetic fabrics are often durable and quick to dry.**
+   → Vải tổng hợp thường bền và nhanh khô.
+
+2. **Researchers produced a synthetic fuel from captured carbon dioxide.**
+   → Các nhà nghiên cứu sản xuất nhiên liệu tổng hợp từ khí carbon dioxide được thu giữ.
+
+### Common collocations
+
+* **synthetic material**: vật liệu tổng hợp
+* **synthetic fiber**: sợi tổng hợp
+* **synthetic fabric**: vải tổng hợp
+* **synthetic fuel**: nhiên liệu tổng hợp
+* **synthetic chemical**: hóa chất tổng hợp
+
+### Synonyms
+
+* **artificial** UK /ˌɑː.tɪˈfɪʃ.əl/ US /ˌɑːr.t̬əˈfɪʃ.əl/ *(adjective)*: nhân tạo
+* **manufactured** UK /ˌmæn.jəˈfæk.tʃəd/ US /ˌmæn.jəˈfæk.tʃɚd/ *(adjective)*: được sản xuất
+* **man-made** /ˌmænˈmeɪd/ *(adjective)*: do con người tạo ra
+* **lab-made** /ˈlæb.meɪd/ *(adjective; informal)*: được tạo trong phòng thí nghiệm
+
+### Word family
+
+* **synthesis** /ˈsɪn.θə.sɪs/ *(countable/uncountable noun)*: sự tổng hợp, kết hợp thành một thể  
+  *Example:* The paper offers a synthesis of several competing theories.  
+  → Bài nghiên cứu đưa ra sự tổng hợp của một số lý thuyết cạnh tranh.
+
+* **synthesize/synthesise** /ˈsɪn.θə.saɪz/ *(transitive verb)*: tổng hợp, kết hợp; điều chế  
+  *Example:* Plants synthesize sugars through photosynthesis.  
+  → Thực vật tổng hợp đường thông qua quá trình quang hợp.
+
+* **synthetic** /sɪnˈθet.ɪk/ *(adjective/noun)*: tổng hợp, nhân tạo; chất tổng hợp  
+  *Example:* The jacket uses a lightweight synthetic insulation.  
+  → Chiếc áo khoác sử dụng lớp cách nhiệt tổng hợp nhẹ.
+
+* **synthetically** /sɪnˈθet.ɪ.kəl.i/ *(adverb)*: bằng phương pháp tổng hợp hoặc nhân tạo  
+  *Example:* The compound can be produced synthetically.  
+  → Hợp chất này có thể được sản xuất bằng phương pháp tổng hợp.
+
+### Notes
+
+`Synthetic` is common for substances made through chemical synthesis; `artificial` is broader and may describe any human-made substitute. `Synthetic` should not be confused with `synesthetic`, which relates to the blending of senses.
+
+---
+
+## 571. Towering UK /ˈtaʊə.rɪŋ/ US /ˈtaʊ.ɚ.ɪŋ/
+
+* **Part of speech:** adjective; present-participle form of the intransitive verb `tower`
+* **Vietnamese meaning:** rất cao và nổi bật vượt lên trên xung quanh *(60%)*; cực kỳ lớn, mạnh, quan trọng hoặc xuất sắc *(30%)*; dữ dội, đặc biệt trong cụm `towering rage` *(10%)*
+
+### Usage
+
+`Towering` describes a person, building, tree, or natural feature of impressive height. Figuratively, it intensifies nouns such as `achievement`, `figure`, `strength`, and `rage`. The verb `tower over/above` means rise much higher or appear much more powerful.
+
+Common structures:
+
+* `a towering + building/cliff/tree`: tòa nhà/vách đá/cây rất cao
+* `tower over/above + person/place`: cao vượt hoặc nổi trội hơn người/nơi nào
+* `a towering + achievement/figure`: thành tựu/nhân vật vĩ đại
+* `towering strength/authority`: sức mạnh/quyền lực to lớn
+* `a towering rage`: cơn giận dữ dữ dội
+
+### Examples
+
+1. **Towering limestone cliffs surround the bay.**
+   → Những vách đá vôi cao sừng sững bao quanh vịnh.
+
+2. **She became a towering figure in modern medicine.**
+   → Cô ấy trở thành một nhân vật vĩ đại trong nền y học hiện đại.
+
+### Common collocations
+
+* **towering building**: tòa nhà cao sừng sững
+* **towering cliffs**: vách đá cao lớn
+* **towering figure**: nhân vật vĩ đại
+* **towering achievement**: thành tựu lớn lao
+* **towering rage**: cơn thịnh nộ dữ dội
+
+### Synonyms
+
+* **soaring** UK /ˈsɔː.rɪŋ/ US /ˈsɔːr.ɪŋ/ *(adjective)*: cao vút
+* **lofty** UK /ˈlɒf.ti/ US /ˈlɔːf.ti/ *(adjective)*: cao lớn; cao cả
+* **immense** /ɪˈmens/ *(adjective; figurative sense)*: vô cùng lớn
+* **formidable** UK /ˈfɔː.mɪ.də.bəl/ US /ˈfɔːr.mə.də.bəl/ *(adjective)*: đáng gờm, mạnh mẽ
+
+### Word family
+
+* **tower** UK /ˈtaʊər/ US /ˈtaʊ.ɚ/ *(countable noun/intransitive verb)*: tháp; cao vượt lên  
+  *Example:* The high-rise towers over the surrounding cottages.  
+  → Tòa nhà cao tầng cao vượt lên trên những ngôi nhà nhỏ xung quanh.
+
+* **towering** UK /ˈtaʊə.rɪŋ/ US /ˈtaʊ.ɚ.ɪŋ/ *(adjective/verb form)*: cao sừng sững; vĩ đại  
+  *Example:* The scientist made a towering contribution to genetics.  
+  → Nhà khoa học có đóng góp lớn lao cho ngành di truyền học.
+
+### Notes
+
+`Towering` is stronger and more dramatic than `tall`. It can praise extraordinary importance (`a towering intellect`) or emphasize intimidating height. Use `tower over`, not `tower than`.
+
+---
+
+## 572. Treadmill /ˈtred.mɪl/
+
+* **Part of speech:** countable noun; singular noun in figurative expressions
+* **Vietnamese meaning:** máy chạy bộ có băng chuyền chuyển động *(70%)*; vòng lặp công việc hoặc cuộc sống đơn điệu, mệt mỏi và không có tiến triển *(30%)*
+
+### Usage
+
+A `treadmill` is an exercise machine used for walking or running in place. Figuratively, `the treadmill` is an exhausting repetitive routine from which escape seems difficult, as in `the treadmill of work and debt`.
+
+Common structures:
+
+* `walk/run on a treadmill`: đi/chạy trên máy chạy bộ
+* `use/set/incline a treadmill`: dùng/cài đặt/tăng độ dốc máy chạy bộ
+* `get on/off the treadmill`: lên/xuống máy chạy bộ; thoát khỏi vòng lặp đơn điệu
+* `be stuck on/in a treadmill`: mắc kẹt trong vòng lặp mệt mỏi
+* `the treadmill of + work/routine`: guồng quay công việc/thói quen
+
+### Examples
+
+1. **She runs on the treadmill for thirty minutes each morning.**
+   → Cô ấy chạy trên máy chạy bộ ba mươi phút mỗi sáng.
+
+2. **He left the corporate treadmill to start a small farm.**
+   → Anh ấy rời bỏ guồng quay công việc doanh nghiệp để bắt đầu một trang trại nhỏ.
+
+### Common collocations
+
+* **electric treadmill**: máy chạy bộ điện
+* **treadmill workout**: buổi tập trên máy chạy bộ
+* **treadmill speed**: tốc độ máy chạy bộ
+* **run on a treadmill**: chạy trên máy chạy bộ
+* **corporate treadmill**: guồng quay công việc doanh nghiệp
+
+### Synonyms
+
+* **running machine** /ˈrʌn.ɪŋ məˌʃiːn/ *(countable noun phrase)*: máy chạy bộ
+* **hamster wheel** UK /ˈhæm.stə wiːl/ US /ˈhæm.stɚ wiːl/ *(countable noun phrase; figurative and informal)*: vòng luẩn quẩn bận rộn
+* **grind** /ɡraɪnd/ *(singular noun; informal figurative sense)*: guồng công việc mệt mỏi
+* **routine** /ruːˈtiːn/ *(countable noun)*: thói quen lặp lại
+
+### Word family
+
+* **treadmill** /ˈtred.mɪl/ *(countable noun)*: máy chạy bộ; guồng quay đơn điệu  
+  *Example:* A treadmill allows people to exercise indoors in bad weather.  
+  → Máy chạy bộ cho phép mọi người tập thể dục trong nhà khi thời tiết xấu.
+
+### Notes
+
+The figurative sense is negative and suggests effort without meaningful progress. `Rat race` emphasizes fierce competition, while `treadmill` emphasizes monotonous repetition.
+
+---
+
+## 573. Turmoil UK /ˈtɜː.mɔɪl/ US /ˈtɝː.mɔɪl/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** tình trạng hỗn loạn, bất ổn và không chắc chắn trong xã hội, chính trị hoặc tổ chức *(60%)*; sự rối loạn và đau khổ mạnh mẽ trong cảm xúc, nội tâm *(40%)*
+
+### Usage
+
+`Turmoil` describes severe confusion, instability, or emotional disturbance. It is uncountable: say `in turmoil` or `a period of turmoil`, not normally `a turmoil`.
+
+Common structures:
+
+* `be in turmoil`: ở trong tình trạng hỗn loạn hoặc rối bời
+* `throw/plunge + place + into turmoil`: đẩy nơi nào vào hỗn loạn
+* `cause/create turmoil`: gây ra hỗn loạn
+* `a period of political/economic turmoil`: một giai đoạn bất ổn chính trị/kinh tế
+* `emotional/inner turmoil`: sự rối bời cảm xúc/nội tâm
+
+### Examples
+
+1. **The sudden resignation threw the organization into turmoil.**
+   → Việc từ chức đột ngột đẩy tổ chức vào tình trạng hỗn loạn.
+
+2. **She experienced deep emotional turmoil after the loss.**
+   → Cô ấy trải qua sự rối loạn cảm xúc sâu sắc sau mất mát.
+
+### Common collocations
+
+* **political turmoil**: bất ổn chính trị
+* **economic turmoil**: hỗn loạn kinh tế
+* **emotional turmoil**: rối loạn cảm xúc
+* **inner turmoil**: sự rối bời nội tâm
+* **plunge into turmoil**: rơi vào hỗn loạn
+
+### Synonyms
+
+* **chaos** /ˈkeɪ.ɒs/ *(uncountable noun)*: hỗn loạn
+* **upheaval** /ʌpˈhiː.vəl/ *(countable/uncountable noun)*: biến động lớn
+* **disorder** UK /dɪsˈɔː.dər/ US /dɪsˈɔːr.dɚ/ *(uncountable noun)*: tình trạng mất trật tự
+* **distress** /dɪˈstres/ *(uncountable noun; emotional sense)*: đau khổ, lo âu
+
+### Word family
+
+* **turmoil** UK /ˈtɜː.mɔɪl/ US /ˈtɝː.mɔɪl/ *(uncountable noun)*: sự hỗn loạn, bất ổn hoặc rối bời  
+  *Example:* Financial markets remained in turmoil for several weeks.  
+  → Các thị trường tài chính vẫn trong tình trạng hỗn loạn suốt vài tuần.
+
+### Notes
+
+Use `turmoil` without an indefinite article: `The country is in turmoil`, not `in a turmoil`. `Chaos` emphasizes complete disorder; `turmoil` often combines disorder with uncertainty, conflict, or emotional disturbance.
+
+---
+
+## 574. Waterproof UK /ˈwɔː.tə.pruːf/ US /ˈwɑː.t̬ɚ.pruːf/
+
+* **Part of speech:** adjective; transitive verb
+* **Vietnamese meaning:** không cho nước thấm qua *(75%)*; làm cho vật không thấm nước *(25%)*
+
+### Usage
+
+As an adjective, `waterproof` means completely resistant to water penetration under stated conditions. As a verb, it means treat or design something so water cannot pass through it. In product descriptions, distinguish it from `water-resistant`, which offers only limited protection.
+
+Common structures:
+
+* `a waterproof + jacket/container/material`: áo khoác/hộp/vật liệu chống thấm nước
+* `be waterproof to + depth`: chống nước đến độ sâu nào
+* `waterproof + roof/fabric/surface`: chống thấm cho mái/vải/bề mặt
+* `make something waterproof`: làm thứ gì không thấm nước
+* `apply waterproofing to + surface`: phủ chất chống thấm lên bề mặt
+
+### Examples
+
+1. **Keep your passport in a waterproof bag.**
+   → Hãy giữ hộ chiếu trong một chiếc túi chống thấm nước.
+
+2. **Workers waterproofed the basement before the rainy season.**
+   → Công nhân chống thấm tầng hầm trước mùa mưa.
+
+### Common collocations
+
+* **waterproof jacket**: áo khoác chống thấm nước
+* **waterproof material**: vật liệu chống thấm
+* **waterproof coating**: lớp phủ chống thấm
+* **fully waterproof**: chống thấm hoàn toàn
+* **waterproof the roof**: chống thấm mái nhà
+
+### Synonyms
+
+* **watertight** UK /ˈwɔː.tə.taɪt/ US /ˈwɑː.t̬ɚ.taɪt/ *(adjective)*: kín nước
+* **impermeable** UK /ɪmˈpɜː.mi.ə.bəl/ US /ɪmˈpɝː.mi.ə.bəl/ *(adjective; formal)*: không thấm
+* **water-repellent** UK /ˈwɔː.tə.rɪˌpel.ənt/ US /ˈwɑː.t̬ɚ.rɪˌpel.ənt/ *(adjective)*: đẩy nước
+* **water-resistant** UK /ˈwɔː.tə.rɪˌzɪs.tənt/ US /ˈwɑː.t̬ɚ.rɪˌzɪs.tənt/ *(adjective; weaker)*: chịu nước ở mức hạn chế
+
+### Word family
+
+* **waterproof** UK /ˈwɔː.tə.pruːf/ US /ˈwɑː.t̬ɚ.pruːf/ *(adjective/verb)*: không thấm nước; chống thấm  
+  *Example:* The case is waterproof to a depth of ten meters.  
+  → Chiếc hộp chống nước đến độ sâu mười mét.
+
+* **waterproofing** UK /ˈwɔː.təˌpruː.fɪŋ/ US /ˈwɑː.t̬ɚˌpruː.fɪŋ/ *(uncountable noun)*: vật liệu hoặc quá trình chống thấm  
+  *Example:* The balcony requires additional waterproofing.  
+  → Ban công cần được chống thấm thêm.
+
+* **waterproofed** UK /ˈwɔː.tə.pruːft/ US /ˈwɑː.t̬ɚ.pruːft/ *(adjective/past-participle form)*: đã được xử lý chống thấm  
+  *Example:* The waterproofed fabric remained dry during the test.  
+  → Tấm vải đã xử lý chống thấm vẫn khô trong quá trình thử nghiệm.
+
+### Notes
+
+`Waterproof` implies that water should not penetrate under specified conditions. `Water-resistant` means able to resist some water but not necessarily prolonged immersion. Always check the tested depth, duration, or rating for technical products.
