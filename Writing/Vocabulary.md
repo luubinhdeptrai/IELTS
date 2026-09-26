@@ -32651,3 +32651,935 @@ Common structures:
 ### Notes
 
 `Waterproof` implies that water should not penetrate under specified conditions. `Water-resistant` means able to resist some water but not necessarily prolonged immersion. Always check the tested depth, duration, or rating for technical products.
+
+---
+
+## 575. Awash UK /əˈwɒʃ/ US /əˈwɑːʃ/
+
+* **Part of speech:** predicative adjective
+* **Vietnamese meaning:** ngập nước hoặc bị nước phủ khắp *(35%)*; tràn ngập, đầy ắp một số lượng lớn thứ gì *(55%)*; chan hòa ánh sáng hoặc rực đầy màu sắc *(10%)*
+
+### Usage
+
+`Awash` originally describes a surface or place covered by moving water. More commonly, `awash with` means containing a very large amount of something, especially information, money, rumours, colour, or light. It normally follows a linking verb and is rarely used before a noun.
+
+Common structures:
+
+* `be awash with + water/liquid`: ngập đầy nước/chất lỏng
+* `be awash with + plural noun/uncountable noun`: tràn ngập một lượng lớn thứ gì
+* `leave/make + place + awash with + noun`: khiến một nơi tràn ngập thứ gì
+* `a deck/floor lies awash`: boong/sàn ở trong tình trạng ngập nước
+
+### Examples
+
+1. **After the storm, several coastal roads were awash with seawater.**
+   → Sau cơn bão, một số con đường ven biển ngập đầy nước biển.
+
+2. **Social media was awash with misleading claims about the discovery.**
+   → Mạng xã hội tràn ngập những tuyên bố gây hiểu lầm về phát hiện này.
+
+### Common collocations
+
+* **awash with water**: ngập nước
+* **awash with cash**: dư dả hoặc tràn ngập tiền mặt
+* **awash with rumours**: tràn ngập tin đồn
+* **awash with colour**: rực đầy màu sắc
+* **awash with sunlight**: chan hòa ánh nắng
+
+### Synonyms
+
+* **flooded** /ˈflʌd.ɪd/ *(adjective)*: bị ngập; gần nghĩa nhất khi nói về lượng nước quá mức
+* **inundated** /ˈɪn.ʌn.deɪ.tɪd/ *(adjective)*: bị ngập hoặc bị dồn dập bởi quá nhiều thứ; trang trọng hơn
+* **overflowing** UK /ˌəʊ.vəˈfləʊ.ɪŋ/ US /ˌoʊ.vɚˈfloʊ.ɪŋ/ *(adjective)*: đầy đến mức tràn ra; nhấn mạnh vượt quá sức chứa
+* **teeming** /ˈtiː.mɪŋ/ *(adjective)*: có rất nhiều sinh vật hoặc người đang hoạt động; thường dùng trong `teeming with`
+
+### Word family
+
+* **awash** UK /əˈwɒʃ/ US /əˈwɑːʃ/ *(predicative adjective)*: ngập nước; tràn ngập  
+  *Example:* By dawn, the market was awash with fresh produce.  
+  → Đến bình minh, khu chợ tràn ngập nông sản tươi.
+
+* **wash** UK /wɒʃ/ US /wɑːʃ/ *(verb/noun)*: rửa; dòng nước tràn hoặc sóng nước  
+  *Example:* Waves washed across the lower deck.  
+  → Sóng tràn qua boong dưới.
+
+* **wash away** UK /ˌwɒʃ əˈweɪ/ US /ˌwɑːʃ əˈweɪ/ *(phrasal verb)*: cuốn trôi, xói mất  
+  *Example:* Heavy rain washed away the exposed topsoil.  
+  → Mưa lớn đã cuốn trôi lớp đất mặt bị phơi lộ.
+
+### Notes
+
+`Awash` is normally predicative: say `the street was awash with water`, not usually `an awash street`. The figurative pattern `awash with` often suggests an excessive or striking abundance, but the thing mentioned is not necessarily negative. Do not confuse `awash` with `wash`, which is normally a verb or noun.
+
+---
+
+## 576. Awkward UK /ˈɔː.kwəd/ US /ˈɑː.kwɚd/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** khó xử hoặc gây ngượng ngùng trong giao tiếp *(30%)*; bất tiện, khó thực hiện hoặc khó giải quyết *(30%)*; vụng về, thiếu tự nhiên hoặc thiếu khéo léo *(25%)*; cồng kềnh hoặc ở vị trí khó thao tác *(15%)*
+
+### Usage
+
+`Awkward` describes a socially uncomfortable situation, a difficult question or task, a person who moves or interacts without ease, or an object whose shape or position makes it hard to handle. Its exact meaning depends strongly on the noun it modifies.
+
+Common structures:
+
+* `it is awkward to + verb`: thật bất tiện/khó khi làm gì
+* `be awkward for + person`: gây khó xử hoặc bất tiện cho ai
+* `feel awkward about + noun/-ing`: cảm thấy ngượng ngùng về điều gì
+* `an awkward + situation/question/shape`: tình huống/câu hỏi/hình dạng khó xử lý
+* `put someone in an awkward position`: đặt ai vào tình thế khó xử
+
+### Examples
+
+1. **The valve was installed at an awkward angle, making it difficult to repair.**
+   → Van được lắp ở một góc khó thao tác, khiến việc sửa chữa trở nên khó khăn.
+
+2. **An awkward silence followed the interviewer's unexpected question.**
+   → Một khoảng im lặng ngượng ngùng xuất hiện sau câu hỏi bất ngờ của người phỏng vấn.
+
+### Common collocations
+
+* **awkward situation**: tình huống khó xử
+* **awkward silence**: sự im lặng ngượng ngùng
+* **awkward question**: câu hỏi khó trả lời hoặc gây khó xử
+* **awkward position**: vị trí bất tiện; tình thế khó xử
+* **socially awkward**: vụng về trong giao tiếp xã hội
+
+### Synonyms
+
+* **uncomfortable** /ʌnˈkʌmf.tə.bəl/ *(adjective)*: không thoải mái hoặc gây khó chịu; rộng hơn và không nhất thiết hàm ý vụng về
+* **difficult** /ˈdɪf.ɪ.kəlt/ *(adjective)*: khó; trung tính hơn và không diễn tả cảm giác ngượng ngùng
+* **clumsy** /ˈklʌm.zi/ *(adjective)*: vụng về trong chuyển động hoặc cách thực hiện; gần nghĩa khi nói về người hoặc thao tác
+* **cumbersome** /ˈkʌm.bə.səm/ *(adjective)*: cồng kềnh hoặc rườm rà nên khó sử dụng; chủ yếu dùng cho vật hoặc quy trình
+
+### Word family
+
+* **awkward** UK /ˈɔː.kwəd/ US /ˈɑː.kwɚd/ *(adjective)*: khó xử, bất tiện, vụng về  
+  *Example:* The narrow entrance is awkward for wheelchair users.  
+  → Lối vào hẹp gây bất tiện cho người sử dụng xe lăn.
+
+* **awkwardly** UK /ˈɔː.kwəd.li/ US /ˈɑː.kwɚd.li/ *(adverb)*: một cách vụng về hoặc khó xử  
+  *Example:* The large container fitted awkwardly into the storage space.  
+  → Chiếc thùng lớn nằm khá chật chội và bất tiện trong khoang chứa.
+
+* **awkwardness** UK /ˈɔː.kwəd.nəs/ US /ˈɑː.kwɚd.nəs/ *(uncountable noun)*: sự vụng về, ngượng ngùng hoặc bất tiện  
+  *Example:* A brief explanation reduced the awkwardness of the situation.  
+  → Một lời giải thích ngắn đã làm giảm sự ngượng ngùng của tình huống.
+
+### Notes
+
+`Awkward` changes meaning with context: an `awkward person` may be socially uncomfortable or physically clumsy, while an `awkward object` is difficult to hold or position. `Awkward` and `embarrassing` overlap, but an awkward situation may merely be inconvenient without causing shame.
+
+---
+
+## 577. Blender UK /ˈblen.dər/ US /ˈblen.dɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** máy xay sinh tố hoặc máy xay dùng lưỡi quay tốc độ cao *(90%)*; máy trộn/xay công nghiệp hoạt động theo nguyên lý tương tự *(10%)*
+
+### Usage
+
+A `blender` is an electric machine with rapidly rotating blades that mixes, purées, or liquefies food and other substances. A kitchen blender usually has a tall jug or container. In technical contexts, the same word can refer to larger machines that combine materials into a uniform mixture.
+
+Common structures:
+
+* `put + ingredient + in/into a blender`: cho nguyên liệu vào máy xay
+* `blend + ingredient + in a blender`: xay/trộn nguyên liệu bằng máy xay
+* `use a blender to + verb`: dùng máy xay để làm gì
+* `process something in a blender until + adjective`: xay thứ gì đến khi đạt trạng thái nào
+
+### Examples
+
+1. **Blend the cooked vegetables in a blender until the soup is smooth.**
+   → Xay rau củ đã nấu trong máy xay cho đến khi món súp mịn.
+
+2. **The laboratory blender produced a uniform mixture for chemical analysis.**
+   → Máy trộn của phòng thí nghiệm tạo ra một hỗn hợp đồng nhất để phân tích hóa học.
+
+### Common collocations
+
+* **electric blender**: máy xay điện
+* **high-speed blender**: máy xay tốc độ cao
+* **hand blender**: máy xay cầm tay
+* **blender jug**: cối xay
+* **blender blade**: lưỡi dao máy xay
+
+### Synonyms
+
+* **liquidiser** /ˈlɪk.wɪ.daɪ.zər/ *(countable noun; British English)*: máy xay làm nhuyễn thực phẩm; gần nghĩa nhất với máy xay để bàn
+* **food processor** /ˈfuːd ˌprəʊ.ses.ər/ *(countable noun)*: máy chế biến thực phẩm có nhiều lưỡi và chức năng; không hoàn toàn giống máy xay sinh tố
+* **mixer** /ˈmɪk.sər/ *(countable noun)*: máy trộn hoặc đánh nguyên liệu; thường không được thiết kế để xay nhuyễn bằng lưỡi sắc
+* **grinder** /ˈɡraɪn.dər/ *(countable noun)*: máy nghiền vật liệu thành hạt hoặc bột; dùng cho chức năng khác
+
+### Word family
+
+* **blend** /blend/ *(transitive/intransitive verb)*: trộn đều, hòa quyện  
+  *Example:* The machine blends fruit with ice in a few seconds.  
+  → Máy trộn đều trái cây với đá trong vài giây.
+
+* **blend** /blend/ *(countable noun)*: hỗn hợp của nhiều thành phần  
+  *Example:* The researchers tested a blend of natural fibres.  
+  → Các nhà nghiên cứu thử nghiệm một hỗn hợp sợi tự nhiên.
+
+* **blended** /ˈblen.dɪd/ *(adjective)*: được pha trộn, kết hợp  
+  *Example:* Blended learning combines classroom and online instruction.  
+  → Học tập kết hợp phối hợp việc giảng dạy trên lớp và trực tuyến.
+
+* **blending** /ˈblen.dɪŋ/ *(uncountable noun)*: quá trình pha trộn  
+  *Example:* Careful blending ensures that the powder is evenly distributed.  
+  → Việc pha trộn cẩn thận bảo đảm bột được phân bố đồng đều.
+
+### Notes
+
+`Blender` is countable: `a blender`, `two blenders`. In British English, a countertop blender may also be called a `liquidiser`; a `hand blender` is also known as a `stick blender`. A blender liquefies or purées, whereas a mixer mainly combines or beats ingredients.
+
+---
+
+## 578. Bulky /ˈbʌl.ki/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** cồng kềnh, chiếm nhiều không gian và khó mang hoặc cất giữ *(75%)*; to lớn, vạm vỡ hoặc mặc đồ trông dày nặng *(20%)*; dày và đồ sộ về hình thức *(5%)*
+
+### Usage
+
+`Bulky` describes something that has a large volume relative to its purpose and is therefore difficult to carry, wear, or store. It can also describe a large, heavily built person or clothing that makes the body appear larger. A bulky object is not necessarily heavy.
+
+Common structures:
+
+* `a bulky + object/item/equipment`: vật/thiết bị cồng kềnh
+* `too bulky to + carry/store/wear`: quá cồng kềnh để mang/cất/mặc
+* `bulky for + purpose/space`: cồng kềnh so với mục đích/không gian
+* `become/look bulky`: trở nên/trông cồng kềnh hoặc to lớn
+
+### Examples
+
+1. **Early diving equipment was too bulky for workers to move freely.**
+   → Thiết bị lặn thời kỳ đầu quá cồng kềnh khiến công nhân không thể di chuyển tự do.
+
+2. **The lightweight insulation is less bulky than traditional materials.**
+   → Vật liệu cách nhiệt nhẹ này ít cồng kềnh hơn các vật liệu truyền thống.
+
+### Common collocations
+
+* **bulky equipment**: thiết bị cồng kềnh
+* **bulky item**: đồ vật cồng kềnh
+* **bulky clothing**: quần áo dày và cồng kềnh
+* **bulky packaging**: bao bì cồng kềnh
+* **bulky waste**: rác thải cỡ lớn
+
+### Synonyms
+
+* **cumbersome** /ˈkʌm.bə.səm/ *(adjective)*: cồng kềnh hoặc phức tạp đến mức khó sử dụng; cũng dùng cho quy trình
+* **unwieldy** /ʌnˈwiːl.di/ *(adjective)*: khó cầm, di chuyển, hoặc kiểm soát vì kích thước, hình dạng, hoặc độ phức tạp
+* **voluminous** /vəˈluː.mɪ.nəs/ *(adjective)*: có thể tích hoặc số lượng rất lớn; trang trọng hơn và không nhất thiết khó xử lý
+* **massive** /ˈmæs.ɪv/ *(adjective)*: rất lớn và thường nặng hoặc chắc; mạnh hơn nhưng không đồng nghĩa hoàn toàn
+
+### Word family
+
+* **bulk** /bʌlk/ *(uncountable noun)*: kích thước hoặc khối lượng lớn; phần lớn  
+  *Example:* The material provides warmth without adding much bulk.  
+  → Vật liệu này giữ ấm mà không làm tăng đáng kể độ cồng kềnh.
+
+* **bulky** /ˈbʌl.ki/ *(adjective)*: cồng kềnh, to lớn  
+  *Example:* Bulky goods require a separate collection service.  
+  → Hàng hóa cồng kềnh cần dịch vụ thu gom riêng.
+
+* **bulkiness** /ˈbʌl.ki.nəs/ *(uncountable noun)*: tính cồng kềnh  
+  *Example:* The device's bulkiness limits its use in small clinics.  
+  → Tính cồng kềnh của thiết bị hạn chế việc sử dụng nó trong các phòng khám nhỏ.
+
+* **bulk up** /ˌbʌlk ˈʌp/ *(intransitive phrasal verb)*: tăng kích thước hoặc cơ bắp  
+  *Example:* Some animals bulk up before the cold season.  
+  → Một số loài động vật tăng khối lượng cơ thể trước mùa lạnh.
+
+### Notes
+
+`Bulky` concerns volume and ease of handling, not necessarily weight: a foam box can be light but bulky. The comparative and superlative forms are `bulkier` and `bulkiest`. In waste management, `bulky waste` means large discarded items such as furniture and appliances.
+
+---
+
+## 579. Compact adjective/noun UK /ˈkɒm.pækt/ US /ˈkɑːm.pækt/; verb /kəmˈpækt/
+
+* **Part of speech:** adjective; transitive and intransitive verb; countable noun
+* **Vietnamese meaning:** nhỏ gọn, được sắp xếp hiệu quả trong ít không gian *(50%)*; sít chặt hoặc có mật độ cao *(20%)*; nén hoặc ép chặt *(20%)*; hộp phấn/trang điểm nhỏ hoặc thỏa ước chính thức *(noun, 10%)*
+
+### Usage
+
+As an adjective, `compact` means small yet efficiently arranged, or closely packed together. As a verb, with stress on the second syllable, it means to press material into a smaller, denser mass or to become compressed. As a noun, it can mean a small cosmetic case or a formal agreement.
+
+Common structures:
+
+* `a compact + design/device/car`: thiết kế/thiết bị/xe nhỏ gọn
+* `compact enough to + verb`: đủ nhỏ gọn để làm gì
+* `compact + soil/waste/powder`: nén đất/rác/bột
+* `become/be compacted by + pressure`: trở nên/bị nén chặt bởi áp lực
+* `a compact between + parties`: thỏa ước giữa các bên
+
+### Examples
+
+1. **The compact sensor can be installed in spaces where larger devices will not fit.**
+   → Cảm biến nhỏ gọn có thể được lắp ở những nơi mà thiết bị lớn hơn không vừa.
+
+2. **Heavy machinery compacted the soil and reduced the movement of water.**
+   → Máy móc hạng nặng đã nén chặt đất và làm giảm sự di chuyển của nước.
+
+### Common collocations
+
+* **compact design**: thiết kế nhỏ gọn
+* **compact size**: kích thước nhỏ gọn
+* **compact car**: xe hơi cỡ nhỏ
+* **compact layout**: cách bố trí gọn
+* **compacted soil**: đất bị nén chặt
+* **social compact**: khế ước xã hội
+
+### Synonyms
+
+* **small** /smɔːl/ *(adjective)*: nhỏ; rộng hơn và không hàm ý được sắp xếp hiệu quả
+* **space-saving** /ˈspeɪsˌseɪ.vɪŋ/ *(adjective)*: tiết kiệm không gian; nhấn mạnh lợi ích thiết kế
+* **dense** /dens/ *(adjective)*: có mật độ cao hoặc sít chặt; gần nghĩa thứ hai của tính từ `compact`
+* **compress** /kəmˈpres/ *(transitive verb)*: ép hoặc nén để giảm thể tích; gần nghĩa nhất với động từ `compact`
+* **concise** /kənˈsaɪs/ *(adjective)*: ngắn gọn về cách diễn đạt; chỉ thay thế `compact` trong một số ngữ cảnh về văn bản
+
+### Word family
+
+* **compact** UK /ˈkɒm.pækt/ US /ˈkɑːm.pækt/ *(adjective)*: nhỏ gọn; sít chặt  
+  *Example:* The species survives in compact colonies beneath rocks.  
+  → Loài này sống sót trong những quần thể sít chặt bên dưới đá.
+
+* **compaction** /kəmˈpæk.ʃən/ *(uncountable noun)*: sự nén chặt  
+  *Example:* Soil compaction restricts root growth and drainage.  
+  → Sự nén chặt đất hạn chế sự phát triển của rễ và khả năng thoát nước.
+
+* **compacted** /kəmˈpæk.tɪd/ *(adjective)*: bị nén chặt  
+  *Example:* Seeds struggled to emerge through the compacted surface.  
+  → Hạt giống khó mọc xuyên qua bề mặt bị nén chặt.
+
+* **compactness** /kəmˈpækt.nəs/ *(uncountable noun)*: tính nhỏ gọn hoặc sít chặt  
+  *Example:* The camera's compactness makes it suitable for fieldwork.  
+  → Tính nhỏ gọn của máy ảnh khiến nó phù hợp với công việc thực địa.
+
+### Notes
+
+The adjective and noun are stressed on the first syllable (`COM-pact`), but the verb is stressed on the second (`com-PACT`). `Compact` suggests efficient use of space and does not simply mean extremely small. For comparisons, `more compact` and `most compact` are generally more natural than `compacter` and `compactest`.
+
+
+---
+
+## 580. Disguise /dɪsˈɡaɪz/
+
+* **Part of speech:** transitive verb; countable/uncountable noun
+* **Vietnamese meaning:** che giấu danh tính, diện mạo hoặc bản chất thật bằng cách làm cho nó trông khác đi *(verb, 50%)*; che đậy một sự thật, cảm xúc hoặc vấn đề *(verb, 20%)*; sự hóa trang, vật hoặc vẻ ngoài dùng để cải trang *(countable noun, 20%)*; trạng thái cải trang trong cụm `in disguise` *(uncountable noun, 10%)*
+
+### Usage
+
+As a verb, `disguise` means to change or hide the appearance, identity, sound, or true nature of someone or something. It can refer to physical camouflage or to concealing facts, motives, and emotions. As a noun, it refers to the altered appearance or clothing used to prevent recognition. The expression `in disguise` means with one’s identity hidden and can also be figurative, as in `a blessing in disguise`.
+
+Common structures:
+
+* `disguise oneself as + person/character`: cải trang thành người/nhân vật nào
+* `disguise A as B`: ngụy trang hoặc trình bày A như thể là B
+* `disguise + identity/voice/feelings`: che giấu danh tính/giọng nói/cảm xúc
+* `disguise the fact that + clause`: che đậy sự thật rằng
+* `be/go + in disguise`: cải trang
+
+### Examples
+
+1. **Some insects disguise themselves as leaves to avoid predators.**
+   → Một số loài côn trùng ngụy trang thành lá cây để tránh động vật săn mồi.
+
+2. **The investigator entered the building in disguise.**
+   → Điều tra viên cải trang để đi vào tòa nhà.
+
+### Common collocations
+
+* **disguise one’s identity**: che giấu danh tính
+* **disguise oneself as someone**: cải trang thành ai
+* **wear a disguise**: mang đồ cải trang
+* **in disguise**: trong trạng thái cải trang
+* **thinly disguised criticism**: lời chỉ trích được che đậy sơ sài
+
+### Synonyms
+
+* **conceal** /kənˈsiːl/ *(transitive verb)*: che giấu thông tin, vật thể hoặc cảm xúc; không nhất thiết làm nó trông giống thứ khác
+* **camouflage** /ˈkæm.ə.flɑːʒ/ *(transitive verb/countable or uncountable noun)*: ngụy trang để hòa vào môi trường xung quanh, thường trong sinh học hoặc quân sự
+* **mask** /mɑːsk/ *(transitive verb)*: che lấp dấu hiệu, mùi, âm thanh hoặc cảm xúc bằng một lớp hoặc tín hiệu khác
+* **masquerade as** /ˌmæs.kəˈreɪd æz/ *(intransitive phrasal verb)*: giả làm hoặc giả vờ là thứ khác, thường nhằm đánh lừa
+
+### Word family
+
+* **disguised** /dɪsˈɡaɪzd/ *(adjective/past-participle form)*: được che giấu hoặc cải trang  
+  *Example:* The advertisement was a disguised attempt to influence public opinion.  
+  → Quảng cáo đó là một nỗ lực trá hình nhằm tác động đến dư luận.
+
+* **undisguised** /ˌʌn.dɪsˈɡaɪzd/ *(adjective)*: không che giấu, thể hiện rõ  
+  *Example:* She reacted with undisguised surprise to the findings.  
+  → Cô ấy phản ứng với vẻ ngạc nhiên không che giấu trước những phát hiện đó.
+
+### Notes
+
+The final sound is /z/, not /s/. Use `in disguise`, not *with disguise*. A `guise` is an outward appearance, especially a deceptive one; the fixed phrase is `under the guise of`, not *under the disguise of*. `A blessing in disguise` is something that first seems harmful but later proves beneficial.
+
+---
+
+## 581. Envisage /ɪnˈvɪz.ɪdʒ/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** hình dung một tình huống, kết quả hoặc sự phát triển có thể xảy ra trong tương lai *(65%)*; dự kiến hoặc dự tính điều gì trong một kế hoạch *(25%)*; xem ai hoặc điều gì sẽ giữ một vai trò cụ thể *(10%)*
+
+### Usage
+
+`Envisage` is a formal verb used to imagine or consider a future possibility, arrangement, or outcome. It is common in academic, policy, and planning contexts. It may describe a mental picture, but it often means “consider as a realistic possibility” rather than literally visualising an image. In American English, `envision` is more common.
+
+Common structures:
+
+* `envisage + noun`: hình dung/dự kiến điều gì
+* `envisage + -ing`: hình dung việc làm gì
+* `envisage that + clause`: dự kiến rằng
+* `envisage someone/something as + noun`: hình dung ai/cái gì trong vai trò nào
+* `it is envisaged that + clause`: người ta dự kiến rằng
+
+### Examples
+
+1. **The planners envisage converting the former factory into affordable housing.**
+   → Các nhà quy hoạch dự kiến chuyển đổi nhà máy cũ thành nhà ở giá phải chăng.
+
+2. **Few early researchers envisaged that the technology would become widely available.**
+   → Ít nhà nghiên cứu thời kỳ đầu hình dung rằng công nghệ này sẽ trở nên phổ biến rộng rãi.
+
+### Common collocations
+
+* **envisage a future**: hình dung một tương lai
+* **envisage a situation**: hình dung một tình huống
+* **envisage the possibility**: tính đến khả năng
+* **originally envisaged**: được dự tính ban đầu
+* **envisaged role**: vai trò được dự kiến
+
+### Synonyms
+
+* **envision** /ɪnˈvɪʒ.ən/ *(transitive verb)*: hình dung một khả năng hoặc tương lai; đặc biệt phổ biến trong tiếng Anh Mỹ
+* **foresee** UK /fɔːˈsiː/ US /fɔːrˈsiː/ *(transitive verb)*: dự đoán trước điều có khả năng xảy ra, nhấn mạnh khả năng dự báo hơn hình dung
+* **imagine** /ɪˈmædʒ.ɪn/ *(transitive verb)*: tưởng tượng; rộng hơn, có thể nói về điều phi thực tế hoặc hiện tại
+* **contemplate** UK /ˈkɒn.təm.pleɪt/ US /ˈkɑːn.t̬əm.pleɪt/ *(transitive verb)*: cân nhắc kỹ một khả năng hoặc hành động, không nhất thiết tạo ra hình ảnh tinh thần
+
+### Word family
+
+* **envisaged** /ɪnˈvɪz.ɪdʒd/ *(adjective/past-participle form)*: được hình dung hoặc dự kiến  
+  *Example:* The scheme was completed later than originally envisaged.  
+  → Chương trình được hoàn thành muộn hơn so với dự kiến ban đầu.
+
+* **envisaging** /ɪnˈvɪz.ɪdʒ.ɪŋ/ *(gerund/present-participle form)*: việc đang hình dung hoặc dự tính  
+  *Example:* Envisaging several scenarios helps planners prepare for uncertainty.  
+  → Việc hình dung một số kịch bản giúp các nhà hoạch định chuẩn bị cho tình trạng bất định.
+
+### Notes
+
+Use `envisage doing something`, not normally *envisage to do something*. `Envisage` does not mean that the predicted outcome is certain; it presents an anticipated or conceivable possibility. There is no common everyday noun derived from `envisage`; forms such as *envisagement* are rare and usually best avoided.
+
+---
+
+## 582. Keypad /ˈkiː.pæd/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** bàn phím nhỏ gồm một nhóm phím dùng để nhập số, mã hoặc lệnh *(85%)*; vùng phím số trên thiết bị hoặc giao diện cảm ứng *(15%)*
+
+### Usage
+
+A `keypad` is a compact set of buttons or touch-sensitive keys on a phone, cash machine, security system, calculator, or other device. It usually contains numbers and a limited number of function keys. A `keyboard` is larger and is designed for entering letters, numbers, and a wider range of commands.
+
+Common structures:
+
+* `enter/type a code on the keypad`: nhập mã trên bàn phím số
+* `press a key/button on the keypad`: nhấn một phím trên bàn phím
+* `use a keypad to + verb`: dùng bàn phím để làm gì
+* `a numeric/touch-sensitive keypad`: bàn phím số/bàn phím cảm ứng
+* `gain access via/by means of a keypad`: truy cập bằng bàn phím mã
+
+### Examples
+
+1. **Visitors enter a six-digit code on the keypad to unlock the door.**
+   → Khách nhập mã sáu chữ số trên bàn phím để mở khóa cửa.
+
+2. **The cash machine has a shielded keypad to improve privacy.**
+   → Máy rút tiền có bàn phím được che chắn để tăng tính riêng tư.
+
+### Common collocations
+
+* **numeric keypad**: bàn phím số
+* **security keypad**: bàn phím của hệ thống an ninh
+* **keypad entry**: hình thức vào bằng cách nhập mã
+* **keypad lock**: khóa dùng bàn phím mã
+* **touch-sensitive keypad**: bàn phím cảm ứng
+
+### Synonyms
+
+* **number pad** UK /ˈnʌm.bə pæd/ US /ˈnʌm.bɚ pæd/ *(countable noun phrase)*: cụm phím số, đặc biệt ở bên phải bàn phím máy tính
+* **keyboard** /ˈkiː.bɔːd/ *(countable noun)*: bàn phím đầy đủ để nhập chữ, số và lệnh; rộng và lớn hơn `keypad`
+* **control panel** /kənˈtrəʊl ˌpæn.əl/ *(countable noun phrase)*: bảng điều khiển có thể chứa nút, màn hình và công tắc; không chỉ riêng các phím
+* **touchpad** /ˈtʌtʃ.pæd/ *(countable noun)*: bề mặt cảm ứng điều khiển con trỏ; không phải bàn phím số
+
+### Word family
+
+* **key** /kiː/ *(countable noun/transitive verb)*: phím; nhập dữ liệu bằng phím  
+  *Example:* The operator keyed the measurements into the database.  
+  → Nhân viên vận hành nhập các số đo vào cơ sở dữ liệu bằng bàn phím.
+
+* **keyboard** /ˈkiː.bɔːd/ *(countable noun)*: bàn phím máy tính hoặc nhạc cụ phím điện tử  
+  *Example:* An ergonomic keyboard may reduce strain during prolonged typing.  
+  → Bàn phím công thái học có thể giảm căng cơ khi đánh máy trong thời gian dài.
+
+* **keyless** /ˈkiː.ləs/ *(adjective)*: không cần chìa khóa vật lý  
+  *Example:* The laboratory uses a keyless entry system.  
+  → Phòng thí nghiệm sử dụng hệ thống ra vào không cần chìa khóa.
+
+### Notes
+
+`Keypad` is written as one word and is countable: `a keypad`, `two keypads`. It may be physical or displayed virtually on a touchscreen. Do not confuse `keypad` with `touchpad`, which is mainly a pointing device.
+
+---
+
+## 583. Labour-saving UK /ˈleɪ.bəˌseɪ.vɪŋ/ US Labor-saving /ˈleɪ.bɚˌseɪ.vɪŋ/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** giúp giảm sức lao động hoặc khối lượng công việc thủ công cần thiết *(65%)*; giúp tiết kiệm thời gian và công sức khi thực hiện một nhiệm vụ *(25%)*; làm giảm nhu cầu về số giờ lao động được trả công *(10%)*
+
+### Usage
+
+`Labour-saving` describes a device, method, technology, or innovation that reduces the human effort needed to complete a task. It does not necessarily remove all human involvement or cause unemployment. The adjective is especially common in passages about domestic appliances, agriculture, manufacturing, and technological change.
+
+Common structures:
+
+* `a labour-saving + device/machine/technology`: thiết bị/máy móc/công nghệ tiết kiệm sức lao động
+* `introduce/develop labour-saving equipment`: đưa vào/phát triển thiết bị giảm công lao động
+* `be designed as a labour-saving measure`: được thiết kế như một biện pháp tiết kiệm công sức
+* `reduce labour requirements through + noun`: giảm nhu cầu lao động thông qua điều gì
+* `make a task less labour-intensive`: làm cho một nhiệm vụ bớt tốn nhân công
+
+### Examples
+
+1. **Labour-saving machinery allowed farmers to cultivate larger areas with fewer workers.**
+   → Máy móc tiết kiệm sức lao động cho phép nông dân canh tác diện tích lớn hơn với ít nhân công hơn.
+
+2. **The washing machine became one of the most influential labour-saving household devices.**
+   → Máy giặt trở thành một trong những thiết bị gia dụng tiết kiệm công sức có ảnh hưởng lớn nhất.
+
+### Common collocations
+
+* **labour-saving device**: thiết bị tiết kiệm sức lao động
+* **labour-saving machinery**: máy móc giảm nhu cầu lao động
+* **labour-saving technology**: công nghệ tiết kiệm nhân công
+* **labour-saving innovation**: đổi mới giúp giảm công sức
+* **labour-saving measure**: biện pháp tiết kiệm công lao động
+
+### Synonyms
+
+* **time-saving** /ˈtaɪmˌseɪ.vɪŋ/ *(adjective)*: tiết kiệm thời gian; không nhất thiết giảm sức lực hoặc số lao động
+* **automated** UK /ˈɔː.tə.meɪ.tɪd/ US /ˈɑː.t̬ə.meɪ.t̬ɪd/ *(adjective)*: được vận hành tự động; có thể giảm lao động nhưng nhấn mạnh cơ chế điều khiển
+* **labour-efficient** UK /ˌleɪ.bər.ɪˈfɪʃ.ənt/ US /ˌleɪ.bɚ.ɪˈfɪʃ.ənt/ *(adjective)*: sử dụng lao động hiệu quả; có thể vẫn cần nhiều người nhưng tạo ra sản lượng cao hơn
+* **convenient** /kənˈviː.ni.ənt/ *(adjective)*: thuận tiện, dễ sử dụng; rộng hơn và không nhất thiết tiết kiệm lao động
+
+### Word family
+
+* **labour** UK /ˈleɪ.bər/ US **labor** /ˈleɪ.bɚ/ *(uncountable noun/intransitive verb)*: lao động, công sức; làm việc vất vả  
+  *Example:* Mechanisation reduced the amount of manual labour required at harvest time.  
+  → Cơ giới hóa làm giảm lượng lao động thủ công cần thiết vào mùa thu hoạch.
+
+* **labourer** UK /ˈleɪ.bər.ər/ US **laborer** /ˈleɪ.bɚ.ɚ/ *(countable noun)*: người lao động chân tay  
+  *Example:* Seasonal labourers were employed to pick the fruit.  
+  → Lao động thời vụ được thuê để hái quả.
+
+* **labour-intensive** UK /ˈleɪ.bər.ɪnˌten.sɪv/ US /ˈleɪ.bɚ.ɪnˌten.sɪv/ *(adjective)*: cần nhiều lao động  
+  *Example:* Hand-pollination is a highly labour-intensive process.  
+  → Thụ phấn bằng tay là một quy trình cần rất nhiều lao động.
+
+### Notes
+
+British English uses `labour-saving`; American English uses `labor-saving`. Keep the hyphen in the compound adjective. `Labour-saving` means reducing necessary effort, not eliminating labour completely. Compare `energy-saving`, which reduces energy use, and `time-saving`, which primarily reduces duration.
+
+---
+
+## 584. Leading-edge /ˌliː.dɪŋˈedʒ/
+
+* **Part of speech:** adjective; compare the unhyphenated countable noun phrase `leading edge`
+* **Vietnamese meaning:** tiên tiến hàng đầu, sử dụng ý tưởng hoặc công nghệ mới nhất *(80%)*; thuộc mép phía trước của vật chuyển động, đặc biệt là cánh máy bay hoặc cánh quạt *(20%)*
+
+### Usage
+
+As a hyphenated adjective, `leading-edge` describes technology, research, design, or companies at a highly advanced stage of development. The noun phrase `the leading edge` can mean the forefront of progress or the physical front edge of a wing or blade. In technical writing, the physical sense contrasts with `the trailing edge`.
+
+Common structures:
+
+* `leading-edge + technology/research/design`: công nghệ/nghiên cứu/thiết kế tiên tiến hàng đầu
+* `be at the leading edge of + field/development`: ở tuyến đầu của lĩnh vực/sự phát triển
+* `keep/place someone at the leading edge`: giúp/đặt ai ở vị trí tiên phong
+* `the leading edge of + wing/blade`: mép trước của cánh/lưỡi
+* `invest in leading-edge equipment`: đầu tư vào thiết bị tối tân
+
+### Examples
+
+1. **The laboratory uses leading-edge imaging technology to examine brain activity.**
+   → Phòng thí nghiệm sử dụng công nghệ chụp ảnh tiên tiến hàng đầu để nghiên cứu hoạt động của não.
+
+2. **Ice formed along the leading edge of the aircraft’s wing.**
+   → Băng hình thành dọc theo mép trước của cánh máy bay.
+
+### Common collocations
+
+* **leading-edge technology**: công nghệ tiên tiến hàng đầu
+* **leading-edge research**: nghiên cứu tiên phong
+* **leading-edge design**: thiết kế tối tân
+* **at the leading edge**: ở vị trí tiên phong
+* **leading edge of a wing**: mép trước của cánh
+
+### Synonyms
+
+* **cutting-edge** /ˌkʌt.ɪŋˈedʒ/ *(adjective)*: cực kỳ mới và tiên tiến; thường mang sắc thái quảng bá mạnh hơn
+* **state-of-the-art** UK /ˌsteɪt.əv.ðiːˈɑːt/ US /ˌsteɪt.əv.ðiːˈɑːrt/ *(adjective)*: thuộc mức phát triển tốt nhất hiện có tại một thời điểm
+* **advanced** UK /ədˈvɑːnst/ US /ədˈvænst/ *(adjective)*: tiên tiến hoặc phát triển cao; rộng hơn và không nhất thiết đứng hàng đầu
+* **pioneering** UK /ˌpaɪəˈnɪə.rɪŋ/ US /ˌpaɪəˈnɪr.ɪŋ/ *(adjective)*: tiên phong vì mở ra một phương pháp hoặc lĩnh vực mới
+
+### Word family
+
+* **lead** /liːd/ *(transitive/intransitive verb)*: dẫn đầu, đi trước  
+  *Example:* The institute leads international research into battery recycling.  
+  → Viện này dẫn đầu nghiên cứu quốc tế về tái chế pin.
+
+* **leading** /ˈliː.dɪŋ/ *(adjective)*: hàng đầu, quan trọng nhất  
+  *Example:* Several leading scientists contributed to the review.  
+  → Một số nhà khoa học hàng đầu đã đóng góp cho bản tổng quan.
+
+* **leader** UK /ˈliː.dər/ US /ˈliː.dɚ/ *(countable noun)*: người hoặc tổ chức dẫn đầu  
+  *Example:* The company is a market leader in medical sensors.  
+  → Công ty là đơn vị dẫn đầu thị trường về cảm biến y tế.
+
+### Notes
+
+Use a hyphen before a noun: `leading-edge equipment`. Write the noun phrase without a hyphen: `at the leading edge of research` or `the leading edge of the wing`. Do not confuse the verb `lead` /liːd/ with the metal `lead` /led/.
+
+---
+
+
+## 585. Old-fashioned UK /ˌəʊldˈfæʃ.ənd/ US /ˌoʊldˈfæʃ.ənd/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** lỗi thời, không còn hiện đại về kiểu dáng hoặc phương pháp *(65%)*; theo quan niệm truyền thống, bảo thủ hoặc thuộc thế hệ trước *(30%)*; mang vẻ cổ điển có chủ ý *(5%)*
+
+### Usage
+
+`Old-fashioned` describes an object, method, attitude, or person associated with an earlier period. It often suggests that something is no longer suitable or fashionable, but it can also be approving when the speaker values simplicity, courtesy, or traditional quality. Context therefore determines whether the word is critical, neutral, or affectionate.
+
+Common structures:
+
+* `an old-fashioned + noun`: một danh từ mang kiểu cũ hoặc quan niệm cũ
+* `be/seem/look old-fashioned`: có vẻ lỗi thời
+* `consider/find something old-fashioned`: xem điều gì là lỗi thời
+* `old-fashioned in + outlook/approach`: cổ hủ hoặc theo lối cũ về quan điểm/cách tiếp cận
+* `a little/rather distinctly old-fashioned`: hơi/khá/rõ ràng là lỗi thời
+
+### Examples
+
+1. **Many customers regarded the paper-based booking system as old-fashioned.**
+   → Nhiều khách hàng xem hệ thống đặt chỗ bằng giấy là lỗi thời.
+
+2. **Her grandfather held old-fashioned views about the roles of men and women.**
+   → Ông của cô ấy có những quan niệm cổ hủ về vai trò của nam giới và phụ nữ.
+
+### Common collocations
+
+* **old-fashioned idea**: quan niệm lỗi thời
+* **old-fashioned method**: phương pháp kiểu cũ
+* **old-fashioned values**: các giá trị truyền thống
+* **old-fashioned courtesy**: phép lịch sự theo lối truyền thống
+* **seem old-fashioned**: có vẻ lỗi thời
+
+### Synonyms
+
+* **outdated** /ˌaʊtˈdeɪ.tɪd/ *(adjective)*: lỗi thời vì không còn phù hợp với kiến thức, nhu cầu hoặc công nghệ hiện tại; thường tiêu cực hơn `old-fashioned`
+* **antiquated** /ˈæn.tɪ.kweɪ.tɪd/ *(adjective)*: quá cổ lỗ và kém hiệu quả; trang trọng và mạnh hơn
+* **traditional** /trəˈdɪʃ.ən.əl/ *(adjective)*: theo truyền thống; trung tính hoặc tích cực, không tự động có nghĩa là lỗi thời
+* **conventional** /kənˈven.ʃən.əl/ *(adjective)*: theo cách thức hoặc chuẩn mực thông thường; nhấn mạnh sự quen thuộc hơn là tuổi đời
+* **retro** /ˈret.rəʊ/ *(adjective; informal)*: cố ý mô phỏng phong cách quá khứ và thường được xem là hấp dẫn
+
+### Word family
+
+* **fashion** /ˈfæʃ.ən/ *(countable/uncountable noun; transitive verb)*: thời trang, mốt; tạo hình  
+  *Example:* Fashion changes more quickly in some consumer markets than in others.  
+  → Thời trang thay đổi nhanh hơn ở một số thị trường tiêu dùng so với những thị trường khác.
+
+* **fashionable** /ˈfæʃ.ən.ə.bəl/ *(adjective)*: hợp thời, thịnh hành  
+  *Example:* Cycling became fashionable among urban professionals.  
+  → Đi xe đạp trở nên thịnh hành trong giới chuyên gia ở đô thị.
+
+* **unfashionable** /ʌnˈfæʃ.ən.ə.bəl/ *(adjective)*: không hợp thời, không được ưa chuộng  
+  *Example:* The theory became unfashionable after stronger evidence emerged.  
+  → Lý thuyết này không còn được ưa chuộng sau khi xuất hiện bằng chứng thuyết phục hơn.
+
+* **fashionably** /ˈfæʃ.ən.ə.bli/ *(adverb)*: theo cách hợp thời  
+  *Example:* The café is fashionably decorated but retains its original structure.  
+  → Quán cà phê được trang trí hợp thời nhưng vẫn giữ kết cấu ban đầu.
+
+### Notes
+
+The compound is normally hyphenated: `old-fashioned clothes` and `the clothes look old-fashioned`. `Old-fashioned` is not identical to `obsolete`: an old-fashioned method may still work, whereas an obsolete one has generally been replaced or is no longer usable. `Vintage` and `retro` often express deliberate admiration; `old-fashioned` may express criticism.
+
+---
+
+## 586. Patent — noun, verb and legal adjective: UK /ˈpeɪ.tənt/, US /ˈpæt.ənt/; “obvious” adjective: UK/US /ˈpeɪ.tənt/
+
+* **Part of speech:** countable noun; transitive verb; adjective
+* **Vietnamese meaning:** bằng độc quyền sáng chế, quyền pháp lý tạm thời đối với một sáng chế *(55%)*; đăng ký hoặc được cấp bằng sáng chế *(20%)*; được bảo hộ bằng sáng chế *(10%)*; rõ ràng, hiển nhiên *(10%)*; thông, mở, không bị tắc trong y khoa *(5%)*
+
+### Usage
+
+As a noun, a `patent` is a state-granted legal right that allows its holder to prevent others from making, using, or selling an invention for a limited period in a particular jurisdiction. As a verb, `patent` means obtain such protection. As an adjective, it can mean protected by a patent or, in formal prose, plainly obvious. Medical writing also uses `patent` to mean open and unobstructed.
+
+Common structures:
+
+* `apply for/file a patent for + invention`: nộp đơn xin bằng sáng chế cho một phát minh
+* `grant/issue someone a patent`: cấp bằng sáng chế cho ai
+* `hold/own a patent on/for + invention`: nắm quyền sáng chế đối với một phát minh
+* `patent + a process/device`: đăng ký bằng sáng chế cho một quy trình/thiết bị
+* `be protected/covered by a patent`: được bảo hộ bằng sáng chế
+* `it is patent that + clause`: rõ ràng rằng; trang trọng và khá hiếm
+
+### Examples
+
+1. **The engineer was granted a patent for a low-cost water filter.**
+   → Kỹ sư được cấp bằng sáng chế cho một bộ lọc nước giá rẻ.
+
+2. **The company patented the manufacturing process before licensing it to overseas producers.**
+   → Công ty đã đăng ký bằng sáng chế cho quy trình sản xuất trước khi cấp phép cho các nhà sản xuất ở nước ngoài.
+
+### Common collocations
+
+* **apply for a patent**: nộp đơn xin bằng sáng chế
+* **patent application**: đơn xin cấp bằng sáng chế
+* **patent holder**: chủ sở hữu bằng sáng chế
+* **patent protection**: sự bảo hộ bằng sáng chế
+* **patent infringement**: hành vi xâm phạm bằng sáng chế
+* **patent pending**: đang chờ xét cấp bằng sáng chế
+
+### Synonyms
+
+* **exclusive right** /ɪkˌskluː.sɪv ˈraɪt/ *(countable noun phrase)*: quyền độc quyền; mô tả chức năng của bằng sáng chế nhưng rộng hơn về mặt pháp lý
+* **intellectual-property right** /ˌɪn.təl.ek.tʃu.əl ˈprɒp.ə.ti raɪt/ *(countable noun phrase)*: quyền sở hữu trí tuệ; phạm trù rộng gồm cả bằng sáng chế, nhãn hiệu và bản quyền
+* **copyright** /ˈkɒp.i.raɪt/ *(countable/uncountable noun)*: bản quyền đối với cách thể hiện nguyên gốc; không bảo hộ chức năng của một phát minh như patent
+* **evident** /ˈev.ɪ.dənt/ *(adjective; obvious sense)*: rõ ràng từ bằng chứng; chỉ thay được nghĩa tính từ của `patent`
+* **obvious** UK /ˈɒb.vi.əs/ US /ˈɑːb.vi.əs/ *(adjective; obvious sense)*: hiển nhiên; thông dụng và ít trang trọng hơn tính từ `patent`
+
+### Word family
+
+* **patentable** UK /ˈpeɪ.tənt.ə.bəl/ US /ˈpæt.ənt.ə.bəl/ *(adjective)*: đủ điều kiện được cấp bằng sáng chế  
+  *Example:* A discovery must meet legal criteria before it is patentable.  
+  → Một phát hiện phải đáp ứng các tiêu chí pháp lý trước khi đủ điều kiện được cấp bằng sáng chế.
+
+* **patented** UK /ˈpeɪ.tən.tɪd/ US /ˈpæt.ən.t̬ɪd/ *(adjective/past-participle form)*: đã được cấp bằng sáng chế  
+  *Example:* The device uses a patented cooling mechanism.  
+  → Thiết bị sử dụng một cơ chế làm mát đã được cấp bằng sáng chế.
+
+* **patentee** UK /ˌpeɪ.tənˈtiː/ US /ˌpæt.ənˈtiː/ *(countable noun; legal)*: người hoặc tổ chức được cấp bằng sáng chế  
+  *Example:* The patentee may license the invention to another manufacturer.  
+  → Chủ bằng sáng chế có thể cấp phép phát minh cho một nhà sản xuất khác.
+
+* **patenting** UK /ˈpeɪ.tən.tɪŋ/ US /ˈpæt.ən.t̬ɪŋ/ *(uncountable noun/gerund)*: việc đăng ký và bảo hộ bằng sáng chế  
+  *Example:* The patenting of biological material remains controversial.  
+  → Việc cấp bằng sáng chế cho vật liệu sinh học vẫn gây tranh cãi.
+
+### Notes
+
+British English normally uses /eɪ/ throughout. American English commonly uses /æ/ for the legal noun, verb, and legal adjective, but /eɪ/ for the formal adjective meaning “obvious”; specialist medical pronunciation varies. A patent is generally territorial and time-limited. It gives a right to exclude others; it does not necessarily give the holder unrestricted permission to market the invention. Do not confuse a patent with copyright or a trademark.
+
+---
+
+## 587. Surpass UK /səˈpɑːs/ US /sɚˈpæs/
+
+* **Part of speech:** transitive verb
+* **Vietnamese meaning:** vượt hơn về số lượng, chất lượng, thành tích hoặc mức độ *(80%)*; vượt quá mong đợi, mục tiêu hoặc kỷ lục *(20%)*
+
+### Usage
+
+`Surpass` means be greater or better than a person, result, level, or expectation. It is common in formal comparisons and descriptions of change. Because it is transitive, it takes a direct object and is not followed by `than`.
+
+Common structures:
+
+* `surpass + person/rival/competitor`: vượt qua một người hoặc đối thủ
+* `surpass + figure/level/target`: vượt một con số, mức hoặc mục tiêu
+* `surpass expectations/a record`: vượt kỳ vọng/phá mức kỷ lục trước đó
+* `far/easily/consistently surpass + object`: vượt xa/dễ dàng/liên tục vượt
+* `be surpassed by + noun`: bị vượt qua bởi điều gì
+
+### Examples
+
+1. **Demand for renewable electricity surpassed the original forecast.**
+   → Nhu cầu điện tái tạo đã vượt dự báo ban đầu.
+
+2. **The new material surpassed conventional concrete in strength and durability.**
+   → Vật liệu mới vượt bê tông thông thường về độ bền chịu lực và độ bền lâu.
+
+### Common collocations
+
+* **surpass expectations**: vượt kỳ vọng
+* **surpass a record**: vượt kỷ lục
+* **surpass a target**: vượt mục tiêu
+* **surpass the previous level**: vượt mức trước đó
+* **far surpass**: vượt xa
+
+### Synonyms
+
+* **exceed** /ɪkˈsiːd/ *(transitive verb)*: vượt quá một số lượng, giới hạn hoặc tiêu chuẩn; tự nhiên hơn `surpass` với giới hạn định lượng
+* **outperform** UK /ˌaʊt.pəˈfɔːm/ US /ˌaʊt.pɚˈfɔːrm/ *(transitive verb)*: đạt kết quả tốt hơn trong một hoạt động có thể đo lường
+* **overtake** UK /ˌəʊ.vəˈteɪk/ US /ˌoʊ.vɚˈteɪk/ *(transitive verb)*: bắt kịp rồi vượt lên; nhấn mạnh thay đổi thứ hạng hoặc vị trí
+* **eclipse** /ɪˈklɪps/ *(transitive verb)*: vượt trội đến mức làm người hoặc vật khác lu mờ; mang tính hình tượng
+* **outstrip** /ˌaʊtˈstrɪp/ *(transitive verb)*: tăng hoặc tiến nhanh hơn; thường dùng khi nhu cầu vượt nguồn cung
+
+### Word family
+
+* **surpass** UK /səˈpɑːs/ US /sɚˈpæs/ *(transitive verb)*: vượt hơn  
+  *Example:* Online sales may soon surpass sales in physical stores.  
+  → Doanh số trực tuyến có thể sớm vượt doanh số tại các cửa hàng thực tế.
+
+* **surpassing** UK /səˈpɑː.sɪŋ/ US /sɚˈpæs.ɪŋ/ *(adjective; formal)*: xuất sắc hoặc lớn hơn mức thông thường  
+  *Example:* The craftwork is of surpassing technical quality.  
+  → Sản phẩm thủ công có chất lượng kỹ thuật vượt trội.
+
+* **unsurpassed** UK /ˌʌn.səˈpɑːst/ US /ˌʌn.sɚˈpæst/ *(adjective)*: chưa bị vượt qua, vô song  
+  *Example:* The archive is unsurpassed as a source of regional history.  
+  → Kho lưu trữ này là nguồn tư liệu vô song về lịch sử khu vực.
+
+### Notes
+
+Say `surpass a rival`, not “surpass than a rival.” `Surpass` often compares overall quality or achievement; `exceed` is especially common with limits and quantities, while `outperform` requires a performance context. `Surpass a record` is possible, but `break a record` is more idiomatic when a new record is established.
+
+---
+
+## 588. Tricky /ˈtrɪk.i/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** khó xử lý và đòi hỏi sự cẩn thận hoặc khéo léo *(65%)*; dễ gây nhầm lẫn, có cạm bẫy *(25%)*; láu cá, có xu hướng đánh lừa *(10%)*
+
+### Usage
+
+`Tricky` describes a task, question, situation, or decision that is difficult because it contains complications or hidden risks. When it describes a person, it can suggest dishonesty or unpredictability. It is common in speech and accessible explanatory writing but is less formal than `complex` or `challenging`.
+
+Common structures:
+
+* `be tricky to + verb`: khó để làm gì
+* `be tricky for + person + to + verb`: khó cho ai làm gì
+* `a tricky + question/problem/situation`: câu hỏi/vấn đề/tình huống khó xử
+* `find something tricky`: thấy điều gì khó
+* `the tricky part is + noun/clause`: phần khó là điều gì
+
+### Examples
+
+1. **Distinguishing correlation from causation can be tricky.**
+   → Việc phân biệt tương quan với quan hệ nhân quả có thể khá khó.
+
+2. **The final question was tricky because two options appeared equally plausible.**
+   → Câu hỏi cuối có tính đánh lừa vì hai phương án có vẻ hợp lý như nhau.
+
+### Common collocations
+
+* **tricky question**: câu hỏi khó hoặc dễ gây nhầm
+* **tricky situation**: tình huống khó xử
+* **tricky problem**: vấn đề phức tạp
+* **tricky decision**: quyết định khó khăn
+* **particularly tricky**: đặc biệt khó xử lý
+
+### Synonyms
+
+* **difficult** /ˈdɪf.ɪ.kəlt/ *(adjective)*: khó; từ trung tính và rộng hơn
+* **challenging** /ˈtʃæl.ɪn.dʒɪŋ/ *(adjective)*: đầy thử thách; thường tích cực hoặc trang trọng hơn
+* **complicated** /ˈkɒm.plɪ.keɪ.tɪd/ *(adjective)*: phức tạp vì có nhiều phần hoặc yếu tố liên quan
+* **delicate** /ˈdel.ɪ.kət/ *(adjective)*: nhạy cảm và cần xử lý thận trọng; không nhất thiết khó về mặt kỹ thuật
+* **deceptive** /dɪˈsep.tɪv/ *(adjective)*: dễ đánh lừa hoặc tạo ấn tượng sai; chỉ tương ứng với nghĩa có cạm bẫy
+
+### Word family
+
+* **trick** /trɪk/ *(countable noun; transitive verb)*: mánh khóe; đánh lừa  
+  *Example:* The apparent pattern was a trick of perspective.  
+  → Mô hình tưởng như tồn tại chỉ là ảo giác do góc nhìn.
+
+* **tricky** /ˈtrɪk.i/ *(adjective)*: khó xử lý, dễ gây nhầm  
+  *Example:* Accurate pronunciation is tricky without sufficient listening practice.  
+  → Phát âm chính xác khá khó nếu không luyện nghe đầy đủ.
+
+* **trickiness** /ˈtrɪk.i.nəs/ *(uncountable noun)*: tính khó xử lý hoặc dễ gây nhầm  
+  *Example:* The trickiness of the procedure lies in controlling the temperature.  
+  → Điểm khó của quy trình nằm ở việc kiểm soát nhiệt độ.
+
+* **trickery** /ˈtrɪk.ər.i/ *(uncountable noun)*: sự lừa lọc, thủ đoạn  
+  *Example:* The regulations aim to protect consumers from financial trickery.  
+  → Các quy định nhằm bảo vệ người tiêu dùng khỏi thủ đoạn tài chính.
+
+### Notes
+
+`Tricky` is not simply a stronger form of `difficult`; it often implies hidden complications or a need for careful judgement. In formal academic prose, `complex`, `challenging`, or `difficult to determine` may be more suitable. The adverb `trickily` exists but is rare; avoid the incorrect form “trickly.”
+
+---
+
+## 589. User-friendly UK /ˌjuː.zəˈfrend.li/ US /ˌjuː.zɚˈfrend.li/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thân thiện với người dùng, dễ hiểu và dễ sử dụng *(90%)*; được thiết kế để thuận tiện cho một nhóm người cụ thể *(10%)*
+
+### Usage
+
+`User-friendly` describes a product, system, interface, document, or service designed so that people can use it easily with little training. It concerns the user's experience rather than the technical simplicity of the underlying system.
+
+Common structures:
+
+* `a user-friendly + interface/system/design`: giao diện/hệ thống/thiết kế thân thiện với người dùng
+* `be user-friendly for + group`: dễ sử dụng đối với nhóm nào
+* `make something more user-friendly`: làm cho điều gì dễ sử dụng hơn
+* `find something user-friendly`: thấy điều gì dễ sử dụng
+* `a more/less user-friendly alternative`: một phương án dễ/khó sử dụng hơn
+
+### Examples
+
+1. **The redesigned website is more user-friendly on mobile devices.**
+   → Trang web được thiết kế lại thân thiện với người dùng hơn trên thiết bị di động.
+
+2. **Clear labels make the data portal user-friendly for non-specialists.**
+   → Nhãn rõ ràng làm cho cổng dữ liệu dễ sử dụng đối với người không chuyên.
+
+### Common collocations
+
+* **user-friendly interface**: giao diện thân thiện với người dùng
+* **user-friendly design**: thiết kế dễ sử dụng
+* **user-friendly software**: phần mềm thân thiện với người dùng
+* **user-friendly website**: trang web dễ sử dụng
+* **highly user-friendly**: rất dễ sử dụng
+
+### Synonyms
+
+* **easy to use** /ˌiː.zi tə ˈjuːz/ *(adjective phrase)*: dễ sử dụng; cách diễn đạt trực tiếp và trung tính
+* **intuitive** /ɪnˈtjuː.ɪ.tɪv/ *(adjective)*: có thể hiểu cách dùng gần như tự nhiên mà ít cần hướng dẫn; nhấn mạnh khả năng đoán được thao tác
+* **usable** /ˈjuː.zə.bəl/ *(adjective)*: có thể sử dụng đạt mục đích; mức tối thiểu, không nhất thiết dễ chịu hoặc thuận tiện
+* **accessible** /əkˈses.ə.bəl/ *(adjective)*: dễ tiếp cận hoặc dùng được bởi nhiều nhóm, kể cả người khuyết tật; rộng hơn `user-friendly`
+* **straightforward** UK /ˌstreɪtˈfɔː.wəd/ US /ˌstreɪtˈfɔːr.wɚd/ *(adjective)*: đơn giản để hiểu hoặc thực hiện; không riêng thiết kế sản phẩm
+
+### Word family
+
+* **use** /juːz/ *(transitive verb)*: sử dụng  
+  *Example:* Participants used the application without additional training.  
+  → Người tham gia sử dụng ứng dụng mà không cần đào tạo thêm.
+
+* **user** UK /ˈjuː.zər/ US /ˈjuː.zɚ/ *(countable noun)*: người dùng  
+  *Example:* Users can adjust the text size and colour contrast.  
+  → Người dùng có thể điều chỉnh kích thước chữ và độ tương phản màu.
+
+* **usable** /ˈjuː.zə.bəl/ *(adjective)*: có thể sử dụng được  
+  *Example:* Only half of the collected images were usable for analysis.  
+  → Chỉ một nửa số ảnh thu thập được có thể dùng để phân tích.
+
+* **usability** UK /ˌjuː.zəˈbɪl.ə.ti/ US /ˌjuː.zəˈbɪl.ə.t̬i/ *(uncountable noun)*: tính dễ sử dụng và hiệu quả khi sử dụng  
+  *Example:* Researchers tested the platform's usability with older adults.  
+  → Các nhà nghiên cứu kiểm tra tính dễ sử dụng của nền tảng với người lớn tuổi.
+
+* **user-friendliness** UK /ˌjuː.zəˈfrend.li.nəs/ US /ˌjuː.zɚˈfrend.li.nəs/ *(uncountable noun)*: mức độ thân thiện với người dùng  
+  *Example:* The two systems were compared for speed and user-friendliness.  
+  → Hai hệ thống được so sánh về tốc độ và mức độ thân thiện với người dùng.
+
+### Notes
+
+The compound is hyphenated: `a user-friendly interface` and `the interface is user-friendly`. The usual comparative is `more user-friendly`, not “user-friendlier.” A product can be user-friendly for experienced users yet inaccessible to people with visual, motor, or cognitive impairments, so `user-friendly` and `accessible` are not exact synonyms.
