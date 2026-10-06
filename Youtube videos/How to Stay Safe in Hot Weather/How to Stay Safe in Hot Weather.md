@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=zOH99k53rLU&list=LL&index=4S
+
 # Transcript: How to Stay Safe in Hot Weather
 
 1. Hello everyone, welcome to our podcast.  
