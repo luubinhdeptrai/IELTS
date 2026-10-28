@@ -33583,3 +33583,980 @@ Common structures:
 ### Notes
 
 The compound is hyphenated: `a user-friendly interface` and `the interface is user-friendly`. The usual comparative is `more user-friendly`, not “user-friendlier.” A product can be user-friendly for experienced users yet inaccessible to people with visual, motor, or cognitive impairments, so `user-friendly` and `accessible` are not exact synonyms.
+
+---
+
+*Ghi chú về tỷ lệ nghĩa trong các mục 590–606: các phần trăm là ước lượng để ưu tiên ôn tập trong tiếng Anh thông dụng, không phải số liệu tần suất từ một kho ngữ liệu. Mức độ thường gặp thay đổi theo vùng và ngữ cảnh.*
+
+## 590. Shovel /ˈʃʌv.əl/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** cái xẻng dùng để xúc hoặc di chuyển đất, cát, tuyết *(60%)*; xúc hoặc dọn vật liệu bằng xẻng *(35%)*; nhét, chuyển hoặc ăn thứ gì một cách nhanh và nhiều *(5%)*
+
+### Usage
+
+A `shovel` has a broad blade and a long handle. As a verb, it describes moving material with this tool. It can also describe moving something rapidly in large amounts, often with a suggestion of haste or carelessness.
+
+Common structures:
+
+* `use a shovel to + base verb`: dùng xẻng để làm gì
+* `shovel snow off + surface`: xúc tuyết khỏi bề mặt nào
+* `shovel dirt into + container`: xúc đất vào vật chứa nào
+* `shovel + path/driveway`: xúc dọn lối đi/lối xe vào
+* `shovel food into one's mouth`: ăn hoặc nhét thức ăn vào miệng một cách vội vàng
+
+### Examples
+
+1. **We need to shovel the driveway before leaving for work.**
+   → Chúng ta cần xúc dọn tuyết ở lối xe vào trước khi đi làm.
+
+2. **She used a shovel to move soil into the wheelbarrow.**
+   → Cô ấy dùng xẻng xúc đất vào xe cút kít.
+
+### Common collocations
+
+* **snow shovel**: xẻng xúc tuyết
+* **garden shovel**: xẻng làm vườn
+* **shovel snow**: xúc tuyết
+* **shovel the driveway**: xúc dọn tuyết ở lối xe vào
+* **a shovelful of soil**: một xẻng đất
+
+### Synonyms
+
+* **spade** /speɪd/ *(countable noun; related tool)*: mai hoặc xẻng có lưỡi tương đối phẳng, thường dùng để đào
+* **scoop** /skuːp/ *(transitive verb)*: xúc bằng dụng cụ có phần lõm
+* **dig** /dɪɡ/ *(transitive/intransitive verb; related action)*: đào
+
+### Word family
+
+* **shovel** /ˈʃʌv.əl/ *(countable noun; transitive/intransitive verb)*: cái xẻng; xúc bằng xẻng  
+  *Example:* Workers shoveled sand into bags before the flood arrived.  
+  → Công nhân xúc cát vào bao trước khi nước lũ tràn đến.
+
+* **shovelful** /ˈʃʌv.əl.fʊl/ *(countable noun)*: lượng chứa trong một xẻng  
+  *Example:* Add a shovelful of compost to the planting hole.  
+  → Hãy thêm một xẻng phân hữu cơ vào hố trồng cây.
+
+* **shovelling/shoveling** /ˈʃʌv.əl.ɪŋ/ *(uncountable noun/verb form)*: việc xúc bằng xẻng  
+  *Example:* Shovelling wet snow can be physically demanding.  
+  → Việc xúc tuyết ướt có thể rất tốn sức.
+
+### Notes
+
+British English normally uses `shovelled/shovelling`; American English uses `shoveled/shoveling`. A `shovel` is especially useful for scooping and moving material, while a `spade` is often designed for cutting into soil. The distinction varies by tool and region.
+
+---
+
+## 591. Driveway /ˈdraɪv.weɪ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** lối dành cho xe đi từ đường công cộng vào nhà, gara hoặc khu đất tư nhân, cũng thường dùng để đỗ xe *(100%)*
+
+### Usage
+
+A `driveway` is a private vehicle access route beside or in front of a building. It can be short or long, paved or unpaved. Use `in the driveway` or `on the driveway`; both are natural, with preferences varying by speaker and region.
+
+Common structures:
+
+* `park in/on the driveway`: đỗ xe ở lối xe vào
+* `pull into/out of the driveway`: lái xe vào/ra khỏi lối xe vào
+* `a driveway leads to + building`: lối xe vào dẫn đến tòa nhà nào
+* `clear/shovel the driveway`: dọn/xúc tuyết ở lối xe vào
+* `block someone's driveway`: chặn lối xe ra vào nhà ai
+
+### Examples
+
+1. **Please do not block our driveway with your car.**
+   → Vui lòng đừng đỗ xe chặn lối xe ra vào nhà chúng tôi.
+
+2. **A narrow driveway leads from the road to the cottage.**
+   → Một lối xe hẹp dẫn từ đường vào ngôi nhà nhỏ.
+
+### Common collocations
+
+* **private driveway**: lối xe vào riêng
+* **gravel driveway**: lối xe vào rải sỏi
+* **paved driveway**: lối xe vào được lát hoặc trải mặt cứng
+* **driveway entrance**: cửa vào lối xe
+* **block a driveway**: chặn lối xe vào
+
+### Synonyms
+
+* **drive** /draɪv/ *(countable noun; especially British English)*: lối xe vào nhà
+* **access road** UK /ˈæk.ses rəʊd/ US /ˈæk.ses roʊd/ *(countable noun phrase; broader)*: đường dẫn vào một địa điểm
+* **private drive** /ˌpraɪ.vət ˈdraɪv/ *(countable noun phrase)*: lối xe riêng
+
+### Word family
+
+* **driveway** /ˈdraɪv.weɪ/ *(countable noun)*: lối xe vào nhà hoặc gara  
+  *Example:* Their driveway has enough space for two cars.  
+  → Lối xe vào nhà họ có đủ chỗ cho hai ô tô.
+
+* **drive** /draɪv/ *(transitive/intransitive verb)*: lái xe  
+  *Example:* Drive slowly when entering a residential area.  
+  → Hãy lái chậm khi đi vào khu dân cư.
+
+* **driver** UK /ˈdraɪ.vər/ US /ˈdraɪ.vɚ/ *(countable noun)*: người lái xe  
+  *Example:* The driver checked for pedestrians before reversing.  
+  → Người lái xe quan sát người đi bộ trước khi lùi xe.
+
+### Notes
+
+A `driveway` serves vehicles accessing private property. A `sidewalk` in American English or `pavement` in British English is a public pedestrian path. A `garage` is an enclosed building or room for a vehicle, while a driveway is usually outdoors.
+
+---
+
+## 592. Mitten /ˈmɪt.ən/
+
+* **Part of speech:** countable noun, usually used in the plural `mittens`
+* **Vietnamese meaning:** găng tay có một ngăn riêng cho ngón cái và một ngăn chung cho bốn ngón còn lại *(100%)*
+
+### Usage
+
+A `mitten` keeps the four fingers together rather than separating them as an ordinary glove does. People normally wear `a pair of mittens`, especially in cold weather. The requested form `mittens` is the plural, pronounced /ˈmɪt.ənz/.
+
+Common structures:
+
+* `a pair of mittens`: một đôi găng tay kiểu mitten
+* `put on/take off one's mittens`: đeo/tháo găng tay
+* `wear mittens to keep one's hands warm`: đeo găng để giữ ấm tay
+* `lose/find a mitten`: làm mất/tìm thấy một chiếc găng
+* `mittens made of + material`: găng tay làm bằng vật liệu nào
+
+### Examples
+
+1. **The child wore woolen mittens to keep her hands warm.**
+   → Đứa trẻ đeo đôi găng len có ngăn chung cho bốn ngón để giữ ấm tay.
+
+2. **I found one of your mittens under the seat.**
+   → Tôi tìm thấy một chiếc găng tay của bạn dưới ghế.
+
+### Common collocations
+
+* **woolen mittens**: găng tay mitten bằng len
+* **a pair of mittens**: một đôi găng tay mitten
+* **waterproof mittens**: găng tay mitten chống thấm
+* **winter mittens**: găng tay mitten dùng mùa đông
+* **put on mittens**: đeo găng tay mitten
+
+### Synonyms
+
+* **mitt** /mɪt/ *(countable noun; context-dependent)*: găng tay dạng mitten hoặc một loại găng chuyên dụng
+* **glove** /ɡlʌv/ *(countable noun; broader category)*: găng tay; thường chỉ loại có ngăn riêng cho từng ngón
+
+### Word family
+
+* **mitten** /ˈmɪt.ən/ *(countable noun)*: một chiếc găng có ngăn chung cho bốn ngón  
+  *Example:* A red mitten lay beside the playground gate.  
+  → Một chiếc găng tay đỏ nằm cạnh cổng sân chơi.
+
+* **mittens** /ˈmɪt.ənz/ *(plural noun)*: các chiếc găng kiểu mitten  
+  *Example:* These mittens are attached to the child's coat with clips.  
+  → Đôi găng này được gắn vào áo khoác của đứa trẻ bằng kẹp.
+
+### Notes
+
+`A mitten` is one glove; `a pair of mittens` is two. Ordinary `gloves` usually have separate sections for all five fingers. `Oven mitts` are thick gloves used for handling hot cookware, so `mitt` does not always refer to winter clothing.
+
+---
+
+## 593. Scarf UK /skɑːf/ US /skɑːrf/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** khăn quàng cổ hoặc khăn dùng để choàng đầu/vai, để giữ ấm hoặc trang trí *(100%)*
+
+### Usage
+
+A `scarf` is a piece of fabric worn around the neck, over the head, or around the shoulders. In your winter-clothing list, `Scaft` is most likely a misspelling of `scarf`. The usual plural is `scarves`; `scarfs` is also accepted.
+
+Common structures:
+
+* `wear a scarf around one's neck`: quàng khăn quanh cổ
+* `wrap a scarf around + body part`: quấn khăn quanh bộ phận nào
+* `tie a scarf`: buộc khăn
+* `put on/take off a scarf`: quàng/tháo khăn
+* `a scarf made of + material`: một chiếc khăn làm bằng vật liệu nào
+
+### Examples
+
+1. **Wrap a scarf around your neck before going outside.**
+   → Hãy quàng khăn quanh cổ trước khi ra ngoài.
+
+2. **She chose a silk scarf to match her jacket.**
+   → Cô ấy chọn một chiếc khăn lụa hợp với áo khoác.
+
+### Common collocations
+
+* **woolen scarf**: khăn len
+* **silk scarf**: khăn lụa
+* **winter scarf**: khăn quàng mùa đông
+* **wrap a scarf around one's neck**: quàng khăn quanh cổ
+* **striped scarf**: khăn có sọc
+
+### Synonyms
+
+* **muffler** UK /ˈmʌf.lər/ US /ˈmʌf.lɚ/ *(countable noun; less common for clothing)*: khăn quàng giữ ấm cổ
+* **neck scarf** UK /ˈnek skɑːf/ US /ˈnek skɑːrf/ *(countable noun phrase)*: khăn quàng cổ
+* **shawl** UK /ʃɔːl/ US /ʃɑːl/ *(countable noun; related garment)*: khăn choàng vai, thường lớn hơn khăn quàng cổ
+
+### Word family
+
+* **scarf** UK /skɑːf/ US /skɑːrf/ *(countable noun)*: khăn quàng hoặc khăn choàng  
+  *Example:* His scarf caught on a branch as he walked past.  
+  → Khăn quàng của anh ấy mắc vào một cành cây khi anh ấy đi ngang qua.
+
+* **scarves** UK /skɑːvz/ US /skɑːrvz/ *(plural noun)*: những chiếc khăn quàng  
+  *Example:* The shop sells handmade scarves in several colors.  
+  → Cửa hàng bán khăn quàng làm thủ công với nhiều màu sắc.
+
+### Notes
+
+Spell the clothing word `scarf`, with a final `f`. In the common plural `scarves`, `f` changes to `v`, and the final sound is /vz/. A `shawl` usually covers the shoulders; a winter scarf usually wraps around the neck.
+
+---
+
+## 594. Zipper UK /ˈzɪp.ər/ US /ˈzɪp.ɚ/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** khóa kéo trên quần áo, túi hoặc vật dụng, gồm hai dãy răng được đóng/mở bằng con trượt *(100%)*
+
+### Usage
+
+`Zipper` is the usual American word; British English commonly uses `zip`. The requested `zippers` is the plural. Use `zip up` and `unzip` for the actions of closing and opening it.
+
+Common structures:
+
+* `the zipper on + clothing/bag`: khóa kéo trên quần áo/túi
+* `open/close a zipper`: mở/đóng khóa kéo
+* `a zipper gets stuck`: khóa kéo bị kẹt
+* `fix/replace a zipper`: sửa/thay khóa kéo
+* `zip up/unzip + clothing/bag`: kéo khóa đóng/mở quần áo hoặc túi
+
+### Examples
+
+1. **The zipper on my backpack is stuck.**
+   → Khóa kéo trên ba lô của tôi bị kẹt.
+
+2. **Could you help me zip up this jacket?**
+   → Bạn giúp tôi kéo khóa chiếc áo khoác này lên được không?
+
+### Common collocations
+
+* **broken zipper**: khóa kéo bị hỏng
+* **stuck zipper**: khóa kéo bị kẹt
+* **zipper pull**: phần tay kéo của khóa kéo
+* **zip up a jacket**: kéo khóa áo khoác lên
+* **replace a zipper**: thay khóa kéo
+
+### Synonyms
+
+* **zip** /zɪp/ *(countable noun; especially British English)*: khóa kéo
+* **zip fastener** UK /ˈzɪp ˌfɑː.sən.ər/ US /ˈzɪp ˌfæs.ən.ɚ/ *(countable noun phrase)*: khóa kéo
+* **fastener** UK /ˈfɑː.sən.ər/ US /ˈfæs.ən.ɚ/ *(countable noun; broader)*: bộ phận dùng để đóng hoặc gắn vật, gồm cả khóa kéo và cúc
+
+### Word family
+
+* **zipper** UK /ˈzɪp.ər/ US /ˈzɪp.ɚ/ *(countable noun)*: khóa kéo  
+  *Example:* The tailor replaced the damaged zipper.  
+  → Người thợ may thay chiếc khóa kéo bị hỏng.
+
+* **zip** /zɪp/ *(transitive/intransitive verb; countable noun)*: đóng bằng khóa kéo; khóa kéo  
+  *Example:* Zip your bag before putting it in the overhead compartment.  
+  → Hãy kéo khóa túi lại trước khi đặt nó vào ngăn hành lý phía trên.
+
+* **unzip** /ʌnˈzɪp/ *(transitive/intransitive verb)*: mở khóa kéo  
+  *Example:* She unzipped her suitcase and took out a sweater.  
+  → Cô ấy mở khóa va li và lấy ra một chiếc áo len.
+
+* **zippered** UK /ˈzɪp.əd/ US /ˈzɪp.ɚd/ *(adjective; especially American English)*: có khóa kéo  
+  *Example:* Keep your keys in a zippered pocket.  
+  → Hãy giữ chìa khóa trong một chiếc túi có khóa kéo.
+
+### Notes
+
+`Zip up your jacket` and `zip your jacket up` are both natural. With a pronoun, put it in the middle: `zip it up`. In computing, `zip` and `unzip` also mean compress and extract archived files.
+
+---
+
+## 595. Anthem /ˈæn.θəm/
+
+* **Part of speech:** countable noun
+* **Vietnamese meaning:** bài hát chính thức hoặc tiêu biểu của một quốc gia/nhóm *(75%)*; bài hát gắn với một phong trào, thế hệ hoặc cảm xúc chung *(20%)*; thánh ca dành cho hợp xướng, đặc biệt trong truyền thống Anh giáo *(5%)*
+
+### Usage
+
+An `anthem` is a song expressing the identity or shared values of a country or group. `National anthem` means quốc ca. In popular music, a song may become `an anthem for` people who identify strongly with its message.
+
+Common structures:
+
+* `sing/play the national anthem`: hát/chơi quốc ca
+* `stand for the anthem`: đứng dậy khi quốc ca được hát hoặc phát
+* `an anthem for + group/generation`: bài hát tiêu biểu cho nhóm/thế hệ nào
+* `become an anthem of + movement`: trở thành bài hát biểu tượng của phong trào
+* `a choir performs an anthem`: dàn hợp xướng trình bày một bài thánh ca
+
+### Examples
+
+1. **The crowd stood as the national anthem began.**
+   → Đám đông đứng dậy khi quốc ca bắt đầu vang lên.
+
+2. **The song became an anthem for young people seeking change.**
+   → Bài hát trở thành tiếng nói tiêu biểu của những người trẻ mong muốn thay đổi.
+
+### Common collocations
+
+* **national anthem**: quốc ca
+* **sing the anthem**: hát bài hát chính thức hoặc quốc ca
+* **play the anthem**: chơi hoặc phát bài hát chính thức
+* **protest anthem**: bài hát biểu tượng của phong trào phản đối
+* **anthem for a generation**: bài hát tiêu biểu cho một thế hệ
+
+### Synonyms
+
+* **national song** UK /ˌnæʃ.ən.əl ˈsɒŋ/ US /ˌnæʃ.ən.əl ˈsɑːŋ/ *(countable noun phrase; not always an official anthem)*: bài hát quốc gia
+* **theme song** UK /ˈθiːm sɒŋ/ US /ˈθiːm sɑːŋ/ *(countable noun phrase; related)*: bài hát chủ đề
+* **hymn** /hɪm/ *(countable noun; religious context)*: thánh ca
+
+### Word family
+
+* **anthem** /ˈæn.θəm/ *(countable noun)*: bài hát chính thức hoặc biểu tượng; thánh ca hợp xướng  
+  *Example:* The choir rehearsed the anthem before the ceremony.  
+  → Dàn hợp xướng tập bài hát chính thức trước buổi lễ.
+
+### Notes
+
+Use `the national anthem` when the country is clear from context. An ordinary popular song can be called `an anthem` because of its shared emotional significance, even if no organization has officially adopted it.
+
+---
+
+## 596. Yell /jel/
+
+* **Part of speech:** transitive and intransitive verb; countable noun
+* **Vietnamese meaning:** hét hoặc la lớn để được nghe thấy, bày tỏ cảm xúc hay thu hút chú ý *(55%)*; quát mắng ai bằng giọng lớn *(30%)*; tiếng hét hoặc tiếng la *(15%)*
+
+### Usage
+
+`Yell` means speak or cry out very loudly. The emotion may be anger, excitement, fear, or urgency. `Yell at someone` often suggests anger, while `yell to someone` usually means raise your voice so the person can hear you at a distance.
+
+Common structures:
+
+* `yell at + person`: quát hoặc hét vào ai
+* `yell to + person`: gọi lớn để ai nghe thấy
+* `yell for + help/person`: hét gọi cứu giúp hoặc gọi ai
+* `yell out + words/name`: hét lớn những lời gì hoặc tên ai
+* `let out a yell`: bật ra một tiếng hét
+
+### Examples
+
+1. **She yelled to her brother across the playground.**
+   → Cô ấy gọi lớn anh trai ở phía bên kia sân chơi.
+
+2. **Please do not yell at the children when they make mistakes.**
+   → Vui lòng đừng quát bọn trẻ khi chúng mắc lỗi.
+
+### Common collocations
+
+* **yell for help**: hét cầu cứu
+* **yell at someone**: quát ai
+* **yell with excitement**: hét lên vì phấn khích
+* **let out a yell**: bật ra tiếng hét
+* **a loud yell**: một tiếng hét lớn
+
+### Synonyms
+
+* **shout** /ʃaʊt/ *(transitive/intransitive verb; countable noun)*: hét, gọi lớn; tiếng hét
+* **scream** /skriːm/ *(transitive/intransitive verb; countable noun)*: hét lớn, thường the thé vì sợ hãi, đau đớn hoặc phấn khích
+* **call out** UK /ˌkɔːl ˈaʊt/ US /ˌkɑːl ˈaʊt/ *(phrasal verb)*: gọi lớn
+
+### Word family
+
+* **yell** /jel/ *(transitive/intransitive verb; countable noun)*: hét, quát; tiếng hét  
+  *Example:* A sudden yell made everyone turn toward the door.  
+  → Một tiếng hét bất ngờ khiến mọi người quay về phía cửa.
+
+* **yelling** /ˈjel.ɪŋ/ *(uncountable noun/verb form)*: việc la hét hoặc quát mắng  
+  *Example:* Constant yelling makes it difficult to resolve disagreements calmly.  
+  → Việc liên tục quát mắng khiến khó giải quyết bất đồng một cách bình tĩnh.
+
+### Notes
+
+`Yell` and `shout` are often interchangeable. `Scream` more strongly suggests a high, intense sound. The preposition matters: `yell at` commonly implies hostility, while `yell to` emphasizes communication over a distance.
+
+---
+
+## 597. Recess noun UK /rɪˈses/ US /ˈriː.ses/; verb /rɪˈses/
+
+* **Part of speech:** countable and uncountable noun; transitive and intransitive verb
+* **Vietnamese meaning:** giờ nghỉ giữa các tiết học, thường để trẻ vui chơi trong tiếng Anh-Mỹ *(50%)*; thời gian tạm ngừng họp, xét xử hoặc làm việc của cơ quan lập pháp *(25%)*; hốc hoặc khoảng lõm trong tường/bề mặt *(15%)*; tạm ngừng một phiên họp hoặc làm lõm một bề mặt *(10%)*
+
+### Usage
+
+In American schools, `recess` is a scheduled break when children can play. In institutional contexts, it means a temporary suspension of proceedings. A physical `recess` is a small space set back from the surrounding surface. As a verb, it means suspend proceedings or set something into a surface.
+
+Common structures:
+
+* `at/during recess`: vào/trong giờ ra chơi
+* `have recess`: có giờ ra chơi
+* `take a recess`: tạm nghỉ giữa phiên họp hoặc phiên tòa
+* `be in recess / go into recess`: đang/bắt đầu tạm ngừng làm việc
+* `a recess in + wall/surface`: một hốc trong tường/bề mặt
+* `recess something into + surface`: đặt thứ gì chìm vào bề mặt
+
+### Examples
+
+1. **The children played tag during recess.**
+   → Bọn trẻ chơi đuổi bắt trong giờ ra chơi.
+
+2. **The judge called a short recess before hearing the next witness.**
+   → Thẩm phán cho tạm nghỉ một lúc trước khi nghe nhân chứng tiếp theo.
+
+### Common collocations
+
+* **school recess**: giờ ra chơi ở trường
+* **morning recess**: giờ nghỉ buổi sáng
+* **take a recess**: tạm nghỉ giữa phiên
+* **summer recess**: kỳ tạm nghỉ mùa hè của cơ quan lập pháp hoặc tổ chức
+* **wall recess**: hốc tường
+
+### Synonyms
+
+* **break** /breɪk/ *(countable noun)*: giờ nghỉ hoặc lần tạm nghỉ
+* **playtime** /ˈpleɪ.taɪm/ *(uncountable noun; especially British school usage)*: giờ ra chơi
+* **adjournment** UK /əˈdʒɜːn.mənt/ US /əˈdʒɝːn.mənt/ *(countable/uncountable noun)*: sự tạm hoãn hoặc ngừng phiên họp
+* **alcove** UK /ˈæl.kəʊv/ US /ˈæl.koʊv/ *(countable noun; physical sense)*: hốc hoặc góc lõm trong phòng
+
+### Word family
+
+* **recess** noun UK /rɪˈses/ US /ˈriː.ses/; verb /rɪˈses/ *(noun; transitive/intransitive verb)*: giờ nghỉ; hốc; tạm ngừng hoặc làm lõm  
+  *Example:* The committee recessed until the following morning.  
+  → Ủy ban tạm ngừng họp đến sáng hôm sau.
+
+* **recessed** /rɪˈsest/ *(adjective/past-participle form)*: được đặt chìm hoặc thụt vào bề mặt  
+  *Example:* Recessed lighting keeps the ceiling looking uncluttered.  
+  → Hệ thống đèn âm trần giúp trần nhà trông gọn gàng.
+
+### Notes
+
+For school breaks, British English more commonly uses `break` or `playtime`. Compare `The students are at recess` with `Parliament is in recess`. In American English, the noun usually has first-syllable stress, while the verb usually has second-syllable stress.
+
+---
+
+## 598. Gym class /ˈdʒɪm ˌklæs/
+
+* **Part of speech:** noun phrase; countable for a lesson or group, uncountable when referring generally to the school subject
+* **Vietnamese meaning:** tiết học hoặc môn thể dục ở trường, đặc biệt trong tiếng Anh-Mỹ *(100%)*
+
+### Usage
+
+`Gym class` usually means a school lesson involving exercise, sports, and physical skills. It can take place indoors or outdoors. `PE` and `physical education` are common alternatives. `A gym class` can also refer to a fitness session at a commercial gym when the context makes this clear.
+
+Common structures:
+
+* `have gym class`: có tiết thể dục
+* `in/during gym class`: trong giờ thể dục
+* `take part in gym class`: tham gia giờ thể dục
+* `be excused from gym class`: được miễn tham gia tiết thể dục
+* `a gym class focuses on + skill/activity`: một tiết thể dục tập trung vào kỹ năng/hoạt động nào
+
+### Examples
+
+1. **We practiced basketball in gym class today.**
+   → Hôm nay chúng tôi tập bóng rổ trong giờ thể dục.
+
+2. **She was excused from gym class because of an ankle injury.**
+   → Cô ấy được miễn tham gia tiết thể dục vì chấn thương mắt cá chân.
+
+### Common collocations
+
+* **have gym class**: có tiết thể dục
+* **gym class activities**: các hoạt động trong giờ thể dục
+* **gym teacher**: giáo viên thể dục
+* **participate in gym class**: tham gia giờ thể dục
+* **be excused from gym class**: được miễn tiết thể dục
+
+### Synonyms
+
+* **PE** /ˌpiːˈiː/ *(uncountable noun; abbreviation)*: môn thể dục
+* **physical education** /ˌfɪz.ɪ.kəl ed.jʊˈkeɪ.ʃən/ *(uncountable noun)*: giáo dục thể chất
+* **PE lesson** /ˌpiːˈiː ˌles.ən/ *(countable noun phrase)*: tiết thể dục
+
+### Word family
+
+* **gym class** /ˈdʒɪm ˌklæs/ *(countable/uncountable noun phrase)*: tiết học hoặc môn thể dục  
+  *Example:* Our gym class includes swimming lessons this term.  
+  → Môn thể dục của chúng tôi có các buổi học bơi trong học kỳ này.
+
+* **gym** /dʒɪm/ *(countable noun)*: phòng hoặc nhà tập thể dục  
+  *Example:* The school gym is used for sports and assemblies.  
+  → Nhà thể chất của trường được dùng cho thể thao và các buổi tập trung.
+
+* **gymnastics** /dʒɪmˈnæs.tɪks/ *(uncountable noun)*: môn thể dục dụng cụ  
+  *Example:* Gymnastics develops balance, strength, and flexibility.  
+  → Thể dục dụng cụ phát triển khả năng giữ thăng bằng, sức mạnh và độ linh hoạt.
+
+* **gymnast** /ˈdʒɪm.næst/ *(countable noun)*: vận động viên thể dục dụng cụ  
+  *Example:* The gymnast landed safely on the mat.  
+  → Vận động viên thể dục dụng cụ tiếp đất an toàn trên thảm.
+
+### Notes
+
+`Gym class` is broader than `gymnastics`: the class may include basketball, running, or other sports. British English commonly uses `PE` and pronounces `class` /klɑːs/; American English usually uses /klæs/.
+
+---
+
+## 599. Carpet UK /ˈkɑː.pɪt/ US /ˈkɑːr.pət/
+
+* **Part of speech:** countable and uncountable noun; transitive verb
+* **Vietnamese meaning:** thảm hoặc vật liệu thảm phủ sàn *(65%)*; một lớp vật gì phủ kín bề mặt như thảm *(15%)*; trải thảm hoặc phủ kín bề mặt *(20%)*
+
+### Usage
+
+As a countable noun, `a carpet` is a floor covering; as an uncountable noun, `carpet` is the material. The verb means cover a floor with carpet or cover another surface densely. `A carpet of` often describes flowers, leaves, or snow.
+
+Common structures:
+
+* `lay/fit a carpet`: trải/lắp thảm
+* `a carpet covers + floor`: một tấm thảm phủ sàn nào
+* `carpet + room/floor`: trải thảm cho phòng/sàn
+* `be carpeted with + flowers/leaves`: được phủ kín bởi hoa/lá
+* `a carpet of + noun`: một lớp phủ như thảm bằng thứ gì
+
+### Examples
+
+1. **Please take off your shoes before stepping on the new carpet.**
+   → Vui lòng cởi giày trước khi bước lên tấm thảm mới.
+
+2. **A carpet of fallen leaves covered the path.**
+   → Một lớp lá rụng phủ kín lối đi như một tấm thảm.
+
+### Common collocations
+
+* **fitted carpet**: thảm được cắt và lắp vừa sàn phòng
+* **wall-to-wall carpet**: thảm phủ kín từ tường này sang tường kia
+* **carpet cleaning**: việc làm sạch thảm
+* **lay a carpet**: trải thảm
+* **a carpet of flowers**: một thảm hoa
+
+### Synonyms
+
+* **rug** /rʌɡ/ *(countable noun; usually smaller and movable)*: thảm rời, thường nhỏ hơn diện tích sàn
+* **floor covering** UK /ˈflɔː ˌkʌv.ər.ɪŋ/ US /ˈflɔːr ˌkʌv.ɚ.ɪŋ/ *(countable noun phrase; broader)*: vật liệu phủ sàn
+* **blanket** /ˈblæŋ.kɪt/ *(countable noun/transitive verb; figurative covering sense)*: lớp phủ; phủ kín
+
+### Word family
+
+* **carpet** UK /ˈkɑː.pɪt/ US /ˈkɑːr.pət/ *(noun; transitive verb)*: thảm; trải hoặc phủ thảm  
+  *Example:* They carpeted the stairs to reduce noise.  
+  → Họ trải thảm cầu thang để giảm tiếng ồn.
+
+* **carpeting** UK /ˈkɑː.pɪ.tɪŋ/ US /ˈkɑːr.pə.t̬ɪŋ/ *(uncountable noun)*: vật liệu thảm trải sàn  
+  *Example:* The hotel replaced the worn carpeting in the hallway.  
+  → Khách sạn thay lớp thảm trải sàn bị mòn ở hành lang.
+
+* **carpeted** UK /ˈkɑː.pɪ.tɪd/ US /ˈkɑːr.pə.t̬ɪd/ *(adjective/past-participle form)*: được trải thảm  
+  *Example:* The carpeted bedroom feels warmer in winter.  
+  → Phòng ngủ được trải thảm tạo cảm giác ấm hơn vào mùa đông.
+
+### Notes
+
+A `rug` is usually a movable piece covering part of a floor; a `carpet` often covers most or all of a room. Use `on the carpet` for a physical position. The idiom `sweep something under the carpet` means hide or ignore a problem.
+
+---
+
+## 600. Weed /wiːd/
+
+* **Part of speech:** countable noun for an unwanted plant; uncountable noun for cannabis; transitive and intransitive verb
+* **Vietnamese meaning:** cây hoặc cỏ mọc ở nơi không mong muốn *(60%)*; nhổ cỏ hoặc loại bỏ những cây không mong muốn *(30%)*; cần sa trong cách nói thân mật *(10%)*
+
+### Usage
+
+A `weed` is a plant growing where people do not want it. Whether a plant is a weed depends on the location and purpose. As a verb, `weed` means remove unwanted plants. The phrasal verb `weed out` also means remove unsuitable people, errors, or items from a group.
+
+Common structures:
+
+* `pull up/remove weeds`: nhổ/loại bỏ cỏ dại
+* `weed + garden/flower bed`: nhổ cỏ trong vườn/luống hoa
+* `be overgrown with weeds`: mọc um tùm cỏ dại
+* `weed out + unsuitable item/person`: loại bỏ mục hoặc người không phù hợp
+* `keep weeds under control`: kiểm soát cỏ dại
+
+### Examples
+
+1. **Pull out the weeds before they spread through the vegetable garden.**
+   → Hãy nhổ cỏ dại trước khi chúng lan khắp vườn rau.
+
+2. **The review process helps weed out unreliable information.**
+   → Quá trình rà soát giúp loại bỏ thông tin không đáng tin cậy.
+
+### Common collocations
+
+* **pull up weeds**: nhổ cỏ dại
+* **weed the garden**: nhổ cỏ trong vườn
+* **weed control**: kiểm soát cỏ dại
+* **overgrown with weeds**: mọc um tùm cỏ dại
+* **weed out errors**: loại bỏ lỗi
+
+### Synonyms
+
+* **unwanted plant** /ʌnˌwɒn.tɪd ˈplɑːnt/ *(countable noun phrase)*: cây mọc ở nơi không mong muốn
+* **remove unwanted plants** /rɪˌmuːv ʌnˈwɒn.tɪd plɑːnts/ *(verb phrase)*: loại bỏ cây không mong muốn
+* **cannabis** /ˈkæn.ə.bɪs/ *(uncountable noun; informal drug sense)*: cần sa
+
+### Word family
+
+* **weed** /wiːd/ *(countable/uncountable noun; transitive/intransitive verb)*: cỏ dại; cần sa; nhổ cỏ  
+  *Example:* We weed the flower beds every Saturday.  
+  → Chúng tôi nhổ cỏ các luống hoa vào mỗi thứ Bảy.
+
+* **weeding** /ˈwiː.dɪŋ/ *(uncountable noun/verb form)*: việc nhổ hoặc loại bỏ cỏ dại  
+  *Example:* Regular weeding gives young plants more room to grow.  
+  → Việc nhổ cỏ thường xuyên giúp cây non có thêm không gian phát triển.
+
+* **weedy** /ˈwiː.di/ *(adjective)*: có nhiều cỏ dại  
+  *Example:* The weedy path had almost disappeared from view.  
+  → Lối đi đầy cỏ dại gần như không còn nhìn thấy được.
+
+### Notes
+
+`Weed` is not a botanical category: a useful plant in one place may be a weed in another. In the cannabis sense, it is normally uncountable. For `weed out`, a pronoun goes in the middle: `weed them out`.
+
+---
+
+## 601. Insect repellent /ˈɪn.sekt rɪˌpel.ənt/
+
+* **Part of speech:** noun phrase; uncountable for the substance, countable for a product or type
+* **Vietnamese meaning:** chất hoặc sản phẩm xua côn trùng, thường bôi lên da/quần áo để hạn chế côn trùng đến gần hoặc đốt *(100%)*
+
+### Usage
+
+`Insect repellent` is a substance designed to keep insects away. Use `some insect repellent` for an amount and `an insect repellent` for a particular product or kind. The spelling is `repellent`, with double `l` and ending `-ent`.
+
+Common structures:
+
+* `apply/use insect repellent`: bôi/sử dụng chất xua côn trùng
+* `put insect repellent on + skin/clothing`: bôi hoặc xịt chất xua côn trùng lên da/quần áo
+* `an insect repellent contains + ingredient`: một sản phẩm xua côn trùng chứa thành phần nào
+* `protect against insect bites with + repellent`: dùng chất xua côn trùng để phòng bị cắn/đốt
+* `a bottle of insect repellent`: một chai chất xua côn trùng
+
+### Examples
+
+1. **We packed insect repellent for our camping trip.**
+   → Chúng tôi mang theo chất xua côn trùng cho chuyến cắm trại.
+
+2. **She applied insect repellent before walking through the forest.**
+   → Cô ấy bôi chất xua côn trùng trước khi đi bộ trong rừng.
+
+### Common collocations
+
+* **apply insect repellent**: bôi chất xua côn trùng
+* **insect repellent spray**: bình xịt xua côn trùng
+* **mosquito repellent**: chất xua muỗi
+* **a bottle of insect repellent**: một chai chất xua côn trùng
+* **insect repellent lotion**: kem hoặc dung dịch bôi xua côn trùng
+
+### Synonyms
+
+* **bug repellent** /ˈbʌɡ rɪˌpel.ənt/ *(countable/uncountable noun phrase; informal American English)*: chất xua côn trùng
+* **mosquito repellent** UK /məˈskiː.təʊ rɪˌpel.ənt/ US /məˈskiː.t̬oʊ rɪˌpel.ənt/ *(noun phrase; narrower)*: chất xua muỗi
+* **bug spray** /ˈbʌɡ spreɪ/ *(countable/uncountable noun phrase; informal and context-dependent)*: thuốc xịt xua hoặc diệt côn trùng
+
+### Word family
+
+* **insect repellent** /ˈɪn.sekt rɪˌpel.ənt/ *(countable/uncountable noun phrase)*: chất hoặc sản phẩm xua côn trùng  
+  *Example:* The store sells insect repellent in several forms.  
+  → Cửa hàng bán chất xua côn trùng ở một số dạng khác nhau.
+
+* **repel** /rɪˈpel/ *(transitive verb)*: xua đuổi, đẩy ra xa  
+  *Example:* The coating repels water and helps the fabric stay dry.  
+  → Lớp phủ đẩy nước ra và giúp vải khô ráo.
+
+* **repellent** /rɪˈpel.ənt/ *(adjective; countable/uncountable noun)*: có tác dụng xua đuổi; chất xua đuổi  
+  *Example:* This repellent keeps mosquitoes away from the seating area.  
+  → Chất xua đuổi này giúp muỗi tránh xa khu vực chỗ ngồi.
+
+### Notes
+
+A `repellent` keeps insects away; an `insecticide` is intended to kill insects. Informal `bug spray` may refer to either, so the label and context determine the meaning. The words are not always interchangeable.
+
+---
+
+## 602. Roast UK /rəʊst/ US /roʊst/
+
+* **Part of speech:** transitive and intransitive verb; adjective before a noun; countable noun
+* **Vietnamese meaning:** nướng thực phẩm bằng nhiệt khô trong lò hoặc trên lửa, hay rang hạt/cà phê *(65%)*; thịt hoặc bữa ăn có món nướng *(20%)*; được nướng, khi đứng trước danh từ *(10%)*; trêu chọc hoặc chế giễu ai, thường mang tính hài hước *(5%)*
+
+### Usage
+
+`Roast` means cook food with dry heat, often in an oven or over a fire. It is common with meat, vegetables, nuts, coffee beans, and marshmallows. As a noun, it can mean a joint of meat or a meal built around roasted food. Informally, `roast someone` means make jokes at their expense.
+
+Common structures:
+
+* `roast + meat/vegetables`: nướng thịt/rau củ
+* `roast something in the oven`: nướng thứ gì trong lò
+* `roast something over a fire`: nướng thứ gì trên lửa
+* `roast + noun`: món gì được nướng, như thịt gà nướng
+* `have a roast for + meal`: ăn một bữa có món nướng vào bữa nào
+* `roast someone for + noun/V-ing`: trêu chọc ai vì điều gì/việc làm gì
+
+### Examples
+
+1. **We roasted vegetables in the oven while the chicken rested.**
+   → Chúng tôi nướng rau củ trong lò trong lúc để thịt gà nghỉ sau khi nấu.
+
+2. **The children roasted marshmallows over the campfire.**
+   → Bọn trẻ nướng kẹo marshmallow trên lửa trại.
+
+### Common collocations
+
+* **roast chicken**: gà nướng
+* **roast potatoes**: khoai tây nướng
+* **roasted coffee beans**: hạt cà phê rang
+* **Sunday roast**: bữa trưa Chủ nhật với món thịt nướng và đồ ăn kèm, đặc biệt ở Anh
+* **roast marshmallows**: nướng kẹo marshmallow
+
+### Synonyms
+
+* **cook with dry heat** /ˌkʊk wɪð draɪ ˈhiːt/ *(verb phrase; explanatory)*: nấu bằng nhiệt khô
+* **bake** /beɪk/ *(transitive/intransitive verb; overlapping method)*: nướng trong lò, thường dùng cho bánh và một số món khác
+* **tease** /tiːz/ *(transitive verb; informal joke sense)*: trêu chọc
+* **make fun of** /ˌmeɪk ˈfʌn əv/ *(verb phrase; informal joke sense)*: chế giễu, đem ai ra làm trò cười
+
+### Word family
+
+* **roast** UK /rəʊst/ US /roʊst/ *(verb/adjective/countable noun)*: nướng hoặc rang; được nướng; món thịt nướng  
+  *Example:* We usually have a roast when the whole family visits.  
+  → Chúng tôi thường ăn một bữa có món thịt nướng khi cả gia đình đến chơi.
+
+* **roasted** UK /ˈrəʊ.stɪd/ US /ˈroʊ.stɪd/ *(adjective/past-participle form)*: được nướng hoặc rang  
+  *Example:* Roasted nuts add texture to the salad.  
+  → Các loại hạt rang tạo thêm độ giòn cho món salad.
+
+* **roasting** UK /ˈrəʊ.stɪŋ/ US /ˈroʊ.stɪŋ/ *(uncountable noun/verb form)*: việc nướng hoặc rang  
+  *Example:* Roasting brings out the natural sweetness of carrots.  
+  → Việc nướng làm nổi bật vị ngọt tự nhiên của cà rốt.
+
+* **roaster** UK /ˈrəʊ.stər/ US /ˈroʊ.stɚ/ *(countable noun)*: người, doanh nghiệp hoặc thiết bị rang/nướng  
+  *Example:* A local coffee roaster supplies the café with fresh beans.  
+  → Một cơ sở rang cà phê địa phương cung cấp hạt mới rang cho quán.
+
+### Notes
+
+`Roast` and `bake` overlap, but English commonly uses `roast meat/vegetables` and `bake bread/cakes`. `Grill` usually involves direct heat from a hot element or flame. The joking sense of `roast` can still hurt someone's feelings even when intended as humor.
+
+---
+
+## 603. Marshmallow UK /ˌmɑːʃˈmæl.əʊ/ US /ˈmɑːrʃˌmel.oʊ/
+
+* **Part of speech:** countable noun; uncountable when referring to the confection as a substance
+* **Vietnamese meaning:** kẹo đường mềm, nhẹ và xốp, thường có màu trắng và được nướng trên lửa hoặc cho vào đồ uống nóng *(100%)*
+
+### Usage
+
+A `marshmallow` is a soft, airy sweet. Use the plural for individual pieces: `three marshmallows`. The uncountable use refers to the substance or filling: `a layer of marshmallow`. It is common in camping conversations and descriptions of desserts.
+
+Common structures:
+
+* `roast/toast marshmallows over a fire`: nướng kẹo marshmallow trên lửa
+* `put marshmallows in + drink`: cho kẹo marshmallow vào đồ uống
+* `a bag of marshmallows`: một túi kẹo marshmallow
+* `a layer of marshmallow`: một lớp kẹo marshmallow mềm
+* `a marshmallow on a stick`: một viên kẹo marshmallow xiên trên que
+
+### Examples
+
+1. **We toasted marshmallows over the fire after dinner.**
+   → Chúng tôi nướng kẹo marshmallow trên lửa sau bữa tối.
+
+2. **She added a few small marshmallows to her hot chocolate.**
+   → Cô ấy cho vài viên kẹo marshmallow nhỏ vào cốc sô-cô-la nóng.
+
+### Common collocations
+
+* **toasted marshmallows**: kẹo marshmallow nướng
+* **mini marshmallows**: kẹo marshmallow cỡ nhỏ
+* **a bag of marshmallows**: một túi kẹo marshmallow
+* **marshmallow filling**: nhân kẹo marshmallow mềm
+* **roast marshmallows over a campfire**: nướng kẹo marshmallow trên lửa trại
+
+### Synonyms
+
+* **soft confection** /ˌsɒft kənˈfek.ʃən/ *(countable noun phrase; explanatory)*: loại kẹo mềm
+* **sweet** /swiːt/ *(countable noun; British English, broader)*: viên kẹo
+* **candy** /ˈkæn.di/ *(countable/uncountable noun; American English, broader)*: kẹo
+
+### Word family
+
+* **marshmallow** UK /ˌmɑːʃˈmæl.əʊ/ US /ˈmɑːrʃˌmel.oʊ/ *(countable/uncountable noun)*: kẹo đường mềm xốp  
+  *Example:* The marshmallow turned golden as she held it above the coals.  
+  → Viên kẹo marshmallow chuyển màu vàng khi cô ấy giữ nó trên than hồng.
+
+### Notes
+
+`Kẹo dẻo` can be ambiguous in Vietnamese: marshmallows are soft and airy, while gummy sweets are denser and chewier. Spell the word `marshmallow`, with `-mallow`, although American pronunciation often sounds like “marsh-mellow.” The broader words above are explanations, not exact substitutes.
+
+---
+
+## 604. Workshop UK /ˈwɜːk.ʃɒp/ US /ˈwɝːk.ʃɑːp/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** buổi học hoặc thảo luận có thực hành và trao đổi tích cực *(55%)*; xưởng hoặc phòng dùng để chế tạo, sửa chữa đồ vật *(40%)*; cùng thảo luận, thử nghiệm và chỉnh sửa một ý tưởng/tác phẩm *(5%)*
+
+### Usage
+
+A learning `workshop` involves active participation, unlike a lecture that mainly involves listening. A physical workshop is a room or building containing tools and work surfaces. As a verb, `workshop` means develop or improve material through group feedback and practice.
+
+Common structures:
+
+* `attend/run/organize a workshop`: tham dự/điều hành/tổ chức một buổi học thực hành
+* `a workshop on + topic`: buổi học thực hành về chủ đề nào
+* `a workshop for + group`: buổi học thực hành dành cho nhóm nào
+* `work in a workshop`: làm việc trong xưởng
+* `workshop + an idea/script/proposal`: cùng thử nghiệm và chỉnh sửa ý tưởng/kịch bản/đề xuất
+
+### Examples
+
+1. **I attended a workshop on giving clear presentations.**
+   → Tôi tham dự một buổi học thực hành về cách thuyết trình rõ ràng.
+
+2. **He repairs old furniture in a small workshop behind the house.**
+   → Anh ấy sửa đồ nội thất cũ trong một xưởng nhỏ phía sau nhà.
+
+### Common collocations
+
+* **hands-on workshop**: buổi học có thực hành trực tiếp
+* **training workshop**: buổi đào tạo thực hành
+* **writing workshop**: buổi luyện viết và góp ý
+* **repair workshop**: xưởng sửa chữa
+* **attend a workshop**: tham dự buổi học thực hành
+
+### Synonyms
+
+* **practical training session** /ˌpræk.tɪ.kəl ˈtreɪ.nɪŋ ˌseʃ.ən/ *(countable noun phrase)*: buổi đào tạo thực hành
+* **studio** UK /ˈstjuː.di.əʊ/ US /ˈstuː.di.oʊ/ *(countable noun; related workspace)*: xưởng sáng tác hoặc phòng làm việc nghệ thuật
+* **workroom** UK /ˈwɜːk.ruːm/ US /ˈwɝːk.ruːm/ *(countable noun)*: phòng làm việc thủ công hoặc sản xuất
+* **refine** /rɪˈfaɪn/ *(transitive verb; related verb sense)*: chỉnh sửa để cải thiện
+
+### Word family
+
+* **workshop** UK /ˈwɜːk.ʃɒp/ US /ˈwɝːk.ʃɑːp/ *(countable noun/transitive verb)*: buổi học thực hành; xưởng; cùng thử nghiệm chỉnh sửa  
+  *Example:* The team workshopped the proposal before presenting it to the client.  
+  → Nhóm cùng trao đổi và chỉnh sửa đề xuất trước khi trình bày với khách hàng.
+
+* **workshopping** UK /ˈwɜːk.ʃɒp.ɪŋ/ US /ˈwɝːk.ʃɑːp.ɪŋ/ *(uncountable noun/verb form)*: việc cùng thử nghiệm và góp ý chỉnh sửa  
+  *Example:* Workshopping the dialogue helped the actors sound more natural.  
+  → Việc cùng thử nghiệm và góp ý cho lời thoại giúp các diễn viên nói tự nhiên hơn.
+
+### Notes
+
+`A workshop on pronunciation` is a learning event; `a workshop behind the garage` is a physical work area. A `seminar` may involve discussion but does not necessarily include the practical activities expected in a workshop. The verb is especially common in creative and collaborative work.
+
+---
+
+## 605. Garage UK /ˈɡær.ɑːʒ/ US /ɡəˈrɑːʒ/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** nhà hoặc phòng kín dùng để cất/đỗ ô tô và đồ dùng *(60%)*; cơ sở sửa chữa ô tô, đôi khi kèm bán nhiên liệu, đặc biệt trong tiếng Anh-Anh *(35%)*; cất hoặc đỗ phương tiện trong gara *(5%)*
+
+### Usage
+
+A `garage` can be part of a home or a separate building for a vehicle. It can also mean a business that repairs vehicles. As a verb, it means keep a vehicle in a garage; this use is more formal and appears in contexts such as insurance.
+
+Common structures:
+
+* `park/keep a car in the garage`: đỗ/giữ xe trong gara
+* `take a car to the garage`: mang xe đến cơ sở sửa chữa
+* `a garage is attached to + building`: gara nối liền với tòa nhà nào
+* `convert a garage into + room`: chuyển gara thành phòng gì
+* `a vehicle is garaged at + address`: phương tiện được cất trong gara tại địa chỉ nào
+
+### Examples
+
+1. **We keep the bicycles and gardening tools in the garage.**
+   → Chúng tôi cất xe đạp và dụng cụ làm vườn trong gara.
+
+2. **I need to take my car to the garage for repairs.**
+   → Tôi cần mang ô tô đến gara để sửa chữa.
+
+### Common collocations
+
+* **garage door**: cửa gara
+* **attached garage**: gara nối liền với nhà
+* **double garage**: gara đủ chỗ cho hai ô tô
+* **repair garage**: cơ sở sửa chữa ô tô
+* **garage sale**: buổi bán đồ gia đình đã qua sử dụng, thường tổ chức tại nhà
+
+### Synonyms
+
+* **car storage space** UK /ˈkɑː ˌstɔː.rɪdʒ speɪs/ US /ˈkɑːr ˌstɔːr.ɪdʒ speɪs/ *(countable noun phrase; explanatory)*: chỗ cất hoặc đỗ xe
+* **auto repair shop** /ˈɔː.toʊ rɪˈper ʃɑːp/ *(countable noun phrase; American English)*: tiệm sửa ô tô
+* **service station** UK /ˈsɜː.vɪs ˌsteɪ.ʃən/ US /ˈsɝː.vɪs ˌsteɪ.ʃən/ *(countable noun phrase; overlaps in some regions)*: trạm cung cấp nhiên liệu và có thể có dịch vụ cho xe
+
+### Word family
+
+* **garage** UK /ˈɡær.ɑːʒ/ US /ɡəˈrɑːʒ/ *(countable noun/transitive verb)*: gara; cơ sở sửa xe; cất xe trong gara  
+  *Example:* The classic car is garaged throughout the winter.  
+  → Chiếc xe cổ được cất trong gara suốt mùa đông.
+
+* **garaged** UK /ˈɡær.ɑːʒd/ US /ɡəˈrɑːʒd/ *(past-participle form)*: được cất hoặc đỗ trong gara  
+  *Example:* The insurer asked where the vehicle was normally garaged.  
+  → Công ty bảo hiểm hỏi xe thường được cất trong gara ở đâu.
+
+### Notes
+
+British pronunciation also includes /ˈɡær.ɪdʒ/. A `carport` has a roof but is normally open at the sides, whereas a garage is enclosed. American English commonly uses `auto repair shop` for the repair-business sense.
+
+---
+
+## 606. Backyard UK /ˌbækˈjɑːd/ US /ˌbækˈjɑːrd/
+
+* **Part of speech:** countable noun; attributive modifier before a noun
+* **Vietnamese meaning:** sân hoặc khu đất phía sau nhà, thường gồm chỗ ngồi, bãi cỏ hay vườn *(85%)*; khu vực gần nơi ở hoặc phạm vi lợi ích của mình, thường trong cụm `in one's own backyard` *(15%)*
+
+### Usage
+
+`Backyard` is especially common in American English for the outdoor area behind a house. It can describe paved or planted space. British English commonly uses `back garden` for a planted area and `back yard` for a paved or enclosed area. Before a noun, use the closed form in expressions such as `a backyard barbecue`.
+
+Common structures:
+
+* `in the backyard`: ở sân sau
+* `a house with a backyard`: một ngôi nhà có sân sau
+* `play/sit/work in the backyard`: chơi/ngồi/làm việc ngoài sân sau
+* `a backyard + barbecue/garden`: buổi nướng đồ ăn/khu vườn ở sân sau
+* `in one's own backyard`: ngay gần nơi ở hoặc trong phạm vi của chính mình
+
+### Examples
+
+1. **The children built a snowman in the backyard.**
+   → Bọn trẻ đắp một người tuyết ở sân sau.
+
+2. **We are having a backyard barbecue this weekend.**
+   → Chúng tôi sẽ tổ chức một buổi nướng đồ ăn ở sân sau vào cuối tuần này.
+
+### Common collocations
+
+* **backyard barbecue**: buổi nướng đồ ăn ở sân sau
+* **backyard garden**: khu vườn sân sau
+* **fenced backyard**: sân sau có hàng rào
+* **in the backyard**: ở sân sau
+* **in one's own backyard**: ngay gần nơi mình ở hoặc trong phạm vi của mình
+
+### Synonyms
+
+* **back garden** UK /ˌbæk ˈɡɑː.dən/ US /ˌbæk ˈɡɑːr.dən/ *(countable noun phrase; especially British English)*: vườn phía sau nhà
+* **rear yard** UK /ˌrɪə ˈjɑːd/ US /ˌrɪr ˈjɑːrd/ *(countable noun phrase; formal)*: sân phía sau
+* **outdoor area behind the house** /ˌaʊt.dɔːr ˈeə.ri.ə bɪˌhaɪnd ðə ˈhaʊs/ *(noun phrase; explanatory)*: khu vực ngoài trời phía sau nhà
+
+### Word family
+
+* **yard** UK /jɑːd/ US /jɑːrd/ *(countable noun)*: khu đất hoặc sân quanh một tòa nhà  
+  *Example:* The dog waited in the yard while we cleaned the kitchen.  
+  → Con chó chờ ngoài sân trong lúc chúng tôi dọn bếp.
+
+* **backyard** UK /ˌbækˈjɑːd/ US /ˌbækˈjɑːrd/ *(countable noun/attributive modifier)*: sân sau; thuộc sân sau  
+  *Example:* Their backyard has enough room for a small vegetable patch.  
+  → Sân sau nhà họ có đủ chỗ cho một luống rau nhỏ.
+
+### Notes
+
+Use `in the backyard`, not normally `on the backyard`. `Backyard` does not require the presence of grass. The figurative phrase `in our own backyard` emphasizes how close an issue or opportunity is to home.
