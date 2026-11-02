@@ -7336,18 +7336,24 @@ For IELTS Writing, `tackle` is a strong alternative to `solve` or `deal with`, e
 
 ## 133. Scratched /skrætʃt/
 
-* **Part of speech:** adjective; verb form
-* **Vietnamese meaning:** bị trầy, bị xước trên bề mặt *(80%)*; bị cào/xước do móng, vật sắc hoặc ma sát *(20%)*
+* **Part of speech:** adjective; past-tense and past-participle form of the transitive and intransitive verb `scratch`
+* **Vietnamese meaning:** bị trầy, bị xước trên bề mặt *(55%)*; bị cào/xước do móng, vật sắc hoặc ma sát *(25%)*; đã gãi hoặc cào, khi dùng làm dạng quá khứ của động từ `scratch` *(20%)*
 
 ### Usage
 
 `Scratched` describes a surface with thin lines or marks caused by rubbing, sharp objects, or accidents. It is common for phones, cars, furniture, glasses, and skin.
+
+**Có, `scratch` còn có nghĩa là “gãi”.** Khi người hoặc thú dùng móng/chân để xoa cọ chỗ ngứa, dùng `scratch`. Cùng một động từ cũng có thể nghĩa là “cào” hoặc “làm xước”, tùy hành động và kết quả. `Scratched` vừa có thể là tính từ “bị xước”, vừa là dạng quá khứ “đã gãi/cào”.
 
 Common structures:
 
 * `be/get scratched`: bị trầy/xước
 * `scratched surface/screen`: bề mặt/màn hình bị xước
 * `scratch something with/on something`: làm xước cái gì bằng/trên cái gì
+* `scratch one's arm/head`: gãi tay/đầu; cũng có thể chỉ cào xước nếu ngữ cảnh nói đến tổn thương
+* `scratch oneself`: tự gãi hoặc tự cào mình
+* `scratch a cat behind the ears`: gãi nhẹ phía sau tai cho mèo
+* `scratch at + door/surface`: cào liên tiếp vào cửa/bề mặt
 
 ### Examples
 
@@ -7362,20 +7368,25 @@ Common structures:
 * **scratched screen**: màn hình bị xước
 * **scratched car**: xe bị trầy
 * **badly scratched**: bị trầy/xước nặng
+* **scratch an itch**: gãi chỗ ngứa
+* **scratch one's head**: gãi đầu; nghĩa bóng là bối rối, phải suy nghĩ tìm lời giải
+* **scratch behind the ears**: gãi phía sau tai
 
 ### Synonyms
 
 * **scraped** /skreɪpt/ *(adjective)*: bị trầy do cọ xát
-* **scuffed** /skəft/ *(adjective)*: bị xước/mòn bề mặt
-* **marked** /mɑrkt/ *(adjective)*: có dấu/vết; rộng hơn
+* **scuffed** /skʌft/ *(adjective)*: bị xước/mòn bề mặt
+* **marked** UK /mɑːkt/ US /mɑːrkt/ *(adjective)*: có dấu/vết; rộng hơn
+* **rub** /rʌb/ *(transitive/intransitive verb; related action)*: xoa hoặc cọ; không nhất thiết dùng móng hay làm xước
+* **claw** UK /klɔː/ US /klɑː/ *(transitive/intransitive verb; stronger animal action)*: cào bằng móng vuốt
 
 ### Word family
 
-* **scratched** /skrætʃt/ *(adjective/verb form)*: bị trầy, bị xước  
+* **scratched** /skrætʃt/ *(adjective/past-tense/past-participle form)*: bị trầy, bị xước; đã gãi hoặc cào  
   *Example:* The scratched laptop looked old even though it worked well.  
   → Chiếc laptop bị xước trông cũ dù vẫn hoạt động tốt.
 
-* **scratch** /skrætʃ/ *(verb/noun)*: cào, làm xước; vết xước  
+* **scratch** /skrætʃ/ *(transitive/intransitive verb; countable noun)*: gãi; cào, làm xước; vết xước  
   *Example:* Do not scratch the glass with a sharp tool.  
   → Đừng làm xước kính bằng dụng cụ sắc.
 
@@ -7383,9 +7394,13 @@ Common structures:
   *Example:* The old sweater felt scratchy on my skin.  
   → Chiếc áo len cũ tạo cảm giác ngứa khó chịu trên da tôi.
 
+* **scratching** /ˈskrætʃ.ɪŋ/ *(verb form/uncountable noun)*: đang gãi/cào; việc gãi/cào  
+  *Example:* The cat is scratching its ear with a back paw.  
+  → Con mèo đang dùng một chân sau để gãi tai.
+
 ### Notes
 
-`Scratched` usually means surface damage, not deep structural damage. A scratched item may still work normally.
+`Scratched` as an adjective usually means surface damage, not deep structural damage. A scratched item may still work normally. Compare `My arm itches` (tay tôi bị ngứa) with `I scratch my arm` (tôi gãi tay): `itch` is the sensation, while `scratch` is the action. In standard learner English, use `scratch` for “gãi”; the action need not leave an injury. Do not confuse `scratch an itch` with the noun phrase `a scratch`, which usually means a small surface mark or injury.
 
 ---
 
@@ -34560,3 +34575,1498 @@ Common structures:
 ### Notes
 
 Use `in the backyard`, not normally `on the backyard`. `Backyard` does not require the presence of grass. The figurative phrase `in our own backyard` emphasizes how close an issue or opportunity is to home.
+
+---
+
+*Ghi chú cho các mục 607–627: phần trăm ở mỗi nghĩa là ước lượng để ưu tiên học trong các ngữ cảnh thông dụng, không phải số liệu tần suất từ kho ngữ liệu. Những nghĩa thường gặp có thể khác nhau theo chủ đề và vùng sử dụng.*
+
+## 607. Dissolve UK /dɪˈzɒlv/ US /dɪˈzɑːlv/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** hòa tan hoặc tan trong chất lỏng *(55%)*; giải thể một tổ chức hoặc chính thức chấm dứt một thỏa thuận *(25%)*; dần biến mất, tan biến hoặc chuyển sang trạng thái khác *(20%)*
+
+### Usage
+
+`Dissolve` describes a substance becoming mixed into a liquid so that it is no longer separately visible. A person can dissolve the substance, or the substance can dissolve by itself. In formal contexts, it also means end an organization, parliament, partnership, or legal arrangement.
+
+Common structures:
+
+* `dissolve + substance + in + liquid`: hòa tan chất gì trong chất lỏng nào
+* `a substance dissolves in + liquid`: một chất tan trong chất lỏng nào
+* `dissolve + parliament/partnership`: giải tán quốc hội/chấm dứt quan hệ hợp tác
+* `be dissolved by + authority`: bị giải thể bởi cơ quan có thẩm quyền
+* `dissolve into + laughter/tears`: bật cười hoặc òa khóc, không còn giữ được bình tĩnh
+
+### Examples
+
+1. **Dissolve the sugar in warm water before adding the other ingredients.**
+   → Hãy hòa tan đường trong nước ấm trước khi thêm các nguyên liệu khác.
+
+2. **The partnership was dissolved after the two owners disagreed about its future.**
+   → Quan hệ hợp tác bị chấm dứt sau khi hai chủ sở hữu bất đồng về tương lai của nó.
+
+### Common collocations
+
+* **dissolve in water**: tan trong nước
+* **dissolve completely**: tan hoàn toàn
+* **dissolve a partnership**: chấm dứt quan hệ hợp tác
+* **dissolve parliament**: giải tán quốc hội
+* **dissolve into tears**: òa khóc
+
+### Synonyms
+
+* **go into solution** /ˌɡəʊ ɪn.tə səˈluː.ʃən/ *(verb phrase; chemical sense)*: đi vào trạng thái hòa tan
+* **disband** /dɪsˈbænd/ *(transitive/intransitive verb; organization sense)*: giải tán
+* **terminate** /ˈtɜː.mɪ.neɪt/ *(transitive/intransitive verb; formal)*: chấm dứt
+* **fade away** /ˌfeɪd əˈweɪ/ *(phrasal verb; figurative sense)*: dần tan biến
+
+### Word family
+
+* **dissolve** UK /dɪˈzɒlv/ US /dɪˈzɑːlv/ *(transitive/intransitive verb)*: hòa tan; giải thể; tan biến  
+  *Example:* The salt dissolved after a few minutes of stirring.  
+  → Muối tan sau vài phút khuấy.
+
+* **dissolved** UK /dɪˈzɒlvd/ US /dɪˈzɑːlvd/ *(adjective/past-participle form)*: đã hòa tan; đã bị giải thể  
+  *Example:* Fish depend on oxygen dissolved in water.  
+  → Cá phụ thuộc vào oxy hòa tan trong nước.
+
+* **dissolution** /ˌdɪs.əˈluː.ʃən/ *(countable/uncountable noun)*: sự hòa tan; sự giải thể hoặc chấm dứt  
+  *Example:* The dissolution of the committee delayed the project.  
+  → Việc giải thể ủy ban làm dự án chậm lại.
+
+### Notes
+
+`Dissolve` is different from `melt`: sugar dissolves in water, while ice melts when it changes from solid water to liquid water. `Soluble` describes a substance that can dissolve, but it is a related vocabulary item rather than a direct grammatical form of `dissolve`.
+
+---
+
+## 608. Potassium /pəˈtæs.i.əm/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** kali, nguyên tố hóa học ký hiệu K; trong ngữ cảnh thực phẩm thường chỉ khoáng chất kali *(100%)*
+
+### Usage
+
+`Potassium` names a chemical element. In chemistry, it may refer to the reactive metal; in food, soil, and biology, it commonly refers to potassium present in compounds or as ions. Use it without `a/an` and normally without a plural ending.
+
+Common structures:
+
+* `contain potassium`: chứa kali
+* `be rich in potassium`: giàu kali
+* `a source of potassium`: một nguồn cung cấp kali
+* `the potassium content of + food/material`: hàm lượng kali của thực phẩm/vật liệu
+* `potassium compounds/ions`: các hợp chất/ion kali
+
+### Examples
+
+1. **The food label lists the amount of potassium in each serving.**
+   → Nhãn thực phẩm ghi lượng kali trong mỗi khẩu phần.
+
+2. **The soil sample contained nitrogen, phosphorus, and potassium.**
+   → Mẫu đất chứa nitơ, phốt pho và kali.
+
+### Common collocations
+
+* **potassium content**: hàm lượng kali
+* **potassium-rich foods**: thực phẩm giàu kali
+* **potassium ions**: ion kali
+* **potassium chloride**: kali clorua
+* **a source of potassium**: nguồn cung cấp kali
+
+### Synonyms
+
+There is no common everyday synonym with exactly the same meaning.
+
+* **K** /keɪ/ *(chemical symbol)*: ký hiệu của nguyên tố kali; dùng trong công thức và bảng hóa học, không phải từ thay thế khi đọc câu thông thường
+
+### Word family
+
+* **potassium** /pəˈtæs.i.əm/ *(uncountable noun)*: kali  
+  *Example:* The laboratory measured potassium in the water sample.  
+  → Phòng thí nghiệm đo lượng kali trong mẫu nước.
+
+* **potassium-rich** /pəˈtæs.i.əm rɪtʃ/ *(adjective)*: giàu kali  
+  *Example:* The chart compares several potassium-rich foods.  
+  → Biểu đồ so sánh một số loại thực phẩm giàu kali.
+
+### Notes
+
+Say `some potassium` or `a small amount of potassium`, not `a potassium`. In nutritional language, a food containing potassium does not contain pieces of potassium metal: the element is present in other chemical forms.
+
+---
+
+## 609. Calcium /ˈkæl.si.əm/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** canxi, nguyên tố hóa học ký hiệu Ca; thường được nhắc đến như một khoáng chất trong cơ thể, thực phẩm hoặc đá *(100%)*
+
+### Usage
+
+`Calcium` names a chemical element. In everyday educational and nutritional contexts, it is often discussed in relation to bones, teeth, and food. In geology, it appears in compounds such as calcium carbonate. It is normally uncountable.
+
+Common structures:
+
+* `contain/provide calcium`: chứa/cung cấp canxi
+* `be rich in calcium`: giàu canxi
+* `a source of calcium`: một nguồn canxi
+* `the calcium content of + noun`: hàm lượng canxi của thứ gì
+* `calcium is present in + material`: canxi có mặt trong vật liệu nào
+
+### Examples
+
+1. **The textbook explains the role of calcium in bones and teeth.**
+   → Sách giáo khoa giải thích vai trò của canxi trong xương và răng.
+
+2. **Limestone consists mainly of calcium carbonate.**
+   → Đá vôi chủ yếu gồm canxi cacbonat.
+
+### Common collocations
+
+* **calcium content**: hàm lượng canxi
+* **calcium-rich foods**: thực phẩm giàu canxi
+* **calcium carbonate**: canxi cacbonat
+* **a source of calcium**: nguồn canxi
+* **calcium ions**: ion canxi
+
+### Synonyms
+
+There is no common everyday synonym with exactly the same meaning.
+
+* **Ca** /ˌsiːˈeɪ/ *(chemical symbol)*: ký hiệu của nguyên tố canxi; không phải một từ đồng nghĩa thông thường
+
+### Word family
+
+* **calcium** /ˈkæl.si.əm/ *(uncountable noun)*: canxi  
+  *Example:* The table shows how much calcium each product contains.  
+  → Bảng cho biết mỗi sản phẩm chứa bao nhiêu canxi.
+
+* **calcium-rich** /ˈkæl.si.əm rɪtʃ/ *(adjective)*: giàu canxi  
+  *Example:* The lesson asks students to identify calcium-rich foods.  
+  → Bài học yêu cầu học sinh nhận biết các thực phẩm giàu canxi.
+
+### Notes
+
+`Calcium` is an element, while `calcium carbonate` is a compound containing that element. Use an amount phrase to count it: `a measured amount of calcium`. `Calcium` and the adjective `calm` are unrelated.
+
+---
+
+## 610. Magnesium /mæɡˈniː.zi.əm/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** magiê, nguyên tố hóa học ký hiệu Mg; một kim loại nhẹ và cũng là khoáng chất được nhắc đến trong sinh học, thực phẩm và đất *(100%)*
+
+### Usage
+
+`Magnesium` names a chemical element used in metal alloys and found in compounds in living systems and minerals. In descriptions of food or soil, the word refers to magnesium present in chemical forms such as ions and compounds. It is normally uncountable.
+
+Common structures:
+
+* `contain magnesium`: chứa magiê
+* `be rich in magnesium`: giàu magiê
+* `a magnesium alloy`: một hợp kim chứa magiê
+* `measure the magnesium content`: đo hàm lượng magiê
+* `magnesium occurs in + material`: magiê tồn tại trong vật liệu nào
+
+### Examples
+
+1. **The frame is made from a lightweight magnesium alloy.**
+   → Khung được làm bằng một hợp kim magiê nhẹ.
+
+2. **The laboratory tested the soil for magnesium and other nutrients.**
+   → Phòng thí nghiệm kiểm tra lượng magiê và các chất dinh dưỡng khác trong đất.
+
+### Common collocations
+
+* **magnesium alloy**: hợp kim magiê
+* **magnesium content**: hàm lượng magiê
+* **magnesium-rich foods**: thực phẩm giàu magiê
+* **magnesium oxide**: magiê oxit
+* **magnesium ions**: ion magiê
+
+### Synonyms
+
+There is no common everyday synonym with exactly the same meaning.
+
+* **Mg** /ˌemˈdʒiː/ *(chemical symbol)*: ký hiệu của nguyên tố magiê; không phải một từ đồng nghĩa thông thường
+
+### Word family
+
+* **magnesium** /mæɡˈniː.zi.əm/ *(uncountable noun)*: magiê  
+  *Example:* Magnesium is used in some lightweight industrial components.  
+  → Magiê được sử dụng trong một số bộ phận công nghiệp nhẹ.
+
+* **magnesium-rich** /mæɡˈniː.zi.əm rɪtʃ/ *(adjective)*: giàu magiê  
+  *Example:* The researchers compared magnesium-rich and magnesium-poor soils.  
+  → Các nhà nghiên cứu so sánh đất giàu magiê với đất nghèo magiê.
+
+### Notes
+
+The stress falls on `-ne-`: /mæɡˈniː.zi.əm/. Do not confuse `magnesium` with `manganese`, which is a different element. An alloy containing magnesium is not necessarily pure magnesium.
+
+---
+
+## 611. Mineral UK /ˈmɪn.ər.əl/ US /ˈmɪn.ɚ.əl/
+
+* **Part of speech:** countable noun; adjective before a noun
+* **Vietnamese meaning:** khoáng vật tự nhiên có thành phần hóa học và cấu trúc đặc trưng *(40%)*; nguyên tố vô cơ cần thiết cho cơ thể, thường gọi là khoáng chất trong dinh dưỡng *(35%)*; tài nguyên khoáng sản hoặc thuộc về khoáng vật/khoáng sản *(25%)*
+
+### Usage
+
+In geology, a `mineral` is a naturally occurring inorganic solid with a characteristic composition and structure. In nutrition, `minerals` include elements such as calcium and magnesium. Before a noun, `mineral` describes something related to these substances or resources.
+
+Common structures:
+
+* `a source of minerals`: nguồn khoáng chất
+* `be rich in minerals`: giàu khoáng chất hoặc khoáng sản
+* `extract minerals from + place`: khai thác khoáng sản từ nơi nào
+* `mineral + deposits/resources/content`: mỏ hoặc trữ lượng/tài nguyên/hàm lượng khoáng
+* `contain several minerals`: chứa một số khoáng chất hoặc khoáng vật
+
+### Examples
+
+1. **The museum displays minerals collected from volcanic rocks.**
+   → Bảo tàng trưng bày các khoáng vật được thu thập từ đá núi lửa.
+
+2. **The label lists the vitamins and minerals in the product.**
+   → Nhãn liệt kê các vitamin và khoáng chất trong sản phẩm.
+
+### Common collocations
+
+* **essential minerals**: các khoáng chất thiết yếu
+* **mineral deposits**: các mỏ hoặc trữ lượng khoáng sản
+* **mineral resources**: tài nguyên khoáng sản
+* **mineral content**: hàm lượng khoáng chất
+* **mineral water**: nước khoáng
+
+### Synonyms
+
+* **inorganic nutrient** /ˌɪn.ɔːˈɡæn.ɪk ˈnjuː.tri.ənt/ *(countable noun phrase; nutritional sense)*: chất dinh dưỡng vô cơ
+* **mineral substance** UK /ˈmɪn.ər.əl ˌsʌb.stəns/ US /ˈmɪn.ɚ.əl ˌsʌb.stəns/ *(countable noun phrase; explanatory)*: chất khoáng
+* **geological resource** /ˌdʒiː.əˈlɒdʒ.ɪ.kəl rɪˈzɔːs/ *(countable noun phrase; broader resource sense)*: tài nguyên địa chất
+
+### Word family
+
+* **mineral** UK /ˈmɪn.ər.əl/ US /ˈmɪn.ɚ.əl/ *(countable noun/adjective)*: khoáng vật; khoáng chất; thuộc khoáng sản  
+  *Example:* The country depends heavily on exports of mineral resources.  
+  → Đất nước phụ thuộc nhiều vào xuất khẩu tài nguyên khoáng sản.
+
+* **mineral-rich** UK /ˈmɪn.ər.əl rɪtʃ/ US /ˈmɪn.ɚ.əl rɪtʃ/ *(adjective)*: giàu khoáng chất hoặc khoáng sản  
+  *Example:* Mining companies are exploring the mineral-rich region.  
+  → Các công ty khai khoáng đang thăm dò khu vực giàu khoáng sản.
+
+### Notes
+
+A geological `mineral` and a nutritional `mineral` are related concepts used differently. In nutrition, calcium is called a mineral; it does not mean a person eats pieces of a geological crystal. `A rock` may contain several minerals.
+
+---
+
+## 612. Leafy green /ˌliː.fi ˈɡriːn/
+
+* **Part of speech:** countable noun phrase, usually plural `leafy greens`
+* **Vietnamese meaning:** loại rau có lá ăn được, thường có màu xanh, như rau chân vịt hoặc cải xoăn *(100%)*
+
+### Usage
+
+A `leafy green` is a vegetable eaten mainly for its leaves. The plural `leafy greens` is much more common when referring to the food category. The full phrase `leafy green vegetables` is also natural.
+
+Common structures:
+
+* `eat/grow leafy greens`: ăn/trồng rau lá xanh
+* `a leafy green such as + vegetable`: một loại rau lá xanh như rau gì
+* `a variety of leafy greens`: nhiều loại rau lá xanh
+* `add leafy greens to + dish`: thêm rau lá xanh vào món ăn
+* `fresh/dark leafy greens`: rau lá xanh tươi/rau lá xanh đậm
+
+### Examples
+
+1. **The farmers sell fresh leafy greens at the weekend market.**
+   → Nông dân bán rau lá xanh tươi tại chợ cuối tuần.
+
+2. **Add a handful of leafy greens to the soup before serving.**
+   → Hãy thêm một nắm rau lá xanh vào súp trước khi dọn ăn.
+
+### Common collocations
+
+* **dark leafy greens**: rau lá xanh đậm
+* **fresh leafy greens**: rau lá xanh tươi
+* **leafy green vegetables**: các loại rau lá xanh
+* **a variety of leafy greens**: nhiều loại rau lá xanh
+* **grow leafy greens**: trồng rau lá xanh
+
+### Synonyms
+
+* **leafy vegetable** /ˌliː.fi ˈvedʒ.tə.bəl/ *(countable noun phrase; close meaning)*: rau ăn lá
+* **green leafy vegetable** /ˌɡriːn ˌliː.fi ˈvedʒ.tə.bəl/ *(countable noun phrase)*: rau lá xanh
+* **greens** /ɡriːnz/ *(plural noun; food sense)*: rau xanh, thường là rau ăn lá
+
+### Word family
+
+* **leafy green** /ˌliː.fi ˈɡriːn/ *(countable noun phrase)*: một loại rau lá xanh  
+  *Example:* Spinach is a leafy green commonly used in salads.  
+  → Rau chân vịt là một loại rau lá xanh thường được dùng trong salad.
+
+* **leaf** /liːf/ *(countable noun; plural `leaves` /liːvz/)*: lá cây  
+  *Example:* Wash each leaf carefully before preparing the salad.  
+  → Hãy rửa kỹ từng chiếc lá trước khi làm salad.
+
+* **leafy** /ˈliː.fi/ *(adjective)*: có nhiều lá; thuộc rau ăn lá  
+  *Example:* They live on a quiet, leafy street.  
+  → Họ sống trên một con phố yên tĩnh có nhiều cây xanh.
+
+* **leafless** /ˈliːf.ləs/ *(adjective)*: không có lá, trụi lá  
+  *Example:* The leafless branches stood out against the winter sky.  
+  → Những cành cây trụi lá hiện rõ trên nền trời mùa đông.
+
+### Notes
+
+Use `leafy greens` for a group or general category, but `a leafy green` for one kind. In `a leafy street`, `leafy` describes plentiful foliage and has no connection with vegetables.
+
+---
+
+## 613. Antioxidant UK /ˌæn.tiˈɒk.sɪ.dənt/ US /ˌæn.t̬iˈɑːk.sɪ.dənt/
+
+* **Part of speech:** countable noun; adjective
+* **Vietnamese meaning:** chất chống oxy hóa, giúp ngăn hoặc làm chậm một số phản ứng oxy hóa *(80%)*; có đặc tính chống oxy hóa *(20%)*
+
+### Usage
+
+An `antioxidant` is a substance that inhibits oxidation. The term appears in food science, biology, cosmetics, and materials science. As an adjective, it modifies words such as `activity`, `properties`, and `capacity`.
+
+Common structures:
+
+* `contain antioxidants`: chứa các chất chống oxy hóa
+* `be rich in antioxidants`: giàu chất chống oxy hóa
+* `act as an antioxidant`: đóng vai trò chất chống oxy hóa
+* `antioxidant + activity/properties`: hoạt tính/đặc tính chống oxy hóa
+* `measure the antioxidant capacity of + substance`: đo khả năng chống oxy hóa của một chất
+
+### Examples
+
+1. **The researchers measured the antioxidant activity of the plant extract.**
+   → Các nhà nghiên cứu đo hoạt tính chống oxy hóa của chiết xuất thực vật.
+
+2. **The article compares antioxidants found in different foods.**
+   → Bài báo so sánh các chất chống oxy hóa có trong những thực phẩm khác nhau.
+
+### Common collocations
+
+* **natural antioxidants**: các chất chống oxy hóa tự nhiên
+* **antioxidant activity**: hoạt tính chống oxy hóa
+* **antioxidant properties**: đặc tính chống oxy hóa
+* **antioxidant capacity**: khả năng chống oxy hóa
+* **rich in antioxidants**: giàu chất chống oxy hóa
+
+### Synonyms
+
+* **oxidation inhibitor** /ˌɒk.sɪˈdeɪ.ʃən ɪnˌhɪb.ɪ.tər/ *(countable noun phrase; technical)*: chất ức chế quá trình oxy hóa
+* **protective compound** /prəˈtek.tɪv ˈkɒm.paʊnd/ *(countable noun phrase; broader and context-dependent)*: hợp chất có tác dụng bảo vệ; không đồng nghĩa hoàn toàn
+
+### Word family
+
+* **antioxidant** UK /ˌæn.tiˈɒk.sɪ.dənt/ US /ˌæn.t̬iˈɑːk.sɪ.dənt/ *(countable noun/adjective)*: chất chống oxy hóa; có tính chống oxy hóa  
+  *Example:* The compound acts as an antioxidant in the laboratory test.  
+  → Hợp chất đóng vai trò chất chống oxy hóa trong thử nghiệm ở phòng thí nghiệm.
+
+* **oxidize/oxidise** UK /ˈɒk.sɪ.daɪz/ US /ˈɑːk.sə.daɪz/ *(transitive/intransitive verb)*: oxy hóa hoặc bị oxy hóa  
+  *Example:* Iron oxidizes when exposed to air and moisture.  
+  → Sắt bị oxy hóa khi tiếp xúc với không khí và độ ẩm.
+
+* **oxidation** UK /ˌɒk.sɪˈdeɪ.ʃən/ US /ˌɑːk.səˈdeɪ.ʃən/ *(uncountable noun)*: sự oxy hóa  
+  *Example:* The coating slows oxidation of the metal surface.  
+  → Lớp phủ làm chậm sự oxy hóa của bề mặt kim loại.
+
+### Notes
+
+The prefix `anti-` expresses opposition or prevention. Distinguish the noun `an antioxidant` from the adjective in `antioxidant properties`. A related `preservative` helps prevent deterioration but does not necessarily work by inhibiting oxidation.
+
+---
+
+## 614. Nitrogen fertilizer UK Nitrogen fertiliser /ˈnaɪ.trə.dʒən ˈfɜː.tɪ.laɪ.zər/ US /ˈnaɪ.trə.dʒən ˈfɝː.t̬ə.laɪ.zɚ/
+
+* **Part of speech:** noun phrase; uncountable for the material, countable for a product or type
+* **Vietnamese meaning:** phân bón cung cấp nitơ cho cây trồng, thường gọi là phân đạm *(100%)*
+
+### Usage
+
+`Nitrogen fertilizer` supplies nitrogen in forms plants can use. Use it as a material (`apply nitrogen fertilizer`) or as a type of product (`a nitrogen fertilizer`). British English commonly uses `fertiliser`; American English uses `fertilizer`.
+
+Common structures:
+
+* `apply nitrogen fertilizer to + soil/crops`: bón phân đạm cho đất/cây trồng
+* `use nitrogen fertilizer in + agriculture`: sử dụng phân đạm trong nông nghiệp
+* `a type of nitrogen fertilizer`: một loại phân đạm
+* `nitrogen fertilizer runoff`: dòng nước chảy tràn mang theo phân đạm
+* `reduce reliance on nitrogen fertilizer`: giảm phụ thuộc vào phân đạm
+
+### Examples
+
+1. **The study examined nitrogen fertilizer use on wheat farms.**
+   → Nghiên cứu xem xét việc sử dụng phân đạm tại các trang trại trồng lúa mì.
+
+2. **Excess nitrogen fertilizer can enter rivers through runoff.**
+   → Phân đạm dư thừa có thể theo dòng chảy tràn đi vào sông.
+
+### Common collocations
+
+* **nitrogen fertilizer application**: việc bón phân đạm
+* **nitrogen fertilizer use**: việc sử dụng phân đạm
+* **nitrogen fertilizer production**: việc sản xuất phân đạm
+* **excessive fertilizer use**: việc sử dụng phân bón quá mức
+* **fertilizer runoff**: dòng chảy tràn mang theo phân bón
+
+### Synonyms
+
+* **nitrogenous fertilizer** UK /naɪˈtrɒdʒ.ən.əs ˈfɜː.tɪ.laɪ.zər/ US /naɪˈtrɑː.dʒən.əs ˈfɝː.t̬ə.laɪ.zɚ/ *(countable/uncountable noun phrase; formal)*: phân bón chứa nitơ
+* **nitrogen-based fertilizer** /ˈnaɪ.trə.dʒən beɪst ˈfɜː.tɪ.laɪ.zər/ *(countable/uncountable noun phrase)*: phân bón gốc nitơ
+
+### Word family
+
+* **nitrogen fertilizer** UK /ˈnaɪ.trə.dʒən ˈfɜː.tɪ.laɪ.zər/ US /ˈnaɪ.trə.dʒən ˈfɝː.t̬ə.laɪ.zɚ/ *(countable/uncountable noun phrase)*: phân đạm  
+  *Example:* The report tracks changes in nitrogen fertilizer demand.  
+  → Báo cáo theo dõi những thay đổi trong nhu cầu phân đạm.
+
+* **nitrogen** /ˈnaɪ.trə.dʒən/ *(uncountable noun)*: nitơ, nguyên tố hóa học ký hiệu N  
+  *Example:* Nitrogen makes up most of Earth's atmosphere.  
+  → Nitơ chiếm phần lớn khí quyển Trái Đất.
+
+* **fertilizer/fertiliser** UK /ˈfɜː.tɪ.laɪ.zər/ US /ˈfɝː.t̬ə.laɪ.zɚ/ *(countable/uncountable noun)*: phân bón  
+  *Example:* The farmer compared several fertilizers before purchasing one.  
+  → Người nông dân so sánh một số loại phân bón trước khi mua một loại.
+
+* **fertilize/fertilise** UK /ˈfɜː.tɪ.laɪz/ US /ˈfɝː.t̬ə.laɪz/ *(transitive verb)*: bón phân; thụ tinh trong ngữ cảnh sinh học  
+  *Example:* The team recorded when each field was fertilized.  
+  → Nhóm ghi lại thời điểm mỗi cánh đồng được bón phân.
+
+### Notes
+
+`Nitrogen` is the element, while `nitrogen fertilizer` is a material supplying it to plants. `Fertilizer` is broader: some fertilizers mainly supply phosphorus, potassium, or a mixture of nutrients. Write `nitrogen fertilizer` without a hyphen, but `nitrogen-based fertilizer` with one.
+
+---
+
+## 615. Compound noun/adjective UK /ˈkɒm.paʊnd/ US /ˈkɑːm.paʊnd/; verb /kəmˈpaʊnd/
+
+* **Part of speech:** countable noun; adjective; transitive and intransitive verb
+* **Vietnamese meaning:** hợp chất hóa học gồm từ hai nguyên tố liên kết với nhau *(35%)*; thứ hoặc cấu trúc ghép từ nhiều phần, gồm cả từ ghép *(20%)*; khu đất có nhiều công trình và được bao quanh bởi tường/rào *(15%)*; làm vấn đề trở nên nghiêm trọng hơn *(15%)*; pha trộn các thành phần thành một sản phẩm *(10%)*; tích lũy theo cơ chế lãi kép *(5%)*
+
+### Usage
+
+As a noun, a chemical `compound` contains elements chemically bonded together; it is different from a physical mixture. Other noun senses include a combination, a compound word, and an enclosed group of buildings. The adjective means formed from multiple parts. The verb can mean worsen, mix ingredients, or accumulate through compounding.
+
+Common structures:
+
+* `a compound of + elements/qualities`: hợp chất hoặc sự kết hợp của các nguyên tố/đặc tính
+* `a chemical/organic compound`: hợp chất hóa học/hữu cơ
+* `a compound word/noun`: từ ghép/danh từ ghép
+* `an embassy/residential compound`: khuôn viên đại sứ quán/khu nhà ở có rào bao quanh
+* `compound + a problem/error`: làm vấn đề/lỗi trở nên nghiêm trọng hơn
+* `interest compounds annually`: tiền lãi tích lũy theo lãi kép hằng năm
+
+### Examples
+
+1. **Water is a compound of hydrogen and oxygen.**
+   → Nước là một hợp chất của hiđrô và oxy.
+
+2. **Poor communication compounded the delays in the project.**
+   → Việc giao tiếp kém khiến những chậm trễ của dự án trở nên nghiêm trọng hơn.
+
+### Common collocations
+
+* **chemical compound**: hợp chất hóa học
+* **organic compound**: hợp chất hữu cơ
+* **compound noun**: danh từ ghép
+* **compound interest**: lãi kép
+* **compound a problem**: làm vấn đề thêm nghiêm trọng
+
+### Synonyms
+
+* **chemical substance** /ˌkem.ɪ.kəl ˈsʌb.stəns/ *(countable noun phrase; broader)*: chất hóa học
+* **combination** /ˌkɒm.bɪˈneɪ.ʃən/ *(countable noun)*: sự kết hợp
+* **enclosure** UK /ɪnˈkləʊ.ʒər/ US /ɪnˈkloʊ.ʒɚ/ *(countable noun; location sense)*: khu vực được rào kín
+* **aggravate** /ˈæɡ.rə.veɪt/ *(transitive verb; problem sense)*: làm trầm trọng thêm
+
+### Word family
+
+* **compound** noun/adjective UK /ˈkɒm.paʊnd/ US /ˈkɑːm.paʊnd/; verb /kəmˈpaʊnd/ *(noun/adjective/verb)*: hợp chất hoặc cấu trúc ghép; khuôn viên; làm trầm trọng thêm hoặc kết hợp  
+  *Example:* The guard checked vehicles entering the compound.  
+  → Nhân viên bảo vệ kiểm tra các phương tiện đi vào khuôn viên có rào bao quanh.
+
+* **compounded** /kəmˈpaʊn.dɪd/ *(past-participle form)*: bị làm nghiêm trọng thêm; được pha chế hoặc tính theo lãi kép  
+  *Example:* Their financial difficulties were compounded by rising rent.  
+  → Khó khăn tài chính của họ trở nên nghiêm trọng hơn do tiền thuê tăng.
+
+* **compounding** /kəmˈpaʊn.dɪŋ/ *(uncountable noun/verb form)*: việc kết hợp, pha chế hoặc tích lũy lãi kép  
+  *Example:* The lesson explains how compounding changes the growth of savings.  
+  → Bài học giải thích cách tính lãi kép làm thay đổi tốc độ tăng của khoản tiết kiệm.
+
+### Notes
+
+The noun and adjective have first-syllable stress; the verb has second-syllable stress. A chemical `compound` has chemically bonded elements, while a `mixture` combines substances without necessarily bonding them. In grammar, `nursing home` is a compound noun even though it is written as two words.
+
+---
+
+## 616. Delve /delv/
+
+* **Part of speech:** intransitive verb, usually followed by `into`
+* **Vietnamese meaning:** tìm hiểu hoặc nghiên cứu sâu về một chủ đề *(85%)*; thò tay tìm hoặc lục trong một vật chứa *(15%)*
+
+### Usage
+
+`Delve into` means investigate a subject thoroughly rather than examine it briefly. It is useful in academic discussion and reviews. It can also describe searching inside a bag, pocket, or similar container.
+
+Common structures:
+
+* `delve into + topic/problem`: tìm hiểu sâu một chủ đề/vấn đề
+* `delve deeper into + noun`: đào sâu hơn vào điều gì
+* `delve into the reasons behind + noun`: tìm hiểu kỹ nguyên nhân đằng sau điều gì
+* `delve into + bag/pocket`: lục trong túi xách/túi áo quần
+* `before delving into + noun`: trước khi đi sâu vào điều gì
+
+### Examples
+
+1. **The article delves into the causes of declining public trust.**
+   → Bài báo đi sâu tìm hiểu những nguyên nhân khiến niềm tin của công chúng suy giảm.
+
+2. **She delved into her bag to find the missing receipt.**
+   → Cô ấy lục trong túi xách để tìm tờ biên lai bị thất lạc.
+
+### Common collocations
+
+* **delve into a subject**: đi sâu vào một chủ đề
+* **delve deeper**: tìm hiểu sâu hơn
+* **delve into the past**: tìm hiểu sâu về quá khứ
+* **delve into the details**: đi sâu vào chi tiết
+* **delve into the causes**: nghiên cứu kỹ các nguyên nhân
+
+### Synonyms
+
+* **investigate** /ɪnˈves.tɪ.ɡeɪt/ *(transitive/intransitive verb)*: điều tra, tìm hiểu
+* **explore** UK /ɪkˈsplɔːr/ US /ɪkˈsplɔːr/ *(transitive verb)*: khám phá, xem xét sâu
+* **examine closely** /ɪɡˈzæm.ɪn ˈkləʊs.li/ *(verb phrase)*: xem xét kỹ
+* **rummage** /ˈrʌm.ɪdʒ/ *(intransitive/transitive verb; searching sense)*: lục tìm
+
+### Word family
+
+* **delve** /delv/ *(intransitive verb)*: tìm hiểu sâu; lục tìm  
+  *Example:* The researchers delved into records from the previous century.  
+  → Các nhà nghiên cứu tìm hiểu sâu những hồ sơ từ thế kỷ trước.
+
+* **delving** /ˈdel.vɪŋ/ *(verb form)*: đang đi sâu tìm hiểu  
+  *Example:* We are delving into the differences between the two systems.  
+  → Chúng tôi đang đi sâu tìm hiểu sự khác biệt giữa hai hệ thống.
+
+### Notes
+
+Use `delve into a topic`, not `delve a topic`. The word is more deliberate and slightly more formal than `look into`. In an essay, use it when the discussion actually examines details rather than merely introduces a topic.
+
+---
+
+## 617. Child-rearing UK /ˈtʃaɪldˌrɪə.rɪŋ/ US /ˈtʃaɪldˌrɪr.ɪŋ/
+
+* **Part of speech:** uncountable noun; attributive modifier before a noun
+* **Vietnamese meaning:** việc chăm sóc, nuôi dưỡng, giáo dục và hướng dẫn trẻ trong quá trình lớn lên *(100%)*
+
+### Usage
+
+`Child-rearing` covers the responsibilities and practices involved in bringing up children, including emotional support, discipline, and teaching social behavior. It is common in discussions of family life, culture, gender roles, and education.
+
+Common structures:
+
+* `share child-rearing responsibilities`: chia sẻ trách nhiệm nuôi dạy con
+* `an approach to child-rearing`: cách tiếp cận việc nuôi dạy con
+* `child-rearing practices/styles`: các tập quán/phong cách nuôi dạy con
+* `be involved in child-rearing`: tham gia vào việc nuôi dạy con
+* `the demands of child-rearing`: những đòi hỏi của việc nuôi dạy con
+
+### Examples
+
+1. **Both parents should share child-rearing responsibilities.**
+   → Cả cha lẫn mẹ nên chia sẻ trách nhiệm nuôi dạy con.
+
+2. **Child-rearing practices vary across cultures and generations.**
+   → Các tập quán nuôi dạy con khác nhau giữa các nền văn hóa và thế hệ.
+
+### Common collocations
+
+* **child-rearing responsibilities**: trách nhiệm nuôi dạy con
+* **child-rearing practices**: tập quán hoặc cách thức nuôi dạy con
+* **child-rearing costs**: chi phí nuôi dạy con
+* **approach to child-rearing**: cách tiếp cận việc nuôi dạy con
+* **share child-rearing duties**: chia sẻ công việc nuôi dạy con
+
+### Synonyms
+
+* **parenting** UK /ˈpeə.rən.tɪŋ/ US /ˈper.ən.t̬ɪŋ/ *(uncountable noun)*: việc làm cha mẹ và nuôi dạy con
+* **bringing up children** /ˌbrɪŋ.ɪŋ ʌp ˈtʃɪl.drən/ *(verb phrase)*: việc nuôi dạy trẻ
+* **raising children** /ˌreɪ.zɪŋ ˈtʃɪl.drən/ *(verb phrase)*: việc nuôi dạy trẻ
+
+### Word family
+
+* **child-rearing** UK /ˈtʃaɪldˌrɪə.rɪŋ/ US /ˈtʃaɪldˌrɪr.ɪŋ/ *(uncountable noun)*: việc nuôi dạy trẻ  
+  *Example:* Flexible working hours can make child-rearing easier.  
+  → Giờ làm việc linh hoạt có thể giúp việc nuôi dạy con dễ dàng hơn.
+
+* **rear** UK /rɪər/ US /rɪr/ *(transitive verb)*: nuôi dưỡng, chăm sóc để lớn lên  
+  *Example:* She reared three children while managing the family business.  
+  → Cô ấy nuôi dạy ba người con trong khi quản lý công việc kinh doanh gia đình.
+
+* **child** /tʃaɪld/ *(countable noun; plural `children` /ˈtʃɪl.drən/)*: trẻ em; người con  
+  *Example:* Every child needs a safe and supportive environment.  
+  → Mọi trẻ em đều cần một môi trường an toàn và có sự hỗ trợ.
+
+### Notes
+
+`Child-rearing` emphasizes the process and responsibilities of bringing up children. `Upbringing` describes the way a particular person was raised. `Childcare` often refers more narrowly to looking after children, especially as a service while parents work.
+
+---
+
+## 618. By no means UK /baɪ ˌnəʊ ˈmiːnz/ US /baɪ ˌnoʊ ˈmiːnz/
+
+* **Part of speech:** idiom; adverbial phrase
+* **Vietnamese meaning:** hoàn toàn không, tuyệt nhiên không; dùng để phủ định mạnh một nhận định *(100%)*
+
+### Usage
+
+`By no means` strengthens a negative meaning. It is more formal and emphatic than ordinary `not`. When placed at the beginning of a clause for emphasis, it normally requires inversion: the auxiliary or modal comes before the subject.
+
+Common structures:
+
+* `subject + be + by no means + adjective/noun phrase`: ai/điều gì hoàn toàn không có đặc điểm hoặc thuộc loại nào
+* `subject + auxiliary/modal + by no means + main verb`: phủ định mạnh một hành động hoặc khả năng
+* `by no means + auxiliary/modal + subject + main verb`: đảo ngữ để nhấn mạnh sự phủ định
+* `by no means + be + subject + complement`: đảo ngữ với động từ be
+
+### Examples
+
+1. **The task is difficult, but it is by no means impossible.**
+   → Nhiệm vụ này khó, nhưng hoàn toàn không phải là không thể thực hiện.
+
+2. **By no means should children be blamed for their parents' disagreements.**
+   → Tuyệt nhiên không nên đổ lỗi cho trẻ vì những bất đồng của cha mẹ chúng.
+
+### Common collocations
+
+* **by no means easy**: hoàn toàn không dễ
+* **by no means certain**: hoàn toàn không chắc chắn
+* **by no means the only reason**: hoàn toàn không phải lý do duy nhất
+* **by no means impossible**: hoàn toàn không phải là không thể
+
+### Synonyms
+
+* **not at all** UK /ˌnɒt ət ˈɔːl/ US /ˌnɑːt ət ˈɑːl/ *(adverbial phrase)*: hoàn toàn không
+* **in no way** UK /ɪn ˌnəʊ ˈweɪ/ US /ɪn ˌnoʊ ˈweɪ/ *(adverbial phrase)*: không theo bất kỳ cách nào
+* **certainly not** UK /ˌsɜː.tən.li ˈnɒt/ US /ˌsɝː.tən.li ˈnɑːt/ *(adverbial phrase)*: chắc chắn không
+
+### Word family
+
+* **by no means** UK /baɪ ˌnəʊ ˈmiːnz/ US /baɪ ˌnoʊ ˈmiːnz/ *(idiom/adverbial phrase)*: hoàn toàn không  
+  *Example:* Higher income is by no means a guarantee of happiness.  
+  → Thu nhập cao hơn hoàn toàn không phải là sự bảo đảm cho hạnh phúc.
+
+* **means** /miːnz/ *(countable noun; unchanged singular and plural form in the method sense)*: cách thức, phương tiện  
+  *Example:* Public transport provides a means of reaching work without a car.  
+  → Giao thông công cộng cung cấp một phương tiện đi làm mà không cần ô tô.
+
+### Notes
+
+Do not add another negative unnecessarily: use `It is by no means easy`, not `It is not by no means easy`. Compare `The answer is by no means obvious` with the inverted `By no means is the answer obvious`. These express the same basic idea, with stronger emphasis in the second.
+
+---
+
+## 619. Comfort oneself UK /ˈkʌm.fət wʌnˈself/ US /ˈkʌm.fɚt wʌnˈself/
+
+* **Part of speech:** reflexive verb phrase; `comfort` is a transitive verb
+* **Vietnamese meaning:** tự an ủi hoặc làm dịu nỗi buồn, lo lắng của chính mình *(100%)*
+
+### Usage
+
+`Comfort oneself` means give yourself emotional reassurance or relief. Change the reflexive pronoun to match the subject: `I comfort myself`, `she comforts herself`, `they comfort themselves`. It commonly takes `with`, `by + V-ing`, or `with the thought that`.
+
+Common structures:
+
+* `comfort oneself with + thought/object`: tự an ủi bằng suy nghĩ hoặc thứ gì
+* `comfort oneself by + V-ing`: tự an ủi bằng cách làm gì
+* `comfort oneself with the thought that + clause`: tự an ủi bằng suy nghĩ rằng
+* `try to comfort oneself after + event`: cố tự an ủi sau một sự việc
+
+### Examples
+
+1. **She comforted herself with the thought that she had done her best.**
+   → Cô ấy tự an ủi bằng suy nghĩ rằng mình đã cố gắng hết sức.
+
+2. **I comforted myself by talking to a close friend after the disappointment.**
+   → Tôi tự làm dịu nỗi buồn bằng cách nói chuyện với một người bạn thân sau sự thất vọng.
+
+### Common collocations
+
+* **comfort oneself with a thought**: tự an ủi bằng một suy nghĩ
+* **comfort oneself after a loss**: tự an ủi sau một mất mát
+* **take comfort in something**: tìm sự an ủi ở điều gì
+* **find comfort in familiar routines**: tìm sự an ủi trong những thói quen quen thuộc
+
+### Synonyms
+
+* **soothe oneself** /suːð wʌnˈself/ *(reflexive verb phrase)*: tự xoa dịu cảm xúc
+* **console oneself** UK /kənˈsəʊl wʌnˈself/ US /kənˈsoʊl wʌnˈself/ *(reflexive verb phrase)*: tự an ủi
+* **take comfort in** UK /teɪk ˈkʌm.fət ɪn/ US /teɪk ˈkʌm.fɚt ɪn/ *(verb phrase)*: tìm sự an ủi ở
+
+### Word family
+
+* **comfort oneself** UK /ˈkʌm.fət wʌnˈself/ US /ˈkʌm.fɚt wʌnˈself/ *(reflexive verb phrase)*: tự an ủi  
+  *Example:* He comforted himself by remembering the progress he had made.  
+  → Anh ấy tự an ủi bằng cách nhớ lại những tiến bộ mình đã đạt được.
+
+* **comfort** UK /ˈkʌm.fət/ US /ˈkʌm.fɚt/ *(transitive verb; usually uncountable noun)*: an ủi; sự an ủi hoặc thoải mái  
+  *Example:* Her sister's words brought her comfort.  
+  → Những lời nói của chị gái mang lại cho cô ấy sự an ủi.
+
+* **comforting** UK /ˈkʌm.fə.tɪŋ/ US /ˈkʌm.fɚ.t̬ɪŋ/ *(adjective)*: mang lại sự an ủi  
+  *Example:* It was comforting to know that help was available.  
+  → Biết rằng có thể nhận được sự giúp đỡ là một điều an ủi.
+
+* **comfortable** UK /ˈkʌm.fə.tə.bəl/ US /ˈkʌm.fɚ.t̬ə.bəl/ *(adjective)*: thoải mái, dễ chịu  
+  *Example:* The chair is comfortable enough for a long meeting.  
+  → Chiếc ghế đủ thoải mái cho một cuộc họp dài.
+
+### Notes
+
+`Comforting` describes something that gives emotional reassurance; `comfortable` usually describes physical ease or feeling relaxed. Use a matching reflexive pronoun: `She comforted herself`, not `She comforted myself`. `Comfort oneself` concerns emotional relief, not necessarily physical comfort.
+
+---
+
+## 620. Nursing home UK /ˈnɜː.sɪŋ həʊm/ US /ˈnɝː.sɪŋ hoʊm/
+
+* **Part of speech:** countable noun phrase
+* **Vietnamese meaning:** cơ sở lưu trú có chăm sóc điều dưỡng và hỗ trợ sinh hoạt, thường dành cho người cao tuổi hoặc người cần chăm sóc lâu dài; thường dịch là viện dưỡng lão trong ngữ cảnh người già *(100%)*
+
+### Usage
+
+A `nursing home` provides accommodation and nursing care for people who need ongoing assistance. It often serves older adults, but residents may be younger people with substantial care needs. The exact services and legal classifications vary by country.
+
+Common structures:
+
+* `live in a nursing home`: sống tại cơ sở chăm sóc điều dưỡng
+* `move into a nursing home`: chuyển đến sống tại cơ sở chăm sóc điều dưỡng
+* `work in/at a nursing home`: làm việc tại cơ sở chăm sóc điều dưỡng
+* `a nursing home resident`: cư dân của cơ sở chăm sóc điều dưỡng
+* `provide care in a nursing home`: cung cấp dịch vụ chăm sóc tại cơ sở điều dưỡng
+
+### Examples
+
+1. **She visits her grandfather at the nursing home every Sunday.**
+   → Cô ấy đến thăm ông ở viện dưỡng lão vào mỗi Chủ nhật.
+
+2. **The nursing home encourages residents to take part in social activities.**
+   → Cơ sở chăm sóc điều dưỡng khuyến khích người cư trú tham gia các hoạt động xã hội.
+
+### Common collocations
+
+* **nursing home resident**: người sống tại cơ sở điều dưỡng
+* **nursing home staff**: nhân viên cơ sở điều dưỡng
+* **nursing home care**: dịch vụ chăm sóc tại cơ sở điều dưỡng
+* **move into a nursing home**: chuyển vào cơ sở điều dưỡng
+* **visit someone in a nursing home**: thăm ai tại cơ sở điều dưỡng
+
+### Synonyms
+
+* **care home** UK /ˈkeə həʊm/ US /ˈker hoʊm/ *(countable noun phrase; broader, especially British English)*: cơ sở chăm sóc có lưu trú; không nhất thiết cung cấp điều dưỡng
+* **nursing facility** UK /ˈnɜː.sɪŋ fəˌsɪl.ə.ti/ US /ˈnɝː.sɪŋ fəˌsɪl.ə.t̬i/ *(countable noun phrase)*: cơ sở chăm sóc điều dưỡng
+* **residential care facility** /rɛz.ɪˌden.ʃəl keə fəˈsɪl.ə.ti/ *(countable noun phrase; broader)*: cơ sở chăm sóc có lưu trú
+
+### Word family
+
+* **nursing home** UK /ˈnɜː.sɪŋ həʊm/ US /ˈnɝː.sɪŋ hoʊm/ *(countable noun phrase)*: cơ sở lưu trú có chăm sóc điều dưỡng  
+  *Example:* The new nursing home has a garden designed for wheelchair access.  
+  → Cơ sở điều dưỡng mới có khu vườn được thiết kế để xe lăn có thể tiếp cận.
+
+* **nurse** UK /nɜːs/ US /nɝːs/ *(countable noun; transitive verb)*: điều dưỡng viên; chăm sóc người bệnh  
+  *Example:* A nurse explained the daily routine to the new resident.  
+  → Một điều dưỡng viên giải thích lịch sinh hoạt hằng ngày cho người mới đến ở.
+
+* **nursing** UK /ˈnɜː.sɪŋ/ US /ˈnɝː.sɪŋ/ *(uncountable noun/adjective)*: nghề hoặc công việc điều dưỡng; thuộc điều dưỡng  
+  *Example:* She is studying nursing at university.  
+  → Cô ấy đang học ngành điều dưỡng tại đại học.
+
+### Notes
+
+A `retirement home` or `retirement community` may primarily provide housing for older adults and does not necessarily offer the nursing care implied by `nursing home`. Use respectful wording such as `residents` when referring to people who live there.
+
+---
+
+## 621. Namely /ˈneɪm.li/
+
+* **Part of speech:** adverb; linking expression
+* **Vietnamese meaning:** cụ thể là, tức là; dùng để chỉ rõ danh tính hoặc nội dung của điều vừa nhắc đến *(100%)*
+
+### Usage
+
+`Namely` introduces the precise people, things, or details meant by a previous general statement. It specifies rather than gives a random example. In writing, it is commonly preceded by a comma and may introduce a list or a clarifying phrase.
+
+Common structures:
+
+* `general statement, namely + precise noun phrase`: nhận định chung, cụ thể là danh ngữ nào
+* `a fixed number of items, namely A, B, and C`: một số lượng mục xác định, cụ thể là A, B và C
+* `one problem, namely that + clause`: một vấn đề, cụ thể là việc gì
+* `a clarification introduced by namely`: một phần làm rõ được mở đầu bằng “cụ thể là”
+
+### Examples
+
+1. **The course focuses on two skills, namely reading and writing.**
+   → Khóa học tập trung vào hai kỹ năng, cụ thể là đọc và viết.
+
+2. **We face one major problem, namely that the data are incomplete.**
+   → Chúng tôi đối mặt với một vấn đề lớn, cụ thể là dữ liệu chưa đầy đủ.
+
+### Common collocations
+
+* **two factors, namely**: hai yếu tố, cụ thể là
+* **one issue, namely that**: một vấn đề, cụ thể là việc
+* **three categories, namely**: ba nhóm, cụ thể là
+* **one person, namely**: một người, cụ thể là
+
+### Synonyms
+
+* **specifically** /spəˈsɪf.ɪ.kəl.i/ *(adverb)*: cụ thể là
+* **that is** /ˌðæt ˈɪz/ *(clarifying expression)*: tức là
+* **to be precise** /tə biː prɪˈsaɪs/ *(adverbial phrase)*: nói chính xác thì
+
+### Word family
+
+* **name** /neɪm/ *(countable noun; transitive verb)*: tên; nêu tên  
+  *Example:* Please name the three sources used in your report.  
+  → Vui lòng nêu tên ba nguồn được dùng trong báo cáo của bạn.
+
+* **namely** /ˈneɪm.li/ *(adverb)*: cụ thể là, tức là  
+  *Example:* Only one applicant met all the requirements, namely Linh.  
+  → Chỉ một ứng viên đáp ứng tất cả yêu cầu, cụ thể là Linh.
+
+### Notes
+
+`For example` introduces one possible illustration; `namely` identifies what was meant. If you write `two skills, namely reading and writing`, the two skills are specified. Do not write `namely such as`, because the two expressions perform different jobs.
+
+---
+
+## 622. Please somebody /pliːz ˈsʌm.bə.di/
+
+* **Part of speech:** verb phrase; `please` is a transitive verb in this pattern
+* **Vietnamese meaning:** làm ai vui, hài lòng hoặc thỏa mãn mong muốn của họ *(100%)*
+
+### Usage
+
+`Please somebody` means cause someone to feel happy or satisfied. Replace `somebody` with the person concerned: `please my parents`, `please the customer`, or `please her`. It is a verb here, with a different grammatical role from the polite request word in `Please sit down`.
+
+Common structures:
+
+* `please + person`: làm ai hài lòng
+* `try/want to please + person`: cố/muốn làm ai hài lòng
+* `be difficult/impossible to please`: khó/không thể làm cho hài lòng
+* `it pleases someone to + base verb`: việc làm gì khiến ai hài lòng
+* `be pleased with + person/result`: hài lòng với người/kết quả nào; cấu trúc tính từ liên quan
+
+### Examples
+
+1. **You cannot please everybody all the time.**
+   → Bạn không thể lúc nào cũng làm hài lòng tất cả mọi người.
+
+2. **She chose her career to please her parents rather than follow her own interests.**
+   → Cô ấy chọn nghề để làm hài lòng cha mẹ thay vì theo đuổi sở thích của mình.
+
+### Common collocations
+
+* **try to please someone**: cố làm ai hài lòng
+* **eager to please**: rất muốn làm hài lòng người khác
+* **hard to please**: khó tính, khó làm hài lòng
+* **please the audience**: làm khán giả hài lòng
+* **please one's parents**: làm cha mẹ vui lòng
+
+### Synonyms
+
+* **satisfy** /ˈsæt.ɪs.faɪ/ *(transitive verb)*: làm hài lòng, đáp ứng mong đợi
+* **delight** /dɪˈlaɪt/ *(transitive verb; stronger)*: làm rất vui
+* **make someone happy** /meɪk ˌsʌm.wʌn ˈhæp.i/ *(verb phrase)*: làm ai vui
+
+### Word family
+
+* **please somebody** /pliːz ˈsʌm.bə.di/ *(verb phrase)*: làm ai vui lòng  
+  *Example:* The new menu should please customers who prefer lighter meals.  
+  → Thực đơn mới có thể làm hài lòng những khách hàng thích món ăn nhẹ hơn.
+
+* **please** /pliːz/ *(transitive verb)*: làm hài lòng  
+  *Example:* It pleased the teacher to see how much the class had improved.  
+  → Giáo viên vui khi thấy cả lớp đã tiến bộ nhiều đến vậy.
+
+* **pleased** /pliːzd/ *(adjective)*: cảm thấy hài lòng hoặc vui  
+  *Example:* We were pleased with the quality of the work.  
+  → Chúng tôi hài lòng với chất lượng công việc.
+
+* **pleasing** /ˈpliː.zɪŋ/ *(adjective)*: mang lại sự dễ chịu hoặc hài lòng  
+  *Example:* The room has a pleasing combination of light and color.  
+  → Căn phòng có sự kết hợp dễ chịu giữa ánh sáng và màu sắc.
+
+* **pleasure** UK /ˈpleʒ.ər/ US /ˈpleʒ.ɚ/ *(countable/uncountable noun)*: niềm vui, sự thích thú; điều đem lại niềm vui  
+  *Example:* She takes pleasure in helping younger students.  
+  → Cô ấy tìm thấy niềm vui trong việc giúp đỡ các học sinh nhỏ tuổi hơn.
+
+### Notes
+
+`Please` is an action; `pleased` describes the person feeling satisfied. Say `I want to please her` and `She is pleased with the result`. Do not use `I am please` for your emotional state; use `I am pleased`.
+
+---
+
+## 623. Indifferent /ɪnˈdɪf.ər.ənt/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** thờ ơ, không quan tâm hoặc không bị ảnh hưởng về cảm xúc *(75%)*; không có sự ưu tiên giữa các lựa chọn *(15%)*; không nổi bật về chất lượng, chỉ ở mức tầm thường *(10%)*
+
+### Usage
+
+`Indifferent` usually describes a lack of interest or concern. It can be critical when care or involvement is expected. With alternatives, it can express no preference. The quality sense is more formal and particularly common in British English.
+
+Common structures:
+
+* `be indifferent to + person/problem`: thờ ơ với người/vấn đề nào
+* `remain indifferent to + suffering/criticism`: vẫn thờ ơ trước đau khổ/lời chỉ trích
+* `seem/appear indifferent`: có vẻ không quan tâm
+* `be indifferent between A and B`: không ưu tiên A hơn B; thường dùng trong kinh tế hoặc văn phong trang trọng
+* `an indifferent + performance/result`: màn thể hiện/kết quả tầm thường
+
+### Examples
+
+1. **Citizens should not remain indifferent to the suffering of vulnerable people.**
+   → Công dân không nên thờ ơ trước nỗi khổ của những người dễ bị tổn thương.
+
+2. **The team gave an indifferent performance despite weeks of preparation.**
+   → Đội có màn thể hiện tầm thường dù đã chuẩn bị nhiều tuần.
+
+### Common collocations
+
+* **indifferent to suffering**: thờ ơ trước nỗi khổ
+* **apparently indifferent**: có vẻ không quan tâm
+* **remain indifferent**: vẫn thờ ơ
+* **indifferent attitude**: thái độ thờ ơ
+* **indifferent performance**: màn thể hiện tầm thường
+
+### Synonyms
+
+* **unconcerned** UK /ˌʌn.kənˈsɜːnd/ US /ˌʌn.kənˈsɝːnd/ *(adjective)*: không bận tâm
+* **apathetic** /ˌæp.əˈθet.ɪk/ *(adjective)*: thờ ơ, thiếu hứng thú hoặc động lực
+* **uninterested** /ʌnˈɪn.trəs.tɪd/ *(adjective)*: không quan tâm
+* **mediocre** UK /ˌmiː.diˈəʊ.kər/ US /ˌmiː.diˈoʊ.kɚ/ *(adjective; quality sense)*: tầm thường
+
+### Word family
+
+* **indifferent** /ɪnˈdɪf.ər.ənt/ *(adjective)*: thờ ơ; không ưu tiên; tầm thường  
+  *Example:* She seemed indifferent to the praise she received.  
+  → Cô ấy có vẻ không quan tâm đến những lời khen mình nhận được.
+
+* **indifference** /ɪnˈdɪf.ər.əns/ *(uncountable noun)*: sự thờ ơ, thiếu quan tâm  
+  *Example:* Public indifference allowed the problem to continue unnoticed.  
+  → Sự thờ ơ của công chúng khiến vấn đề tiếp diễn mà không được chú ý.
+
+* **indifferently** /ɪnˈdɪf.ər.ənt.li/ *(adverb)*: một cách thờ ơ hoặc không mấy tốt  
+  *Example:* He shrugged indifferently when asked for his opinion.  
+  → Anh ấy thờ ơ nhún vai khi được hỏi ý kiến.
+
+### Notes
+
+Use `indifferent to`, not `indifferent with`, for lack of concern. `Different from` means khác với; `indifferent to` means thờ ơ với. `Disinterested` traditionally means impartial, while `uninterested` means not interested, so they are not always interchangeable.
+
+---
+
+## 624. Filial /ˈfɪl.i.əl/
+
+* **Part of speech:** adjective; formal
+* **Vietnamese meaning:** thuộc về mối quan hệ hoặc bổn phận của con đối với cha mẹ *(65%)*; thể hiện lòng kính trọng, hiếu thảo hoặc tình cảm của con đối với cha mẹ *(35%)*
+
+### Usage
+
+`Filial` describes a son's or daughter's relationship, feelings, or duties toward their parents. It is common in cultural, ethical, historical, and academic discussions, especially in the fixed phrase `filial piety`. It is uncommon in casual everyday conversation.
+
+Common structures:
+
+* `filial + duty/responsibility`: bổn phận/trách nhiệm của con đối với cha mẹ
+* `filial + love/devotion`: tình yêu/lòng tận tụy của con dành cho cha mẹ
+* `show filial respect`: thể hiện sự kính trọng cha mẹ
+* `the concept of filial piety`: khái niệm đạo hiếu
+* `fulfil one's filial obligations`: thực hiện bổn phận làm con
+
+### Examples
+
+1. **The essay examines filial duties in different cultural traditions.**
+   → Bài luận xem xét bổn phận làm con trong các truyền thống văn hóa khác nhau.
+
+2. **Filial piety often emphasizes respect and care for one's parents.**
+   → Đạo hiếu thường nhấn mạnh sự kính trọng và chăm sóc cha mẹ.
+
+### Common collocations
+
+* **filial piety**: đạo hiếu, lòng hiếu thảo
+* **filial duty**: bổn phận làm con
+* **filial responsibility**: trách nhiệm của con đối với cha mẹ
+* **filial devotion**: lòng tận tụy của con với cha mẹ
+* **filial love**: tình yêu của con dành cho cha mẹ
+
+### Synonyms
+
+There is no single common everyday adjective with exactly the same scope.
+
+* **relating to one's parents** UK /rɪˈleɪ.tɪŋ tə wʌnz ˈpeə.rənts/ US /rɪˈleɪ.t̬ɪŋ tə wʌnz ˈper.ənts/ *(adjective phrase; explanatory)*: liên quan đến quan hệ của mình với cha mẹ
+* **dutiful** UK /ˈdjuː.tɪ.fəl/ US /ˈduː.t̬ɪ.fəl/ *(adjective; overlaps in the duty sense)*: biết làm tròn bổn phận; không chỉ giới hạn ở bổn phận làm con
+
+### Word family
+
+* **filial** /ˈfɪl.i.əl/ *(adjective)*: thuộc quan hệ hoặc bổn phận làm con; hiếu thảo  
+  *Example:* She viewed caring for her parents as a filial responsibility.  
+  → Cô ấy xem việc chăm sóc cha mẹ là trách nhiệm làm con.
+
+### Notes
+
+`Filial` points from the child toward the parent. `Parental` points from the parent toward the child, while `familial` relates to the family more generally. Do not confuse `filial` with `filial piety`: the adjective alone does not always imply moral praise.
+
+---
+
+## 625. A sense of purpose UK /ə ˌsens əv ˈpɜː.pəs/ US /ə ˌsens əv ˈpɝː.pəs/
+
+* **Part of speech:** noun phrase; `sense` is countable here and `purpose` is uncountable in the meaning of direction or meaning
+* **Vietnamese meaning:** cảm giác rằng cuộc sống hoặc việc mình làm có ý nghĩa, phương hướng và mục tiêu đáng theo đuổi *(100%)*
+
+### Usage
+
+`A sense of purpose` is the feeling that your actions or life matter and are directed toward something worthwhile. It can arise from relationships, work, learning, volunteering, or personal goals. Use the full phrase with `a` when referring to one person's general feeling.
+
+Common structures:
+
+* `have/find a sense of purpose`: có/tìm thấy ý nghĩa và phương hướng
+* `give someone a sense of purpose`: mang lại cho ai cảm giác sống có ý nghĩa
+* `develop/regain a sense of purpose`: hình thành/tìm lại ý nghĩa và phương hướng
+* `lose one's sense of purpose`: mất cảm giác về ý nghĩa và phương hướng của mình
+* `a renewed/strong sense of purpose`: cảm giác mới mẻ/mạnh mẽ về ý nghĩa và mục tiêu
+
+### Examples
+
+1. **Volunteering gave him a sense of purpose after retirement.**
+   → Công việc tình nguyện mang lại cho ông cảm giác sống có ý nghĩa sau khi nghỉ hưu.
+
+2. **Setting achievable goals can help students develop a sense of purpose.**
+   → Việc đặt mục tiêu có thể đạt được giúp học sinh hình thành cảm giác về ý nghĩa và phương hướng.
+
+### Common collocations
+
+* **a strong sense of purpose**: cảm giác rõ ràng về ý nghĩa và mục tiêu
+* **a renewed sense of purpose**: cảm giác tìm lại được ý nghĩa và phương hướng
+* **give someone a sense of purpose**: mang lại ý nghĩa và phương hướng cho ai
+* **find a sense of purpose**: tìm thấy ý nghĩa và phương hướng
+* **lose one's sense of purpose**: mất cảm giác về ý nghĩa và mục tiêu của mình
+
+### Synonyms
+
+* **a sense of direction** /ə ˌsens əv dəˈrek.ʃən/ *(noun phrase; close meaning)*: cảm giác có phương hướng
+* **a feeling of meaning** /ə ˌfiː.lɪŋ əv ˈmiː.nɪŋ/ *(noun phrase; explanatory)*: cảm giác có ý nghĩa
+* **motivation** /ˌməʊ.tɪˈveɪ.ʃən/ *(uncountable noun; related, not identical)*: động lực
+
+### Word family
+
+* **a sense of purpose** UK /ə ˌsens əv ˈpɜː.pəs/ US /ə ˌsens əv ˈpɝː.pəs/ *(noun phrase)*: cảm giác về ý nghĩa và phương hướng  
+  *Example:* The community project gave her a renewed sense of purpose.  
+  → Dự án cộng đồng mang lại cho cô ấy cảm giác tìm lại được ý nghĩa và phương hướng.
+
+* **purpose** UK /ˈpɜː.pəs/ US /ˈpɝː.pəs/ *(countable/uncountable noun)*: mục đích; ý nghĩa hoặc phương hướng  
+  *Example:* The purpose of the meeting is to agree on the next steps.  
+  → Mục đích của cuộc họp là thống nhất các bước tiếp theo.
+
+* **purposeful** UK /ˈpɜː.pəs.fəl/ US /ˈpɝː.pəs.fəl/ *(adjective)*: có mục đích, quyết tâm và có định hướng  
+  *Example:* Students benefit from purposeful activities with clear goals.  
+  → Học sinh được lợi từ các hoạt động có định hướng và mục tiêu rõ ràng.
+
+* **purposefully** UK /ˈpɜː.pəs.fəl.i/ US /ˈpɝː.pəs.fəl.i/ *(adverb)*: một cách có định hướng hoặc quyết tâm  
+  *Example:* She walked purposefully toward the reception desk.  
+  → Cô ấy bước về phía quầy lễ tân với dáng vẻ đầy quyết tâm.
+
+### Notes
+
+`A sense of purpose` describes meaningful direction; `a purpose` can be one specific function or aim. `On purpose` means deliberately and is a different expression. `Purposefully` often emphasizes determination, while `purposely` usually means intentionally.
+
+---
+
+## 626. Fall into despair UK /ˌfɔːl ɪn.tə dɪˈspeər/ US /ˌfɑːl ɪn.tə dɪˈsper/
+
+* **Part of speech:** verb phrase; intransitive `fall` followed by `into`; `despair` is an uncountable noun
+* **Vietnamese meaning:** rơi vào tuyệt vọng, bắt đầu cảm thấy không còn hy vọng *(100%)*
+
+### Usage
+
+`Fall into despair` describes a change into a deeply hopeless emotional state. It is stronger and more dramatic than `feel disappointed` or `feel discouraged`. The phrase is natural in narratives and formal discussions of hardship, though `lose hope` is simpler in everyday conversation.
+
+Common structures:
+
+* `fall into despair after + event`: rơi vào tuyệt vọng sau một sự việc
+* `fall into despair when + clause`: rơi vào tuyệt vọng khi điều gì xảy ra
+* `be in despair over/about + problem`: tuyệt vọng vì vấn đề nào; chỉ trạng thái
+* `a feeling/sense of despair`: cảm giác tuyệt vọng
+* `despair of + noun/V-ing`: không còn hy vọng về điều gì/việc làm gì; cấu trúc động từ liên quan
+
+### Examples
+
+1. **After several failed attempts, he began to fall into despair.**
+   → Sau vài lần thử thất bại, anh ấy bắt đầu rơi vào tuyệt vọng.
+
+2. **Rather than fall into despair, she sought advice and revised her plan.**
+   → Thay vì rơi vào tuyệt vọng, cô ấy tìm lời khuyên và điều chỉnh kế hoạch.
+
+### Common collocations
+
+* **fall into despair**: rơi vào tuyệt vọng
+* **deep despair**: nỗi tuyệt vọng sâu sắc
+* **a sense of despair**: cảm giác tuyệt vọng
+* **be driven to despair**: bị đẩy đến chỗ tuyệt vọng
+* **overcome despair**: vượt qua sự tuyệt vọng
+
+### Synonyms
+
+* **lose hope** UK /luːz ˈhəʊp/ US /luːz ˈhoʊp/ *(verb phrase)*: mất hy vọng
+* **sink into despair** UK /ˌsɪŋk ɪn.tə dɪˈspeər/ US /ˌsɪŋk ɪn.tə dɪˈsper/ *(verb phrase)*: chìm vào tuyệt vọng
+* **become despondent** /bɪˌkʌm dɪˈspɒn.dənt/ *(verb phrase; formal)*: trở nên chán nản và mất hy vọng
+
+### Word family
+
+* **fall into despair** UK /ˌfɔːl ɪn.tə dɪˈspeər/ US /ˌfɑːl ɪn.tə dɪˈsper/ *(verb phrase)*: rơi vào tuyệt vọng  
+  *Example:* The characters fall into despair when their last plan fails.  
+  → Các nhân vật rơi vào tuyệt vọng khi kế hoạch cuối cùng của họ thất bại.
+
+* **despair** UK /dɪˈspeər/ US /dɪˈsper/ *(uncountable noun/intransitive verb)*: sự tuyệt vọng; mất hy vọng  
+  *Example:* The volunteers offered practical help to families in despair.  
+  → Các tình nguyện viên cung cấp sự giúp đỡ thiết thực cho những gia đình đang tuyệt vọng.
+
+* **despairing** UK /dɪˈspeə.rɪŋ/ US /dɪˈsper.ɪŋ/ *(adjective/verb form)*: tuyệt vọng, thể hiện sự mất hy vọng  
+  *Example:* He gave a despairing sigh when he saw the damage.  
+  → Anh ấy thở dài tuyệt vọng khi nhìn thấy thiệt hại.
+
+* **despairingly** UK /dɪˈspeə.rɪŋ.li/ US /dɪˈsper.ɪŋ.li/ *(adverb)*: một cách tuyệt vọng  
+  *Example:* She looked despairingly at the growing pile of unpaid bills.  
+  → Cô ấy tuyệt vọng nhìn chồng hóa đơn chưa thanh toán ngày càng cao.
+
+### Notes
+
+The irregular verb forms are `fall–fell–fallen`: `He fell into despair`, `She has fallen into despair`. Use no article before `despair` here. `Despair` is a general emotional term; it is not by itself the name of a medical diagnosis.
+
+---
+
+## 627. Arguably UK /ˈɑːɡ.ju.ə.bli/ US /ˈɑːrɡ.ju.ə.bli/
+
+* **Part of speech:** adverb; stance marker
+* **Vietnamese meaning:** có thể lập luận rằng, có cơ sở để cho rằng; thể hiện một nhận định có lý lẽ hỗ trợ nhưng vẫn có thể tranh luận *(100%)*
+
+### Usage
+
+`Arguably` presents a judgment as defensible rather than completely certain. It is useful with evaluations, comparisons, and superlatives. It suggests that reasons can support the claim, so it is stronger and more reasoned than a simple `maybe`.
+
+Common structures:
+
+* `subject + be + arguably + complement`: có thể cho rằng chủ thể có đặc điểm hoặc là điều gì
+* `arguably, + subject + verb`: có thể lập luận rằng một nhận định là đúng
+* `arguably the best/most important + noun`: có thể xem là thứ tốt nhất/quan trọng nhất
+* `arguably more/less + adjective + than`: có thể cho rằng có mức độ hơn/kém so với
+* `subject + modal + arguably + base verb`: đưa ra một khả năng hoặc đánh giá có thể lập luận được
+
+### Examples
+
+1. **Public trust is arguably the most important asset of a healthcare system.**
+   → Có thể cho rằng niềm tin của công chúng là tài sản quan trọng nhất của một hệ thống y tế.
+
+2. **The new policy could arguably benefit smaller businesses more than large firms.**
+   → Có cơ sở để cho rằng chính sách mới có thể mang lại lợi ích cho doanh nghiệp nhỏ nhiều hơn các công ty lớn.
+
+### Common collocations
+
+* **arguably the best**: có thể xem là tốt nhất
+* **arguably the most important**: có thể cho là quan trọng nhất
+* **arguably more effective**: có thể cho là hiệu quả hơn
+* **arguably one of the greatest**: có thể xem là một trong những điều vĩ đại nhất
+
+### Synonyms
+
+* **it can be argued that** UK /ɪt kən biː ˈɑːɡ.juːd ðət/ US /ɪt kən biː ˈɑːrɡ.juːd ðət/ *(clause frame)*: có thể lập luận rằng
+* **a case can be made that** /ə ˌkeɪs kən biː ˈmeɪd ðət/ *(clause frame)*: có thể đưa ra lý lẽ cho rằng
+* **possibly** UK /ˈpɒs.ə.bli/ US /ˈpɑː.sə.bli/ *(adverb; weaker, not exact)*: có thể, nhưng không nhất thiết hàm ý có lập luận hỗ trợ
+
+### Word family
+
+* **argue** UK /ˈɑːɡ.juː/ US /ˈɑːrɡ.juː/ *(transitive/intransitive verb)*: lập luận; tranh cãi  
+  *Example:* The author argues that affordable housing should be a public priority.  
+  → Tác giả lập luận rằng nhà ở giá phải chăng nên là một ưu tiên công cộng.
+
+* **argument** UK /ˈɑːɡ.jə.mənt/ US /ˈɑːrɡ.jə.mənt/ *(countable/uncountable noun)*: lập luận; sự tranh cãi  
+  *Example:* The essay presents a clear argument for improving public transport.  
+  → Bài luận đưa ra một lập luận rõ ràng ủng hộ việc cải thiện giao thông công cộng.
+
+* **arguable** UK /ˈɑːɡ.ju.ə.bəl/ US /ˈɑːrɡ.ju.ə.bəl/ *(adjective)*: có thể lập luận được; có thể tranh luận  
+  *Example:* It is arguable that the reform helped those most in need.  
+  → Có thể lập luận rằng cuộc cải cách đã giúp những người cần hỗ trợ nhất.
+
+* **arguably** UK /ˈɑːɡ.ju.ə.bli/ US /ˈɑːrɡ.ju.ə.bli/ *(adverb)*: có thể cho rằng dựa trên lý lẽ  
+  *Example:* The library is arguably the neighborhood's most valuable shared space.  
+  → Có thể xem thư viện là không gian chung có giá trị nhất của khu dân cư.
+
+### Notes
+
+`Arguably` does not mean `undoubtedly`: it leaves room for disagreement. In IELTS writing, follow the claim with reasons or evidence instead of using the word to make an unsupported statement sound certain. `Argumentative` means inclined to argue and is not a synonym of `arguable`.
+
+---
+
+*Ghi chú cho các mục 628–631: phần trăm thể hiện mức ưu tiên học ước lượng theo ngữ cảnh thông dụng, không phải tần suất thống kê từ kho ngữ liệu.*
+
+## 628. Paw UK /pɔː/ US /pɑː/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** bàn chân của động vật như mèo, chó hoặc gấu, thường có đệm thịt và móng *(75%)*; dùng chân trước chạm, cào, quơ hoặc lay một vật *(25%)*
+
+### Usage
+
+A `paw` is an animal's foot, particularly the soft-padded foot of a mammal such as a cat or dog. As a verb, `paw` means touch or scrape something with a paw. The pattern `paw at` emphasizes repeated attempts to touch, move, or attract attention to something.
+
+Common structures:
+
+* `a cat's/dog's paw`: bàn chân của mèo/chó
+* `a front/back paw`: một bàn chân trước/sau
+* `lick/lift one's paw`: liếm/nhấc bàn chân lên
+* `put/rest a paw on + object/person`: đặt bàn chân lên vật/người nào
+* `paw at + door/person/object`: dùng chân trước cào hoặc lay cửa/người/vật
+
+### Examples
+
+1. **The cat rested one paw on my arm.**
+   → Con mèo đặt một bàn chân lên tay tôi.
+
+2. **The dog pawed at the door because it wanted to go outside.**
+   → Con chó dùng chân trước cào cửa vì nó muốn ra ngoài.
+
+### Common collocations
+
+* **front paw**: bàn chân trước
+* **back paw**: bàn chân sau
+* **paw print**: dấu chân động vật
+* **paw pads**: các đệm thịt dưới bàn chân động vật
+* **paw at the door**: dùng chân trước cào cửa
+
+### Synonyms
+
+* **foot** /fʊt/ *(countable noun; broader)*: bàn chân của người hoặc động vật
+* **animal's foot** /ˈæn.ɪ.məlz fʊt/ *(countable noun phrase; explanatory)*: bàn chân động vật
+* **touch** /tʌtʃ/ *(transitive verb; broader than the verb `paw`)*: chạm; không nhất thiết dùng chân hoặc móng
+
+### Word family
+
+* **paw** UK /pɔː/ US /pɑː/ *(countable noun; transitive/intransitive verb)*: bàn chân động vật; dùng chân trước chạm hoặc cào  
+  *Example:* Mud covered the puppy's paws after its walk.  
+  → Bùn bám đầy các bàn chân của chú chó con sau buổi đi dạo.
+
+* **pawed** UK /pɔːd/ US /pɑːd/ *(past-tense/past-participle form)*: đã dùng chân trước chạm, quơ hoặc cào  
+  *Example:* The kitten pawed gently at the dangling string.  
+  → Chú mèo con nhẹ nhàng quơ chân trước vào sợi dây đang đung đưa.
+
+* **paw print** UK /ˈpɔː prɪnt/ US /ˈpɑː prɪnt/ *(countable noun phrase)*: dấu bàn chân động vật  
+  *Example:* We found small paw prints in the fresh snow.  
+  → Chúng tôi tìm thấy những dấu chân nhỏ trên lớp tuyết mới.
+
+### Notes
+
+`Paw` refers to the foot as a whole; `claw` refers to a sharp nail. A cat can scratch with its claws while moving its paw. Horses and similar animals have `hooves`, rather than paws. `Back paw` is natural in everyday English; `hind paw` is a more anatomical alternative.
+
+---
+
+## 629. Neuter UK /ˈnjuː.tər/ US /ˈnuː.t̬ɚ/
+
+* **Part of speech:** transitive verb; veterinary meaning
+* **Vietnamese meaning:** triệt sản động vật; trong cách nói hằng ngày thường dùng cho con đực, nhưng cũng có thể là thuật ngữ chung cho cả hai giới *(100%)*
+
+### Usage
+
+**Trong ngữ cảnh thú cưng, “triệt sản” thường là `neuter`.** Với con cái, động từ cụ thể là **`spay` /speɪ/**. `Neuter` có thể bao quát cả hai giới trong ngữ cảnh thú y, nhưng nhiều người dùng `neutered` cho con đực và `spayed` cho con cái khi nói cụ thể.
+
+Use `have/get + pet + neutered/spayed` when the owner arranges the procedure. `My cat has been neutered` describes a completed procedure, while `My cat is neutered` describes its current status.
+
+Common structures:
+
+* `neuter + a male cat/dog`: triệt sản một con mèo/chó đực
+* `spay + a female cat/dog`: triệt sản một con mèo/chó cái
+* `have/get one's pet neutered`: đưa hoặc cho thú cưng đi triệt sản
+* `have/get one's female pet spayed`: đưa hoặc cho thú cưng cái đi triệt sản
+* `a pet has been neutered/spayed`: một thú cưng đã được triệt sản
+* `Is your cat neutered?`: Mèo của bạn đã triệt sản chưa?
+
+### Examples
+
+1. **Our male cat was neutered last month.**
+   → Con mèo đực nhà chúng tôi đã được triệt sản vào tháng trước.
+
+2. **The vet asked whether our female dog had been spayed.**
+   → Bác sĩ thú y hỏi liệu con chó cái nhà chúng tôi đã được triệt sản hay chưa.
+
+### Common collocations
+
+* **a neutered cat**: mèo đã triệt sản, thường hiểu là mèo đực trong lời nói thông thường
+* **a spayed female dog**: chó cái đã triệt sản
+* **have a pet neutered**: cho thú cưng đi triệt sản
+* **spaying and neutering**: việc triệt sản con cái và con đực
+* **a spay/neuter clinic**: cơ sở hoặc phòng khám thực hiện triệt sản thú cưng
+
+### Synonyms
+
+* **spay** /speɪ/ *(transitive verb; female animals specifically)*: triệt sản con cái
+* **sterilize/sterilise** /ˈster.ə.laɪz/ *(transitive verb; broader and more technical)*: làm mất khả năng sinh sản; còn có nghĩa khác là khử trùng
+* **fix** /fɪks/ *(transitive verb; informal, especially American English)*: triệt sản thú cưng, thường trong cụm `get a pet fixed`
+
+### Word family
+
+* **neuter** UK /ˈnjuː.tər/ US /ˈnuː.t̬ɚ/ *(transitive verb)*: triệt sản động vật  
+  *Example:* The shelter records whether each animal has been neutered.  
+  → Trạm cứu hộ ghi lại việc từng con vật đã được triệt sản hay chưa.
+
+* **neutered** UK /ˈnjuː.təd/ US /ˈnuː.t̬ɚd/ *(adjective/past-participle form)*: đã được triệt sản  
+  *Example:* The adoption form describes him as a neutered male.  
+  → Mẫu thông tin nhận nuôi mô tả nó là con đực đã triệt sản.
+
+* **neutering** UK /ˈnjuː.tər.ɪŋ/ US /ˈnuː.t̬ɚ.ɪŋ/ *(uncountable noun/verb form)*: việc triệt sản động vật  
+  *Example:* The owner asked the vet about the neutering appointment.  
+  → Người chủ hỏi bác sĩ thú y về lịch hẹn triệt sản.
+
+* **spay** /speɪ/ *(transitive verb; related term for female animals)*: triệt sản con cái  
+  *Example:* The clinic spays female cats and dogs.  
+  → Phòng khám thực hiện triệt sản cho mèo cái và chó cái.
+
+* **spayed** /speɪd/ *(adjective/past-participle form)*: đã được triệt sản, nói về con cái  
+  *Example:* Our spayed cat is registered with the local veterinary clinic.  
+  → Con mèo cái đã triệt sản của chúng tôi được đăng ký tại phòng khám thú y địa phương.
+
+* **spaying** /ˈspeɪ.ɪŋ/ *(uncountable noun/verb form)*: việc triệt sản con cái  
+  *Example:* The leaflet explains the terms spaying and neutering.  
+  → Tờ hướng dẫn giải thích các thuật ngữ triệt sản con cái và triệt sản nói chung/con đực.
+
+### Notes
+
+For a female pet, `spayed` is the clearest specific term; for a male pet, `neutered` is usual. `Spay` is a related vocabulary item, not a grammatical derivative of `neuter`. For human reproductive procedures, the general English term is `sterilization/sterilisation`; `neuter` is not the normal everyday wording for people. `Sterilize equipment` means khử trùng thiết bị, so context determines the intended meaning.
+
+---
+
+## 630. Hunt for birds UK /ˌhʌnt fə ˈbɜːdz/ US /ˌhʌnt fɚ ˈbɝːdz/
+
+* **Part of speech:** verb phrase; intransitive `hunt` followed by the prepositional phrase `for birds`
+* **Vietnamese meaning:** săn tìm chim; tìm chim làm con mồi hoặc đối tượng săn bắt *(100%)*
+
+### Usage
+
+**`Hunt for birds` đúng ngữ pháp.** `Hunt for + noun` nhấn mạnh việc tìm kiếm đối tượng muốn săn bắt hoặc tìm được. Ở đây, `birds` là tân ngữ của giới từ `for`, chứ không phải tân ngữ trực tiếp của động từ.
+
+**`Hunt birds` cũng đúng và thường ngắn gọn, tự nhiên khi nói về loài con mồi.** Ở cấu trúc này, `hunt` là ngoại động từ và `birds` là tân ngữ trực tiếp. Trong ngữ cảnh mèo, cả hai đều phù hợp; cả hai đều không khẳng định rằng mèo đã bắt được chim.
+
+Common structures:
+
+* `hunt + animal/prey`: săn một loài động vật/con mồi; ngoại động từ
+* `hunt for + animal/prey`: tìm kiếm động vật/con mồi để săn; động từ kèm giới từ
+* `go hunting for + animal`: đi săn tìm động vật nào
+* `hunt for + missing object`: tìm kiếm một đồ vật bị thất lạc; nghĩa mở rộng
+* `look for birds`: tìm chim; phù hợp khi chỉ muốn tìm thấy hoặc quan sát chúng
+
+### Examples
+
+1. **My cat hunts for birds in the backyard.**
+   → Mèo nhà tôi săn tìm chim ở sân sau.
+
+2. **My cat hunts birds, but it rarely catches one.**
+   → Mèo nhà tôi săn chim, nhưng nó hiếm khi bắt được con nào.
+
+### Common collocations
+
+* **hunt birds**: săn chim
+* **hunt for prey**: săn tìm con mồi
+* **hunt for food**: săn tìm thức ăn
+* **go hunting**: đi săn
+* **a hunting instinct**: bản năng săn mồi
+
+### Synonyms
+
+* **hunt birds** UK /ˌhʌnt ˈbɜːdz/ US /ˌhʌnt ˈbɝːdz/ *(transitive verb phrase)*: săn chim; ít nhấn mạnh riêng giai đoạn tìm kiếm
+* **look for birds to catch** UK /ˌlʊk fə bɜːdz tə ˈkætʃ/ US /ˌlʊk fɚ bɝːdz tə ˈkætʃ/ *(verb phrase; explanatory)*: tìm chim để bắt
+* **search for birds** UK /ˌsɜːtʃ fə ˈbɜːdz/ US /ˌsɝːtʃ fɚ ˈbɝːdz/ *(verb phrase; broader)*: tìm chim; không nhất thiết để săn bắt
+
+### Word family
+
+* **hunt for birds** UK /ˌhʌnt fə ˈbɜːdz/ US /ˌhʌnt fɚ ˈbɝːdz/ *(verb phrase)*: săn tìm chim  
+  *Example:* At dawn, the cat began to hunt for birds near the hedge.  
+  → Lúc bình minh, con mèo bắt đầu săn tìm chim gần hàng rào cây.
+
+* **hunt** /hʌnt/ *(transitive/intransitive verb; countable noun)*: săn, tìm kiếm; cuộc săn hoặc cuộc tìm kiếm  
+  *Example:* We spent an hour on a hunt for the missing keys.  
+  → Chúng tôi mất một giờ tìm chùm chìa khóa bị thất lạc.
+
+* **hunter** UK /ˈhʌn.tər/ US /ˈhʌn.t̬ɚ/ *(countable noun)*: người hoặc động vật săn bắt  
+  *Example:* A cat can be a skilled hunter even when it is well fed.  
+  → Mèo vẫn có thể là một kẻ săn mồi giỏi ngay cả khi được cho ăn đầy đủ.
+
+* **hunting** /ˈhʌn.tɪŋ/ *(uncountable noun/verb form)*: việc săn bắt hoặc tìm kiếm  
+  *Example:* The documentary examines hunting behavior in wild cats.  
+  → Bộ phim tài liệu xem xét hành vi săn mồi ở các loài mèo hoang dã.
+
+### Notes
+
+Nếu bạn muốn nói “tìm chim để ngắm/chụp ảnh”, `look for birds` là cách diễn đạt rõ ràng hơn. `Hunt for birds` trong ngữ cảnh động vật thường gợi ý mục đích săn bắt. `Hunt` không luôn cần `for`: với đối tượng săn trực tiếp, `hunt birds` hoàn toàn đúng; với nghĩa tìm đồ thất lạc, dùng `hunt for my keys`.
+
+---
+
+## 631. Lap /læp/
+
+* **Part of speech:** countable noun; transitive and intransitive verb
+* **Vietnamese meaning:** phần đùi phía trên tạo thành chỗ đặt vật hoặc để thú cưng ngồi khi một người ngồi xuống, thường dịch là “lòng” *(60%)*; một vòng của đường đua, đường chạy hoặc một lượt chiều dài bể bơi tùy cách dùng *(20%)*; dùng lưỡi liếm hoặc uống chất lỏng, nói về động vật *(15%)*; vượt một đối thủ khi đã chạy nhiều hơn họ một vòng *(5%)*
+
+### Usage
+
+In your pet-related context, `lap` most likely means the area across a seated person's thighs: a cat can sit, lie, or sleep `on someone's lap`. It can also be a sports noun for a circuit, or a verb describing how animals drink by moving their tongues through liquid.
+
+Common structures:
+
+* `sit/lie/sleep on someone's lap`: ngồi/nằm/ngủ trên đùi hoặc trong lòng ai
+* `put/hold + object + on one's lap`: đặt/giữ vật trên đùi
+* `climb onto someone's lap`: trèo lên đùi hoặc vào lòng ai
+* `run/swim/do + number + laps`: chạy/bơi/thực hiện bao nhiêu vòng hoặc lượt
+* `lap/lap up + liquid`: dùng lưỡi liếm hoặc uống chất lỏng
+* `lap + competitor`: vượt đối thủ khi đã hoàn thành nhiều hơn họ một vòng
+
+### Examples
+
+1. **The cat curled up on my lap while I was reading.**
+   → Con mèo cuộn mình nằm trong lòng tôi khi tôi đang đọc sách.
+
+2. **The puppy lapped water from a shallow bowl.**
+   → Chú chó con dùng lưỡi uống nước từ một chiếc bát nông.
+
+### Common collocations
+
+* **on my lap**: trên đùi hoặc trong lòng tôi
+* **sit on someone's lap**: ngồi trên đùi hoặc trong lòng ai
+* **curl up on someone's lap**: cuộn mình nằm trên đùi ai
+* **the final lap**: vòng cuối cùng
+* **lap up water**: dùng lưỡi uống hoặc liếm nước
+
+### Synonyms
+
+* **the top of one's thighs when seated** /ðə ˌtɒp əv wʌnz ˌθaɪz wen ˈsiː.tɪd/ *(noun phrase; explanatory)*: phần đùi phía trên khi ngồi
+* **circuit** UK /ˈsɜː.kɪt/ US /ˈsɝː.kɪt/ *(countable noun; racing sense)*: một vòng đường đua
+* **lick up** /ˌlɪk ˈʌp/ *(verb phrase; liquid sense)*: liếm chất lỏng lên
+* **overtake** UK /ˌəʊ.vəˈteɪk/ US /ˌoʊ.vɚˈteɪk/ *(transitive verb; broader)*: vượt qua; không nhất thiết vượt hơn cả một vòng
+
+### Word family
+
+* **lap** /læp/ *(countable noun; transitive/intransitive verb)*: lòng hoặc đùi khi ngồi; vòng chạy; liếm/uống bằng lưỡi  
+  *Example:* The runner completed three laps before taking a break.  
+  → Người chạy hoàn thành ba vòng trước khi nghỉ.
+
+* **lapped** /læpt/ *(past-tense/past-participle form)*: đã liếm/uống bằng lưỡi; đã vượt hơn một vòng  
+  *Example:* The leading cyclist lapped two competitors before the finish.  
+  → Tay đua xe đạp dẫn đầu đã vượt hai đối thủ hơn một vòng trước khi về đích.
+
+* **lapping** /ˈlæp.ɪŋ/ *(verb form)*: đang dùng lưỡi liếm/uống; đang vượt hơn một vòng  
+  *Example:* The cat is lapping water from its bowl.  
+  → Con mèo đang dùng lưỡi uống nước trong bát.
+
+### Notes
+
+`On my lap` is the most straightforward choice for a pet supported by your thighs. `In my lap` is also natural, especially when the pet is nestled close to you: `The kitten curled up in my lap` means “Chú mèo con cuộn mình trong lòng tôi”. The verb forms double `p`: `lap–lapped–lapping`. In swimming, `lap` can refer to one length or a return trip depending on local usage, so clarify the distance if needed. Figurative `lap up praise` means enjoy praise eagerly and uncritically.
