@@ -36070,3 +36070,888 @@ Common structures:
 ### Notes
 
 `On my lap` is the most straightforward choice for a pet supported by your thighs. `In my lap` is also natural, especially when the pet is nestled close to you: `The kitten curled up in my lap` means “Chú mèo con cuộn mình trong lòng tôi”. The verb forms double `p`: `lap–lapped–lapping`. In swimming, `lap` can refer to one length or a return trip depending on local usage, so clarify the distance if needed. Figurative `lap up praise` means enjoy praise eagerly and uncritically.
+
+> **Duplicate and spelling notes:** `Striking` is already explained in entry **#569** of the original document, so it is not repeated here. `Laucnh satellites` is corrected to **Launch satellites**. `Refination` is not a standard everyday English term for “tinh luyện/tinh chế”; the new entry uses **Refining**, with `refinement` explained as a related alternative. Meaning percentages below are **rough learning priorities, not measured corpus frequencies**.
+
+## 632. Chuck in /ˌtʃʌk ˈɪn/
+
+* **Part of speech:** informal phrasal verb; usually transitive, sometimes intransitive
+* **Vietnamese meaning:** thêm vào một thứ gì đó, thường khá tùy ý hoặc không trang trọng *(45%)*; góp thêm tiền/công sức hoặc cho thêm như phần bổ sung *(25%)*; từ bỏ công việc/hoạt động đang làm, nhất là trong tiếng Anh-Anh *(25%)*; ném một vật vào trong thứ gì đó, nghĩa đen của `chuck` + `in` *(5%)*
+
+### Usage
+
+`Chuck in` is informal. In cooking or casual conversation, it can mean adding an ingredient or extra item: `chuck in some vegetables`. It may mean contributing something to a shared effort, especially money: `Everyone chucked in a few pounds`. In British English, `chuck in your job` has a **different** meaning: quit your job. The literal combination `chuck something in + place` means throw it inside. Interpret the phrase from its object and context.
+
+Common structures:
+
+* `chuck in + ingredient/item`: cho hoặc thêm nguyên liệu/vật gì vào
+* `chuck + object + in`: thêm hoặc quăng một vật vào; phrasal verb có thể tách
+* `chuck in + money/amount`: góp thêm một khoản tiền
+* `chuck in + job/activity`: bỏ việc hoặc ngừng hoạt động, đặc biệt trong tiếng Anh-Anh
+
+### Examples
+
+1. **Just chuck in a handful of spinach before serving the soup.**
+   → Cứ cho thêm một nắm rau bina vào trước khi dọn món súp.
+
+2. **Everyone chucked in a little money to buy a farewell gift.**
+   → Mọi người đều góp một ít tiền để mua quà chia tay.
+
+3. **After years of working night shifts, he decided to chuck in his job.**
+   → Sau nhiều năm làm ca đêm, anh ấy quyết định nghỉ việc.
+
+### Common collocations
+
+* **chuck in some vegetables**: cho thêm một ít rau củ vào
+* **chuck in a few extra items**: thêm vào vài món nữa
+* **chuck in some money**: góp thêm một ít tiền
+* **chuck in your job**: bỏ việc (thân mật, Anh-Anh)
+
+### Synonyms
+
+* **throw in** UK /ˌθrəʊ ˈɪn/ US /ˌθroʊ ˈɪn/ *(phrasal verb)*: thêm/tặng kèm một thứ; thường tự nhiên hơn khi nói “tặng thêm không tính tiền”
+* **add** /æd/ *(transitive verb)*: thêm vào; trung tính và phù hợp với văn viết
+* **contribute** /kənˈtrɪb.juːt/ *(verb)*: đóng góp; trang trọng hơn trong ngữ cảnh chung tiền hoặc công sức
+* **quit** /kwɪt/ *(verb)*: nghỉ/bỏ; gần nghĩa với `chuck in` khi nói về từ bỏ công việc
+
+### Word family
+
+* **chuck** /tʃʌk/ *(transitive verb; informal)*: ném, quăng một cách tùy tiện  
+  *Example:* He chucked his coat onto the chair.  
+  → Anh ấy quăng áo khoác lên ghế.
+
+* **chucked in** /ˌtʃʌkt ˈɪn/ *(past-tense/past-participle phrasal verb)*: đã thêm/góp vào; hoặc đã bỏ việc tùy ngữ cảnh  
+  *Example:* The shopkeeper chucked in an extra notebook.  
+  → Chủ cửa hàng cho thêm một cuốn sổ tay.
+
+* **throw in** UK /ˌθrəʊ ˈɪn/ US /ˌθroʊ ˈɪn/ *(related phrasal verb)*: thêm vào, tặng kèm  
+  *Example:* The seller agreed to throw in a protective case for free.  
+  → Người bán đồng ý tặng kèm miễn phí một chiếc ốp bảo vệ.
+
+### Notes
+
+`Chuck in` is **not** always equivalent to `throw in`: when a shop offers a free extra, `throw in` is the safer, more widely understood expression. `Chuck in` can also mean **give up** in British English; this important meaning is easy to miss if you only memorize “thêm vào”. With a pronoun, say `chuck it in`, not `chuck in it`. Avoid this casual phrase in formal IELTS essays; use `add`, `include`, or `contribute` as appropriate.
+
+---
+
+## 633. Skeptical UK /ˈskep.tɪ.kəl/ US /ˈskep.tɪ.kəl/
+
+* **Part of speech:** adjective
+* **Vietnamese meaning:** hoài nghi, chưa tin một lời khẳng định vì muốn có thêm bằng chứng *(80%)*; nghi ngờ khả năng thành công hoặc hiệu quả của kế hoạch/ý tưởng *(20%)*
+
+### Usage
+
+`Skeptical` describes someone who doubts whether a claim is true or a plan will work. A skeptical person is not necessarily opposed to an idea; they may simply need convincing evidence. It is useful in news reports, scientific discussions, technology debates, and everyday decisions. The British spelling is usually `sceptical`; the American spelling is `skeptical`.
+
+Common structures:
+
+* `be skeptical about/of + noun`: hoài nghi về điều gì
+* `be skeptical that + clause`: nghi ngờ rằng một điều sẽ đúng/xảy ra
+* `remain skeptical`: vẫn hoài nghi
+* `be skeptical of claims/promises`: nghi ngờ những lời khẳng định/lời hứa
+
+### Examples
+
+1. **Many scientists remain skeptical of claims that the device can produce unlimited energy.**
+   → Nhiều nhà khoa học vẫn hoài nghi về những tuyên bố rằng thiết bị có thể tạo ra năng lượng vô hạn.
+
+2. **I was skeptical about the new study method until I tried it myself.**
+   → Tôi từng hoài nghi về phương pháp học mới cho đến khi tự mình thử.
+
+### Common collocations
+
+* **remain skeptical**: vẫn giữ thái độ hoài nghi
+* **be highly skeptical**: rất hoài nghi
+* **skeptical about the results**: hoài nghi về kết quả
+* **a skeptical attitude**: thái độ hoài nghi
+
+### Synonyms
+
+* **doubtful** /ˈdaʊt.fəl/ *(adjective)*: nghi ngờ; thường nhấn mạnh khả năng một điều không xảy ra
+* **unconvinced** /ˌʌn.kənˈvɪnst/ *(adjective)*: chưa bị thuyết phục bởi bằng chứng/lập luận
+* **suspicious** /səˈspɪʃ.əs/ *(adjective)*: nghi ngờ điều gì có vấn đề hoặc không trung thực; sắc thái tiêu cực mạnh hơn
+
+### Word family
+
+* **skeptic** /ˈskep.tɪk/ *(countable noun; US spelling)*: người hoài nghi  
+  *Example:* Even skeptics admitted that the evidence was compelling.  
+  → Ngay cả những người hoài nghi cũng thừa nhận rằng bằng chứng rất thuyết phục.
+
+* **skepticism** /ˈskep.tɪ.sɪ.zəm/ *(uncountable noun; US spelling)*: sự hoài nghi  
+  *Example:* Public skepticism increased after the company changed its explanation.  
+  → Sự hoài nghi của công chúng tăng lên sau khi công ty thay đổi lời giải thích.
+
+* **sceptical** /ˈskep.tɪ.kəl/ *(adjective; UK spelling)*: hoài nghi  
+  *Example:* British consumers are sceptical of exaggerated advertisements.  
+  → Người tiêu dùng Anh hoài nghi về những quảng cáo phóng đại.
+
+### Notes
+
+`Skeptical` and `sceptical` mean the same thing; only the usual regional spelling differs. `Skeptical` is not the same as `cynical`: a cynical person often assumes others are selfish or dishonest, while a skeptical person seeks stronger evidence. Common phrasing includes `skeptical about the proposal` and `skeptical of the evidence`.
+
+---
+
+## 634. Medium-sized /ˌmiː.di.əm ˈsaɪzd/
+
+* **Part of speech:** compound adjective
+* **Vietnamese meaning:** có kích thước cỡ trung bình, không quá nhỏ cũng không quá lớn *(80%)*; có quy mô trung bình (doanh nghiệp, tổ chức, thành phố, v.v.) *(20%)*
+
+### Usage
+
+`Medium-sized` describes an object, animal, business, or place that falls between small and large. The meaning of “medium” depends on the category: a medium-sized dog is not the same absolute size as a medium-sized vehicle. It is commonly used before a noun, or after linking verbs such as `be`.
+
+Common structures:
+
+* `a medium-sized + noun`: một ... cỡ trung bình
+* `be medium-sized`: có kích thước/quy mô trung bình
+* `small and medium-sized enterprises (SMEs)`: doanh nghiệp nhỏ và vừa
+
+### Examples
+
+1. **We rented a medium-sized car because it had enough room for four people and their luggage.**
+   → Chúng tôi thuê một chiếc ô tô cỡ trung vì nó đủ chỗ cho bốn người và hành lý của họ.
+
+2. **Medium-sized companies often have fewer resources than large corporations.**
+   → Các công ty quy mô vừa thường có ít nguồn lực hơn các tập đoàn lớn.
+
+### Common collocations
+
+* **a medium-sized business**: doanh nghiệp quy mô vừa
+* **a medium-sized dog**: chó cỡ trung bình
+* **a medium-sized city**: thành phố cỡ trung
+* **small and medium-sized enterprises**: doanh nghiệp nhỏ và vừa
+
+### Synonyms
+
+* **mid-sized** /ˌmɪd ˈsaɪzd/ *(adjective)*: cỡ trung bình; thường dùng cho xe, công ty, tổ chức
+* **moderately sized** /ˈmɒd.ər.ət.li saɪzd/ *(adjective phrase)*: có kích thước vừa phải; mang tính mô tả hơn
+* **medium** /ˈmiː.di.əm/ *(adjective)*: cỡ vừa; phù hợp trong `a medium shirt` hoặc `a medium portion` nhưng không thay thế được mọi trường hợp
+
+### Word family
+
+* **size** /saɪz/ *(countable/uncountable noun; verb)*: kích thước, quy mô; định cỡ  
+  *Example:* The size of the screen affects how portable the laptop is.  
+  → Kích thước màn hình ảnh hưởng đến mức độ dễ mang theo của máy tính xách tay.
+
+* **sized** /saɪzd/ *(adjective or past-participle form)*: có kích cỡ được chỉ định  
+  *Example:* The boxes are sized to fit inside the cabinet.  
+  → Các hộp được làm theo kích thước vừa với chiếc tủ.
+
+* **mid-sized** /ˌmɪd ˈsaɪzd/ *(adjective)*: thuộc cỡ trung bình  
+  *Example:* A mid-sized company may offer more flexibility than a large corporation.  
+  → Một công ty quy mô vừa có thể linh hoạt hơn một tập đoàn lớn.
+
+### Notes
+
+Use a hyphen in `medium-sized` before a noun: `a medium-sized apartment`. You may also write `The apartment is medium-sized`. `Medium-size` exists as a less common attributive variant, but `medium-sized` is a dependable general choice. `SME` means **small and medium-sized enterprise**; it is a business classification, not a fixed physical measurement.
+
+---
+
+## 635. Energy-intensive UK /ˌen.ə.dʒi ɪnˈten.sɪv/ US /ˌen.ɚ.dʒi ɪnˈten.sɪv/
+
+* **Part of speech:** compound adjective
+* **Vietnamese meaning:** tiêu thụ/đòi hỏi nhiều năng lượng để vận hành hoặc sản xuất *(90%)*; đòi hỏi nhiều sức lực của con người trong ngữ cảnh không kỹ thuật *(10%)*
+
+### Usage
+
+`Energy-intensive` describes processes, technologies, industries, or activities that use a large amount of energy relative to their output or compared with alternatives. It often appears in discussions of manufacturing, data centers, transport, climate change, and sustainability. In engineering contexts, the “energy” usually means electricity, fuel, or heat rather than someone's personal motivation.
+
+Common structures:
+
+* `energy-intensive + process/industry`: quy trình/ngành tiêu tốn nhiều năng lượng
+* `be energy-intensive`: tiêu tốn nhiều năng lượng
+* `less/more energy-intensive than + alternative`: ít/tốn năng lượng hơn phương án khác
+* `reduce energy-intensive operations`: giảm các hoạt động tiêu hao nhiều năng lượng
+
+### Examples
+
+1. **Producing aluminum from raw materials is an energy-intensive process.**
+   → Sản xuất nhôm từ nguyên liệu thô là một quá trình tiêu tốn nhiều năng lượng.
+
+2. **New cooling systems could make data centers less energy-intensive.**
+   → Các hệ thống làm mát mới có thể giúp trung tâm dữ liệu tiêu thụ ít năng lượng hơn.
+
+### Common collocations
+
+* **energy-intensive industries**: các ngành công nghiệp tiêu tốn nhiều năng lượng
+* **an energy-intensive process**: quy trình tiêu tốn nhiều năng lượng
+* **energy-intensive manufacturing**: hoạt động sản xuất tiêu thụ nhiều năng lượng
+* **less energy-intensive technologies**: các công nghệ tiêu thụ ít năng lượng hơn
+
+### Synonyms
+
+* **power-hungry** /ˈpaʊ.ə ˌhʌŋ.ɡri/ *(adjective)*: tiêu thụ nhiều điện/năng lượng; thân mật hơn
+* **high-energy** /ˌhaɪ ˈen.ə.dʒi/ *(adjective)*: cần/mang năng lượng cao trong một số ngữ cảnh; cũng có thể chỉ “sôi nổi”, nên **không hoàn toàn đồng nghĩa**
+* **resource-intensive** /rɪˈzɔːs ɪnˌten.sɪv/ *(adjective)*: tiêu tốn nhiều tài nguyên nói chung, không chỉ năng lượng
+
+### Word family
+
+* **energy** UK /ˈen.ə.dʒi/ US /ˈen.ɚ.dʒi/ *(uncountable noun)*: năng lượng  
+  *Example:* The factory is trying to reduce its energy consumption.  
+  → Nhà máy đang cố gắng giảm mức tiêu thụ năng lượng.
+
+* **intensive** /ɪnˈten.sɪv/ *(adjective)*: chuyên sâu, có cường độ cao hoặc đòi hỏi nhiều nguồn lực  
+  *Example:* The training program includes an intensive six-week course.  
+  → Chương trình đào tạo bao gồm một khóa học chuyên sâu kéo dài sáu tuần.
+
+* **energy-efficient** /ˌen.ə.dʒi ɪˈfɪʃ.ənt/ *(adjective; contrasting term)*: tiết kiệm/sử dụng năng lượng hiệu quả  
+  *Example:* Energy-efficient servers can lower operating costs.  
+  → Các máy chủ tiết kiệm năng lượng có thể giảm chi phí vận hành.
+
+### Notes
+
+`Energy-intensive` does **not automatically mean** wasteful: a process may consume much energy because it performs a demanding task. `Energy-efficient` describes how effectively energy is used, not simply how much is consumed. For physical exercise requiring much personal effort, `physically demanding` is often clearer than `energy-intensive`.
+
+---
+
+## 636. Corrosion UK /kəˈrəʊ.ʒən/ US /kəˈroʊ.ʒən/
+
+* **Part of speech:** uncountable noun
+* **Vietnamese meaning:** sự ăn mòn kim loại hoặc vật liệu do phản ứng hóa học/điện hóa *(90%)*; sự phá hủy hoặc suy yếu dần theo nghĩa bóng *(10%)*
+
+### Usage
+
+`Corrosion` is the gradual deterioration of a material, often a metal, through chemical or electrochemical reactions with its environment. Rusting is a familiar form of corrosion affecting iron and steel. The term is common in engineering, construction, chemistry, and equipment maintenance. The related verb is `corrode`.
+
+Common structures:
+
+* `corrosion of + metal/material`: sự ăn mòn của kim loại/vật liệu
+* `protect against/prevent corrosion`: bảo vệ khỏi/ngăn ăn mòn
+* `be resistant to corrosion`: có khả năng chống ăn mòn
+* `corrosion caused by + substance`: ăn mòn do chất nào gây ra
+
+### Examples
+
+1. **Salt water can accelerate corrosion in metal pipes.**
+   → Nước muối có thể đẩy nhanh quá trình ăn mòn trong các đường ống kim loại.
+
+2. **Engineers applied a protective coating to reduce corrosion on the bridge.**
+   → Các kỹ sư phủ một lớp bảo vệ để giảm sự ăn mòn trên cây cầu.
+
+### Common collocations
+
+* **corrosion resistance**: khả năng chống ăn mòn
+* **prevent corrosion**: ngăn ngừa ăn mòn
+* **corrosion damage**: hư hại do ăn mòn
+* **metal corrosion**: sự ăn mòn kim loại
+
+### Synonyms
+
+* **deterioration** /dɪˌtɪə.ri.əˈreɪ.ʃən/ *(uncountable noun)*: sự xuống cấp; nghĩa rộng hơn, không nhất thiết do phản ứng hóa học
+* **degradation** /ˌdeɡ.rəˈdeɪ.ʃən/ *(noun)*: sự suy thoái, phân hủy chất lượng; có thể do nhiều nguyên nhân
+* **rusting** /ˈrʌs.tɪŋ/ *(uncountable noun)*: quá trình gỉ sét; chỉ loại ăn mòn đặc trưng của sắt/thép
+
+### Word family
+
+* **corrode** UK /kəˈrəʊd/ US /kəˈroʊd/ *(transitive/intransitive verb)*: ăn mòn; bị ăn mòn  
+  *Example:* Moisture can corrode exposed metal parts.  
+  → Độ ẩm có thể ăn mòn những bộ phận kim loại bị lộ ra.
+
+* **corrosive** UK /kəˈrəʊ.sɪv/ US /kəˈroʊ.sɪv/ *(adjective)*: có tính ăn mòn  
+  *Example:* Workers must wear gloves when handling corrosive chemicals.  
+  → Công nhân phải đeo găng tay khi xử lý các hóa chất có tính ăn mòn.
+
+* **corroded** UK /kəˈrəʊ.dɪd/ US /kəˈroʊ.dɪd/ *(adjective/past-participle form)*: bị ăn mòn  
+  *Example:* The mechanic replaced a corroded electrical connector.  
+  → Người thợ sửa máy đã thay một đầu nối điện bị ăn mòn.
+
+### Notes
+
+Do not equate `corrosion` with `rust` in every context. `Rust` specifically concerns iron-containing materials, while `corrosion` covers a broader range of materials and reactions. `Corrosion` is normally uncountable when naming the process: say `severe corrosion`, not `many corrosions`.
+
+---
+## 637. Coolant /ˈkuː.lənt/
+
+* **Part of speech:** countable and uncountable noun
+* **Vietnamese meaning:** chất làm mát/dung dịch làm mát dùng để hấp thụ và chuyển nhiệt khỏi máy móc hoặc hệ thống *(90%)*; môi chất làm mát nói chung, có thể ở thể lỏng hoặc khí tùy hệ thống *(10%)*
+
+### Usage
+
+`Coolant` is a substance circulated through a machine or system to carry away heat and prevent overheating. Cars, industrial equipment, computers, and some cooling systems use coolants. Many coolants are liquids, but the word is not restricted to water or to liquids. In a car, `engine coolant` commonly refers to a formulated liquid in the engine cooling circuit.
+
+Common structures:
+
+* `engine coolant`: dung dịch làm mát động cơ
+* `coolant flows/circulates through + system`: chất làm mát chảy/tuần hoàn qua hệ thống
+* `check/top up/replace the coolant`: kiểm tra/châm thêm/thay dung dịch làm mát
+* `a coolant leak`: sự rò rỉ chất làm mát
+
+### Examples
+
+1. **The car overheated because the engine had lost too much coolant.**
+   → Chiếc ô tô bị quá nhiệt vì động cơ đã mất quá nhiều dung dịch làm mát.
+
+2. **The cooling system pumps coolant around the equipment to carry heat away.**
+   → Hệ thống làm mát bơm chất làm mát tuần hoàn quanh thiết bị để mang nhiệt đi.
+
+### Common collocations
+
+* **engine coolant**: dung dịch làm mát động cơ
+* **coolant level**: mức dung dịch làm mát
+* **coolant leak**: sự rò rỉ chất làm mát
+* **coolant circulation**: sự tuần hoàn chất làm mát
+
+### Synonyms
+
+* **cooling fluid** /ˈkuː.lɪŋ ˌfluː.ɪd/ *(noun phrase)*: chất lỏng làm mát; nghĩa hẹp hơn vì nói riêng chất lỏng
+* **heat-transfer fluid** /ˌhiːt ˈtræns.fɜː ˌfluː.ɪd/ *(noun phrase)*: chất lỏng truyền nhiệt; có thể dùng để làm nóng hoặc làm mát
+* **refrigerant** /rɪˈfrɪdʒ.ər.ənt/ *(noun)*: môi chất lạnh trong hệ thống lạnh/điều hòa; **không** thay thế được `coolant` trong mọi hệ thống
+
+### Word family
+
+* **cool** /kuːl/ *(transitive/intransitive verb; adjective)*: làm mát, nguội đi; mát  
+  *Example:* Fans help cool the electronic components.  
+  → Quạt giúp làm mát các linh kiện điện tử.
+
+* **cooling** /ˈkuː.lɪŋ/ *(uncountable noun; adjective)*: sự làm mát; thuộc về làm mát  
+  *Example:* Efficient cooling is essential in large data centers.  
+  → Việc làm mát hiệu quả rất quan trọng trong các trung tâm dữ liệu lớn.
+
+* **cooler** /ˈkuː.lər/ *(countable noun)*: thiết bị làm mát hoặc hộp giữ lạnh  
+  *Example:* The processor cooler prevents the chip from overheating.  
+  → Bộ tản nhiệt của bộ xử lý ngăn con chip bị quá nhiệt.
+
+### Notes
+
+`Coolant` is the **substance** that transports heat; `cooling system` is the **whole system** of pumps, pipes, radiators, etc. `Refrigerant` has a more specialized meaning related to refrigeration cycles. `Antifreeze` may be an ingredient in automotive coolant but is not a universal synonym for every coolant. For car maintenance, say `check the coolant level`, not `check the cooling level`.
+
+---
+
+## 638. Recirculate UK /ˌriːˈsɜː.kjə.leɪt/ US /ˌriːˈsɝː.kjə.leɪt/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** đưa chất lỏng, không khí hoặc khí quay trở lại hệ thống để tiếp tục tuần hoàn *(90%)*; luân chuyển trở lại một nguồn/tuyến đường trước đó *(10%)*
+
+### Usage
+
+`Recirculate` means to circulate a substance through the same system again rather than immediately releasing or replacing it. It is widely used in air conditioning, data-center cooling, water treatment, and industrial processes. Unlike `recycle`, it does not necessarily mean that waste material is processed into something new.
+
+Common structures:
+
+* `recirculate + air/water/coolant`: tuần hoàn lại không khí/nước/chất làm mát
+* `recirculate through + system`: tuần hoàn trở lại qua hệ thống
+* `recirculate back into + system`: đưa trở lại hệ thống để tuần hoàn
+* `recirculated air/water`: không khí/nước được tuần hoàn lại
+
+### Examples
+
+1. **The data center recirculates cooled water through its cooling equipment.**
+   → Trung tâm dữ liệu tuần hoàn lại nước đã được làm mát qua thiết bị làm mát của mình.
+
+2. **Some ventilation systems recirculate indoor air instead of bringing in fresh air continuously.**
+   → Một số hệ thống thông gió tuần hoàn lại không khí trong nhà thay vì liên tục đưa không khí mới vào.
+
+### Common collocations
+
+* **recirculate coolant**: tuần hoàn lại chất làm mát
+* **recirculate air**: tuần hoàn lại không khí
+* **recirculate water**: tuần hoàn lại nước
+* **recirculated air**: không khí được tuần hoàn lại
+
+### Synonyms
+
+* **circulate again** UK /ˈsɜː.kjə.leɪt əˈɡen/ US /ˈsɝː.kjə.leɪt əˈɡen/ *(verb phrase)*: cho tuần hoàn lại; cách diễn giải sát nghĩa
+* **send back through** /ˌsend ˈbæk θruː/ *(verb phrase)*: đưa trở lại qua một hệ thống; mô tả chuyển động, không nhất thiết là tuần hoàn kín
+* **reuse** /ˌriːˈjuːz/ *(transitive verb)*: tái sử dụng; nghĩa rộng hơn, không nhất thiết có dòng chảy tuần hoàn
+
+### Word family
+
+* **recirculation** UK /ˌriː.sɜː.kjəˈleɪ.ʃən/ US /ˌriː.sɝː.kjəˈleɪ.ʃən/ *(uncountable noun)*: sự tuần hoàn trở lại  
+  *Example:* Water recirculation can reduce the need for fresh water.  
+  → Việc tuần hoàn lại nước có thể giảm nhu cầu sử dụng nước mới.
+
+* **circulate** UK /ˈsɜː.kjə.leɪt/ US /ˈsɝː.kjə.leɪt/ *(verb)*: lưu thông, tuần hoàn  
+  *Example:* A pump circulates water through the pipes.  
+  → Một máy bơm làm nước tuần hoàn qua các đường ống.
+
+* **circulation** UK /ˌsɜː.kjəˈleɪ.ʃən/ US /ˌsɝː.kjəˈleɪ.ʃən/ *(uncountable noun)*: sự lưu thông, tuần hoàn  
+  *Example:* Good air circulation helps keep the room comfortable.  
+  → Không khí lưu thông tốt giúp căn phòng dễ chịu.
+
+### Notes
+
+The prefix `re-` means “again”. `Circulate` means move around a system; `recirculate` emphasizes that the material is **sent around again**. Compare `recycle plastic` (xử lý nhựa để tái chế) with `recirculate water` (đưa nước quay vòng trong hệ thống). Avoid `recirculate again` unless the repetition itself needs special emphasis.
+
+---
+
+## 639. Dissipate /ˈdɪs.ɪ.peɪt/
+
+* **Part of speech:** transitive and intransitive verb
+* **Vietnamese meaning:** phân tán/tiêu tán nhiệt, năng lượng, khói, sương, v.v. ra môi trường *(60%)*; tan dần, biến mất (lo lắng, căng thẳng, nghi ngờ, đám đông) *(35%)*; phung phí nguồn lực hoặc tài sản *(5%; trang trọng/ít gặp hơn)*
+
+### Usage
+
+`Dissipate` describes heat or energy spreading into the surroundings, or something like mist, tension, or fear gradually disappearing. In science and engineering, `dissipate heat` is a common transitive structure: a device transfers heat away and spreads it into its surroundings. In everyday English, an intransitive pattern is common: `the fog dissipated`.
+
+Common structures:
+
+* `dissipate + heat/energy`: tiêu tán nhiệt/năng lượng
+* `heat dissipates into + surroundings`: nhiệt phân tán ra môi trường xung quanh
+* `fog/smoke dissipates`: sương/khói tan dần
+* `fear/tension/doubt dissipates`: nỗi sợ/căng thẳng/sự nghi ngờ dần biến mất
+
+### Examples
+
+1. **The computer uses a heat sink and fans to dissipate heat from the processor.**
+   → Máy tính sử dụng bộ tản nhiệt và quạt để phân tán nhiệt khỏi bộ xử lý.
+
+2. **The morning fog gradually dissipated as the sun rose.**
+   → Lớp sương buổi sáng dần tan khi mặt trời lên cao.
+
+3. **Her anxiety began to dissipate after she received the test results.**
+   → Sự lo lắng của cô ấy bắt đầu tan biến sau khi cô nhận được kết quả xét nghiệm.
+
+### Common collocations
+
+* **dissipate heat**: tản nhiệt/tiêu tán nhiệt
+* **dissipate energy**: tiêu tán năng lượng
+* **the fog dissipates**: sương tan dần
+* **dissipate fears**: xua tan nỗi sợ
+
+### Synonyms
+
+* **disperse** UK /dɪˈspɜːs/ US /dɪˈspɝːs/ *(verb)*: phân tán, tản ra; thường nói về vật chất/đám đông
+* **fade** /feɪd/ *(intransitive verb)*: nhạt dần, giảm dần rồi biến mất; tự nhiên với cảm xúc hoặc ký ức
+* **dissolve** /dɪˈzɒlv/ *(verb)*: hòa tan; đôi khi dùng nghĩa bóng “tan biến” nhưng cơ chế vật lý khác `dissipate`
+
+### Word family
+
+* **dissipation** /ˌdɪs.ɪˈpeɪ.ʃən/ *(uncountable noun)*: sự tiêu tán, sự phân tán  
+  *Example:* Effective heat dissipation protects sensitive components.  
+  → Việc tản nhiệt hiệu quả bảo vệ các linh kiện nhạy cảm.
+
+* **dissipated** /ˈdɪs.ɪ.peɪ.tɪd/ *(past-participle/adjectival form)*: đã được phân tán hoặc đã tan đi  
+  *Example:* Most of the excess heat was dissipated into the air.  
+  → Phần lớn lượng nhiệt dư đã được phân tán vào không khí.
+
+* **dissipating** /ˈdɪs.ɪ.peɪ.tɪŋ/ *(present-participle form)*: đang tiêu tán, đang tan dần  
+  *Example:* The dissipating smoke revealed the damaged building.  
+  → Làn khói đang tan dần làm lộ ra tòa nhà bị hư hại.
+
+### Notes
+
+In physics, **energy is not destroyed** when it is dissipated; it is typically spread into less useful forms such as thermal energy. `Dissipate` is more formal than `go away` or `disappear`. `Dissipate heat` is a natural technical collocation; `dissipate a problem` is often less natural than `resolve a problem`.
+
+---
+
+## 640. Aside from /əˈsaɪd frəm/
+
+* **Part of speech:** complex preposition; `aside from that` can function as a discourse-linking expression
+* **Vietnamese meaning:** ngoài ra, bên cạnh điều đã nêu, thêm vào đó *(55%)*; ngoại trừ, không kể một người/vật/điều gì *(45%)*
+
+### Usage
+
+`Aside from` has **two important meanings**. It can add information (`besides`, `in addition to`) or exclude something (`apart from`, `except for`). In many sentences, only context shows which meaning is intended. It normally comes before a noun, pronoun, or `-ing` form rather than a complete finite clause. `Aside from that, ...` can introduce an additional comment or qualification.
+
+Common structures:
+
+* `aside from + noun`: ngoài/ngoại trừ một thứ gì
+* `aside from + pronoun`: ngoài/ngoại trừ ai hoặc cái gì
+* `aside from + V-ing`: ngoài việc làm gì
+* `aside from that, + clause`: ngoài điều đó ra, ...
+
+### Examples
+
+1. **Aside from learning Java, she is also studying English every day.**
+   → Ngoài việc học Java, cô ấy còn học tiếng Anh mỗi ngày.
+
+2. **Aside from a few minor errors, the report was excellent.**
+   → Ngoại trừ một vài lỗi nhỏ, bản báo cáo rất xuất sắc.
+
+3. **The laptop is quite heavy. Aside from that, it meets all my needs.**
+   → Chiếc máy tính xách tay khá nặng. Ngoài điểm đó ra, nó đáp ứng mọi nhu cầu của tôi.
+
+### Common collocations
+
+* **aside from that**: ngoài điều đó ra
+* **aside from the cost**: ngoài/ngoại trừ yếu tố chi phí
+* **aside from a few exceptions**: ngoại trừ một vài trường hợp ngoại lệ
+* **aside from working**: ngoài việc làm việc
+
+### Synonyms
+
+* **apart from** UK /əˈpɑːt frəm/ US /əˈpɑːrt frəm/ *(preposition)*: ngoài ra/ngoại trừ; gần nghĩa nhất và cũng có hai cách hiểu
+* **besides** /bɪˈsaɪdz/ *(preposition/adverb)*: ngoài ra; thiên về thêm thông tin, không phải lúc nào cũng có nghĩa “ngoại trừ”
+* **except for** /ɪkˈsept fɔːr/ *(preposition)*: ngoại trừ; nhấn mạnh điều bị loại ra khỏi nhận xét chung
+
+### Word family
+
+* **aside** /əˈsaɪd/ *(adverb)*: sang một bên; tạm gác lại  
+  *Example:* She put her phone aside to focus on studying.  
+  → Cô ấy để điện thoại sang một bên để tập trung học.
+
+* **apart from** /əˈpɑːt frəm/ *(related prepositional phrase)*: ngoài ra; ngoại trừ  
+  *Example:* Apart from the weather, the trip was fantastic.  
+  → Ngoại trừ thời tiết, chuyến đi rất tuyệt vời.
+
+* **set aside** /ˌset əˈsaɪd/ *(related phrasal verb)*: dành riêng; tạm gác sang một bên  
+  *Example:* I set aside an hour each evening for reading.  
+  → Tôi dành riêng một giờ mỗi tối để đọc sách.
+
+### Notes
+
+For **addition**, compare `Aside from English, he studies French` = “Ngoài tiếng Anh, anh ấy còn học tiếng Pháp.” For **exception**, compare `Aside from John, everyone arrived on time` = “Ngoại trừ John, mọi người đều đến đúng giờ.” The phrase may be ambiguous without context. `Aside from` is followed by `learning`, not `to learn`: say `Aside from learning English, ...`. Use `Besides, ...` rather than `Aside from, ...` as a standalone transition.
+
+---
+
+## 641. Pledge /pledʒ/
+
+* **Part of speech:** countable noun; transitive verb; also intransitive in some constructions
+* **Vietnamese meaning:** lời hứa/cam kết nghiêm túc, thường công khai hoặc chính thức *(noun, 45%)*; cam kết thực hiện hoặc ủng hộ điều gì *(verb, 45%)*; cam kết quyên góp tiền/nguồn lực hoặc đem tài sản bảo đảm *(noun/verb, 10%)*
+
+### Usage
+
+A `pledge` is a serious promise, often made in public by a government, company, organization, or individual. As a verb, `pledge` means make such a commitment. The word is common in news about climate targets, politics, donations, and social programs. It expresses a promise or declared intention; it **does not prove** that the action has already happened.
+
+Common structures:
+
+* `make a pledge to + verb`: đưa ra cam kết làm việc gì
+* `pledge to + verb`: cam kết làm việc gì
+* `pledge + money/resources/support`: cam kết đóng góp tiền/nguồn lực/sự hỗ trợ
+* `pledge that + clause`: cam kết rằng ...
+* `fulfill/honor a pledge`: thực hiện/giữ lời cam kết
+
+### Examples
+
+1. **The government pledged to reduce carbon emissions over the next decade.**
+   → Chính phủ cam kết giảm lượng khí thải carbon trong thập kỷ tới.
+
+2. **The company made a pledge to improve working conditions in its factories.**
+   → Công ty đưa ra cam kết cải thiện điều kiện làm việc trong các nhà máy của mình.
+
+3. **Local businesses pledged $50,000 to support the new library.**
+   → Các doanh nghiệp địa phương cam kết đóng góp 50.000 đô la để hỗ trợ thư viện mới.
+
+### Common collocations
+
+* **make a pledge**: đưa ra lời cam kết
+* **pledge support**: cam kết hỗ trợ
+* **pledge to reduce emissions**: cam kết giảm phát thải
+* **fulfill a pledge**: thực hiện cam kết
+
+### Synonyms
+
+* **promise** /ˈprɒm.ɪs/ *(noun/verb)*: lời hứa; hứa; thường dùng rộng hơn và ít trang trọng hơn
+* **commitment** /kəˈmɪt.mənt/ *(countable/uncountable noun)*: sự cam kết hoặc trách nhiệm lâu dài; không hoàn toàn đồng nghĩa với một lời tuyên bố cụ thể
+* **vow** /vaʊ/ *(noun/verb)*: lời thề, thề quyết tâm; thường mạnh mẽ và giàu cảm xúc hơn
+
+### Word family
+
+* **pledged** /pledʒd/ *(past-tense/past-participle form)*: đã cam kết  
+  *Example:* Several universities pledged to expand scholarship opportunities.  
+  → Một số trường đại học đã cam kết mở rộng cơ hội học bổng.
+
+* **pledging** /ˈpledʒ.ɪŋ/ *(present-participle form)*: đang cam kết  
+  *Example:* The charity is asking companies to consider pledging financial support.  
+  → Tổ chức từ thiện đang đề nghị các công ty cân nhắc cam kết hỗ trợ tài chính.
+
+* **pledge drive** /ˈpledʒ draɪv/ *(related noun phrase)*: chiến dịch kêu gọi cam kết quyên góp  
+  *Example:* The museum launched a pledge drive to fund its renovation.  
+  → Bảo tàng phát động chiến dịch kêu gọi cam kết quyên góp để tài trợ cho việc cải tạo.
+
+### Notes
+
+`Pledge` often suggests a **serious or public commitment**, whereas `promise` works naturally even for small personal matters. Do not confuse `pledged funding` (kinh phí được hứa cấp) with `funding received` (kinh phí thực tế đã nhận). Both `pledge to do something` and `make a pledge to do something` are correct; avoid `pledge doing something` when you mean promise to take action.
+
+---
+## 642. A range of innovations /ə ˈreɪndʒ əv ˌɪn.əˈveɪ.ʃənz/
+
+* **Part of speech:** noun phrase (`range` = head noun; `innovations` = plural noun)
+* **Vietnamese meaning:** một loạt những đổi mới hoặc cải tiến khác nhau *(85%)*; tập hợp nhiều giải pháp/công nghệ mới thuộc các loại khác nhau *(15%)*
+
+### Usage
+
+`A range of innovations` refers to several different innovations, often in science, business, technology, or society. The phrase highlights **variety**, not merely a large count. `A wide range of innovations` emphasizes that the innovations cover many types or areas. In a complete sentence, the singular noun `range` commonly requires a determiner such as `a`, `the`, or `this`.
+
+Common structures:
+
+* `a range of + plural noun`: một loạt/nhiều loại ...
+* `a wide/broad range of innovations`: nhiều loại đổi mới đa dạng
+* `develop/introduce a range of innovations`: phát triển/giới thiệu hàng loạt cải tiến
+* `innovations in + field`: các cải tiến trong lĩnh vực nào
+
+### Examples
+
+1. **The company introduced a range of innovations to make its products more energy-efficient.**
+   → Công ty đã giới thiệu một loạt cải tiến để giúp sản phẩm sử dụng năng lượng hiệu quả hơn.
+
+2. **A wide range of innovations has transformed the way hospitals manage patient information.**
+   → Nhiều đổi mới đa dạng đã làm thay đổi cách các bệnh viện quản lý thông tin bệnh nhân.
+
+### Common collocations
+
+* **a wide range of innovations**: một loạt đổi mới đa dạng
+* **a range of technological innovations**: nhiều cải tiến công nghệ khác nhau
+* **introduce a range of innovations**: giới thiệu hàng loạt cải tiến
+* **innovations in renewable energy**: những đổi mới trong năng lượng tái tạo
+
+### Synonyms
+
+* **a variety of innovations** /ə vəˈraɪ.ə.ti əv ˌɪn.əˈveɪ.ʃənz/ *(noun phrase)*: nhiều đổi mới đa dạng; rất gần nghĩa
+* **several new developments** /ˈsev.ər.əl njuː dɪˈvel.əp.mənts/ *(noun phrase)*: một số bước phát triển mới; không phải cái nào cũng là đổi mới đột phá
+* **a series of improvements** /ə ˈsɪə.riːz əv ɪmˈpruːv.mənts/ *(noun phrase)*: chuỗi cải tiến; nhấn mạnh các thay đổi nối tiếp, không nhất thiết đa dạng
+
+### Word family
+
+* **innovation** /ˌɪn.əˈveɪ.ʃən/ *(countable/uncountable noun)*: sự đổi mới; một sáng kiến mới  
+  *Example:* Innovation can make public services more accessible.  
+  → Đổi mới có thể giúp các dịch vụ công trở nên dễ tiếp cận hơn.
+
+* **innovate** /ˈɪn.ə.veɪt/ *(intransitive/transitive verb)*: đổi mới, sáng tạo cách làm mới  
+  *Example:* Small businesses often innovate to remain competitive.  
+  → Các doanh nghiệp nhỏ thường đổi mới để duy trì khả năng cạnh tranh.
+
+* **innovative** /ˈɪn.ə.və.tɪv/ *(adjective)*: có tính đổi mới, sáng tạo  
+  *Example:* The team proposed an innovative way to reuse waste heat.  
+  → Nhóm đã đề xuất một cách sáng tạo để tái sử dụng nhiệt thải.
+
+### Notes
+
+The full natural phrase is usually **`a range of innovations`**, not bare `range of innovations` in an ordinary sentence; the latter may appear in a headline or as part of a larger noun phrase. With `a range of + plural noun`, agreement varies by structure and meaning: `A range of innovations has transformed the industry` treats the range as one collective set; `A range of innovations are being tested` emphasizes multiple innovations and is also used. In careful writing, make the intended subject clear. `Innovation` can be uncountable when referring to the general process, but `innovations` counts specific new ideas, products, or methods.
+
+---
+
+## 643. Launch satellites UK /ˌlɔːntʃ ˈsæt.əl.aɪts/ US /ˌlɑːntʃ ˈsæt̬.əl.aɪts/
+
+* **Part of speech:** transitive verb phrase (`launch` + plural noun object)
+* **Vietnamese meaning:** phóng các vệ tinh lên không gian, thường để đưa chúng vào quỹ đạo *(95%)*; triển khai các vệ tinh bằng phương tiện phóng trong một sứ mệnh không gian *(5%)*
+
+### Usage
+
+`Launch satellites` means to send artificial satellites into space using a launch vehicle such as a rocket. The phrase commonly appears in science, telecommunications, weather monitoring, navigation, and space exploration. `Launch` is the action of sending something upward; a successful **launch** does not necessarily mean that the satellite has successfully reached and entered its intended orbit.
+
+Common structures:
+
+* `launch a satellite`: phóng một vệ tinh
+* `launch satellites into orbit`: phóng vệ tinh vào quỹ đạo
+* `launch satellites aboard/on a rocket`: phóng vệ tinh bằng tên lửa
+* `successfully launch + satellite(s)`: phóng vệ tinh thành công
+* `plan to launch + number + satellites`: dự định phóng bao nhiêu vệ tinh
+
+### Examples
+
+1. **The space agency plans to launch satellites to improve weather forecasting.**
+   → Cơ quan vũ trụ dự định phóng các vệ tinh để cải thiện việc dự báo thời tiết.
+
+2. **The company launched two communication satellites into orbit last year.**
+   → Công ty đã phóng hai vệ tinh liên lạc vào quỹ đạo năm ngoái.
+
+### Common collocations
+
+* **launch satellites into orbit**: phóng vệ tinh vào quỹ đạo
+* **launch communication satellites**: phóng các vệ tinh thông tin liên lạc
+* **launch weather satellites**: phóng các vệ tinh thời tiết
+* **a satellite launch**: một vụ phóng vệ tinh
+
+### Synonyms
+
+* **send satellites into space** /ˌsend ˈsæt.əl.aɪts ˌɪn.tuː ˈspeɪs/ *(verb phrase)*: đưa các vệ tinh lên không gian; cách diễn đạt dễ hiểu
+* **deploy satellites** /dɪˈplɔɪ ˈsæt.əl.aɪts/ *(verb phrase)*: triển khai vệ tinh; có thể nhấn mạnh việc thả vệ tinh từ phương tiện phóng hoặc đưa chúng vào vị trí hoạt động
+* **put satellites into orbit** /ˌpʊt ˈsæt.əl.aɪts ˌɪn.tuː ˈɔː.bɪt/ *(verb phrase)*: đưa các vệ tinh vào quỹ đạo; nhấn mạnh kết quả vào quỹ đạo
+
+### Word family
+
+* **launch** UK /lɔːntʃ/ US /lɑːntʃ/ *(verb; countable noun)*: phóng, khởi động; vụ phóng hoặc buổi ra mắt  
+  *Example:* The rocket launch was delayed because of bad weather.  
+  → Vụ phóng tên lửa bị hoãn vì thời tiết xấu.
+
+* **satellite** /ˈsæt.əl.aɪt/ *(countable noun)*: vệ tinh  
+  *Example:* The satellite sends weather data back to Earth.  
+  → Vệ tinh gửi dữ liệu thời tiết về Trái Đất.
+
+* **launcher** UK /ˈlɔːn.tʃər/ US /ˈlɑːn.tʃɚ/ *(countable noun)*: thiết bị hoặc phương tiện phóng  
+  *Example:* Engineers are testing a new satellite launcher.  
+  → Các kỹ sư đang thử nghiệm một phương tiện phóng vệ tinh mới.
+
+### Notes
+
+The spelling **`Laucnh` is incorrect**; write `launch`. The usual plural is `satellites`, with one `l` in the middle of `satellite` and two `l` letters overall. Compare `launch a satellite` (phóng vệ tinh) with `place a satellite in orbit` (đưa vệ tinh vào quỹ đạo thành công): the second describes a more specific result. Beyond spaceflight, `launch` also means to introduce a product, service, or campaign.
+
+---
+
+## 644. Hurdle UK /ˈhɜː.dəl/ US /ˈhɝː.dəl/
+
+* **Part of speech:** countable noun; transitive verb
+* **Vietnamese meaning:** trở ngại/rào cản cần vượt qua để đạt mục tiêu *(noun, 80%)*; rào chắn để vận động viên nhảy qua trong môn chạy vượt rào *(noun, 15%)*; nhảy qua rào hoặc chướng ngại vật *(verb, 5%)*
+
+### Usage
+
+In everyday English, business, and technology news, `hurdle` usually means a challenge that must be overcome before progress is possible. It may be a technical, financial, legal, or personal problem. In athletics, a `hurdle` is an actual barrier placed along a racecourse; the verb `hurdle` means jump over such a barrier.
+
+Common structures:
+
+* `overcome/clear a hurdle`: vượt qua trở ngại
+* `face a hurdle`: đối mặt với trở ngại
+* `a major/significant hurdle`: trở ngại lớn/đáng kể
+* `a hurdle to + noun/V-ing`: rào cản đối với điều gì/việc làm gì
+* `hurdle + obstacle`: nhảy qua vật cản
+
+### Examples
+
+1. **High development costs remain a major hurdle to adopting the new technology.**
+   → Chi phí phát triển cao vẫn là một rào cản lớn đối với việc áp dụng công nghệ mới.
+
+2. **The research team overcame several technical hurdles before releasing the product.**
+   → Nhóm nghiên cứu đã vượt qua nhiều trở ngại kỹ thuật trước khi phát hành sản phẩm.
+
+3. **The runner cleared every hurdle and finished first.**
+   → Vận động viên vượt qua mọi rào chắn và về đích đầu tiên.
+
+### Common collocations
+
+* **a major hurdle**: một trở ngại lớn
+* **overcome hurdles**: vượt qua các trở ngại
+* **technical hurdles**: những rào cản kỹ thuật
+* **regulatory hurdles**: các trở ngại về quy định/pháp lý
+
+### Synonyms
+
+* **obstacle** UK /ˈɒb.stə.kəl/ US /ˈɑːb.stə.kəl/ *(countable noun)*: chướng ngại, trở ngại; gần nghĩa nhất về nghĩa bóng
+* **barrier** /ˈbær.i.ər/ *(countable noun)*: rào cản, vật cản; nhấn mạnh điều ngăn tiếp cận hoặc tiến lên
+* **challenge** /ˈtʃæl.ɪndʒ/ *(countable noun)*: thách thức; có thể là khó khăn mang tính tích cực, không luôn là vật cản
+
+### Word family
+
+* **hurdles** UK /ˈhɜː.dəlz/ US /ˈhɝː.dəlz/ *(plural noun)*: các trở ngại; các rào trong môn điền kinh  
+  *Example:* Startups often face financial hurdles in their first year.  
+  → Các công ty khởi nghiệp thường gặp trở ngại tài chính trong năm đầu tiên.
+
+* **hurdling** UK /ˈhɜː.dəl.ɪŋ/ US /ˈhɝː.dəl.ɪŋ/ *(uncountable noun/present-participle form)*: môn chạy vượt rào; hành động nhảy qua rào  
+  *Example:* She started training in hurdling at school.  
+  → Cô ấy bắt đầu tập môn chạy vượt rào ở trường.
+
+* **hurdler** UK /ˈhɜːd.lər/ US /ˈhɝːd.lɚ/ *(countable noun)*: vận động viên chạy vượt rào  
+  *Example:* The hurdler set a new national record.  
+  → Vận động viên chạy vượt rào lập kỷ lục quốc gia mới.
+
+### Notes
+
+A `hurdle` is often something to **overcome** (`overcome a hurdle`) or **clear** (`clear a hurdle`). In metaphorical writing, `barrier` can suggest something completely blocking access, while `hurdle` often suggests a difficult but potentially surmountable step. Say `a hurdle to progress`, not usually `a hurdle for progress` when expressing what is impeded.
+
+---
+
+## 645. Either way UK /ˈaɪ.ðə weɪ/ US /ˈiː.ðɚ weɪ/
+
+* **Part of speech:** adverbial phrase; discourse marker
+* **Vietnamese meaning:** dù chọn cách/phương án nào trong hai phương án thì kết quả vẫn như vậy *(65%)*; dù sao đi nữa, trong cả hai trường hợp đã nêu *(35%)*
+
+### Usage
+
+`Either way` refers to **two possible choices, situations, or outcomes**. It can mean that the same conclusion holds regardless of which alternative occurs. It also introduces a practical conclusion after comparing alternatives. It often starts or ends a sentence, commonly followed by a comma when used as an introductory expression.
+
+Common structures:
+
+* `Either way, + clause`: dù thế nào đi nữa, ...
+* `..., either way`: ... dù chọn cách nào
+* `either way you choose`: dù bạn chọn cách nào trong hai cách
+* `whether A or B, ... either way`: dù A hay B, ... trong cả hai trường hợp
+
+### Examples
+
+1. **We can take the bus or the train. Either way, we'll arrive before noon.**
+   → Chúng ta có thể đi xe buýt hoặc tàu hỏa. Dù chọn cách nào, chúng ta cũng sẽ đến trước trưa.
+
+2. **You can study at home or at the library; either way, consistency matters most.**
+   → Bạn có thể học ở nhà hoặc ở thư viện; dù chọn cách nào thì tính đều đặn vẫn là quan trọng nhất.
+
+3. **It might rain, or the weather might stay clear. Either way, let's bring a jacket.**
+   → Trời có thể mưa hoặc vẫn quang đãng. Dù thế nào, chúng ta cứ mang theo áo khoác.
+
+### Common collocations
+
+* **either way, it doesn't matter**: dù chọn cách nào cũng không quan trọng
+* **either way, the result is the same**: dù thế nào thì kết quả vẫn như nhau
+* **either way, we should prepare**: trong cả hai trường hợp, chúng ta đều nên chuẩn bị
+* **either way you look at it**: dù nhìn nhận vấn đề theo cách nào trong hai cách
+
+### Synonyms
+
+* **in either case** /ɪn ˈiː.ðər keɪs/ *(adverbial phrase)*: trong cả hai trường hợp; gần nghĩa và tương đối trang trọng
+* **regardless** /rɪˈɡɑːd.ləs/ *(adverb)*: bất kể; nghĩa rộng hơn và không nhất thiết chỉ hai lựa chọn
+* **in any event** /ɪn ˌen.i ɪˈvent/ *(adverbial phrase)*: dù sao đi nữa; thường dẫn đến kết luận thực tế
+
+### Word family
+
+* **either** UK /ˈaɪ.ðər/ US /ˈiː.ðɚ/ *(determiner/pronoun/adverb)*: một trong hai; cũng không (trong câu phủ định)  
+  *Example:* Either option would work for our team.  
+  → Phương án nào trong hai phương án cũng phù hợp với nhóm chúng tôi.
+
+* **either ... or ...** /ˈiː.ðər ɔːr/ *(correlative conjunction)*: hoặc ... hoặc ...  
+  *Example:* We can either postpone the meeting or hold it online.  
+  → Chúng ta có thể hoặc hoãn cuộc họp hoặc tổ chức trực tuyến.
+
+* **in either case** /ɪn ˈiː.ðər keɪs/ *(related adverbial phrase)*: trong cả hai trường hợp  
+  *Example:* We may finish early or on time; in either case, the deadline is safe.  
+  → Chúng ta có thể hoàn thành sớm hoặc đúng giờ; trong cả hai trường hợp đều kịp hạn chót.
+
+### Notes
+
+`Either way` normally points back to **two alternatives**, not a random number of possibilities. It is different from `both ways` (“cả hai cách/cả hai chiều”, often literally) and `anyway` (“dù sao”, which need not involve exactly two options). Both `/ˈaɪ.ðər/` and `/ˈiː.ðər/` pronunciations of `either` are accepted in English; regional preferences vary. `Either way` generally **does not mean** “the same as either one” without a clear two-choice context.
+
+---
+
+## 646. Refining /rɪˈfaɪ.nɪŋ/
+
+* **Part of speech:** uncountable noun (process); present participle/gerund of the transitive verb `refine`
+* **Vietnamese meaning:** quá trình tinh luyện, tinh chế nguyên liệu (dầu thô, đường, kim loại, v.v.) để loại bỏ tạp chất *(70%)*; quá trình cải tiến, điều chỉnh dần ý tưởng, phương pháp hoặc sản phẩm *(30%)*
+
+### Usage
+
+`Refining` is the process of removing impurities from a substance or making a method, design, or idea more effective through improvements. It is used in chemistry, fuel production, metal processing, product design, and software development. In industrial settings, the noun `refining` commonly names the process (`oil refining`, `sugar refining`). In more abstract contexts, `refinement` is also a common noun (`refinement of a model`, `further refinement`).
+
+Common structures:
+
+* `oil/sugar/metal refining`: quá trình tinh chế dầu/đường/kim loại
+* `refine + raw material`: tinh luyện/tinh chế nguyên liệu
+* `refine + method/algorithm/design`: cải tiến phương pháp/thuật toán/thiết kế
+* `the refining of + substance`: quá trình tinh chế chất nào
+* `refining + process/technique`: quy trình/kỹ thuật tinh luyện
+
+### Examples
+
+1. **Oil refining turns crude oil into products such as gasoline, diesel, and other fuels.**
+   → Quá trình lọc dầu chế biến dầu thô thành các sản phẩm như xăng, dầu diesel và các nhiên liệu khác.
+
+2. **The engineers are refining the algorithm to improve its accuracy.**
+   → Các kỹ sư đang tinh chỉnh thuật toán để cải thiện độ chính xác của nó.
+
+3. **Refining raw sugar helps remove impurities before it is sold.**
+   → Việc tinh chế đường thô giúp loại bỏ tạp chất trước khi bán.
+
+### Common collocations
+
+* **oil refining**: quá trình lọc/tinh chế dầu
+* **sugar refining**: quá trình tinh luyện đường
+* **refining process**: quy trình tinh chế/tinh luyện
+* **refining techniques**: kỹ thuật tinh luyện
+* **refining an algorithm**: tinh chỉnh một thuật toán
+
+### Synonyms
+
+* **purification** /ˌpjʊə.rɪ.fɪˈkeɪ.ʃən/ *(uncountable noun)*: sự làm tinh khiết, loại bỏ tạp chất; phù hợp với nghĩa kỹ thuật
+* **processing** UK /ˈprəʊ.ses.ɪŋ/ US /ˈprɑː.ses.ɪŋ/ *(uncountable noun)*: sự xử lý/chế biến nguyên liệu; nghĩa rộng hơn `refining`
+* **improvement** /ɪmˈpruːv.mənt/ *(countable/uncountable noun)*: sự cải thiện; gần với nghĩa cải tiến ý tưởng/phương pháp
+
+### Word family
+
+* **refine** /rɪˈfaɪn/ *(transitive verb)*: tinh chế, tinh luyện; tinh chỉnh  
+  *Example:* The company refines crude oil at a coastal refinery.  
+  → Công ty tinh chế dầu thô tại một nhà máy lọc dầu ven biển.
+
+* **refinement** /rɪˈfaɪn.mənt/ *(countable/uncountable noun)*: quá trình tinh chế hoặc sự cải tiến; một cải tiến cụ thể  
+  *Example:* The model needs further refinement before deployment.  
+  → Mô hình cần được tinh chỉnh thêm trước khi triển khai.
+
+* **refinery** /rɪˈfaɪ.nər.i/ *(countable noun)*: nhà máy tinh luyện/lọc dầu  
+  *Example:* The refinery processes crude oil into usable products.  
+  → Nhà máy lọc dầu chế biến dầu thô thành các sản phẩm có thể sử dụng.
+
+* **refined** /rɪˈfaɪnd/ *(adjective/past-participle form)*: đã được tinh chế; được trau chuốt/tinh chỉnh  
+  *Example:* Refined sugar is usually whiter than raw sugar.  
+  → Đường tinh luyện thường trắng hơn đường thô.
+
+### Notes
+
+**Spelling correction:** `Refination` is not the standard contemporary word to learn for “tinh luyện, tinh chế”. Use **`refining`** for an industrial process or ongoing action (`oil refining`, `refining metal`), **`refinement`** for the process or result of improving or purifying (`refinement of a design`), and **`refine`** for the verb (`refine crude oil`). `Refining` is **not** identical to `recycling`: refining purifies or improves material, while recycling involves recovering/reprocessing waste for reuse. In a technology article, `refining a model` means **improving or fine-tuning** a model, not physically purifying it.
+
+---
